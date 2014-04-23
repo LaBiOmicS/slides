@@ -13,7 +13,7 @@ e espaço para discussões e perguntas e respostas.
 
 ====
 
-### Conteúdo
+#### Conteúdo
 
 * Conhecendo o Node.js
 * Criando um webserver em 30 segundos
@@ -23,7 +23,7 @@ e espaço para discussões e perguntas e respostas.
 
 ----
 
-### Paulo Diovani Gonçalves
+#### Paulo Diovani Gonçalves
 
 Programador Web desde 2005 e usuário GNU/Linux a quase o mesmo tempo, domina as linguagens de programação PHP e Javascript e atualmente se dedica ao aprendizado de Node.js. 
 <!-- .element: style="font-size:0.6em;" -->
@@ -57,7 +57,46 @@ Tradução livre da descrição acima.
 
 ----
 
-### Créditos da apresentação
+#### Node.js não é uma linguagem nova
+
+* Escrito em Javascript
+* Baixa curva de aprendizagem
+
+----
+
+#### Webserver
+
+```javascript
+var http = require('http');
+
+http.createServer(function (req, res) {
+    res.writeHead(200, {'Content-Type': 'text/plain'});
+    res.end('Hello World\n');
+}).listen(1337, '127.0.0.1');
+
+console.log('Server running at http://127.0.0.1:1337/');
+```
+
+Note:
+Criando um webserver em 30 segundos
+
+====
+
+#### Rodando o webserver
+
+```
+$ node example.js
+Server running at http://127.0.0.1:1337/
+
+$ google-chrome http://127.0.0.1:1337/
+```
+
+Note:
+Testando um webserver
+
+----
+
+#### Créditos da apresentação
 
 por [Paulo Diovani Gonçalves](mailto:paulo@diovani.com)
 

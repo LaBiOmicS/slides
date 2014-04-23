@@ -14,6 +14,14 @@ Fica abaixo do anterior.
 
 ----
 
+### Fragmented-slide
+
+Isto aparece primeiro.
+
+Isto aparece depois. <!-- .element: class="fragment" data-fragment="1" -->
+
+----
+
 ### Créditos da apresentação
 
 por [Paulo Diovani Gonçalves](mailto:paulo@diovani.com)

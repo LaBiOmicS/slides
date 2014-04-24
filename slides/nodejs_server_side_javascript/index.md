@@ -39,32 +39,7 @@ Cursa Sistemas para Internet na Universidade Feevale.
 
 ----
 
->Node.js is a platform built on [Chrome's Javascript runtime](http://code.google.com/p/v8/) for easily building fast, scalable network applications. 
->
->Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices.
-
-Note:
-Definição do Node.js no site oficial.
-
-==== 
-
-> Node.js é uma plataforma construída sobre o [_Motor Javascript do Chrome's_](http://code.google.com/p/v8/) para criar aplicações em rede rápidas e escaláveis. 
-> 
-> Node.js usa um modelo de _I/O_ _non-blocking_, orientado a eventos, que o torna leve e eficiente, perfeito para aplicações em tempo real com grande tráfego de dados que rodam através de dispositivos distribuídos.
-
-Note:
-Tradução livre da descrição acima.
-
-----
-
-#### Node.js não é uma linguagem nova
-
-* Escrito em Javascript
-* Baixa curva de aprendizagem
-
-----
-
-#### Webserver
+#### Um simples servidor web
 
 ```javascript
 var http = require('http');
@@ -93,6 +68,93 @@ $ google-chrome http://127.0.0.1:1337/
 
 Note:
 Testando um webserver
+
+----
+
+> JavaScript (JS) is a programming language primary used by web browsers to allow dynamic scripting of web pages. It can also be used server side to perform any sort of action.
+
+_Fonte: [Definição de Javascript no MDN](https://developer.mozilla.org/en-US/docs/Glossary/JavaScript)
+
+Note:
+Como Javscript é definido no glossáro da MDN (Mozilla Developer Network)
+
+====
+
+> Javascript (JS) é uma linguagem de programação usada primeiramente por _web browsers_ para permitir conteúdo dinâmico em páginas web. Ela pode também ser utilizada no servidor para qualquer tipo de ações.
+
+Note:
+Tradução livre
+
+----
+
+Node.js permite escrever aplicações _server side_ com Javascript, incluindo...
+
+* Aplicações web
+* Aplicações em linha de comando
+* Interfaces (com widgets, CURSES, HTML, etc.)
+
+Note:
+Uma definição livre de Node.js
+
+====
+
+#### Algumas alternativas para Javascript no servidor
+
+* 4D Wakanda
+* APE project
+* [Aptana Jaxer](https://github.com/aptana/Jaxer)
+* Narwhal
+* [Node.js](http://nodejs.org)
+    * Joyent NodeJS
+* [Rhino Javascript engine](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/Rhino)
+    * Sitepoint Persevere
+    * RingoJS
+
+_Fonte: [stackoverflow](http://stackoverflow.com/questions/1992367/best-server-side-javascript-servers)_
+
+Note:
+Node.js não é a primeira, tampouco a única, solução para utilizar Javascript no servidor.
+
+====
+
+#### Com tantas opções, porque Node.js?
+
+* Comunidade crescente
+* Fácil de usar
+* NPM (_Node Package Manager_)
+
+----
+
+>Node.js is a platform built on [Chrome's Javascript runtime](http://code.google.com/p/v8/) for easily building fast, scalable network applications. 
+>
+>Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices.
+
+Note:
+Definição do Node.js no site oficial.
+
+==== 
+
+> Node.js é uma plataforma construída sobre o [_Motor Javascript do Chrome's_](http://code.google.com/p/v8/) para criar aplicações em rede rápidas e escaláveis. 
+> 
+> Node.js usa um modelo de _I/O_ _non-blocking_, orientado a eventos, que o torna leve e eficiente, perfeito para aplicações em tempo real com grande tráfego de dados que rodam através de dispositivos distribuídos.
+
+Note:
+Tradução livre da descrição acima.
+
+----
+
+#### Node.js não é uma linguagem nova
+
+* Escrito em Javascript
+* Baixa curva de aprendizagem
+
+====
+
+#### Node.js `!=` Javascript
+
+* _Event driven_
+* _Node callbacks_
+* _Streams_
 
 ----
 

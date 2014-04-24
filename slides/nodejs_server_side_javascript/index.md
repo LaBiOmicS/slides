@@ -73,14 +73,18 @@ Testando um webserver
 
 > JavaScript (JS) is a programming language primary used by web browsers to allow dynamic scripting of web pages. It can also be used server side to perform any sort of action.
 
-_Fonte: [Definição de Javascript no MDN](https://developer.mozilla.org/en-US/docs/Glossary/JavaScript)
+Fonte: <!-- .element: class="reference" -->
+[MDN](https://developer.mozilla.org/en-US/docs/Glossary/JavaScript)
 
 Note:
-Como Javscript é definido no glossáro da MDN (Mozilla Developer Network)
+Definição de Javascript no glossáro da MDN (Mozilla Developer Network)
 
 ====
 
 > Javascript (JS) é uma linguagem de programação usada primeiramente por _web browsers_ para permitir conteúdo dinâmico em páginas web. Ela pode também ser utilizada no servidor para qualquer tipo de ações.
+
+Fonte: <!-- .element: class="reference" -->
+[MDN](https://developer.mozilla.org/en-US/docs/Glossary/JavaScript)
 
 Note:
 Tradução livre
@@ -110,7 +114,8 @@ Uma definição livre de Node.js
     * Sitepoint Persevere
     * RingoJS
 
-_Fonte: [stackoverflow](http://stackoverflow.com/questions/1992367/best-server-side-javascript-servers)_
+Fonte: <!-- .element: class="reference" -->
+[stackoverflow](http://stackoverflow.com/questions/1992367/best-server-side-javascript-servers)
 
 Note:
 Node.js não é a primeira, tampouco a única, solução para utilizar Javascript no servidor.
@@ -122,6 +127,24 @@ Node.js não é a primeira, tampouco a única, solução para utilizar Javascrip
 * Comunidade crescente
 * Fácil de usar
 * NPM (_Node Package Manager_)
+
+----
+
+#### Quem usa Node.js?
+
+![](img/industry/dow_jones.png) <!-- .element: class="industry" -->
+![](img/industry/ebay.png) <!-- .element: class="industry" -->
+![](img/industry/linked_in.png) <!-- .element: class="industry" -->
+![](img/industry/pay_pal.png) <!-- .element: class="industry" -->
+![](img/industry/microsoft.png) <!-- .element: class="industry" -->
+![](img/industry/new_york_times.png) <!-- .element: class="industry" -->
+![](img/industry/yahoo.png) <!-- .element: class="industry" -->
+
+Fonte: <!-- .element: class="reference" -->
+[nodejs.org](http://nodejs.org/industry/)
+
+Note:
+Algumas pequenas empresas que usam node.js
 
 ----
 

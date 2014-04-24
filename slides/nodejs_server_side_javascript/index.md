@@ -13,10 +13,10 @@ e espaço para discussões e perguntas e respostas.
 
 ====
 
-#### Conteúdo
+### Conteúdo
 
-* Conhecendo o Node.js
 * Criando um webserver em 30 segundos
+* Conhecendo o Node.js (principais características)
 * Como instalar módulos via npm
 * Aplicativos Node.js em linha de comando
 * Mão na massa — lições do nodeschool.io
@@ -39,7 +39,7 @@ Cursa Sistemas para Internet na Universidade Feevale.
 
 ----
 
-#### Um simples servidor web
+### Um simples servidor web
 
 ```javascript
 var http = require('http');
@@ -102,7 +102,7 @@ Uma definição livre de Node.js
 
 ====
 
-#### Algumas alternativas para Javascript no servidor
+### Javascript no servidor
 
 * 4D Wakanda
 * APE project
@@ -124,13 +124,23 @@ Node.js não é a primeira, tampouco a única, solução para utilizar Javascrip
 
 #### Com tantas opções, porque Node.js?
 
-* Comunidade crescente
-* Fácil de usar
-* NPM (_Node Package Manager_)
+* Ótimo em lidar com grande quantidade de conexões concorrentes usando poucos recursos
+* Comunidade crescente e participativa
+* Fácil de usar -- qualquer programador Javascript pode aprender rapidamente
+* NPM (_Node Package Manager_) -- repositórios via _github_, _gitbucket_, etc.
+
+====
+
+![not invented here comic](img/node-not-invented-here.png)
+
+Note:
+Tirinha que achei interessante, por dar foco à comunidade:
+
+> Ao invés de enviar presentes, favor, contribua com o repositório git.
 
 ----
 
-#### Quem usa Node.js?
+### Quem usa Node.js?
 
 ![](img/industry/dow_jones.png) <!-- .element: class="industry" -->
 ![](img/industry/ebay.png) <!-- .element: class="industry" -->
@@ -166,22 +176,174 @@ Tradução livre da descrição acima.
 
 ----
 
-#### Node.js não é uma linguagem nova
+### Node.js não é uma linguagem nova
 
 * Escrito em Javascript
 * Baixa curva de aprendizagem
 
+Note:
+Apesar de ser essencialmente Javascript, Node.js possui um ecosistema próprio,
+
+Basicamente ele suporta a sintaxe Javascript, enquanto possui sua própria forma
+de programar.
+
 ====
 
-#### Node.js `!=` Javascript
+#### Particularidades do Node.js
 
-* _Event driven_
+* _Single threaded_
 * _Node callbacks_
+* _Event driven_
 * _Streams_
 
 ----
 
-#### Créditos da apresentação
+### _Single threaded_
+
+Diferente de outras linguagens como PHP ou Java, Node.js foi desenvolvido
+para utilizar uma única _thread_.
+
+Esta única _thread_ recebe e trata de todas as conexões da aplicação.
+
+====
+
+#### Então estas conexões ficam em fila?
+
+====
+
+##### Não
+
+**_non-blocking I/O_**: cada nova operação
+não precisa esperar que as anteriores sejam completadas.
+
+#### Mas como fazemos isso?
+
+----
+
+### Node _callbacks_
+
+Basicamente, ao fazer uma operação demorada, ao invés de esperar que
+esta seja finalizada, reservamos uma função para ser executada quando 
+ela finalizar.
+
+Assim, nosso servidor pode seguir com o processamento das demais operações
+em paralelo.
+
+Note:
+Muito semelhante ao uso de AJAX em Javascript.
+
+====
+
+Um típico _node callback_ é uma função que recebe dois ou mais argumentos,
+sendo o primeiro, um objeto de erro, caso ocorra algum, e os demais
+contendo o resultado da operação.
+
+```javascript
+function myNodeCallback(err, data) {
+    if (err) {
+        //something wrong happened
+    }
+
+    //normal flow
+}
+```
+
+====
+
+```javascript
+var fs = require('fs');
+
+var callback = function(err, content) {
+    if (err) console.error("Ocorreu um erro ao ler o arquivo");
+
+    console.log(content.toString());
+};
+
+fs.readFile('./example.txt', callback);
+```
+
+Note:
+Exemplo de uso de um callback node.js.
+
+Uma função é definida, recebendo dois argumentos, sendo que o primeiro é fornecido em caso de erro.
+
+----
+
+### _Event driven_
+
+Muitos objetos em Node.js emitem eventos.
+
+Um `net.Server` emite um evento a cada vez que um cliente conecta 
+a ele, um `fs.readStream` quando o arquivo é aberto.
+
+Note:
+Este comportamento se assemelha muito a cliques e outras ações do usuário em _web browsers_.
+
+====
+
+Para adicionar `listeners` aos eventos de um objeto, utiliza-se o método `emitter.addListener` ou `emitter.on`.
+
+```javascript
+emitter.addListener(event, listener)
+```
+
+```javascript
+emitter.on(event, listener)
+```
+
+====
+
+```javascript
+var http = require('http');
+
+http.get('http://example.com', function(response) {
+    //dados recebidos, loga o conteúdo
+    response.on('data', function(data) {
+        console.log(data.toString());
+    });
+
+    //em caso de erro, loga a mensagem
+    response.on('error', function(err) {
+        console.error(err.stack || err);
+    });
+});
+```
+
+Note:
+Um exemplo de evento.
+
+Cada vez que dados são recebidos via http loga no console.
+Em caso de erro, loga a mensagem.
+
+----
+
+### _Streams_
+
+Uma _stream_ é uma interface abstrata implementada por vários objetos em Node.js.
+
+_Streams_ podem ser _readable_, _writable_ ou ambos.
+
+Todas streams são _emissores de eventos_.
+
+====
+
+```javascript
+var fs = require("fs");
+var filename = 'example.txt';
+
+var stream = fs.createReadStream(filename);
+stream.pipe(process.stdout);
+```
+
+note:
+No exemplo, uma `stream` é criada com o módulo _filesystem_ ao ler o arquivo `example.txt`.
+
+O método `pipe()` lê a _stream_ de origem e envia seu conteúdo diretamente para
+uma `stream` que seja `writable` (no caso a saída padrão).
+
+----
+
+### Créditos da apresentação
 
 por [Paulo Diovani Gonçalves](mailto:paulo@diovani.com)
 

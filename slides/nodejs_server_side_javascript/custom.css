@@ -3,8 +3,12 @@ img.no-border {
     box-shadow: none !important;
 }
 
+img.no-background {
+    background: none !important;
+}
+
 img.industry {
-    border: 0 !important; 
+    border: 0 !important;
     box-shadow: none !important;
     float: left;
     margin: 20px 10% !important;

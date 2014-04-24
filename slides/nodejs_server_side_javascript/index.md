@@ -1,8 +1,9 @@
 
 Javascript no servidor com 
 
+![Node.js](img/node-logo.svg) <!-- .element: class="no-border no-background" -->
 
-![Node.js](img/node-logo.svg) <!-- .element: style="background:none; border:0;" -->
+[nodejs.org](http://nodejs.org)
 
 <small>Versão 0.1</small>
 
@@ -15,8 +16,7 @@ e espaço para discussões e perguntas e respostas.
 
 ### Conteúdo
 
-* Criando um webserver em 30 segundos
-* Conhecendo o Node.js (principais características)
+* Conhecendo o Node.js
 * Como instalar módulos via npm
 * Aplicativos Node.js em linha de comando
 * Mão na massa — lições do nodeschool.io
@@ -127,7 +127,7 @@ Node.js não é a primeira, tampouco a única, solução para utilizar Javascrip
 * Ótimo em lidar com grande quantidade de conexões concorrentes usando poucos recursos
 * Comunidade crescente e participativa
 * Fácil de usar -- qualquer programador Javascript pode aprender rapidamente
-* NPM (_Node Package Manager_) -- repositórios via _github_, _gitbucket_, etc.
+* NPM (_Node Packaged Modules_) -- repositórios via _github_, _gitbucket_, etc.
 
 ====
 
@@ -340,6 +340,125 @@ No exemplo, uma `stream` é criada com o módulo _filesystem_ ao ler o arquivo `
 
 O método `pipe()` lê a _stream_ de origem e envia seu conteúdo diretamente para
 uma `stream` que seja `writable` (no caso a saída padrão).
+
+----
+
+![NPM](img/npm.png) <!-- .element: class="no-border no-background" -->
+
+Node Packaged Modules
+
+[npmjs.org](http://npm)
+
+====
+
+NPM é para Node o que PEAR/PECL é para o PHP, ou 
+o que pip é para Python, ou ainda o que o gem é para
+Ruby.
+
+    $ npm install [module name]
+
+----
+
+Módulos são instalados localmente, sob a pasta `node_modules/`, com 
+
+    $ npm install
+
+ou globalmente (como super-usuário) com 
+
+    $ sudo npm install -g
+
+====
+
+Após um módulo ser instalado (seja local ou globalmene) ele pode ser utilizado
+num script com uso do `require()`.
+
+```javascript
+var _ = require('underscore');
+
+_.each([1, 2, 3], console.log);
+```
+
+====
+
+Para listar os módulos instalados utilize
+
+    $ npm list
+
+Ou, paral listar os módulos instalados globalmente
+
+    $ npm list -g
+
+----
+
+As dependências de uma aplicação são definidas em um arquivo chamado `package.json`, o qual pode ser inicializado com `npm init`.
+
+```
+$ mkdir node_test
+$ cd node_test
+
+$ npm init
+```
+
+Você pode editar o arquivo manualmente após a criação.
+
+```
+$ vim package.json
+```
+
+====
+
+Para instalar dependências e salvá-las na no `package.json`, basta utilizar
+a opção `--save`.
+
+    $ npm install --save underscore
+
+Para instalar todas as dependência salvas no `package.json`, basta utilizar.
+
+    $ npm install
+
+====
+
+Verificando os módulos insalados e suas próprias dependências
+
+```
+$ npm list
+
+/media/userdata/diovani/Node/node_test
+└── underscore@1.6.0
+```
+
+----
+
+### Utilitários de linha de comando
+
+Módulos em Node.js podem definir um executável com o atibuto `bin/`
+no `package.json`.
+
+Ao instalar globalmente um módulo, seu executável é adicionado ao `PATH`,
+assim fica fácil criar aplicativos de linha de comando com Node.
+
+====
+
+#### Instalando jshint via NPM
+
+    $ npm install -g jshint
+
+Verificando a instalação
+
+    $ jshint --version
+    jshint v2.5.0
+
+Listando as dependências
+
+```
+$ npm list -g
+
+/usr/local/lib
+└─┬ jshint@2.5.0
+  └─┬ cli@0.4.5
+    └─┬ glob@3.2.9
+      └── inherits@2.0.1
+```
 
 ----
 

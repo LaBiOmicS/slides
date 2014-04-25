@@ -469,6 +469,35 @@ para validar scripts `*.js`.
 
 ----
 
+### Aprendendo Node.js
+
+* [nodejs.org](http://nodejs.org)
+
+    <small>Site oficial</small>
+
+* [nodeschool.io](http://nodeschool.io/)
+
+    <small>Projeto com lições interativas de Node.js</small>
+
+* [nodebr.com](http://nodebr.com/)
+    
+    <small>Site da comunidade brasileira de Node.js</small>
+
+* [Aplicações web real-time com Node.js](http://www.casadocodigo.com.br/products/livro-nodejs)
+    
+    <small>Livro escrito por Caio Ribeiro sobre Node.js. <br>
+    ISBN: 978-85-66250-14-5</small>
+
+* [Node.js Brasil @ Google Groups](https://groups.google.com/forum/?hl=en#!forum/nodebr)
+
+    <small>Grupo brasileiro de discussão sobre Node.js</small>
+
+* [jsbooks.revolunet.com](http://jsbooks.revolunet.com/)
+
+    <small>Livros gratuítos de Javascript, Node.js, e desenvolvimento web em geral.</small>
+
+----
+
 ![node school](img/nodeschool-straight.png) <!-- .element: class="no-border no-background" -->
 
 [nodeschool.io](http://nodeschool.io/)

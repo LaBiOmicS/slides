@@ -92,24 +92,30 @@ module.exports = function(grunt) {
         },
 
         zip: {
-            'reveal-js-presentation.zip': [
-                'index.html',
-                'css/**',
-                'js/**',
-                'lib/**',
-                'images/**',
-                'plugin/**'
+            'reveal-js-presentations.zip': [
+                'exported/**'
             ]
         },
 
         watch: {
             main: {
-                files: [ 'Gruntfile.js', 'js/reveal.js', 'css/reveal.css' ],
+                files: [ 'Gruntfile.js', 'js/reveal.js', 'css/reveal.css', 'slides/**' ],
                 tasks: 'default'
             },
             theme: {
                 files: [ 'css/theme/source/*.scss', 'css/theme/template/*.scss' ],
                 tasks: 'themes'
+            }
+        },
+
+        copy: {
+            main: {
+                files: [
+                    //copy all the dependencies
+                    {expand: true, src: ['css/**', 'js/**', 'lib/**', 'plugin/**'], dest: 'exported/'},
+                    //copy the slides folder
+                    {expand: true, src: ['slides/**'], dest: 'exported/'}
+                ]
             }
         }
 
@@ -124,6 +130,7 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks( 'grunt-contrib-sass' );
     grunt.loadNpmTasks( 'grunt-contrib-connect' );
     grunt.loadNpmTasks( 'grunt-zip' );
+    grunt.loadNpmTasks('grunt-contrib-copy');
 
     // Default task
     grunt.registerTask( 'default', [ 'jshint', 'cssmin', 'uglify', 'qunit' ] );
@@ -132,12 +139,15 @@ module.exports = function(grunt) {
     grunt.registerTask( 'themes', [ 'sass' ] );
 
     // Package presentation to archive
-    grunt.registerTask( 'package', [ 'default', 'zip' ] );
+    grunt.registerTask( 'package', [ 'default', 'copy', 'zip' ] );
 
     // Serve presentation locally
     grunt.registerTask( 'serve', [ 'connect', 'watch' ] );
 
     // Run tests
     grunt.registerTask( 'test', [ 'jshint', 'qunit' ] );
+
+    // Export for serve (gh-pages, for example)
+    grunt.registerTask( 'export', [ 'default', 'copy' ]);
 
 };

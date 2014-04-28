@@ -1,0 +1,22 @@
+img.no-border {
+    border: 0 !important; 
+    box-shadow: none !important;
+}
+
+img.no-background {
+    background: none !important;
+}
+
+img.industry {
+    border: 0 !important;
+    box-shadow: none !important;
+    float: left;
+    margin: 20px 10% !important;
+}
+
+.reference {
+    clear: both;
+    text-align: right;
+    font-size: 0.8em !important;
+    font-style: italic !important;
+}

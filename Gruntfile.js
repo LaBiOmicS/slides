@@ -32,7 +32,8 @@ module.exports = function(grunt) {
         cssmin: {
             compress: {
                 files: {
-                    'css/reveal.min.css': [ 'css/reveal.css' ]
+                    'css/reveal.min.css': [ 'css/reveal.css' ],
+                    'css/bootstrap-superhero.min.css': [ 'css/bootstrap-superhero.css' ]
                 }
             }
         },
@@ -117,6 +118,20 @@ module.exports = function(grunt) {
                     {expand: true, src: ['slides/**'], dest: 'exported/'}
                 ]
             }
+        },
+
+        jade: {
+            index: {
+                options: {
+                    pretty: true,
+                    data: function() {
+                        return require('./slides/slides.json');
+                    }
+                },
+                files: {
+                    'exported/index.html': ['templates/index.jade']
+                }
+            }
         }
 
     });
@@ -131,6 +146,8 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks( 'grunt-contrib-connect' );
     grunt.loadNpmTasks( 'grunt-zip' );
     grunt.loadNpmTasks('grunt-contrib-copy');
+    grunt.loadNpmTasks('grunt-contrib-jade');
+
 
     // Default task
     grunt.registerTask( 'default', [ 'jshint', 'cssmin', 'uglify', 'qunit' ] );
@@ -147,7 +164,8 @@ module.exports = function(grunt) {
     // Run tests
     grunt.registerTask( 'test', [ 'jshint', 'qunit' ] );
 
-    // Export for serve (gh-pages, for example)
-    grunt.registerTask( 'export', [ 'default', 'copy' ]);
+    // Export for server (gh-pages, for example)
+    grunt.registerTask( 'export', [ 'default', 'copy', 'jade' ]);
 
 };
+    

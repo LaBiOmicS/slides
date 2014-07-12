@@ -41,11 +41,11 @@ Showroom de produtos comercializados pela Ligasat.
 
 ## Área de abrangência
 
-![abrangência](img/google-maps-icon.jpg)
+![abrangência](img/mapa-abrangencia.png)
 
 * Grande Porto Alegre
-* Vale dos Sinos
-* Vale Paranhana
+* Vale do Sinos
+* Vale do Paranhana
 
 ----
 
@@ -91,22 +91,27 @@ Atender também clientes finais (varejo).
 
 ----
 
+<!-- .slide: data-background="img/online-sales.jpg" data-background-size="60%" -->
+
+## Facilitar a operação <!-- .element: class="overtext" -->
+
+Note:
+O próprio e-commerce já contém informações como **estoque** e **valores**
+
+----
+
 <!-- .slide: data-background="img/tio-patinhas.jpg" data-background-size="60%" -->
 
 ## Aumentar faturamento <!-- .element: class="overtext" -->
 
 ----
 
-<!-- .slide: data-background="img/online-sales.jpg" data-background-size="60%" -->
+<!-- .slide: data-background="img/ecommerce-brasil.jpg" data-background-size="47%" -->
 
-## Facilitar a operação <!-- .element: class="overtext" -->
+## E-Commerce no Brasil <!-- .element: class="overtext" -->
 
 Note:
-O próprio e-commerce já informa...
-
-Estoque
-
-Preço
+A Região sul é uma das que mais consome e-commerce.
 
 ----
 

@@ -1,5 +1,5 @@
 
-# LIGASAT
+![LIGASAT](img/logo.jpg)
 
 ----
 
@@ -79,6 +79,15 @@ Note:
 Atender todo o RS
 
 Atender clientes de outros estados
+
+----
+
+<!-- .slide: data-background="img/cliente_final.jpg" data-background-size="42%" -->
+
+## Atender cliente final <!-- .element: class="overtext" -->
+
+Note:
+Atender também clientes finais (varejo).
 
 ----
 

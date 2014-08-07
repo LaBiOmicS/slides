@@ -33,10 +33,31 @@ Com o ambiente pronto, você pode servir os slides localmente, na porta 8000, vi
 
 Ou gerar um site, que pode ser hospedado em qualquer servidor HTTP.
 
-O site completo com todas as apresentações, será exportado para o diretório `exported/`.
+O site completo com todas as apresentações, será exportado para o diretório `gh-pages/`.
 	
 	grunt export
 
 Você pode ainda gerar o site completo num arquivo `.zip`, se preferir.
 
 	grunt package
+
+## Exportando para o branch gh-pages
+
+Após clonar o repositório, obtenha e inicialize o branch _gh-pages_ como um submódulo.
+
+    git submodule init
+    git submodule update
+
+O branch _gh-pages_ é adicionado como um submódulo para permitir que os slides sejam exportados diretamente para ele.
+
+Assim, para atualizar o gh-pages, basta executar os passos a seguir.
+
+    # exportando os slides para a pasta gh-pages
+    grunt export
+
+    # publicando os slides no branch gh-pages
+    cd gh-pages
+    git add .
+    git ci
+    git push
+

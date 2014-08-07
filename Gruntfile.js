@@ -7,7 +7,7 @@ module.exports = function(grunt) {
         meta: {
             banner:
                 '/*!\n' +
-                ' * reveal.js <%= pkg.version %> (<%= grunt.template.today("yyyy-mm-dd, HH:MM") %>)\n' +
+                ' * reveal.js <%= pkg.version %>\n' +
                 ' * http://lab.hakim.se/reveal-js\n' +
                 ' * MIT licensed\n' +
                 ' *\n' +
@@ -95,7 +95,7 @@ module.exports = function(grunt) {
 
         zip: {
             'reveal-js-presentations.zip': [
-                'exported/**'
+                'gh-pages/**'
             ]
         },
 
@@ -114,9 +114,9 @@ module.exports = function(grunt) {
             main: {
                 files: [
                     //copy all the dependencies
-                    {expand: true, src: ['css/**', 'js/**', 'lib/**', 'plugin/**'], dest: 'exported/'},
+                    {expand: true, src: ['css/**', 'js/**', 'lib/**', 'plugin/**'], dest: 'gh-pages/'},
                     //copy the slides folder
-                    {expand: true, src: ['slides/**'], dest: 'exported/'}
+                    {expand: true, src: ['slides/**'], dest: 'gh-pages/'}
                 ]
             }
         },
@@ -130,7 +130,7 @@ module.exports = function(grunt) {
                     }
                 },
                 files: {
-                    'exported/index.html': ['templates/index.jade']
+                    'gh-pages/index.html': ['templates/index.jade']
                 }
             }
         }

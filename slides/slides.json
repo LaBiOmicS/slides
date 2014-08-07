@@ -7,9 +7,5 @@
         "title": "Javascript no servidor com Node.js",
         "description": "Uma palestra para iniciantes em Node.js, com uma visão geral e alguns exercícios práticos baseados no nodeschool.io.",
         "url": "slides/nodejs_server_side_javascript/"
-    },{
-        "title": "(Feevale) E-Commerce para empresa Ligasat",
-        "description": "Trabalho sobre comércio eletrônico apresentado como proposta para empresa Ligasat",
-        "url": "slides/ligasat_ecommerce/"
     }]
 }

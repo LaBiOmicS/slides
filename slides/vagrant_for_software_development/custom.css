@@ -1,0 +1,8 @@
+img.no-border {
+    border: 0 !important; 
+    box-shadow: none !important;
+}
+
+.image-credits a {
+    font-size: 0.6em;
+}

@@ -60,9 +60,14 @@ Máquinas virtuais (VMs)
 Note: Vamos falar sobre o Vagrant
 
 ====
-<!-- .slide: data-background="img/mendigo-trans.png" -->
+<!-- .slide: data-background="img/homeless-trans.png" -->
 
 ### O que é Vagrant?
+
+<small>
+_Vagrant:_ vagante, errante, vagabundo, mendigo <br>
+Fonte: _google_
+</small>
 
 <!-- .element: class="fragment" data-fragment="1" -->
 Não este tipo de _"vagrant"_
@@ -132,7 +137,11 @@ vagrant up
 
 ====
 
-![exemplo-rec](img/vagrantrec.gif)
+<div><canvas id="vagrant_anim_target" class="vagrant_anim_target" width="718" height="354">
+<div id="vagrant_anim_fallback" class="vagrant_anim_target" style="width: 718px; height: 354px; position: relative;"></div>
+<p></canvas></div>
+
+<small><a href="javascript:set_animation('img/vagrant_packed.png', vagrant_timeline, 'vagrant_anim_target', 'vagrant_anim_fallback');">recomeçar &lt;&lt;</a></small>
 
 Note: Gravação com exemplo de uso do vagrant
 
@@ -160,3 +169,4 @@ _powered by: [reveal.js](http://lab.hakim.se/reveal-js/)_
 * lightcycle http://simplywallpaper.net
 * mendigo http://hubimg.com
 * free-time http://kristinareken.wordpress.com
+* animação criada com https://github.com/sublimehq/anim_encoder

@@ -6,3 +6,8 @@ img.no-border {
 .image-credits a {
     font-size: 0.6em;
 }
+
+big {
+    font-size: 2em !important;
+    line-height: 2em !important;
+}

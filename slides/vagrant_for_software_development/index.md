@@ -7,10 +7,6 @@
 Note:
 Anotação para apresentador vai aqui.
 
-====
-
-http://vagrantup.com
-
 ----
 <!-- .slide: data-background="img/coder-trans.png" -->
 
@@ -25,8 +21,8 @@ http://vagrantup.com
 
 Preciso de várias máquinas?
 
-e/ou
-
+<!-- .element: class="fragment" data-fragment="1" -->
+ou <br>
 Vários serviços rodando na minha?
 
 ====
@@ -37,9 +33,13 @@ Vários serviços rodando na minha?
 * Consumo de recursos
   
   _webserver_ + _database_ + compiladores
+
+  <small>sem contar energia elétrica</small>
+
 * Gerenciamento manual
   
   _init_ dos serviços
+
 * Serviços disputando portas
   
   > Quem está usando a porta http 80?
@@ -51,7 +51,90 @@ Vários serviços rodando na minha?
 
 Máquinas virtuais (VMs)
 
-<small>Mas é prática mesmo?</small> <!-- .element: class="fragment" data-fragment="1" -->
+<big>Mas será prática mesmo?</big> <!-- .element: class="fragment" data-fragment="1" -->
+
+----
+
+# Vagrant
+
+Note: Vamos falar sobre o Vagrant
+
+====
+<!-- .slide: data-background="img/mendigo-trans.png" -->
+
+### O que é Vagrant?
+
+<!-- .element: class="fragment" data-fragment="1" -->
+Não este tipo de _"vagrant"_
+
+Note: "Vagrant" pode ser traduzido como "vagabundo"
+ou "mendigo"
+
+====
+<!-- .slide: data-background="img/vagrant-bg-trans.png" -->
+
+### O que é Vagrant?
+
+http://vagrantup.com
+
+http://vagrantcloud.com
+
+http://github.com/mitchellh/vagrant
+
+Note: Agora sim. O que é Vagrant?
+
+====
+<!-- .slide: data-background="img/vagrant-bg-trans.png" -->
+
+### O que é Vagrant?
+
+> Vagrant é uma ferramenta para construir e 
+> distribuir ambientes de desenvolvimento.
+
+
+Note: Descrição no github
+
+====
+<!-- .slide: data-background="img/vagrant-bg-trans.png" -->
+
+Ambientes de desenvolvimento gerenciados pelo Vagrant podem
+rodar em plataformas virtuais locais como **VirtualBox**
+ou **VMware**, na _nuvem_ via **AWS** ou **OpenStack**,
+ou ainda em _recipientes_ como **Docker** ou **LXC**.
+
+Note: Ainda do github
+
+====
+<!-- .slide: data-background="img/vagrant-bg-trans.png" -->
+
+Vagrant fornece o _framework_ e configurações para criar e
+gerenciar ambientes de desenvolvimento completos e portáveis.
+
+Disponível para Windows, Mac OSX e GNU/Linux.
+
+Note: Mais ainda do github
+
+----
+
+### Começando...
+
+ou inicializando um ambiente Vagrant "do zero"
+
+```
+vagrant init hashicorp/precise32
+vagrant up
+```
+
+====
+<!-- .slide: data-background="img/free-time-trans.png" -->
+
+### O que ganho com isso?
+
+====
+
+![exemplo-rec](img/vagrantrec.gif)
+
+Note: Gravação com exemplo de uso do vagrant
 
 ----
 
@@ -70,8 +153,10 @@ _powered by: [reveal.js](http://lab.hakim.se/reveal-js/)_
 
 #### Créditos das imagens
 
-* vagrant-logo http://vagrantup.com
+* vagrant-logo, vagrant-bg http://vagrantup.com
 * coder http://blog.locaweb.com.br
 * computer-setups http://mosslounge.com
 * overheat http://sevacall.com
 * lightcycle http://simplywallpaper.net
+* mendigo http://hubimg.com
+* free-time http://kristinareken.wordpress.com

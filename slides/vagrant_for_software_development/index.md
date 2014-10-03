@@ -141,9 +141,90 @@ vagrant up
 <div id="vagrant_anim_fallback" class="vagrant_anim_target" style="width: 718px; height: 354px; position: relative;"></div>
 <p></canvas></div>
 
-<small><a href="javascript:set_animation('img/vagrant_packed.png', vagrant_timeline, 'vagrant_anim_target', 'vagrant_anim_fallback');">recomeçar &lt;&lt;</a></small>
+<small><a href="javascript:set_animation('img/vagrant_packed.png', vagrant_timeline, 'vagrant_anim_target', 'vagrant_anim_fallback');">play</a></small>
 
 Note: Gravação com exemplo de uso do vagrant
+
+----
+<!-- .slide: data-background="img/armymen-trans.png" -->
+
+### Comandos <small>usados com mais frequência</small>
+
+* `vagrant init [box name] [box url]`
+
+    <small>Inicializa o diretorio atual para ser um ambiente Vagrant, criando um `Vagrantfile` se ainda não existir.</small>
+
+* `vagrant up`
+
+    <small>Cria e configura uma VM de acordo com o `Vagrantfile`</small>
+
+* `vagrant halt`
+
+    <small>Desliga a VM que o Vagrant controle no diretório atual</small>
+
+* `vagrant reload`
+    
+    <small>Equivalente a executar `vagrant halt` seguido de `vagrant up`. Usado para recarregar mudanças no `Vagrantfile`</small>
+
+====
+<!-- .slide: data-background="img/armymen-trans.png" -->
+
+* `vagrant suspend`
+
+    <small>Suspende a VM, ao invés de desligá-la completamente</small>
+
+* `vagrant resume`
+    
+    <small>Retoma a execução de uma VM previamente parada com `vagrant suspend`</small>
+
+* `vagrant ssh`
+
+    <small>Acessa o _shell_ da VM atual via _ssh_ (VM Linux ou BSD, principalmente)</small>
+
+* `vagrant rdp`
+
+    <small>Inicia um cliente _RDP_ para acesso ao _desktop_ da VM (VM Windows, principalmente)</small>
+
+====
+<!-- .slide: data-background="img/armymen-trans.png" -->
+
+#### Todos os comandos
+
+    Below is a listing of all available Vagrant commands and a brief description of what they do.
+    
+    box             manages boxes: installation, removal, etc.
+    connect         connect to a remotely shared Vagrant environment
+    destroy         stops and deletes all traces of the vagrant machine
+    docker-logs     outputs the logs from the Docker container
+    docker-run      run a one-off command in the context of a container
+    global-status   outputs status Vagrant environments for this user
+    halt            stops the vagrant machine
+    help            shows the help for a subcommand
+    init            initializes a new Vagrant environment by creating a Vagrantfile
+    list-commands   outputs all available Vagrant subcommands, even non-primary ones
+    login           log in to Vagrant Cloud
+    package         packages a running vagrant environment into a box
+    plugin          manages plugins: install, uninstall, update, etc.
+    provision       provisions the vagrant machine
+    rdp             connects to machine via RDP
+    reload          restarts vagrant machine, loads new Vagrantfile configuration
+    resume          resume a suspended vagrant machine
+    rsync           syncs rsync synced folders to remote machine
+    rsync-auto      syncs rsync synced folders automatically when files change
+    share           share your Vagrant environment with anyone in the world
+    ssh             connects to machine via SSH
+    ssh-config      outputs OpenSSH valid configuration to connect to the machine
+    status          outputs status of the vagrant machine
+    suspend         suspends the machine
+    up              starts and provisions the vagrant environment
+    version         prints current and latest Vagrant version
+
+----
+<!-- .slide: data-background="img/goku-trans.png" -->
+
+### Vagrant cloud
+
+http://vagrantcloud.com/
 
 ----
 
@@ -170,3 +251,5 @@ _powered by: [reveal.js](http://lab.hakim.se/reveal-js/)_
 * mendigo http://hubimg.com
 * free-time http://kristinareken.wordpress.com
 * animação criada com https://github.com/sublimehq/anim_encoder
+* army men http://danbecker.info
+* goku http://mdnsolutions.com

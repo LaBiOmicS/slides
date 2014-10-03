@@ -220,6 +220,18 @@ Note: Gravação com exemplo de uso do vagrant
     version         prints current and latest Vagrant version
 
 ----
+
+<big>`Vagrantfile`</big>
+
+====
+
+### Redirecionamento de portas
+
+====
+
+### Sincronizando diretórios
+
+----
 <!-- .slide: data-background="img/goku-trans.png" -->
 
 ### Vagrant cloud

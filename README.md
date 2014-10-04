@@ -58,6 +58,6 @@ Assim, para atualizar o gh-pages, basta executar os passos a seguir.
     # publicando os slides no branch gh-pages
     cd gh-pages
     git add .
-    git ci
+    git commit
     git push
 

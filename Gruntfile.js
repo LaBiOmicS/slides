@@ -1,9 +1,21 @@
 /* global module:false */
 module.exports = function(grunt) {
     var port = grunt.option('port') || 8000;
+
+    // Load grunt tasks automatically, when needed
+    require("jit-grunt")(grunt);
+
+    //Time how long tasks take. Can help when optimizing build times
+    require("time-grunt")(grunt);
+
     // Project configuration
     grunt.initConfig({
         pkg: grunt.file.readJSON('package.json'),
+
+        config: {
+            buildDir: './dist'
+        },
+
         meta: {
             banner:
                 '/*!\n' +
@@ -95,7 +107,7 @@ module.exports = function(grunt) {
 
         zip: {
             'reveal-js-presentations.zip': [
-                'gh-pages/**'
+                '<%= config.buildDir %>/**'
             ]
         },
 
@@ -114,9 +126,9 @@ module.exports = function(grunt) {
             main: {
                 files: [
                     //copy all the dependencies
-                    {expand: true, src: ['css/**', 'js/**', 'lib/**', 'plugin/**'], dest: 'gh-pages/'},
+                    {expand: true, src: ['css/**', 'js/**', 'lib/**', 'plugin/**'], dest: '<%= config.buildDir %>'},
                     //copy the slides folder
-                    {expand: true, src: ['slides/**'], dest: 'gh-pages/'}
+                    {expand: true, src: ['slides/**'], dest: '<%= config.buildDir %>'}
                 ]
             }
         },
@@ -130,25 +142,12 @@ module.exports = function(grunt) {
                     }
                 },
                 files: {
-                    'gh-pages/index.html': ['templates/index.jade']
+                    '<%= config.buildDir %>/index.html': ['templates/index.jade']
                 }
             }
         }
 
     });
-
-    // Dependencies
-    grunt.loadNpmTasks( 'grunt-contrib-qunit' );
-    grunt.loadNpmTasks( 'grunt-contrib-jshint' );
-    grunt.loadNpmTasks( 'grunt-contrib-cssmin' );
-    grunt.loadNpmTasks( 'grunt-contrib-uglify' );
-    grunt.loadNpmTasks( 'grunt-contrib-watch' );
-    grunt.loadNpmTasks( 'grunt-contrib-sass' );
-    grunt.loadNpmTasks( 'grunt-contrib-connect' );
-    grunt.loadNpmTasks( 'grunt-zip' );
-    grunt.loadNpmTasks('grunt-contrib-copy');
-    grunt.loadNpmTasks('grunt-contrib-jade');
-
 
     // Default task
     grunt.registerTask( 'default', [ 'jshint', 'cssmin', 'uglify', 'qunit' ] );
@@ -165,8 +164,13 @@ module.exports = function(grunt) {
     // Run tests
     grunt.registerTask( 'test', [ 'jshint', 'qunit' ] );
 
-    // Export for server (gh-pages, for example)
-    grunt.registerTask( 'export', [ 'default', 'copy', 'jade' ]);
+    // @deprecated
+    grunt.registerTask( 'export', function() {
+        grunt.log.warn('"export" task is deprecated. Use "build".');
+        grunt.task.run(['build']);
+    });
 
+    // Build for publising (on gh-pages, for example)
+    grunt.registerTask( 'build', [ 'default', 'copy', 'jade' ]);
 };
     

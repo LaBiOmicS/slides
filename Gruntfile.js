@@ -164,7 +164,7 @@ module.exports = function(grunt) {
                 dir: '<%= config.buildDir %>',
                 commit: true,
                 push: true,
-                connectCommits: false
+                connectCommits: true
 
             },
             github: {

@@ -6,7 +6,7 @@ Você pode clonar o repositório, modificar, e me enviar _pull-requests_ de melh
 
 Para ver todas as apresentações criadas neste repositório, acesse <big>[slides.diovani.com](http://slides.diovani.com)</big>.
 
-## _Branch `slides`?_
+## Branch slides?_
 
 O _branch_ `slides` contém uma pasta chamada `slides/` contendo os fontes (HTML + Markdown) de todas as apresentações, assim como
 um Gruntfile preparado para gerar o conteúdo do branch `gh-pages` onde são guardados os slides gerados (veja abaixo).

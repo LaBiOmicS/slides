@@ -3,7 +3,9 @@ module.exports = function(grunt) {
     var port = grunt.option('port') || 8000;
 
     // Load grunt tasks automatically, when needed
-    require("jit-grunt")(grunt);
+    require("jit-grunt")(grunt, {
+        buildcontrol: 'grunt-build-control'
+    });
 
     //Time how long tasks take. Can help when optimizing build times
     require("time-grunt")(grunt);
@@ -122,6 +124,16 @@ module.exports = function(grunt) {
             }
         },
 
+        clean: {
+            build: [
+                '<%= config.buildDir %>/*',
+                '!<%= config.buildDir %>/.git',
+                '!<%= config.buildDir %>/.openshift',
+                '!<%= config.buildDir %>/Procfile',
+                '!<%= config.buildDir %>/CNAME'
+            ]
+        },
+
         copy: {
             main: {
                 files: [
@@ -143,6 +155,22 @@ module.exports = function(grunt) {
                 },
                 files: {
                     '<%= config.buildDir %>/index.html': ['templates/index.jade']
+                }
+            }
+        },
+
+        buildcontrol: {
+            options: {
+                dir: '<%= config.buildDir %>',
+                commit: true,
+                push: true,
+                connectCommits: false
+
+            },
+            github: {
+                options: {
+                    remote: 'origin',
+                    branch: 'gh-pages'
                 }
             }
         }
@@ -171,6 +199,16 @@ module.exports = function(grunt) {
     });
 
     // Build for publising (on gh-pages, for example)
-    grunt.registerTask( 'build', [ 'default', 'copy', 'jade' ]);
+    grunt.registerTask( 'build', [ 'clean:build', 'default', 'copy', 'jade' ]);
+
+    // deploy using buildcontrol
+    grunt.registerTask('deploy', function(target) {
+      if (!target) {
+        grunt.log.warn('You must provide a target for deploy task.');
+        return;
+      }
+      
+      grunt.task.run(['build', 'buildcontrol:' + target]);
+    });
 };
     

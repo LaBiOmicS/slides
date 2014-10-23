@@ -6,7 +6,7 @@ Você pode clonar o repositório, modificar, e me enviar _pull-requests_ de melh
 
 Para ver todas as apresentações criadas neste repositório, acesse <big>[slides.diovani.com](http://slides.diovani.com)</big>.
 
-## Branch slides?_
+## Branch slides?
 
 O _branch_ `slides` contém uma pasta chamada `slides/` contendo os fontes (HTML + Markdown) de todas as apresentações, assim como
 um Gruntfile preparado para gerar o conteúdo do branch `gh-pages` onde são guardados os slides gerados (veja abaixo).
@@ -48,6 +48,8 @@ O `Gruntfile` incluso permite realizar _deploy_ utilizando [grunt-build-control]
 Para isto, você deve inicialmente inicializar o diretório de _build_ para seguir o branch `gh-pages` do seu repositório.
 
     git clone --branch=gh-pages --depth=1 https://github.com/paulodiovani/reveal.js-slides.git dist
+
+_Obs: Mude a url acima para a de seu Fork._
 
 Depois disto, após realizar as modificações nos slides, basta realizar:
 

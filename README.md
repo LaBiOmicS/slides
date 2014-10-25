@@ -6,7 +6,7 @@ Você pode clonar o repositório, modificar, e me enviar _pull-requests_ de melh
 
 Para ver todas as apresentações criadas neste repositório, acesse <big>[slides.diovani.com](http://slides.diovani.com)</big>.
 
-## _Branch `slides`?_
+## Branch slides?
 
 O _branch_ `slides` contém uma pasta chamada `slides/` contendo os fontes (HTML + Markdown) de todas as apresentações, assim como
 um Gruntfile preparado para gerar o conteúdo do branch `gh-pages` onde são guardados os slides gerados (veja abaixo).
@@ -33,31 +33,27 @@ Com o ambiente pronto, você pode servir os slides localmente, na porta 8000, vi
 
 Ou gerar um site, que pode ser hospedado em qualquer servidor HTTP.
 
-O site completo com todas as apresentações, será exportado para o diretório `gh-pages/`.
+O site completo com todas as apresentações, será exportado para o diretório `dist/`.
 	
-	grunt export
+	grunt build
 
 Você pode ainda gerar o site completo num arquivo `.zip`, se preferir.
 
 	grunt package
 
-## Exportando para o branch gh-pages
+## Colocando em produção no GitHub
 
-Após clonar o repositório, obtenha e inicialize o branch _gh-pages_ como um submódulo.
+O `Gruntfile` incluso permite realizar _deploy_ utilizando [grunt-build-control](https://www.npmjs.org/package/grunt-build-control).
 
-    git submodule init
-    git submodule update
+Para isto, você deve inicialmente inicializar o diretório de _build_ para seguir o branch `gh-pages` do seu repositório.
 
-O branch _gh-pages_ é adicionado como um submódulo para permitir que os slides sejam exportados diretamente para ele.
+    git clone --branch=gh-pages --depth=1 https://github.com/paulodiovani/reveal.js-slides.git dist
 
-Assim, para atualizar o gh-pages, basta executar os passos a seguir.
+_Obs: Mude a url acima para a de seu Fork._
 
-    # exportando os slides para a pasta gh-pages
-    grunt export
+Depois disto, após realizar as modificações nos slides, basta realizar:
 
-    # publicando os slides no branch gh-pages
-    cd gh-pages
-    git add .
-    git commit
-    git push
+    grunt deploy:github
+
+Você pode ainda configurar o grunt-build-control para realizar _deploy_ para qualquer servidor que suporte _git_, como OpenShift ou Heroku, seguindo passos similares.
 

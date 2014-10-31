@@ -20,6 +20,21 @@ Note:
 
 # Dependency Injection 
 
+====
+
+### Explicando _Dependency Injection_ para uma criança de 5 anos
+
+Quando você pega coisas do refrigerador por conta própria você pode 
+causar problemas. Você pode deixar a porta aberta, pode pegar alguma
+coisa que mamãe e papai não querem que você pegue. Você pode até mesmo
+estar procurandopor algo que não tenhamos ou que tenha acabado.
+
+O que você deveria fazer é dizendo o que quer, "Eu quero alguma coisa para
+beber durante o almoço," então iremos garantir que você receba algo quando
+sentar para comer.
+
+<small>Fonte: http://stackoverflow.com/a/1638961/1712589</small>
+
 ----
 <!-- .slide: data-background="img/binoculars-trans.png" -->
 

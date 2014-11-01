@@ -145,6 +145,8 @@ O que você deveria fazer é dizendo o que quer, "Eu quero alguma coisa para
 beber durante o almoço," então iremos garantir que você receba algo quando
 sentar para comer.
 
+<small>Fonte: http://stackoverflow.com/a/1638961/1712589</small>
+
 ====
 
 ![di](img/cd-dependency-injection.png) <!-- .element: class="no-border" -->
@@ -258,7 +260,7 @@ public class javaIsBoring {
 
 Exemplo de DI em Javascript
 
-Utlizando _Contructor injection_
+Utilizando _Contructor injection_
 
 ```javascript
 function UserText(Service) {
@@ -362,7 +364,6 @@ _powered by: [reveal.js](http://lab.hakim.se/reveal-js/)_
 
 #### Dependency Injection
 
-* http://stackoverflow.com/a/1638961/1712589
 * http://en.wikipedia.org/wiki/Dependency_injection
 * http://martinfowler.com/articles/injection.html
 

@@ -8,6 +8,10 @@
         "description": "Uma palestra para iniciantes em Node.js, com uma visão geral e alguns exercícios práticos baseados no nodeschool.io.",
         "url": "slides/nodejs_server_side_javascript/"
     },{
+        "title": "Software Design Patterns",
+        "description": "Explicação sobre alguns design patterns. Slides criados para apresentação na Universidade Feevale",
+        "url": "slides/design_patterns/"
+    },{
         "title": "Vagrant - Descomplicando o uso de VMs para desenvolvimento de software",
         "description": "O Vagrant (http://vagrantup.com) permite criar, configurar e compartilhar rapidamente diversas VMs via linha de comando e utilizá-las de forma transparente, como se todo o ambiente fosse local.",
         "url": "slides/vagrant_for_software_development/"

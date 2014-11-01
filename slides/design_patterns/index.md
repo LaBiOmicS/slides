@@ -366,6 +366,10 @@ _powered by: [reveal.js](http://lab.hakim.se/reveal-js/)_
 * http://en.wikipedia.org/wiki/Dependency_injection
 * http://martinfowler.com/articles/injection.html
 
+#### Observer
+
+* GAMA, Rrich; HELM, Richard; JOHNSON, Ralph; VLISSIDES, John. Padrões de projeto
+
 ====
 
 ### Créditos das imagens

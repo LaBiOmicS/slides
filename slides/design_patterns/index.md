@@ -15,6 +15,118 @@ Note:
 
 # Adapter
 
+====
+
+### Vamos pensar o que acontece na vida real
+
+Utilizávamos nas nossas construções civis um padrão de tomadas e plugues. 
+Um belo dia saiu o padrão brasileiro de tomadas e plugues, quando você 
+compra um aparelho que atende a essa norma logo pensa: 
+
+Vou ter que comprar um **adaptador** para _adaptar_ esse plugue à _tomada_ que esta em casa, pois são padrões (modelos) diferentes.
+
+<small>Fonte: http://www.devmedia.com.br/design-patterns-adapter/17160</small>
+
+====
+
+## Em resumo: 
+
+Adapter é uma classe intermediaria entre outras duas classes.
+
+====
+
+### Interface Tomada
+
+```
+public interface Tomada {
+	public void conectar();
+	public void desconectar();
+	
+	@Override
+	public String toString();
+}```
+
+====
+
+### Classe NovaTomada
+
+```
+public class NovaTomada implements Tomada{
+	@Override
+	public void conectar() {
+		System.out.println("Tomada conectada");
+	}
+
+	@Override
+	public void desconectar() {
+		System.out.println("Tomada desconectada");
+	}
+
+	@Override
+	public String toString(){
+		return "Nova Tomada de 3 pinos";
+	}
+}```
+
+====
+
+### Interface TomadaSemTerra
+
+```
+public interface TomadaSemTerra {
+	public void conectar_sem_terra();
+	public void desconectar();
+	
+	@Override
+	public String toString();
+}```
+
+====
+
+### Classe VelhaTomada
+
+```
+public class VelhaTomada implements TomadaSemTerra{
+	@Override
+	public void conectar_sem_terra() {
+		System.out.println("Tomada conectada");
+	}
+
+	@Override
+	public void desconectar() {
+		System.out.println("Tomada desconectada");
+	}
+	
+	@Override
+	public String toString(){
+		return "Velha Tomada de 2 pinos";
+	}
+}```
+
+====
+
+### Adapter TomadaAdapter
+
+```
+public class TomadaAdapter implements Tomada{
+	TomadaSemTerra tomadaAdaptada;
+	
+	public TomadaAdapter(TomadaSemTerra tomadaVelha){
+		tomadaAdaptada = tomadaVelha;}
+
+	@Override
+	public void conectar() {
+		tomadaAdaptada.conectar_sem_terra();}
+
+	@Override
+	public void desconectar() {
+		tomadaAdaptada.desconectar();}
+
+    @Override
+    public String toString() {
+        return tomadaAdaptada.toString();}
+}```
+
 ----
 <!-- .slide: data-background="img/injection-trans.png" -->
 

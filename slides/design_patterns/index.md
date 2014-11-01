@@ -292,6 +292,56 @@ ut.askUser();
 
 # Observer
 
+====
+
+
+_Definir uma dependência um-para-muitos entre objetos para que quando um objeto mudar de estado, todos os seus dependentes sejam notificados e
+atualizados automaticamente._
+
+====
+
+## Diagrama
+
+![do](img/diagrama_observer.jpg) <!-- .element: class="no-border" -->
+
+====
+
+Neste padrão a essência está na possibilidade de uma classe poder fazer uma 'notificação' a um conjunto de classes associadas de que o Estado
+(Conjunto de Atributos) dela foi alterado por algum motivo. 
+
+====
+
+Você deve estar pensando "Eu posso fazer essa notificação manualmente ou até mesmo utilizando eventos como actionPerformed para fazer a
+notificação através de chamas a métodos de cada instância". Porém dessa maneira você estará criado um sistema com alto acoplamento e de
+difícil manutenabilidade.
+
+====
+
+Temos um operário de obras que esta trabalhando em uma construção junto com seus 'companheiros'.. O fato de uma sirene tocar implica em uma mudança (mudança de estado), que pode ser um sinal para a hora do almoço, pode ser o final do expediente e etc.
+
+
+Temos então o seguinte ambiente, o objeto observável (Sirene) e os observadores (Operários). Quando o objeto observável alterar o seu estado,
+enviará um sinal sonoro (mensagem) alertando os objetos observadores.
+
+====
+
+## Exemplo no NetBeans
+
+====
+
+O segundo exemplo foi utilizado quatro classes: **Soma.java**, **Par.java**, **Impar.java** e **Programa.java**
+
+
+O padrão Observador parte do conceito de um Objeto Observável (**Soma.java**), onde a cada mudança de estado ele notifica aqueles que estão Observando sua instância (**Par.java** e **Impar.java**)
+
+====
+
+## Soma.java
+
+Nesta classe, implemento outro padrão de projeto, o Singleton, onde possuo uma única instancia desta classe em todo meu projeto.
+Esta classe basicamente inicia um contador, dentro de uma Thread, incrementando a cada 1 segundo, e a cada mudança de valor todos os Objetos que estão observando este, são notificados.
+
+
 ----
 
 ## Créditos da apresentação

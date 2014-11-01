@@ -312,7 +312,7 @@ Neste padrão a essência está na possibilidade de uma classe poder fazer uma '
 ====
 
 Você deve estar pensando "Eu posso fazer essa notificação manualmente ou até mesmo utilizando eventos como actionPerformed para fazer a
-notificação através de chamas a métodos de cada instância". Porém dessa maneira você estará criado um sistema com alto acoplamento e de
+notificação através de chamadas a métodos de cada instância". Porém dessa maneira você estará criado um sistema com alto acoplamento e de
 difícil manutenabilidade.
 
 ====

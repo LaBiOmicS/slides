@@ -15,6 +15,118 @@ Note:
 
 # Adapter
 
+====
+
+### Vamos pensar o que acontece na vida real
+
+Utilizávamos nas nossas construções civis um padrão de tomadas e plugues. 
+Um belo dia saiu o padrão brasileiro de tomadas e plugues, quando você 
+compra um aparelho que atende a essa norma logo pensa: 
+
+Vou ter que comprar um **adaptador** para _adaptar_ esse plugue à _tomada_ que esta em casa, pois são padrões (modelos) diferentes.
+
+<small>Fonte: http://www.devmedia.com.br/design-patterns-adapter/17160</small>
+
+====
+
+## Em resumo: 
+
+Adapter é uma classe intermediaria entre outras duas classes.
+
+====
+
+### Interface Tomada
+
+```
+public interface Tomada {
+	public void conectar();
+	public void desconectar();
+	
+	@Override
+	public String toString();
+}```
+
+====
+
+### Classe NovaTomada
+
+```
+public class NovaTomada implements Tomada{
+	@Override
+	public void conectar() {
+		System.out.println("Tomada conectada");
+	}
+
+	@Override
+	public void desconectar() {
+		System.out.println("Tomada desconectada");
+	}
+
+	@Override
+	public String toString(){
+		return "Nova Tomada de 3 pinos";
+	}
+}```
+
+====
+
+### Interface TomadaSemTerra
+
+```
+public interface TomadaSemTerra {
+	public void conectar_sem_terra();
+	public void desconectar();
+	
+	@Override
+	public String toString();
+}```
+
+====
+
+### Classe VelhaTomada
+
+```
+public class VelhaTomada implements TomadaSemTerra{
+	@Override
+	public void conectar_sem_terra() {
+		System.out.println("Tomada conectada");
+	}
+
+	@Override
+	public void desconectar() {
+		System.out.println("Tomada desconectada");
+	}
+	
+	@Override
+	public String toString(){
+		return "Velha Tomada de 2 pinos";
+	}
+}```
+
+====
+
+### Adapter TomadaAdapter
+
+```
+public class TomadaAdapter implements Tomada{
+	TomadaSemTerra tomadaAdaptada;
+	
+	public TomadaAdapter(TomadaSemTerra tomadaVelha){
+		tomadaAdaptada = tomadaVelha;}
+
+	@Override
+	public void conectar() {
+		tomadaAdaptada.conectar_sem_terra();}
+
+	@Override
+	public void desconectar() {
+		tomadaAdaptada.desconectar();}
+
+    @Override
+    public String toString() {
+        return tomadaAdaptada.toString();}
+}```
+
 ----
 <!-- .slide: data-background="img/injection-trans.png" -->
 
@@ -180,6 +292,56 @@ ut.askUser();
 
 # Observer
 
+====
+
+
+_Definir uma dependência um-para-muitos entre objetos para que quando um objeto mudar de estado, todos os seus dependentes sejam notificados e
+atualizados automaticamente._
+
+====
+
+## Diagrama
+
+![do](img/diagrama_observer.jpg) <!-- .element: class="no-border" -->
+
+====
+
+Neste padrão a essência está na possibilidade de uma classe poder fazer uma 'notificação' a um conjunto de classes associadas de que o Estado
+(Conjunto de Atributos) dela foi alterado por algum motivo. 
+
+====
+
+Você deve estar pensando "Eu posso fazer essa notificação manualmente ou até mesmo utilizando eventos como actionPerformed para fazer a
+notificação através de chamadas a métodos de cada instância". Porém dessa maneira você estará criado um sistema com alto acoplamento e de
+difícil manutenabilidade.
+
+====
+
+Temos um operário de obras que esta trabalhando em uma construção junto com seus 'companheiros'.. O fato de uma sirene tocar implica em uma mudança (mudança de estado), que pode ser um sinal para a hora do almoço, pode ser o final do expediente e etc.
+
+
+Temos então o seguinte ambiente, o objeto observável (Sirene) e os observadores (Operários). Quando o objeto observável alterar o seu estado,
+enviará um sinal sonoro (mensagem) alertando os objetos observadores.
+
+====
+
+## Exemplo no NetBeans
+
+====
+
+O segundo exemplo foi utilizado quatro classes: **Soma.java**, **Par.java**, **Impar.java** e **Programa.java**
+
+
+O padrão Observador parte do conceito de um Objeto Observável (**Soma.java**), onde a cada mudança de estado ele notifica aqueles que estão Observando sua instância (**Par.java** e **Impar.java**)
+
+====
+
+## Soma.java
+
+Nesta classe, implemento outro padrão de projeto, o Singleton, onde possuo uma única instancia desta classe em todo meu projeto.
+Esta classe basicamente inicia um contador, dentro de uma Thread, incrementando a cada 1 segundo, e a cada mudança de valor todos os Objetos que estão observando este, são notificados.
+
+
 ----
 
 ## Créditos da apresentação
@@ -203,6 +365,10 @@ _powered by: [reveal.js](http://lab.hakim.se/reveal-js/)_
 * http://stackoverflow.com/a/1638961/1712589
 * http://en.wikipedia.org/wiki/Dependency_injection
 * http://martinfowler.com/articles/injection.html
+
+#### Observer
+
+* GAMA, Rrich; HELM, Richard; JOHNSON, Ralph; VLISSIDES, John. Padrões de projeto
 
 ====
 

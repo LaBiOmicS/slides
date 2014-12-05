@@ -3,7 +3,7 @@
 
 > tome um gole de café
 
-<small>Versão 0.1.1</small>
+<small>Versão 0.1.2</small>
 
 ====
 <!-- .slide: class="author" -->
@@ -25,6 +25,8 @@ Acesse os slides em
 
 [slides.diovani.com/slides/coffeescript](http://slides.diovani.com/slides/coffeescript/)
 
+<small>[<i class="fa fa-github"></i> contribua](https://github.com/paulodiovani/reveal.js-slides)</small>
+
 ----
 
 _CoffeeScript_ é uma pequena liguagem que compila em Javascript.
@@ -32,7 +34,7 @@ _CoffeeScript_ é uma pequena liguagem que compila em Javascript.
 ====
 <!-- .slide: class="compile" -->
 
-###### CoffeeScript &rarr; Javascript
+###### CoffeeScript <i class="fa fa-arrow-circle-right"></i> Javascript
 
 ```coffeescript
 # Assignment:
@@ -147,7 +149,7 @@ Principais opções:
 
 #### Variáveis
 
-###### CoffeeScript &rarr; Javascript
+###### CoffeeScript <i class="fa fa-arrow-circle-right"></i> Javascript
 
 ```coffeescript
 message = "Ready for some Coffee?"
@@ -168,7 +170,7 @@ alert(message);
 
 #### Interpolação de Strings
 
-###### CoffeeScript &rarr; Javascript
+###### CoffeeScript <i class="fa fa-arrow-circle-right"></i> Javascript
 
 ```coffeescript
 author = "Wittgenstein"
@@ -197,7 +199,7 @@ sentence = "" + (22 / 7) + " is a decent approximation of π";
 
 #### Strings em múltiplas linhas
 
-###### CoffeeScript &rarr; Javascript
+###### CoffeeScript <i class="fa fa-arrow-circle-right"></i> Javascript
 
 ```coffeescript
 mobyDick = "Call me Ishmael.Some years 
@@ -225,7 +227,7 @@ mobyDick = "Call me Ishmael.Some years ago - never mind how long precisely - hav
 
 #### Blocos de Strings
 
-###### CoffeeScript &rarr; Javascript
+###### CoffeeScript <i class="fa fa-arrow-circle-right"></i> Javascript
 
 ```coffeescript
 html = """
@@ -255,7 +257,7 @@ html = "<strong>\n  cup of coffeescript\n</strong>";
 
 #### _The arrow_ (`->`)
 
-###### CoffeeScript &rarr; Javascript
+###### CoffeeScript <i class="fa fa-arrow-circle-right"></i> Javascript
 
 ```coffeescript
 coffee = ->
@@ -282,7 +284,7 @@ coffee();
 
 #### Argumentos para funções
 
-###### CoffeeScript &rarr; Javascript
+###### CoffeeScript <i class="fa fa-arrow-circle-right"></i> Javascript
 
 ```coffeescript
 sayMyName = (name) ->
@@ -304,7 +306,7 @@ sayMyName = function(name) {
 
 #### valores padrão
 
-###### CoffeeScript &rarr; Javascript
+###### CoffeeScript <i class="fa fa-arrow-circle-right"></i> Javascript
 
 ```coffeescript
 sayMyName = (name = "Heinsenberg") ->
@@ -329,7 +331,7 @@ sayMyName = function(name) {
 
 #### executando funções
 
-###### CoffeeScript &rarr; Javascript
+###### CoffeeScript <i class="fa fa-arrow-circle-right"></i> Javascript
 
 ```coffeescript
 coffee()
@@ -365,7 +367,7 @@ caution(using(functions(arguments)));
 
 número variável de argumentos
 
-###### CoffeeScript &rarr; Javascript
+###### CoffeeScript <i class="fa fa-arrow-circle-right"></i> Javascript
 
 ```coffeescript
 winners = (first, second, losers...) ->
@@ -410,7 +412,7 @@ winners("John", "Louise", "Robert", "Adrian");
 
 #### variável `@` e escopo <small>(ou _binding_)</small>
 
-###### CoffeeScript &rarr; Javascript
+###### CoffeeScript <i class="fa fa-arrow-circle-right"></i> Javascript
 
 ```coffeescript
 Account = (customer, cart) ->
@@ -449,7 +451,7 @@ Account = function(customer, cart) {
 
 #### if
 
-###### CoffeeScript &rarr; Javascript
+###### CoffeeScript <i class="fa fa-arrow-circle-right"></i> Javascript
 
 ```coffeescript
 if (age >= 18)
@@ -476,7 +478,7 @@ if (age < 18) {
 
 #### reduzindo as linhas
 
-###### CoffeeScript &rarr; Javascript
+###### CoffeeScript <i class="fa fa-arrow-circle-right"></i> Javascript
 
 ```coffeescript
 if age >= 18 then "drink beer" else "drink coffee"
@@ -497,7 +499,7 @@ if (age >= 18) {
 
 #### Operadores
 
-###### CoffeeScript &rarr; Javascript
+###### CoffeeScript <i class="fa fa-arrow-circle-right"></i> Javascript
 
 ```coffeescript
 == is
@@ -524,7 +526,7 @@ false
 
 #### Exemplos, `unless` e operadores encadeados
 
-###### CoffeeScript &rarr; Javascript
+###### CoffeeScript <i class="fa fa-arrow-circle-right"></i> Javascript
 
 ```coffeescript
 if paid() and coffee() is on then pour()
@@ -558,7 +560,7 @@ if ((2 < newLevel && newLevel < 5)) {
 
 #### Operator de existência
 
-###### CoffeeScript &rarr; Javascript
+###### CoffeeScript <i class="fa fa-arrow-circle-right"></i> Javascript
 
 ```coffeescript
 drink(coffee) if coffee?
@@ -577,7 +579,7 @@ if (typeof coffee !== "undefined" && coffee !== null) {
 
 #### Switch
 
-###### CoffeeScript &rarr; Javascript
+###### CoffeeScript <i class="fa fa-arrow-circle-right"></i> Javascript
 
 ```coffeescript
 switch hasSugar
@@ -611,7 +613,7 @@ switch (hasSugar) {
 
 #### Switch
 
-###### CoffeeScript &rarr; Javascript
+###### CoffeeScript <i class="fa fa-arrow-circle-right"></i> Javascript
 
 ```coffeescript
 message = switch cupsOfCoffee
@@ -646,7 +648,7 @@ message = (function() {
 
 #### Switch
 
-###### CoffeeScript &rarr; Javascript
+###### CoffeeScript <i class="fa fa-arrow-circle-right"></i> Javascript
 
 ```coffeescript
 score = 76
@@ -692,7 +694,7 @@ grade = (function() {
 
 #### Séries
 
-###### CoffeeScript &rarr; Javascript
+###### CoffeeScript <i class="fa fa-arrow-circle-right"></i> Javascript
 
 ```coffeescript
 range = [1..6]
@@ -724,7 +726,7 @@ Opções em coffee fazem o mesmo
 
 #### Arrays
 
-###### CoffeeScript &rarr; Javascript
+###### CoffeeScript <i class="fa fa-arrow-circle-right"></i> Javascript
 
 ```coffeescript
 cities = ['Porto Alegre', 'Novo Hamburgo', 'São Paulo']
@@ -752,7 +754,7 @@ Opções em coffee fazem o mesmo
 
 #### Loops compreensíveis
 
-###### CoffeeScript &rarr; Javascript
+###### CoffeeScript <i class="fa fa-arrow-circle-right"></i> Javascript
 
 ```coffeescript
 visit city for city in cities
@@ -774,7 +776,7 @@ for (_i = 0, _len = cities.length; _i < _len; _i++) {
 
 #### Objetos
 
-###### CoffeeScript &rarr; Javascript
+###### CoffeeScript <i class="fa fa-arrow-circle-right"></i> Javascript
 
 ```coffeescript
 coffee = {type: "expresso", hasSuggar: false}
@@ -811,7 +813,7 @@ Opções em coffee fazem o mesmo
 
 #### Objetos complexos
 
-###### CoffeeScript &rarr; Javascript
+###### CoffeeScript <i class="fa fa-arrow-circle-right"></i> Javascript
 
 ```coffeescript
 coffees =
@@ -850,7 +852,7 @@ coffees = {
 
 #### Iteração de objetos
 
-###### CoffeeScript &rarr; Javascript
+###### CoffeeScript <i class="fa fa-arrow-circle-right"></i> Javascript
 
 ```coffeescript
 for coffee, attrs of coffees
@@ -880,7 +882,7 @@ Opções em coffee fazem o mesmo
 
 _Destructuring Assignment_
 
-###### CoffeeScript &rarr; Javascript
+###### CoffeeScript <i class="fa fa-arrow-circle-right"></i> Javascript
 
 ```coffeescript
 [city1, city2, city3] = cities
@@ -901,7 +903,7 @@ type = coffee.type, hasSuggar = coffee.hasSuggar;
 
 #### Combinando "desestruturadores"
 
-###### CoffeeScript &rarr; Javascript
+###### CoffeeScript <i class="fa fa-arrow-circle-right"></i> Javascript
 
 ```coffeescript
 futurists =
@@ -944,7 +946,7 @@ As coisas podem ficar complicadas a partir de agora
 
 #### Construtores
 
-###### CoffeeScript &rarr; Javascript
+###### CoffeeScript <i class="fa fa-arrow-circle-right"></i> Javascript
 
 ```coffeescript
 class Coffee
@@ -975,7 +977,7 @@ Coffee = (function() {
 
 #### Construtores <small>um pouco mais simples</small>
 
-###### CoffeeScript &rarr; Javascript
+###### CoffeeScript <i class="fa fa-arrow-circle-right"></i> Javascript
 
 ```coffeescript
 class Coffee
@@ -1001,7 +1003,7 @@ Coffee = (function() {
 
 #### Métodos e propriedades
 
-###### CoffeeScript &rarr; Javascript
+###### CoffeeScript <i class="fa fa-arrow-circle-right"></i> Javascript
 
 ```coffeescript
 class Coffee
@@ -1033,7 +1035,7 @@ Coffee = (function() {
 
 #### Herança
 
-###### CoffeeScript &rarr; Javascript
+###### CoffeeScript <i class="fa fa-arrow-circle-right"></i> Javascript
 
 ```coffeescript
 class Cappuccino extends Coffee
@@ -1063,6 +1065,34 @@ Note:
   - Herança em Js não é legal :(
 
 ----
+
+### Conclusão
+
+====
+
+#### Premissas
+
+* você deve ser capaz de escrever e entender Javascript
+
+> It's just Javascript
+
+Note:
+Sem conhecer Javascript é impossível escrever
+bons códigos em CoffeeScript
+
+====
+
+#### <small>então</small> Por que usar CoffeeScript?
+
+* código legível
+* menos código / rápido de escrever / produtividade
+* fácil de fazer loops e estruturas de controle
+* melhor controle de escopo
+* orientação a objetos compreensível e
+  familiar com outras linguagens
+
+====
+
 <!-- .slide: data-background="img/coffee-art.png" -->
 
 ### Dúvidas?

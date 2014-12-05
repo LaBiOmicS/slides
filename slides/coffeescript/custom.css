@@ -1,3 +1,9 @@
+/* reset font-awesome */
+.fa {
+  font: normal normal normal 14px/1 FontAwesome !important;
+  font-size: inherit !important;
+}
+
 img.no-border {
     border: 0 !important; 
     box-shadow: none !important;

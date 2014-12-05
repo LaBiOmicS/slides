@@ -3,7 +3,7 @@
 
 > tome um gole de café
 
-<small>Versão 0.1.2</small>
+<small>Versão 0.2.0</small>
 
 ====
 <!-- .slide: class="author" -->

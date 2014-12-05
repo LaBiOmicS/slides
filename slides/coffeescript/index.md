@@ -3,7 +3,21 @@
 
 > tome um gole de café
 
-<small>Versão 0.1</small>
+<small>Versão 0.1.0</small>
+
+====
+<!-- .slide: class="author" -->
+
+#### Paulo Diovani Gonçalves
+
+* ![avatar](img/avatar-pb.jpg) <!-- .element: class="pull-right" -->
+* Desenvolvedor na Codeminer 42.
+* Graduando em Sistemas para Internet na Universidade Feevale.
+* Já palestrou em eventos FLISOL e Dia da Liberdade de Software.
+* Usuário GNU/Linux desde 2005.
+* PHP, Javascript, Node.js, Ruby, Python, Arduino.
+* Entusiasta de novas tecnologias
+* ![codeminer42](img/codeminer.png) <!-- .element: class="pull-right no-border" -->
 
 ----
 
@@ -120,7 +134,7 @@ Principais opções:
 
 ----
 
-### Parte 1: Variáveis e funções
+### Parte 1: Variáveis e Strings
 
 ====
 <!-- .slide: class="compile" -->
@@ -146,7 +160,94 @@ alert(message);
 ====
 <!-- .slide: class="compile" -->
 
-#### Funções
+#### Interpolação de Strings
+
+###### CoffeeScript &rarr; Javascript
+
+```coffeescript
+author = "Wittgenstein"
+quote  =
+  "A picture is a fact. -- #{ author }"
+
+sentence = "#{ 22 / 7 } is a decent
+  approximation of π"
+```
+
+```javascript
+var author, quote, sentence;
+
+author = "Wittgenstein";
+
+quote = "A picture is a fact. -- " + author;
+
+sentence = "" + (22 / 7) + " is a decent approximation of π";
+```
+
+* O uso de `#{}` permite adicionar variáveis dentro de uma string
+* Não apenas variáveis, mas qualquer código CoffeeScript
+
+====
+<!-- .slide: class="compile" -->
+
+#### Strings em múltiplas linhas
+
+###### CoffeeScript &rarr; Javascript
+
+```coffeescript
+mobyDick = "Call me Ishmael.Some years 
+  ago - never mind how long precisely - 
+  having little or no money in my purse,
+  and nothing particular to interest me
+  on shore, I thought I would sail about
+  a  little and see the watery part of
+  the world..."
+```
+
+```javascript
+var mobyDick;
+
+mobyDick = "Call me Ishmael.Some years ago - never mind how long precisely - having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a  little and see the watery part of the world...";
+```
+
+* strings em múltiplas linhas são permitidas
+* linhas são concatenadas com um único espaço,
+  a menos que terminem com uma barra invertida.
+* indentaçção é ignorada
+
+====
+<!-- .slide: class="compile" -->
+
+#### Blocos de Strings
+
+###### CoffeeScript &rarr; Javascript
+
+```coffeescript
+html = """
+       <strong>
+         cup of coffeescript
+       </strong>
+       """
+```
+
+```javascript
+var html;
+
+html = "<strong>\n  cup of coffeescript\n</strong>";
+```
+
+* blocos de strings são usados para manter texto formatado
+  ou sensível a indentação
+* a indentação onde se iniciou o bloco é ignorada, permitindo
+  manter o código alinhado
+
+----
+
+### Parte 2: Funções
+
+====
+<!-- .slide: class="compile" -->
+
+#### _The arrow_ (`->`)
 
 ###### CoffeeScript &rarr; Javascript
 
@@ -251,9 +352,91 @@ caution(using(functions(arguments)));
 * parênteses são opionais
     - desde que fornecidos argumentos
 
+====
+<!-- .slide: class="compile" -->
+
+#### Splats
+
+número variável de argumentos
+
+###### CoffeeScript &rarr; Javascript
+
+```coffeescript
+winners = (first, second, losers...) ->
+  console.log "congrats #{first}"
+  console.log "almos there #{second}"
+
+  for loser in losers
+    console.log "too bad #{loser}"
+
+winners "John", "Louise", "Robert", "Adrian"
+# congrats John
+# almos there Louise
+# too bad Robert
+# too bad Adrian
+```
+
+```javascript
+var winners,
+  __slice = [].slice;
+
+winners = function() {
+  var first, loser, losers, second, _i, _len, _results;
+  first = arguments[0], second = arguments[1], losers = 3 <= arguments.length ? __slice.call(arguments, 2) : [];
+  console.log("winner is " + first);
+  console.log("almos there is " + second);
+  _results = [];
+  for (_i = 0, _len = losers.length; _i < _len; _i++) {
+    loser = losers[_i];
+    _results.push(console.log("too bad " + loser));
+  }
+  return _results;
+};
+
+winners("John", "Louise", "Robert", "Adrian");
+```
+
+* o `splats` (sempre por último) recebe um
+  array com o restante dos argumentos
+
+====
+<!-- .slide: class="compile" -->
+
+#### variável `@` e escopo <small>(ou _binding_)</small>
+
+###### CoffeeScript &rarr; Javascript
+
+```coffeescript
+Account = (customer, cart) ->
+  @customer = customer
+  @cart = cart
+
+  $('.cart').on 'click', (e) =>
+    @customer.purchase @cart
+```
+
+```javascript
+var Account;
+
+Account = function(customer, cart) {
+  this.customer = customer;
+  this.cart = cart;
+  return $('.cart').on('click', (function(_this) {
+    return function(e) {
+      return _this.customer.purchase(_this.cart);
+    };
+  })(this));
+};
+```
+
+* `@` = `this`
+* `@foo` = `this.foo`
+* o uso de uma _fat arrow_ (`=>`) faz um bind da função
+  para uso com o escopo (`this`) superior
+
 ----
 
-### Parte 2: Operadores e condicionais
+### Parte 3: Operadores e condições
 
 ====
 <!-- .slide: class="compile" -->
@@ -493,7 +676,394 @@ grade = (function() {
 * switches podem ainda ser usados sem uma expressão de controle,
   tornando-os uma alternativa a `if`s aninhados
 
+
 ----
+
+### Parte 4: Arrays e Objetos
+
+====
+<!-- .slide: class="compile" -->
+
+#### Séries
+
+###### CoffeeScript &rarr; Javascript
+
+```coffeescript
+range = [1..6]
+range = [1...6]
+
+console.log range[2..4]
+# [2, 3, 4]
+console.log range[2...4]
+# [2, 3, 4]
+```
+
+```javascript
+var range;
+
+range = [1, 2, 3, 4, 5, 6];
+range = [1, 2, 3, 4, 5];
+
+console.log(range.slice(2, 5));
+console.log(range.slice(2, 4));
+```
+
+* três pontos excluem o último item
+
+Note:
+Opções em coffee fazem o mesmo
+
+====
+<!-- .slide: class="compile" -->
+
+#### Arrays
+
+###### CoffeeScript &rarr; Javascript
+
+```coffeescript
+cities = ['Porto Alegre', 'Novo Hamburgo', 'São Paulo']
+
+cities = [
+  'Porto Alegre'
+  'Novo Hamburgo'
+  'São Paulo'
+]
+```
+
+```javascript
+var cities;
+
+cities = ['Porto Alegre', 'Novo Hamburgo', 'São Paulo'];
+```
+
+* Pode usar linhas ao invés de vírgulas
+
+Note:
+Opções em coffee fazem o mesmo
+
+====
+<!-- .slide: class="compile" -->
+
+#### Loops compreensíveis
+
+###### CoffeeScript &rarr; Javascript
+
+```coffeescript
+visit city for city in cities
+```
+
+```javascript
+var city, _i, _len;
+
+for (_i = 0, _len = cities.length; _i < _len; _i++) {
+  city = cities[_i];
+  visit(city);
+}
+```
+
+* Leia: _"visite cidade para cada cidade em cidades"_
+
+====
+<!-- .slide: class="compile" -->
+
+#### Objetos
+
+###### CoffeeScript &rarr; Javascript
+
+```coffeescript
+coffee = {type: "expresso", hasSuggar: false}
+
+coffee = type: "expresso", hasSuggar: false
+
+coffee =
+  type: "expresso"
+  hasSuggar: false
+  putSuggar: ->
+    @hasSuggar = true
+```
+
+```javascript
+var coffee;
+
+coffee = {
+  type: "expresso",
+  hasSuggar: false,
+  putSuggar: function() {
+    return this.hasSuggar = true;
+  }
+};
+```
+
+* chaves são opcionais
+* vírgulas são opcionais (separados por linhas)
+
+Note:
+Opções em coffee fazem o mesmo
+
+====
+<!-- .slide: class="compile" -->
+
+#### Objetos complexos
+
+###### CoffeeScript &rarr; Javascript
+
+```coffeescript
+coffees =
+  french:
+    strength: 1
+    in_stock: 20
+  italian:
+    strength: 2
+    in_stock: 12
+  decaf:
+    strength: 0
+    in_stock: 8
+```
+
+```javascript
+var coffees;
+
+coffees = {
+  french: {
+    strength: 1,
+    in_stock: 20
+  },
+  italian: {
+    strength: 2,
+    in_stock: 12
+  },
+  decaf: {
+    strength: 0,
+    in_stock: 8
+  }
+};
+```
+
+====
+<!-- .slide: class="compile" -->
+
+#### Iteração de objetos
+
+###### CoffeeScript &rarr; Javascript
+
+```coffeescript
+for coffee, attrs of coffees
+  "#{coffee} has #{attrs.in_stock}"
+
+"#{coffee} has #{attrs.in_stock}" for coffee, attrs of coffees
+```
+
+```javascript
+var attrs, coffee;
+
+for (coffee in coffees) {
+  attrs = coffees[coffee];
+  "" + coffee + " has " + attrs.in_stock;
+}
+```
+
+* Leia: _"Para chave, valor de objeto"_
+
+Note:
+Opções em coffee fazem o mesmo
+
+====
+<!-- .slide: class="compile" -->
+
+#### Extraindo valores
+
+_Destructuring Assignment_
+
+###### CoffeeScript &rarr; Javascript
+
+```coffeescript
+[city1, city2, city3] = cities
+
+{type, hasSuggar} = coffee
+```
+
+```javascript
+var city1, city2, city3, hasSuggar, type;
+
+city1 = cities[0], city2 = cities[1], city3 = cities[2];
+
+type = coffee.type, hasSuggar = coffee.hasSuggar;
+```
+
+====
+<!-- .slide: class="compile" -->
+
+#### Combinando "desestruturadores"
+
+###### CoffeeScript &rarr; Javascript
+
+```coffeescript
+futurists =
+  sculptor: "Umberto Boccioni"
+  painter:  "Vladimir Burliuk"
+  poet:
+    name:   "F.T. Marinetti"
+    address: [
+      "Via Roma 42R"
+      "Bellagio, Italy 22021"
+    ]
+
+{poet: {name, address: [street, city]}} = futurists
+```
+
+```javascript
+var city, futurists, name, street, _ref, _ref1;
+
+futurists = {
+  sculptor: "Umberto Boccioni",
+  painter: "Vladimir Burliuk",
+  poet: {
+    name: "F.T. Marinetti",
+    address: ["Via Roma 42R", "Bellagio, Italy 22021"]
+  }
+};
+
+_ref = futurists.poet, name = _ref.name, (_ref1 = _ref.address, street = _ref1[0], city = _ref1[1]);
+```
+
+----
+
+### Parte 5: Classes
+
+Note:
+As coisas podem ficar complicadas a partir de agora
+
+====
+<!-- .slide: class="compile" -->
+
+#### Construtores
+
+###### CoffeeScript &rarr; Javascript
+
+```coffeescript
+class Coffee
+  constructor: (name, strength = 1) ->
+    @name = name
+    @strength = strength
+```
+
+```javascript
+var Coffee;
+
+Coffee = (function() {
+  function Coffee(name, strength) {
+    if (strength == null) {
+      strength = 1;
+    }
+    this.name = name;
+    this.strength = strength;
+  }
+
+  return Coffee;
+
+})();
+```
+
+====
+<!-- .slide: class="compile" -->
+
+#### Construtores <small>um pouco mais simples</small>
+
+###### CoffeeScript &rarr; Javascript
+
+```coffeescript
+class Coffee
+  constructor: (@name, @strength = 1) ->
+```
+
+```javascript
+var Coffee;
+
+Coffee = (function() {
+  function Coffee(name, strength) {
+    this.name = name;
+    this.strength = strength != null ? strength : 1;
+  }
+
+  return Coffee;
+
+})();
+```
+
+====
+<!-- .slide: class="compile" -->
+
+#### Métodos e propriedades
+
+###### CoffeeScript &rarr; Javascript
+
+```coffeescript
+class Coffee
+  hasSugar: false
+
+  putSugar: ->
+    @hasSugar = true
+```
+
+```javascript
+var Coffee;
+
+Coffee = (function() {
+  function Coffee() {}
+
+  Coffee.prototype.hasSugar = false;
+
+  Coffee.prototype.putSugar = function() {
+    return this.hasSugar = true;
+  };
+
+  return Coffee;
+
+})();
+```
+
+====
+<!-- .slide: class="compile" -->
+
+#### Herança
+
+###### CoffeeScript &rarr; Javascript
+
+```coffeescript
+class Cappuccino extends Coffee
+  constructor: (@name, @strength = 0.5) ->
+```
+
+```javascript
+var Cappuccino,
+  __hasProp = {}.hasOwnProperty,
+  __extends = function(child, parent) { for (var key in parent) { if (__hasProp.call(parent, key)) child[key] = parent[key]; } function ctor() { this.constructor = child; } ctor.prototype = parent.prototype; child.prototype = new ctor(); child.__super__ = parent.prototype; return child; };
+
+Cappuccino = (function(_super) {
+  __extends(Cappuccino, _super);
+
+  function Cappuccino(name, strength) {
+    this.name = name;
+    this.strength = strength != null ? strength : 0.5;
+  }
+
+  return Cappuccino;
+
+})(Coffee);
+```
+
+Note:
+* Não se atentem muito com o Javascript compilado
+  - Herança em Js não é legal :(
+
+----
+<!-- .slide: data-background="img/coffee-art.png" -->
+
+### Dúvidas?
+
+Huh!?
+
+====
 
 ### Fontes
 

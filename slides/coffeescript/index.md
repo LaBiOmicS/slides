@@ -3,7 +3,7 @@
 
 > tome um gole de café
 
-<small>Versão 0.1.0</small>
+<small>Versão 0.1.1</small>
 
 ====
 <!-- .slide: class="author" -->
@@ -18,6 +18,12 @@
 * PHP, Javascript, Node.js, Ruby, Python, Arduino.
 * Entusiasta de novas tecnologias
 * ![codeminer42](img/codeminer.png) <!-- .element: class="pull-right no-border" -->
+
+====
+
+Acesse os slides em
+
+[slides.diovani.com/slides/coffeescript](http://slides.diovani.com/slides/coffeescript/)
 
 ----
 
@@ -350,7 +356,7 @@ caution(using(functions(arguments)));
 ```
 
 * parênteses são opionais
-    - desde que fornecidos argumentos
+* mas obrigatórios quando não há argumentos
 
 ====
 <!-- .slide: class="compile" -->

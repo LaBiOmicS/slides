@@ -3,7 +3,7 @@
 
 > tome um gole de café
 
-<small>Versão 0.2.0</small>
+<small>Versão 0.2.1</small>
 
 ====
 <!-- .slide: class="author" -->
@@ -16,7 +16,7 @@
 * Já palestrou em eventos FLISOL e Dia da Liberdade de Software.
 * Usuário GNU/Linux desde 2005.
 * PHP, Javascript, Node.js, Ruby, Python, Arduino.
-* Entusiasta de novas tecnologias
+* Entusiasta de novas tecnologias.
 * ![codeminer42](img/codeminer.png) <!-- .element: class="pull-right no-border" -->
 
 ====
@@ -357,7 +357,7 @@ alert(confirm("Ready for Coffee?"));
 caution(using(functions(arguments)));
 ```
 
-* parênteses são opionais
+* parênteses são opcionais
 * mas obrigatórios quando não há argumentos
 
 ====

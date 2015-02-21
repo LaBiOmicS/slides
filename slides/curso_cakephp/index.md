@@ -1,7 +1,7 @@
 
 ## Desenvolvimento Web rápido com [CakePHP 3.0][cake-site]
 
-<small>Versão 0.1</small>
+<small>Versão 0.1.0</small>
 
 [cake-site]: http://cakephp.org/
 
@@ -56,6 +56,21 @@ Documentação e principais referências para o CakePHP.
 
 Note:
 Referências adicionais: artigos, QA, fóruns, etc.
+
+----
+
+### Material do curso
+
+[Slides](http://slides.diovani.com/slides/curso-cakephp) <!-- .element: class="with-url" -->
+
+[Pasta pública](http://bit.ly/cake30-paulodiovani) <!-- .element: class="with-url" -->
+
+[Repositório no Github](https://github.com/paulodiovani/vagrantfile-cakephp) <!-- .element: class="with-url" -->
+
+Note:
+A pasta pública contém PDF dos slides e outros materiais.
+
+O repositório no github contém
 
 ----
 

@@ -19,7 +19,7 @@
 * Entusiasta de novas tecnologias.
 * ![codeminer42](img/codeminer.png) <!-- .element: class="pull-right no-border" -->
 
-====
+----
 
 [![cakephp][cake-logo]][cake-site] <!-- .element: class="no-border" -->
 
@@ -32,6 +32,30 @@ Note:
 O que é CakePHP?
 
 * Um framework PHP, MVC, para desenvolvimento rápido de aplicações web
+
+====
+
+[CakePHP website](http://cakephp.org/) <!-- .element: class="with-url" -->
+
+[Cookbook](http://book.cakephp.org/) <!-- .element: class="with-url" -->
+
+[API](http://api.cakephp.org/) <!-- .element: class="with-url" -->
+
+Note:
+Documentação e principais referências para o CakePHP.
+
+====
+
+[The Bakery](http://bakery.cakephp.org/) <!-- .element: class="with-url" -->
+
+[CakePHP on StackOverflow](http://stackoverflow.com/tags/cakephp) <!-- .element: class="with-url" -->
+
+[Google Group](https://groups.google.com/forum/#!forum/cake-php) <!-- .element: class="with-url" -->
+
+[CakePHP Tuga](https://groups.google.com/forum/#!forum/cakephp-pt) <!-- .element: class="with-url" -->
+
+Note:
+Referências adicionais: artigos, QA, fóruns, etc.
 
 ----
 

@@ -121,6 +121,32 @@ Ferramentas recomendadas para acompanhar o curso
 
 ----
 
+### Subindo o ambiente <small>com Vagrant</small>
+
+```bash
+git clone https://github.com/paulodiovani/vagrantfile-cakephp.git curso-cakephp
+cd curso-cakephp
+vagrant up
+```
+
+* [web server](http://localhost:8080) <!-- .element: class="with-url" -->
+    - Diretório `/curso-cakephp/www`
+* [phpMyAdmin](http://localhost:8080/phpmyadmin) <!-- .element: class="with-url" -->
+    - user: `root`, pass: `root`
+
+Note:
+Subindo o ambiente disponível em https://github.com/paulodiovani/vagrantfile-cakephp
+
+----
+
+# Parte 1
+
+## CakePHP 2.x
+
+Versão estável
+
+----
+
 ### Créditos
 
 por [Paulo Diovani Gonçalves](mailto:paulo@diovani.com)

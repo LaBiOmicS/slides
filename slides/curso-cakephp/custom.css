@@ -28,6 +28,13 @@ ul ul {
   font-size: .8em !important;
 }
 
+code:not([class]) {
+  font-size: 0.8em !important;
+  background-color: #F1EBCA;
+  border-radius: 2pt;
+  padding: 2pt 8pt !important;
+}
+
 .author ul li {
   list-style: none;
   font-size: 0.8em;

@@ -21,6 +21,24 @@
 
 ----
 
+### Expectativas
+
+* Desenvolvimento web com CakePHP
+* Conceitos de MVC
+* Boas práticas de programação
+
+====
+
+### Este curso não inclui
+
+* Instalação de ambiente (Apache, PHP, etc.)
+* ~~Programação PHP~~
+* Desenvolvimento _front end_ (HTML, CSS, Javascript)
+* _Deploy_ na nuvem
+* Café
+
+----
+
 [![cakephp][cake-logo]][cake-site] <!-- .element: class="no-border" -->
 
 _The rapid development PHP framework_

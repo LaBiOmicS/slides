@@ -35,6 +35,8 @@ O que é CakePHP?
 
 ====
 
+### Recursos para CakePHP
+
 [CakePHP website](http://cakephp.org/) <!-- .element: class="with-url" -->
 
 [Cookbook](http://book.cakephp.org/) <!-- .element: class="with-url" -->
@@ -72,9 +74,36 @@ A pasta pública contém PDF dos slides e outros materiais.
 
 O repositório no github contém
 
+====
+
+### O que vamos precisar?
+
+<small>Softwares necessários para o curso</small>
+
+* [Apache httpd 2.2](http://httpd.apache.org/) <!-- .element: class="with-url" -->
+* [MySQL 5.x](http://www.mysql.com/) <!-- .element: class="with-url" -->
+* [Notepad++](http://notepad-plus-plus.org/) <!-- .element: class="with-url" -->
+* [PHP 5.4](http://php.net) <!-- .element: class="with-url" -->
+
+Note:
+Essencial para o desenvolvimento com CakePHP e para este curso
+
+====
+
+<small>Softwares recomendados</small>
+
+* [Composer](https://getcomposer.org/) <!-- .element: class="with-url" -->
+* [Git](http://git-scm.com/) <!-- .element: class="with-url" -->
+* [Oracle Virtual Box](https://www.virtualbox.org/) <!-- .element: class="with-url" -->
+* [PuTTY](http://www.putty.org/) <!-- .element: class="with-url" -->
+* [Vagrant](https://www.vagrantup.com/) <!-- .element: class="with-url" -->
+
+Note:
+Ferramentas recomendadas para acompanhar o curso
+
 ----
 
-### Créditos da apresentação
+### Créditos
 
 por [Paulo Diovani Gonçalves](mailto:paulo@diovani.com)
 

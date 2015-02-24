@@ -24,6 +24,10 @@ a.with-url:hover:after {
   background-color: #c0a86e;
 }
 
+ul ul {
+  font-size: .8em !important;
+}
+
 .author ul li {
   list-style: none;
   font-size: 0.8em;

@@ -10,7 +10,7 @@
 
 #### Paulo Diovani Gonçalves
 
-* ![avatar](img/avatar-pb.jpg) <!-- .element: class="pull-right" -->
+* ![avatar](img/avatar-sepia.jpg) <!-- .element: class="pull-right" -->
 * Desenvolvedor na Codeminer 42.
 * Graduando em Sistemas para Internet na Universidade Feevale.
 * Palestrante em eventos FLISOL e Dia da Liberdade de Software.

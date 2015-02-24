@@ -129,13 +129,18 @@ cd curso-cakephp
 vagrant up
 ```
 
+Note:
+Subindo o ambiente disponível em https://github.com/paulodiovani/vagrantfile-cakephp
+
+====
+
 * [web server](http://localhost:8080) <!-- .element: class="with-url" -->
     - Diretório `/curso-cakephp/www`
 * [phpMyAdmin](http://localhost:8080/phpmyadmin) <!-- .element: class="with-url" -->
     - user: `root`, pass: `root`
 
 Note:
-Subindo o ambiente disponível em https://github.com/paulodiovani/vagrantfile-cakephp
+Acesso ao ambiente
 
 ----
 

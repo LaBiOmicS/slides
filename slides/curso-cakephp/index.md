@@ -154,6 +154,59 @@ Acesso ao ambiente
 
 Versão estável
 
+====
+
+### Instalação via git
+
+```bash
+git clone --depth=1 https://github.com/cakephp/cakephp.git cakephp2
+cd cakephp2
+```
+
+====
+
+    ls -1
+
+```
+/path_to_document_root
+    /app
+    /lib
+    /plugins
+    /vendors
+    .htaccess
+    index.php
+    README
+```
+
+====
+
+    ls -1 app/
+
+```
+/Config
+/Console
+/Controller
+index.php
+/Lib
+/Locale
+/Model
+/Plugin
+/Test
+/tmp
+/Vendor
+/View
+/webroot
+```
+
+====
+
+#### Configuração inicial
+
+* Habilitar `mode_rewrite`
+* Dar permissão de escrita na pasta `app/tmp/`
+* Alterar `Security.salt` em `app/Config/core.php`
+* Alterar `Security.cipherSeed` em `app/Config/core.php`
+
 ----
 
 ### Créditos

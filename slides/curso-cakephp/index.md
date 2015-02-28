@@ -53,6 +53,10 @@ O que é CakePHP?
 
 ====
 
+> CakePHP makes building web applications simpler, faster and require less code.
+
+====
+
 ### Recursos para CakePHP
 
 [CakePHP website](http://cakephp.org/) <!-- .element: class="with-url" -->

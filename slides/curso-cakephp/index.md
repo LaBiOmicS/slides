@@ -225,6 +225,25 @@ exibe uma view para o cliente.
 - Lógica da aplicação deve ficar no Model
 - Controller apenas "amarra" o Model à View
 
+====
+
+#### Desenvolvendo com Cake
+
+Criar um blog simples (adicionar e editar posts)
+utilizando CakePHP 2.x.
+
+<small>
+Baseado no [Cake Blog Tutorial][cake-blog-tutorial] <!-- .element: class="with-url" -->
+</small>
+
+[cake-blog-tutorial]: http://book.cakephp.org/2.0/en/tutorials-and-examples/blog/blog.html
+
+----
+
+# Parte 2
+
+## Configuração de ambiente
+
 ----
 
 ### Créditos

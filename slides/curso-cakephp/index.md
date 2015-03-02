@@ -165,8 +165,6 @@ cd cakephp2
 
 ====
 
-    ls -1
-
 ```
 /path_to_document_root
     /app
@@ -178,9 +176,10 @@ cd cakephp2
     README
 ```
 
-====
+Note:
+Diretórios base do CakePHP
 
-    ls -1 app/
+====
 
 ```
 /Config
@@ -198,6 +197,11 @@ index.php
 /webroot
 ```
 
+Note:
+Conteúdo do diretório `App`
+
+Note as pastas `Controller`, `Model` e `View`
+
 ====
 
 #### Configuração inicial
@@ -206,6 +210,20 @@ index.php
 * Dar permissão de escrita na pasta `app/tmp/`
 * Alterar `Security.salt` em `app/Config/core.php`
 * Alterar `Security.cipherSeed` em `app/Config/core.php`
+
+====
+
+![MVC](img/MVC.png) <!-- .element: class="no-border" -->
+
+Note:
+Esquema básico de uma aplicação MVC.
+
+O controller recebe as requisições do cliente,
+obtém/salva dados em um ou mais Models e, por fim,
+exibe uma view para o cliente.
+
+- Lógica da aplicação deve ficar no Model
+- Controller apenas "amarra" o Model à View
 
 ----
 

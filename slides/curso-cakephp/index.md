@@ -242,7 +242,9 @@ Baseado no [Cake Blog Tutorial][cake-blog-tutorial] <!-- .element: class="with-u
 
 # Parte 2
 
-## Configuração de ambiente
+## Web server
+
+Apache httpd 2.2
 
 ----
 

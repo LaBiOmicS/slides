@@ -154,6 +154,8 @@ Acesso ao ambiente
 
 Versão estável
 
+2.6.2
+
 ====
 
 ### Instalação via git
@@ -245,6 +247,120 @@ Baseado no [Cake Blog Tutorial][cake-blog-tutorial] <!-- .element: class="with-u
 ## Web server
 
 Apache httpd 2.2
+
+php 5.4+
+
+====
+
+#### Um típico Virtual Host do Apache.
+
+```apache
+<VirtualHost *:80>
+    ServerAdmin webmaster@localhost
+
+    DocumentRoot /var/www
+
+    <Directory /var/www/>
+        Options Indexes FollowSymLinks MultiViews
+        AllowOverride None
+        Order allow,deny
+        allow from all
+    </Directory>
+</VirtualHost>
+```
+
+Note:
+No Debian/Ubuntu, VHots ficam em `/etc/apache2/sites-enabled`.
+
+====
+
+#### Mod Rewrite
+
+```apache
+AllowOverride All
+```
+
+CakePHP `.htaccess` (em `/app/webroot`)
+
+```apache
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteRule ^ index.php [L]
+</IfModule>
+```
+
+Note:
+O Mod Rewrite é o que permite as _pretty urls_ do
+CakePHP, isto é, urls sem acessar `*.php`.
+
+====
+
+#### Logs
+
+Logs de acesso:
+
+```bash
+/var/log/apache2/access.log
+```
+
+Logs de erro:
+
+```bash
+/var/log/apache2/error.log
+```
+
+Note:
+Em uma instalação tradicional, qualquer erro do PHP
+é gravado junto aos logs do servidor web.
+Este comportamento pode ser alterado no `php.ini`.
+
+Estes caminhos são os padrões em ambiente unix.
+
+====
+
+### CakePHP sem Mod rewrite
+
+```php
+// file: /app/Config/core.php
+
+Configure::write('App.baseUrl', env('SCRIPT_NAME'));
+```
+
+Exemplo de url sem Mod Rewrite:
+
+```bash
+http://example.com/index.php/posts/view/13
+```
+
+Note:
+CakePHP pode rodar em qualquer web server que suporte
+PHP, incluindo IIS, Lighttpd e outros.
+
+Para aqueles que não suportem uma _rewrite engine_, 
+ele pode rodar desta forma.
+
+====
+
+### PHP Build-in web server
+
+```bash
+php -S localhost:8080
+```
+
+Note:
+O Built-in web server é voltado apenas para desenvolvimento
+e não deve ser utilizado em produção.
+Contudo deve ser sufiente para testar uma aplicação em CakePHP.
+
+----
+
+# Parte 3
+
+## CakePHP 3.0
+
+3.0.0-RC2
 
 ----
 

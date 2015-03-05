@@ -184,19 +184,20 @@ Diretórios base do CakePHP
 ====
 
 ```
-/Config
-/Console
-/Controller
-index.php
-/Lib
-/Locale
-/Model
-/Plugin
-/Test
-/tmp
-/Vendor
-/View
-/webroot
+/app
+    /Config
+    /Console
+    /Controller
+    /Lib
+    /Locale
+    /Model
+    /Plugin
+    /Test
+    /tmp
+    /Vendor
+    /View
+    /webroot
+    index.php
 ```
 
 Note:
@@ -361,6 +362,53 @@ Contudo deve ser sufiente para testar uma aplicação em CakePHP.
 ## CakePHP 3.0
 
 3.0.0-RC2
+
+Note:
+Versão estável deve ser lançada em Abril.
+
+====
+
+### Instalação via Composer
+
+```bash
+composer create-project --prefer-dist -s dev cakephp/app cakephp3
+```
+
+Note:
+CakePHP 3 deve ser instalado via Composer.
+
+====
+
+* Requerimentos
+    * PHP 5.4.16 ou maior
+    * mbstring
+    * intl
+* Estrutura de diretórios (agora [PSR4](http://www.php-fig.org/psr/psr-4/) <!-- .element: class="with-url" -->)
+* Instalação via [Composer](http://getcomposer.org/) <!-- .element: class="with-url" -->
+* Namespaces
+* Novo ORM
+* Sem _Scaffold_
+* etc.
+
+Note:
+Diferenças mais notáveis com a versão 2.x
+
+====
+
+```
+/path_to_document_root
+    /bin
+    /config
+    /logs
+    /plugins
+    /src
+    /tests
+    /tmp
+    /vendor
+    /webroot
+    index.php
+
+```
 
 ----
 

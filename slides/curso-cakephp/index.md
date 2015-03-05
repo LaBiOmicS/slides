@@ -410,6 +410,18 @@ Diferenças mais notáveis com a versão 2.x
 
 ```
 
+====
+
+### Cake Bake
+
+```bash
+./bin/cake bake all posts
+```
+
+Note:
+Bake é um utilitário para gerar o skeleton
+de uma aplicação Cake
+
 ----
 
 ### Créditos

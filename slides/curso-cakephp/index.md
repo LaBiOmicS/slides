@@ -427,6 +427,12 @@ Note:
 Bake é um utilitário para gerar o skeleton
 de uma aplicação Cake
 
+====
+
+#### Desenvolvendo com CakePHP 3.0
+
+Adicionar comentários e categorias aos posts.
+
 ----
 
 ### Créditos

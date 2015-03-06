@@ -377,6 +377,11 @@ composer create-project --prefer-dist -s dev cakephp/app cakephp3
 Note:
 CakePHP 3 deve ser instalado via Composer.
 
+Para liberar o protocolo git://
+`git config --global url."https://".insteadOf git://`
+
+`composer config --global github-protocols https`
+
 ====
 
 * Requerimentos

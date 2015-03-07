@@ -435,6 +435,21 @@ Diferenças mais notáveis com a versão 2.x
 
 ====
 
+### Cake Development Server
+
+```bash
+bin/cake server
+```
+
+* [web server](http://localhost:8765) <!-- .element: class="with-url" -->
+
+Note:
+O Cake 3 vem com um servidor para desenvolvimento,
+assim não é necessário Apache ou outro servidor web
+instlado.
+
+====
+
 ### Cake Bake
 
 ```bash

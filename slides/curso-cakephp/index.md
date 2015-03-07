@@ -465,6 +465,27 @@ logo gerar os fontes a partir dela.
 
 ====
 
+```bash
+src/Controller/PostsController.php
+src/Model/Entity/Post.php
+src/Model/Table/PostsTable.php
+src/Template/Posts/add.ctp
+src/Template/Posts/edit.ctp
+src/Template/Posts/index.ctp
+src/Template/Posts/view.ctp
+tests/Fixture/PostsFixture.php
+tests/TestCase/Controller/PostsControllerTest.php
+tests/TestCase/Model/Table/PostsTableTest.php
+```
+
+Note:
+Sripts gerados pelo `cake bake`.
+
+No momento vamos nos preocupar apenas com
+`Controller`, `Model` e `Template`.
+
+====
+
 Em `PostsController`
 
 ```php
@@ -512,6 +533,10 @@ Note:
 #### Desenvolvendo com CakePHP 3.0
 
 Adicionar comentários e categorias aos posts.
+
+Note:
+Utilizar `cake bake` para criar comentários e 
+categorias.
 
 ----
 

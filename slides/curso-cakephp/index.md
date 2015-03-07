@@ -460,6 +460,53 @@ Note:
 Bake é um utilitário para gerar o skeleton
 de uma aplicação Cake.
 
+Como já possuímos uma tabela `posts`, podemos
+logo gerar os fontes a partir dela.
+
+====
+
+Em `PostsController`
+
+```php
+// query
+debug($this->Posts->find('all'));
+// result set
+debug($this->Posts->find('all')->all());
+// entidade
+debug($this->Posts->find('all')->first());
+
+// entidade pelo id
+debug($this->Posts->get(1));
+// acesso aos dados
+debug($this->Posts->get(1)->id);
+debug($this->Posts->get(1)->title);
+
+// disponibilizando no template
+$this->set('posts', $this->Posts->find('all'));
+```
+
+Note:
+`debug()` é uma função para depuração simples do Cake.
+
+====
+
+Em `src/Template/Posts/index.ctp`
+
+```php
+// variáveis fornecidas pelo controller
+foreach ($posts as $post):
+
+// imprimindo dados
+h($post->title);
+
+// links
+$this->Html->link(__('View'), ['action' => 'view', $post->id]);
+```
+
+Note:
+`h()` é um alias para `htmlspecialchars()`
+
+`$this->Html` e `$this->Paginator` são Helpers.
 ====
 
 #### Desenvolvendo com CakePHP 3.0

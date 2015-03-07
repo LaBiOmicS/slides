@@ -35,7 +35,6 @@
 * ~~Programação PHP~~
 * Desenvolvimento _front end_ (HTML, CSS, Javascript)
 * _Deploy_ na nuvem
-* Café
 
 ----
 
@@ -127,9 +126,23 @@ Ferramentas recomendadas para acompanhar o curso
 
 ### Subindo o ambiente <small>com Vagrant</small>
 
+
+#### A partir da box fornecida
+
 ```bash
-git clone https://github.com/paulodiovani/vagrantfile-cakephp.git curso-cakephp
-cd curso-cakephp
+vagrant box add wheezy32-cakephp /path/to/wheezy32-cakephp.box
+
+mkdir -p cakephp/www
+cd cakephp/
+vagrant init wheezy32-cakephp
+vagrant up
+```
+
+#### Obtendo do GitHub
+
+```bash
+git clone https://github.com/paulodiovani/vagrantfile-cakephp.git cakephp
+cd cakephp
 vagrant up
 ```
 
@@ -139,9 +152,14 @@ Subindo o ambiente disponível em https://github.com/paulodiovani/vagrantfile-ca
 ====
 
 * [web server](http://localhost:8080) <!-- .element: class="with-url" -->
-    - Diretório `/curso-cakephp/www`
+    - Diretório `cakephp/www/`
 * [phpMyAdmin](http://localhost:8080/phpmyadmin) <!-- .element: class="with-url" -->
     - user: `root`, pass: `root`
+* ssh
+    - host: `localhost`
+    - port: `2222`
+    - user: `vagrant`
+    - pass: `vagrant`
 
 Note:
 Acesso ao ambiente

@@ -248,7 +248,7 @@ exibe uma view para o cliente.
 
 ====
 
-#### Desenvolvendo com Cake
+### Desenvolvendo com CakePHP 2.0
 
 Criar um blog simples (adicionar e editar posts)
 utilizando CakePHP 2.x.
@@ -528,9 +528,22 @@ Note:
 `h()` é um alias para `htmlspecialchars()`
 
 `$this->Html` e `$this->Paginator` são Helpers.
+
 ====
 
-#### Desenvolvendo com CakePHP 3.0
+![debug-kit](img/debug-kit.png)
+
+[Debug Kit](https://github.com/cakephp/debug_kit) <!-- .element: class="with-url" -->
+
+Note:
+Permite visualizar consultas SQL, variáveis, resisições, etc,
+sem necessidade de mexer no código-fonte.
+
+Debug kit já vem como dependência do Cake 3.0.
+
+----
+
+### Desenvolvendo com CakePHP 3.0
 
 Adicionar comentários e categorias aos posts.
 

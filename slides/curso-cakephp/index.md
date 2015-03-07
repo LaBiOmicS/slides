@@ -186,7 +186,7 @@ cd cakephp2
 ====
 
 ```
-/path_to_document_root
+/path_to_install_root
     /app
     /lib
     /plugins
@@ -389,7 +389,7 @@ Versão estável deve ser lançada em Abril.
 ### Instalação via Composer
 
 ```bash
-composer create-project --prefer-dist -s dev cakephp/app cakephp3
+composer create-project --prefer-dist -s dev cakephp/app cakephp
 ```
 
 Note:
@@ -419,7 +419,7 @@ Diferenças mais notáveis com a versão 2.x
 ====
 
 ```
-/path_to_document_root
+/path_to_install_root
     /bin
     /config
     /logs
@@ -438,12 +438,12 @@ Diferenças mais notáveis com a versão 2.x
 ### Cake Bake
 
 ```bash
-./bin/cake bake all posts
+bin/cake bake all posts
 ```
 
 Note:
 Bake é um utilitário para gerar o skeleton
-de uma aplicação Cake
+de uma aplicação Cake.
 
 ====
 

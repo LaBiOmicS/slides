@@ -551,6 +551,23 @@ Note:
 Utilizar `cake bake` para criar comentários e 
 categorias.
 
+====
+
+![blog-er](img/blog-er.png) <!-- .element: class="no-border" -->
+
+====
+
+#### Associações
+
+* hasOne
+    - `1-<>-1`
+* hasMany
+    - `1-<>-n`
+* belongsTo
+    - `1-<>-1` ou `n-<>-1`
+* belongsToMany
+    - `n-<>-n`
+
 ----
 
 ### Créditos

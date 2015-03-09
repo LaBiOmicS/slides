@@ -601,6 +601,18 @@ Router::scope('/artigos', ['controller' => 'Posts'], function($routes){
 });
 ```
 
+====
+
+### Deployment
+
+* Desabilitar debug em `/config/app.php`
+    ```php
+        'debug' => false,
+    ```
+
+* `DocumentRoot` deve ser `/webroot`
+
+
 ----
 
 ### Créditos

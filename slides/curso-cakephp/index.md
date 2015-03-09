@@ -570,7 +570,7 @@ categorias.
 
 ====
 
-#### Valicação de dados
+#### Validação de dados
 
 ```php
 $validator
@@ -586,6 +586,19 @@ $validator
         },
         'message' => 'Slug cannot contain spaces or special characters'
     ]);
+```
+
+====
+
+#### Rotas
+
+```php
+Router::scope('/artigos', ['controller' => 'Posts'], function($routes){
+    $routes->connect('/*', ['action' => 'view']);
+    $routes->connect('/novo', ['action' => 'add']);
+    $routes->connect('/editar/*', ['action' => 'edit']);
+    $routes->connect('/deletar/*', ['action' => 'delete']);
+});
 ```
 
 ----

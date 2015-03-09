@@ -568,6 +568,26 @@ categorias.
 * belongsToMany
     - `n-<>-n`
 
+====
+
+#### Valicação de dados
+
+```php
+$validator
+    ->add('id', 'valid', ['rule' => 'numeric'])
+    ->allowEmpty('id', 'create')
+    ->requirePresence('name', 'create')
+    ->notEmpty('name')
+    ->requirePresence('slug', 'create')
+    ->notEmpty('slug')
+    ->add('slug', 'custom', [
+        'rule' => function($value, $context) {
+            return (bool) preg_match('/^[a-z0-9\-]+$/', $value);
+        },
+        'message' => 'Slug cannot contain spaces or special characters'
+    ]);
+```
+
 ----
 
 ### Créditos

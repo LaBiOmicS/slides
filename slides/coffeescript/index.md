@@ -3,7 +3,7 @@
 
 > tome um gole de café
 
-<small>Versão 0.2.1</small>
+<small>Versão 0.2.2</small>
 
 ====
 <!-- .slide: class="author" -->
@@ -220,7 +220,7 @@ mobyDick = "Call me Ishmael.Some years ago - never mind how long precisely - hav
 * strings em múltiplas linhas são permitidas
 * linhas são concatenadas com um único espaço,
   a menos que terminem com uma barra invertida.
-* indentaçção é ignorada
+* indentação é ignorada
 
 ====
 <!-- .slide: class="compile" -->

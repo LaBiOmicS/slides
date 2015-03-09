@@ -88,7 +88,11 @@ Referências adicionais: artigos, QA, fóruns, etc.
 
 [Pasta pública](http://bit.ly/cake30-paulodiovani) <!-- .element: class="with-url" -->
 
-[Repositório no Github](https://github.com/paulodiovani/vagrantfile-cakephp) <!-- .element: class="with-url" -->
+#### Repositórios no Github
+
+[Vagrantfile](https://github.com/paulodiovani/vagrantfile-cakephp) <!-- .element: class="with-url" -->
+
+[Exemplos](https://github.com/paulodiovani/cakephp-course-examples) <!-- .element: class="with-url" -->
 
 Note:
 A pasta pública contém PDF dos slides e outros materiais.

@@ -4,6 +4,10 @@
         "description": "CoffeeScript é uma pequena linguagem que compila em Javascript. Com foco na legibilidade e escrita rápida, CoffeeScript se assemelha muito à sintaxe de linguagens mais modernas, como Python e Ruby, sem querer reinventar o Javascript.",
         "url": "slides/coffeescript/"
     },{
+        "title": "Desenvolvimento Web Rápido com CakePHP 3.0",
+        "description": "Com CakePHP é possível colocar um website no ar em minutos, utilizando de ferramentas para prototipação e a poderosa abstração da base de dados do Framework.",
+        "url": "slides/curso-cakephp/"
+    },{
         "title": "Javascript no servidor com Node.js",
         "description": "Uma palestra para iniciantes em Node.js, com uma visão geral e alguns exercícios práticos baseados no nodeschool.io.",
         "url": "slides/nodejs_server_side_javascript/"

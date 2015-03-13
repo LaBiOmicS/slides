@@ -21,11 +21,11 @@ module.exports = function(grunt) {
         meta: {
             banner:
                 '/*!\n' +
-                ' * reveal.js <%= pkg.version %>\n' +
+                ' * reveal.js <%= pkg.version %> (<%= grunt.template.today("yyyy-mm-dd, HH:MM") %>)\n' +
                 ' * http://lab.hakim.se/reveal-js\n' +
                 ' * MIT licensed\n' +
                 ' *\n' +
-                ' * Copyright (C) 2013 Hakim El Hattab, http://hakim.se\n' +
+                ' * Copyright (C) 2015 Hakim El Hattab, http://hakim.se\n' +
                 ' */'
         },
 
@@ -43,19 +43,17 @@ module.exports = function(grunt) {
             }
         },
 
-        cssmin: {
-            compress: {
-                files: {
-                    'css/reveal.min.css': [ 'css/reveal.css' ],
-                    'css/bootstrap-superhero.min.css': [ 'css/bootstrap-superhero.css' ]
-                }
-            }
-        },
-
         sass: {
-            main: {
+            core: {
                 files: {
-                    'css/theme/default.css': 'css/theme/source/default.scss',
+                    'css/reveal.css': 'css/reveal.scss',
+                }
+            },
+            themes: {
+                files: {
+                    'css/theme/black.css': 'css/theme/source/black.scss',
+                    'css/theme/white.css': 'css/theme/source/white.scss',
+                    'css/theme/league.css': 'css/theme/source/league.scss',
                     'css/theme/beige.css': 'css/theme/source/beige.scss',
                     'css/theme/night.css': 'css/theme/source/night.scss',
                     'css/theme/serif.css': 'css/theme/source/serif.scss',
@@ -67,6 +65,21 @@ module.exports = function(grunt) {
                 }
             }
         },
+
+        autoprefixer: {
+            dist: {
+                src: 'css/reveal.css'
+            }
+        },
+
+        cssmin: {
+            compress: {
+                files: {
+                    'css/reveal.min.css': [ 'css/reveal.css' ]
+                }
+            }
+        },
+
 
         jshint: {
             options: {
@@ -86,7 +99,9 @@ module.exports = function(grunt) {
                     module: false,
                     console: false,
                     unescape: false,
-                    require: false
+                    require: false,
+                    define: false,
+                    exports: false
                 }
             },
             files: [ 'Gruntfile.js', 'js/reveal.js' ]
@@ -99,10 +114,8 @@ module.exports = function(grunt) {
                     hostname: '*',
                     base: ['.', 'slides'],
                     directory: 'slides',
-                    open: {
-                        target: 'http://localhost:8000/slides', // target url to open
-                        appName: 'xdg-open' // name of the app that opens, ie: open, start, xdg-open
-                    }
+                    livereload: true,
+                    open: true
                 }
             }
         },
@@ -114,14 +127,21 @@ module.exports = function(grunt) {
         },
 
         watch: {
-            main: {
-                files: [ 'Gruntfile.js', 'js/reveal.js', 'css/reveal.css', 'slides/**' ],
-                tasks: 'default'
+            options: {
+                livereload: true
+            },
+            js: {
+                files: [ 'Gruntfile.js', 'js/reveal.js', 'slides/**/*.js' ],
+                tasks: 'js'
             },
             theme: {
                 files: [ 'css/theme/source/*.scss', 'css/theme/template/*.scss' ],
-                tasks: 'themes'
-            }
+                tasks: 'css-themes'
+            },
+            css: {
+                files: [ 'css/reveal.scss' ],
+                tasks: 'css-core'
+            },
         },
 
         clean: {
@@ -138,9 +158,24 @@ module.exports = function(grunt) {
             main: {
                 files: [
                     //copy all the dependencies
-                    {expand: true, src: ['css/**', 'js/**', 'lib/**', 'plugin/**'], dest: '<%= config.buildDir %>'},
+                    {
+                        expand: true,
+                        src: [
+                            'css/**',
+                            'js/**',
+                            'lib/**',
+                            'plugin/**'
+                        ],
+                        dest: '<%= config.buildDir %>'
+                    },
                     //copy the slides folder
-                    {expand: true, src: ['slides/**'], dest: '<%= config.buildDir %>'}
+                    {
+                        expand: true,
+                        src: [
+                            'slides/**'
+                        ],
+                        dest: '<%= config.buildDir %>'
+                    }
                 ]
             }
         },
@@ -178,25 +213,28 @@ module.exports = function(grunt) {
     });
 
     // Default task
-    grunt.registerTask( 'default', [ 'jshint', 'cssmin', 'uglify', 'qunit' ] );
+    grunt.registerTask( 'default', [ 'css', 'js' ] );
 
-    // Theme task
-    grunt.registerTask( 'themes', [ 'sass' ] );
+    // JS task
+    grunt.registerTask( 'js', [ 'jshint', 'uglify', 'qunit' ] );
+
+    // Theme CSS
+    grunt.registerTask( 'css-themes', [ 'sass:themes' ] );
+
+    // Core framework CSS
+    grunt.registerTask( 'css-core', [ 'sass:core', 'autoprefixer', 'cssmin' ] );
 
     // Package presentation to archive
     grunt.registerTask( 'package', [ 'default', 'copy', 'zip' ] );
+
+    // All CSS
+    grunt.registerTask( 'css', [ 'sass', 'autoprefixer', 'cssmin' ] );
 
     // Serve presentation locally
     grunt.registerTask( 'serve', [ 'connect', 'watch' ] );
 
     // Run tests
     grunt.registerTask( 'test', [ 'jshint', 'qunit' ] );
-
-    // @deprecated
-    grunt.registerTask( 'export', function() {
-        grunt.log.warn('"export" task is deprecated. Use "build".');
-        grunt.task.run(['build']);
-    });
 
     // Build for publising (on gh-pages, for example)
     grunt.registerTask( 'build', [ 'clean:build', 'default', 'copy', 'jade' ]);
@@ -207,8 +245,7 @@ module.exports = function(grunt) {
         grunt.log.warn('You must provide a target for deploy task.');
         return;
       }
-      
+
       grunt.task.run(['build', 'buildcontrol:' + target]);
     });
 };
-    

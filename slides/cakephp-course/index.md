@@ -84,7 +84,7 @@ Referências adicionais: artigos, QA, fóruns, etc.
 
 ### Material do curso
 
-[Slides](http://slides.diovani.com/slides/curso-cakephp) <!-- .element: class="with-url" -->
+[Slides](http://slides.diovani.com/slides/cakephp-course) <!-- .element: class="with-url" -->
 
 [Pasta pública](http://bit.ly/cake30-paulodiovani) <!-- .element: class="with-url" -->
 

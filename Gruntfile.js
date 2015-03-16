@@ -111,7 +111,7 @@ module.exports = function(grunt) {
             server: {
                 options: {
                     port: port,
-                    hostname: '*',
+                    hostname: 'localhost',
                     base: ['.', 'slides'],
                     directory: 'slides',
                     livereload: true,

@@ -24,7 +24,28 @@ pelas empresas.
 * Entusiasta de novas tecnologias.
 * ![codeminer42](img/codeminer.png) <!-- .element: class="pull-right no-border no-background" -->
 
+====
+
+[slides.diovani.com/slides/github-as-portfolio][slides]
+
+[slides]: http://slides.diovani.com/slides/github-as-portfolio/
+
+Note:
+Slides disponíveis no seguinte endereço.
+
 ----
+
+# [github.com][github]
+
+> Build software better, together.
+
+[github]: https://github.com
+
+Note:
+Se ainda não possui uma conta no github,
+faça agora.
+
+====
 <!-- .slide: data-background="#666" -->
 
 ![octocat](img/Octocat.png) <!-- .element: class="no-border no-background" -->
@@ -42,7 +63,7 @@ Como não amar um cruzamento de um gato e um polvo? <3
 * Hospedagem de repositórios (git)
 * Colaboração <!-- .element: class="fragment" data-fragment="1" -->
 * Comunicação entre times <!-- .element: class="fragment" data-fragment="1" -->
-* Gestor de projetos <!-- .element: class="fragment" data-fragment="1" -->
+* Gestor de códigos/projetos <!-- .element: class="fragment" data-fragment="1" -->
 * Bug tracker <!-- .element: class="fragment" data-fragment="1" -->
 * Hospedagem de página estáticas <!-- .element: class="fragment" data-fragment="1" -->
 * Wiki <!-- .element: class="fragment" data-fragment="1" -->
@@ -100,6 +121,7 @@ pasta.
 * Fotinho
 * Localização
 * Seguidores
+* Organizações
 
 <small>_[Linus Torvalds](https://github.com/torvalds), criador do 
 kernel Linux... E do git._</small>

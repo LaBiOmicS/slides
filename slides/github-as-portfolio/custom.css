@@ -7,6 +7,9 @@ img.no-background {
   background: none !important;
 }
 
+.pull-left {
+  float: left;
+}
 
 .pull-right {
   float: right;

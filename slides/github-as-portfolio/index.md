@@ -110,6 +110,23 @@ pasta.
 
 <small>_fonte: wikipedia_</small>
 
+====
+<!-- .slide: data-background="img/portfolio-03.png" -->
+
+### E programador, tem portfólio?
+
+Note:
+Preciso imprimir meus códigos-fonte?
+
+====
+<!-- .slide: data-background="img/portfolio-04.png" -->
+
+Note:
+Devo levar meu portfolio sempre comigo,
+por exemplo, numa entrevista?
+
+Relembrando, portfolio, literalmente, é uma _pasta_.
+
 ----
 
 ## O que o GitHub tem a dizer sobre você?
@@ -155,6 +172,17 @@ Mocha, etc.</small>
 ![jeresig](img/gh-05.jpg)
 
 <small>_[John Resig](https://github.com/jeresig)_, criador do jQuery.</small>
+
+====
+
+* Seus códigos-fonte
+
+![mojombo](img/gh-06.jpg)
+
+<small>_[Tom Preston-Werner](https://github.com/mojombo)_, criador do GitHub.</small>
+
+Note:
+...e, claro, seus códigos-fonte.
 
 ----
 
@@ -219,6 +247,8 @@ Em ordem de apresentação.
 * github.com
 * gottabemobile.com
 * lifeclever.com
+* backgroundwallpapershd.com
+* Pulp Fiction (1994)
 * jekyllrb.com
 
 ====

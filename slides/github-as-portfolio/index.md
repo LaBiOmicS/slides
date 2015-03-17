@@ -25,6 +25,41 @@ pelas empresas.
 * ![codeminer42](img/codeminer.png) <!-- .element: class="pull-right no-border no-background" -->
 
 ----
+<!-- .slide: data-background="#666" -->
+
+![octocat](img/Octocat.png) <!-- .element: class="no-border no-background" -->
+
+Note:
+Github é a plataforma/site/rede social que possui o marcote
+mais carismático já criado. O octocat.
+
+Como não amar um cruzamento de um gato e um polvo? <3
+
+==== 
+
+## GitHub é
+
+* Hospedagem de repositórios (git)
+* Colaboração <!-- .element: class="fragment" data-fragment="1" -->
+* Comunicação entre times <!-- .element: class="fragment" data-fragment="1" -->
+* Gestor de projetos <!-- .element: class="fragment" data-fragment="1" -->
+* Bug tracker <!-- .element: class="fragment" data-fragment="1" -->
+* Hospedagem de página estáticas <!-- .element: class="fragment" data-fragment="1" -->
+* Wiki <!-- .element: class="fragment" data-fragment="1" -->
+* Pastebin (gist.github.com) <!-- .element: class="fragment" data-fragment="1" -->
+* Rede social <!-- .element: class="fragment" data-fragment="1" -->
+
+Note:
+Github pode ser utilizado de várias formas.
+
+====
+
+### ...e portfólio de projetos Open Source
+
+Note:
+Mas vamos falar sobre como utilizá-lo como portfólio.
+
+----
 
 ### Créditos da apresentação
 

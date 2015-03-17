@@ -20,3 +20,19 @@ img.no-background {
   font-size: 0.8em;
   padding-bottom: 0.4em;
 }
+
+a.with-url:after {
+  content: attr(href);
+  font-size: .6em;
+  margin-left: 10px;
+  padding: 4px 10px;
+  border-radius: 4px;
+  transition-property: background-color, color;
+  transition-duration: .3s;
+  transition-timing-function: ease;
+}
+
+a.with-url:hover:after {
+  color: white;
+  background-color: #c0a86e;
+}

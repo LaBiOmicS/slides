@@ -136,7 +136,57 @@ Mocha, etc.</small>
 
 ----
 
+## Como expor meu trabalho no GitHub?
 
+Note:
+Ter seu trabalho publicado no github permite que outros,
+inclusive empresas, o cnoheçam e saibam do que é capaz.
+
+Mas como expor meu trabalho no gh?
+
+====
+
+![create](img/create-a-repo.gif) <!-- .element class="pull-left" -->
+
+### Crie um repositório
+
+Seja para um projeto pessoal, trabalhos da universidade
+ou provas de conceito. Coloque no GitHub.
+
+====
+
+![fork](img/fork-a-repo.gif) <!-- .element class="pull-right" -->
+
+### Faça um _Fork_
+
+Colaboração é o _core_ do GitHub.
+
+Faça _forks_ de projetos dos quais queira 
+participar. Ajude a melhorá-los enviando _pull-requests_.
+
+![fork](img/fork-a-repo-screen.jpg)
+
+====
+
+![fork](img/be-social.gif) <!-- .element class="pull-left" -->
+
+### Socialize-se
+
+Acompanhe (_watch_) e marque como favorito (_star_) repositórios
+que lhe interessem.
+
+Teste, comente, revise, abra _issues_...
+
+====
+
+![fork](img/jekyll.png) <!-- .element class="pull-right no-border no-background" -->
+
+### Publique
+
+Você pode facilmente publicar sites estáticos no
+GitHub (HTML, Markdown) ou até criar um blog
+utilizando [Jekyll](http://jekyllrb.com/) ou
+outro _static site generator_.
 
 ----
 
@@ -147,6 +197,7 @@ Em ordem de apresentação.
 * github.com
 * gottabemobile.com
 * lifeclever.com
+* jekyllrb.com
 
 ====
 
@@ -162,6 +213,8 @@ _powered by: [reveal.js](http://lab.hakim.se/reveal-js/)_
 
 ====
 
-Extra: Conheça o [Octodex][octodex]
+##### Extra
+
+Conheça o [Octodex][octodex] <!-- .element: class="with-url" -->
 
 [octodex]: https://octodex.github.com/ "GitHub Octodex"

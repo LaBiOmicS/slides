@@ -267,6 +267,20 @@ _powered by: [reveal.js](http://lab.hakim.se/reveal-js/)_
 
 ##### Extra
 
-Conheça o [Octodex][octodex] <!-- .element: class="with-url" -->
+Conheça o Octodex.
 
+[![megacat][megacat]][octodex]
+
+[megacat]: img/megacat.jpg
 [octodex]: https://octodex.github.com/ "GitHub Octodex"
+
+====
+
+##### Extra 2
+
+Que tal um pouco de _Graffiti_ no seu GitHub?
+
+[![gitfigi][gitfiti]][gitfiti-gh]
+
+[gitfiti]: img/gitfiti.png
+[gitfiti-gh]: https://github.com/gelstudios/gitfiti

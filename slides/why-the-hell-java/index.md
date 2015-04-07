@@ -47,6 +47,77 @@ Note:
 
 ----
 
+```java
+// Hello World in Java
+class HelloWorld {
+    static public void main( String args[] ) {
+        System.out.println( "Hello World!" );
+    }
+}
+```
+
+<small>Fonte: http://www.roesler-ac.de/wolfram/hello.htm</small>
+
+====
+
+```ruby
+# Hello World in Ruby
+puts "Hello World!"
+```
+
+<small>Fonte: http://www.roesler-ac.de/wolfram/hello.htm</small>
+
+====
+
+```java
+// Read and write files in Java
+class FileStreamsReadnWrite {
+    public static void main(String[] args) {
+        try {
+            File stockInputFile  = new File("/tmp/stockIn.txt");
+            File stockOutputFile = new File("/tmp/StockOut.txt");
+            FileInputStream fis  = new FileInputStream(stockInputFile);
+            FileOutputStream fos = new FileOutputStream(stockOutputFile);
+            int count;
+
+            while ((count = fis.read()) != -1) {
+                fos.write(count);
+            }
+            fis.close();
+            fos.close();
+        } catch (FileNotFoundException e) {
+            System.err.println("FileStreamsReadnWrite: " + e);
+        } catch (IOException e) {
+            System.err.println("FileStreamsReadnWrite: " + e);
+        }
+    }
+}
+```
+
+====
+
+```javascript
+// Read and write files in Node.js
+var fis = fs.createReadStream("/tmp/stockIn.txt");
+var fos = fs.createWriteStream("/tmp/stockOut.txt");
+
+fis.pipe(fos);
+```
+
+----
+
+| Menos produtivo     | Mais produtivo                   |
+| --                  | --                               |
+| Dependência de IDEs | Boa documentação                 |
+| Verbosidade         | Comunidade ativa                 |
+|                     | Convenções                       |
+|                     | Linguagem natural                |
+|                     | Repositórios de módulos/packages |
+|                     | Tarefas automatizadas            |
+|                     | Simplicidade                     |
+
+----
+
 ### Créditos das imagens
 
 <small>Em ordem de apresentação</small>

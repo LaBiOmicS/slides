@@ -223,6 +223,25 @@ Problemas:
 Note:
 Screenshots de Visual Studio e Eclipse para ilustrar.
 
+====
+
+#### Inconsistênia
+
+Falta de padronização nas bibliotecas tornam a linguagem
+difícil de aprender/memorizar.
+
+```php
+// PHP naming (does not have) conventions
+
+strlen(); str_pad();
+
+urlencode(); utf8_encode();
+
+gethostname(); php_uname();
+
+trim(); substr(); chr();
+```
+
 ----
 
 ### Créditos das imagens

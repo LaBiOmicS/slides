@@ -36,3 +36,13 @@ a.with-url:hover:after {
   color: white;
   background-color: #dd5566;
 }
+
+/* fix code overflow */
+
+.reveal pre {
+  width: auto;
+}
+
+.reveal pre code {
+  max-height: none;
+}

@@ -32,6 +32,8 @@ com foco em escrita rápida e código legível.
 
 ====
 
+#### Importante!
+
 Isso **não é** uma _crítica a Java_
 
 <small>
@@ -40,17 +42,47 @@ desenvolvida pela Sun Microsystems em 1991, a qual foi adquirida
 pela Oracle&reg; Corporation em 2009-2010.
 </small>
 
-[Oracle Java](https://oracle.com/java) <!-- .element: class="with-url" -->
-
 Note:
 ...mas é.
 
 Na verdade estou usando Java como exemplo de linguagem _verbosa_,
 poderia ser C++, C#, Delphi, etc.
 
+====
+
+#### Importante!
+
+Cada linguagem de programação é apropriada ou, pelo menos,
+indicada, para um ou mais tipos de problemas específicos.
+
+Note:
+...mesmo Java.
+
+Os exemplos usados aqui podem facilmente ser refutados
+se consideradas condições diversas.
+
+PHP, por exemplo, é amplamente conhecida como uma linguagem
+apropriada para desenvolvimento web.
+Java, por sua vez, é indispensável para desenvolvimento
+Android.
+
+====
+
+#### ~~Não tão~~ importante!
+
+Os argumentos apresentados aqui são baseados em experiências
+próprias e opinioes pessoais.
+
+<small>Evitem _flame wars_</small>
+
+Note:
+...concordem se quiserem.
+
 ----
 
 ![java-logo](img/java-logo.jpg)
+
+[Oracle Java](https://oracle.com/java) <!-- .element: class="with-url" -->
 
 Note:
 O logo (conhecidíssimo) da linguagem Java é uma xícara de café.

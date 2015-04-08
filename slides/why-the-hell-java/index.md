@@ -174,6 +174,10 @@ class FileStreamsReadnWrite {
 
 <small>Fonte: http://javarevisited.blogspot.in/2011/12/read-and-write-text-file-java.html</small>
 
+Note:
+Abrir dois arquivos como Streams e gravar as informações
+do primeiro no segundo.
+
 ====
 
 ```javascript
@@ -185,6 +189,9 @@ fis.pipe(fos);
 ```
 
 <small>Fonte: `this`</small>
+
+Note:
+A mesma coisa, mas muito mais fácil. :D
 
 ----
 

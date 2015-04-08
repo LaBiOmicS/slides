@@ -270,6 +270,10 @@ Muitas linhas de código para resolver tarefas simples.
 
 ----
 
+### Maior produtividade
+
+----
+
 ### Créditos das imagens
 
 <small>Em ordem de apresentação</small>

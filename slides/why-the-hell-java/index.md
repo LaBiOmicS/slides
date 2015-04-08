@@ -191,8 +191,8 @@ fis.pipe(fos);
 | Menos produtivo     | Mais produtivo         |
 | --                  | --                     |
 | Dependência de IDEs | Boa documentação       |
-| Inconsistência      | Comunidade ativa       |
-| Regras              | Convenções             |
+| Inconsistências     | Comunidade ativa       |
+| Regras radicais     | Convenções             |
 | Verbosidade         | Linguagem natural      |
 |                     | Gerenciador de pacotes |
 |                     | Simplicidade           |
@@ -225,7 +225,7 @@ Screenshots de Visual Studio e Eclipse para ilustrar.
 
 ====
 
-#### Inconsistênia
+#### Inconsistências
 
 Falta de padronização nas bibliotecas tornam a linguagem
 difícil de aprender/memorizar.
@@ -241,6 +241,25 @@ gethostname(); php_uname();
 
 trim(); substr(); chr();
 ```
+
+====
+
+#### Regras radicais
+
+Muitas regras podem deixar a linguagem confusa e
+incentivar _bikeshedding_.
+
+* Nomes de arquivos
+* Tipagem forte
+* Conversões explícitas / _casting_
+
+====
+
+#### Verbosidade
+
+Muitas linhas de código para resolver tarefas simples.
+
+<small>Já falamos sobre Java?</small>
 
 ----
 

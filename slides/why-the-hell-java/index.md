@@ -140,6 +140,8 @@ class FileStreamsReadnWrite {
 }
 ```
 
+<small>Fonte: http://javarevisited.blogspot.in/2011/12/read-and-write-text-file-java.html</small>
+
 ====
 
 ```javascript
@@ -150,17 +152,20 @@ var fos = fs.createWriteStream("/tmp/stockOut.txt");
 fis.pipe(fos);
 ```
 
+<small>Fonte: `this`</small>
+
 ----
 
-| Menos produtivo     | Mais produtivo                   |
-| --                  | --                               |
-| Dependência de IDEs | Boa documentação                 |
-| Verbosidade         | Comunidade ativa                 |
-|                     | Convenções                       |
-|                     | Linguagem natural                |
-|                     | Repositórios de módulos/packages |
-|                     | Tarefas automatizadas            |
-|                     | Simplicidade                     |
+| Menos produtivo     | Mais produtivo         |
+| --                  | --                     |
+| Dependência de IDEs | Boa documentação       |
+| Inconsistência      | Comunidade ativa       |
+| Regras              | Convenções             |
+| Verbosidade         | Linguagem natural      |
+|                     | Gerenciador de pacotes |
+|                     | Simplicidade           |
+
+<small>Menos trabalho == Mais produtividade</small>
 
 ----
 

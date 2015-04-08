@@ -15,6 +15,10 @@ img.no-background {
   float: right;
 }
 
+.clear {
+  clear: both;
+}
+
 .author ul li {
   list-style: none;
   font-size: 0.8em;

@@ -169,6 +169,30 @@ fis.pipe(fos);
 
 ----
 
+### Menor produtividade
+
+====
+
+#### Dependência de IDEs
+
+![vs](img/ide-vs.jpg) <!-- .element: class="pull-right" -->
+![eclipse](img/ide-eclipse.jpg) <!-- .element: class="pull-right clear" -->
+
+Problemas:
+
+* Consumo de memória
+* Exigência de _GUI_
+* Ofuscação de dependências
+* Programador não sabe/consegue
+    - Desenvolver sem IDE?
+    - Compilar via linha de comando?
+    - Fazer deploy?
+
+Note:
+Screenshots de Visual Studio e Eclipse para ilustrar.
+
+----
+
 ### Créditos das imagens
 
 <small>Em ordem de apresentação</small>
@@ -178,6 +202,8 @@ fis.pipe(fos);
 * martinjeeblog.files.wordpress.com
 * images.bwbx.io
 * svs.github.io
+* msdn.com
+* eclipse.org
 
 ====
 

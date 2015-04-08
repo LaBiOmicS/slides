@@ -188,7 +188,7 @@ var fos = fs.createWriteStream("/tmp/stockOut.txt");
 fis.pipe(fos);
 ```
 
-<small>Fonte: `this`</small>
+<small>Fonte: `self`</small>
 
 Note:
 A mesma coisa, mas muito mais fácil. :D
@@ -283,6 +283,7 @@ Muitas linhas de código para resolver tarefas simples.
 * martinjeeblog.files.wordpress.com
 * images.bwbx.io
 * svs.github.io
+* codeminer42.com
 * msdn.com
 * eclipse.org
 

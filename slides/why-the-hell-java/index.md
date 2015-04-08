@@ -43,9 +43,55 @@ pela Oracle&reg; Corporation em 2009-2010.
 [Oracle Java](https://oracle.com/java) <!-- .element: class="with-url" -->
 
 Note:
-...mas é
+...mas é.
+
+Na verdade estou usando Java como exemplo de linguagem _verbosa_,
+poderia ser C++, C#, Delphi, etc.
 
 ----
+
+![java-logo](img/java-logo.jpg)
+
+Note:
+O logo (conhecidíssimo) da linguagem Java é uma xícara de café.
+
+====
+
+![java-island](img/java-island.gif)
+![java-coffee](img/java-coffee.jpg)
+
+Note:
+O nome e logo da linguagem vem da ilhas de Java, na indonésia,
+onde se produz um café forte, escuro e doce.
+
+====
+
+![java-coder](img/java-coder.jpg) <!-- .element: style="transform: scale(1.6)" -->
+
+Note:
+...Eu, particularmente, acho que o logo está muito mais
+ligado à quantidade de tempo que o programador java vai
+precisar ficar acordado. E na quantidade de café que
+precisa tomar para isso.
+
+Eis um _típico programador Java_
+
+====
+
+![ruby-coder](img/ruby-coder.jpg)
+
+Note:
+Minha intenção, com esta apresentação, é mostrar que existem
+linguagens que permitem um trabalho mais produtivo e menos
+cansativo.
+
+Eis um _típico programador Ruby_.
+
+----
+
+### Alguns exemplos
+
+====
 
 ```java
 // Hello World in Java
@@ -123,6 +169,10 @@ fis.pipe(fos);
 <small>Em ordem de apresentação</small>
 
 * thedailywtf.com
+* clearsoftinc.com
+* martinjeeblog.files.wordpress.com
+* images.bwbx.io
+* svs.github.io
 
 ====
 

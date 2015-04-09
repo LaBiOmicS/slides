@@ -272,6 +272,87 @@ Muitas linhas de código para resolver tarefas simples.
 
 ### Maior produtividade
 
+====
+
+#### Boa documentação
+
+![mdn](img/mdn-javascript.png)
+
+Note:
+Documentação de fácil acesso e fácil de entender.
+
+Screenshor do Mozilla Developer Center.
+
+====
+
+#### Comunidade ativa
+
+![npm-growth](img/npm-growth.png)
+
+<small>Fonte: modulecounts.com</small>
+
+Note:
+Em Julho/2014, a quantidade de módulos do 
+npm superou as do Rubygems e Maven (Java).
+
+====
+
+#### Convenções
+
+Convenções ao invés de configurações
+
+* Menos decisões
+* Simplicidade
+* Sem perder flexibilidade
+
+Note:
+Isto depende muito mais da comunidade e
+frameworks do que da linguagem.
+
+====
+
+#### Linguagem natural
+
+```ruby
+5.times do
+  puts "Hello"
+end
+```
+
+É melhor que
+
+```c
+for (int i = 0; i < 5; i++) {
+    printf("Hello");
+}
+```
+
+====
+
+#### Gerenciador de pacotes
+
+![ruby-gems](img/ruby-gems.jpg) <!-- .element: class="no-border no-background" -->
+![npm](img/npm.png) <!-- .element: class="no-border no-background" -->
+![composer](img/composer.png) <!-- .element: class="no-border no-background" -->
+
+Note:
+Um bom gerenciador de pacotes pode fazer a diferença
+na produtividade, especialmente quando existe uma
+grande comunidade criando, testando e mantendo pacotes
+existentes.
+
+====
+
+#### Simplicidade
+
+KISS <!-- .element: style="font-size:8em; font-weight: bold;" -->
+
+<small>_keep it simple, stupid_</small>
+
+Note:
+Mesmo com Orientação a objetos, MVC, patterns, etc.
+As vezes o melhor é o mais simples.
+
 ----
 
 ### Créditos das imagens
@@ -286,6 +367,18 @@ Muitas linhas de código para resolver tarefas simples.
 * codeminer42.com
 * msdn.com
 * eclipse.org
+* modulecounts.com
+
+====
+
+#### Créditos das imagens (cont.)
+
+<small>Em ordem de apresentação</small>
+
+* developer.mozilla.org
+* rubigems.org
+* npmjs.org
+* getcomposer.org
 
 ====
 

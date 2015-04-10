@@ -17,7 +17,7 @@
         "url": "slides/nodejs-server-side-javascript/"
     },{
         "title": "Por que diabos vou usar Java?",
-        "description": "Apresentação de linguagens modernas, com foco em desenvolvimento rápido e código legível, suas comunidades e ferramentas.",
+        "description": "Apresentação sobre linguagens modernas, com foco em desenvolvimento rápido e código legível.",
         "url": "slides/why-the-hell-java/"
     },{
         "title": "Vagrant - Descomplicando o uso de VMs para desenvolvimento de software",

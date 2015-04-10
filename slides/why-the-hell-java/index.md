@@ -5,19 +5,19 @@
 Uma apresentação sobre linguagens de programação modernas,
 com foco em escrita rápida e código legível.
 
-<small>Versão 0.1</small>
+<small>Versão 0.1.0</small>
 
 ====
 <!-- .slide: class="author" -->
 
 #### Paulo Diovani Gonçalves
 
-* ![avatar](img/avatar-pb.jpg) <!-- .element: class="pull-right" -->
-* Desenvolvedor na Codeminer 42
-* Acadêmico de graduação em Tecnologia em Sistemas 
+- ![avatar](img/avatar-pb.jpg) <!-- .element: class="pull-right" -->
+- Desenvolvedor na Codeminer 42
+- Acadêmico de graduação em Tecnologia em Sistemas
     para Internet pela Universidade Feevale
-* Usuário GNU/Linux desde 2005
-* PHP, Javascript, Java, Node.js, Ruby, Python, Arduino
+- Usuário GNU/Linux desde 2005
+- PHP, Javascript, Java, Node.js, Ruby, Python, Arduino
 
 ![codeminer42][code-logo] <!-- .element: class="no-border no-background" -->
 
@@ -121,10 +121,6 @@ Eis um _típico programador Ruby_.
 
 ----
 
-### Alguns exemplos
-
-====
-
 ```java
 // Hello World in Java
 class HelloWorld {
@@ -161,6 +157,7 @@ class FileStreamsReadnWrite {
             while ((count = fis.read()) != -1) {
                 fos.write(count);
             }
+
             fis.close();
             fos.close();
         } catch (FileNotFoundException e) {
@@ -219,10 +216,10 @@ A mesma coisa, mas muito mais fácil. :D
 
 Problemas:
 
-* Consumo de memória
-* Exigência de _GUI_
-* Ofuscação de dependências
-* Programador não sabe/consegue
+- Consumo de memória
+- Exigência de _GUI_
+- Ofuscação de dependências
+- Programador não sabe/consegue
     - Desenvolver sem IDE?
     - Compilar via linha de comando?
     - Fazer deploy?
@@ -254,11 +251,11 @@ trim(); substr(); chr();
 #### Regras radicais
 
 Muitas regras podem deixar a linguagem confusa e
-incentivar _bikeshedding_.
+incentivam _bikeshedding_.
 
-* Nomes de arquivos
-* Tipagem forte
-* Conversões explícitas / _casting_
+- Nomes de arquivos
+- Tipagem forte
+- Conversões explícitas / _casting_
 
 ====
 
@@ -301,9 +298,9 @@ npm superou as do Rubygems e Maven (Java).
 
 Convenções ao invés de configurações
 
-* Menos decisões
-* Simplicidade
-* Sem perder flexibilidade
+- Menos decisões
+- Simplicidade
+- Sem perder flexibilidade
 
 Note:
 Isto depende muito mais da comunidade e

@@ -354,9 +354,29 @@ As vezes o melhor é o mais simples.
 
 ----
 
+### Popularidade das linguagens
+
+====
+
 ![githut](img/githut.png)
 
 <small>http://githut.info</small>
+
+Note:
+O GitHut mostra a popularidade com base em respositórios
+do GitHub, dividindo em:
+
+====
+
+![so-tags](img/stackoverflow-256tags.jpg)
+
+<small>[higher resolution (PDF)][256tags]</small>
+
+[256tags]: http://migdal.wdfiles.com/local--files/en%3Astackoverflow-256-tags/so_256tags_map_rc2.pdf
+
+Note:
+256tags foi criado com uso dos dados abertos do Stack Overflow.
+Imagem de 2012.
 
 ----
 
@@ -706,6 +726,7 @@ Algums citações...
 * maven.apache.org
 * nuget.org
 * githut.info
+* migdal.wdfiles.com
 
 ====
 

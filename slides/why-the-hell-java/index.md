@@ -355,6 +355,12 @@ As vezes o melhor é o mais simples.
 
 ----
 
+![githut](img/githut.png)
+
+<small>githut.info</small>
+
+----
+
 ### Créditos das imagens
 
 <small>Em ordem de apresentação</small>
@@ -379,6 +385,7 @@ As vezes o melhor é o mais simples.
 * rubigems.org
 * npmjs.org
 * getcomposer.org
+* githut.info
 
 ====
 

@@ -289,7 +289,7 @@ Screenshor do Mozilla Developer Center.
 
 ![npm-growth](img/npm-growth.png)
 
-<small>Fonte: modulecounts.com</small>
+<small>Fonte: http://modulecounts.com</small>
 
 Note:
 Em Julho/2014, a quantidade de módulos do 
@@ -334,6 +334,8 @@ for (int i = 0; i < 5; i++) {
 ![ruby-gems](img/ruby-gems.jpg) <!-- .element: class="no-border no-background" -->
 ![npm](img/npm.png) <!-- .element: class="no-border no-background" -->
 ![composer](img/composer.png) <!-- .element: class="no-border no-background" -->
+![maven](img/maven.png) <!-- .element: class="no-border no-background" -->
+![nuget](img/nuget.svg) <!-- .element: class="no-border no-background" style="width: 240px" -->
 
 Note:
 Um bom gerenciador de pacotes pode fazer a diferença
@@ -357,7 +359,7 @@ As vezes o melhor é o mais simples.
 
 ![githut](img/githut.png)
 
-<small>githut.info</small>
+<small>http://githut.info</small>
 
 ----
 
@@ -385,6 +387,8 @@ As vezes o melhor é o mais simples.
 * rubigems.org
 * npmjs.org
 * getcomposer.org
+* maven.apache.org
+* nuget.org
 * githut.info
 
 ====

@@ -71,7 +71,7 @@ Android.
 #### ~~Não tão~~ importante!
 
 Os argumentos apresentados aqui são baseados em experiências
-próprias e opinioes pessoais.
+próprias e opiniões pessoais.
 
 <small>Evitem _flame wars_</small>
 

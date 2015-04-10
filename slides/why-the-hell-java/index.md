@@ -71,7 +71,7 @@ Android.
 #### ~~Não tão~~ importante!
 
 Os argumentos apresentados aqui são baseados em experiências
-próprias e opinioes pessoais.
+próprias e opiniões pessoais.
 
 <small>Evitem _flame wars_</small>
 
@@ -545,8 +545,8 @@ Note:
 
 ### Alternativas
 
-> Preciso desenvolver em certa linguagem,
-> nas não gosto / acho difícil.
+Preciso desenvolver em certa linguagem,
+mas não gosto / acho difícil.
 
 Note:
 Existem linguagens ou ferramentas que permitem desenvolver

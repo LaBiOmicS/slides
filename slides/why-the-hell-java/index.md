@@ -545,8 +545,8 @@ Note:
 
 ### Alternativas
 
-> Preciso desenvolver em certa linguagem,
-> nas não gosto / acho difícil.
+Preciso desenvolver em certa linguagem,
+mas não gosto / acho difícil.
 
 Note:
 Existem linguagens ou ferramentas que permitem desenvolver

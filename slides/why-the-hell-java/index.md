@@ -360,6 +360,169 @@ As vezes o melhor é o mais simples.
 
 ----
 
+### Algumas linguagens
+
+<small>Exemplos de códigos</small>
+
+Note:
+Agora vou mostrar exemplos de algumas linguagens
+de programaçãomais _fáceis_ de se trabalhar.
+
+====
+
+#### Python
+
+```python
+# Python 3: Fibonacci series up to n
+def fib(n):
+    a, b = 0, 1
+    while a < n:
+        print(a, end=' ')
+        a, b = b, a+b
+    print()
+
+fib(1000)
+# out: 0 1 1 2 3 5 8 13 21 34 55 89 144 233 377 610 987
+```
+
+<small>http://python.org</small>
+
+Note:
+- Menos código escrito
+- Blocos separados por indentação
+- Grande quantidade de bibliotecas
+- Ótimo para IO
+
+====
+
+#### Ruby
+
+```ruby
+# The Greeter class
+class Greeter
+  def initialize(name)
+    @name = name.capitalize
+  end
+
+  def salute
+    puts "Hello #{@name}!"
+  end
+end
+
+# Create a new object
+g = Greeter.new("world")
+
+# Output "Hello World!"
+g.salute
+```
+
+<small>http://ruby-lang.org</small>
+
+Note:
+- Liguagem natural
+- Convention over configuration
+- Grande comunidade (e unida)
+- Ecossistema conciso
+- Melhores frameworks de testes (TDD/BDD)
+
+====
+
+#### Node.js
+
+```javascript
+var http = require('http');
+
+var server = http.createServer(function (req, res) {
+  res.writeHead(200, {'Content-Type': 'text/plain'});
+  res.end('Hello World\n');
+});
+
+server.listen(1337, '127.0.0.1');
+
+console.log('Server running at http://127.0.0.1:1337/');
+```
+
+<small>http://nodejs.org</small>
+
+Note:
+- Javascript (sintaxe conhecida)
+- Event based, non-blocking IO
+- Comunidade crescente
+- Muitos módulos disponíveis
+- Convenções sobre callbacks, streams, etc
+- Ótima documentação
+
+====
+
+#### CoffeeScript
+
+```coffeescript
+# Assignment:
+number   = 42
+opposite = true
+
+# Conditions:
+number = -42 if opposite
+
+# Functions:
+square = (x) -> x * x
+
+# Arrays:
+list = [1, 2, 3, 4, 5]
+
+# Objects:
+math =
+  root:   Math.sqrt
+  square: square
+  cube:   (x) -> x * square x
+
+# Splats:
+race = (winner, runners...) ->
+  print winner, runners
+
+# Array comprehensions:
+cubes = (math.cube num for num in list)
+```
+
+<small>http://coffeescript.org</small>
+
+Note:
+CoffeeScript (compila para Javascript)
+
+- Menos código escrito
+- Blocos separados por indentação
+- Liguagem natural
+- Ótima para escrever testes
+
+====
+
+#### Apple Swift
+
+```swift
+func hasAnyMatches(list: [Int], condition: Int -> Bool) -> Bool {
+    for item in list {
+        if condition(item) {
+            return true
+        }
+    }
+    return false
+}
+func lessThanTen(number: Int) -> Bool {
+    return number < 10
+}
+var numbers = [20, 19, 7, 12]
+hasAnyMatches(numbers, lessThanTen)
+```
+
+<small>http://developer.apple.com/swift/</small>
+
+Note:
+- Moderna
+- Com foco em segurança
+- Simples (em comparação com Objective-C)
+
+----
+
 ### Créditos das imagens
 
 <small>Em ordem de apresentação</small>

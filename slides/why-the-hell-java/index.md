@@ -523,6 +523,162 @@ Note:
 
 ----
 
+### Alternativas
+
+> Preciso desenvolver em certa linguagem,
+> nas não gosto / acho difícil.
+
+Note:
+Existem linguagens ou ferramentas que permitem desenvolver
+em, por exemplo, Java, de uma forma mais simples e fácil.
+
+====
+
+#### CoffeeScript
+
+> CoffeScript é uma pequena linguagem que compila em Javascript.
+
+```coffeescript
+# CoffeeScript source
+fill = (container, liquid = "coffee") ->
+  "Filling the #{container} with #{liquid}..."
+```
+
+```javascript
+// compiled Javascript
+var fill;
+
+fill = function(container, liquid) {
+  if (liquid == null) {
+    liquid = "coffee";
+  }
+  return "Filling the " + container + " with " + liquid + "...";
+};
+```
+
+Note:
+Já falamos de CoffeeScript, mas faltou uma comparação
+como esta.
+
+====
+
+#### Xtend
+
+> Xtend é um dialeto de Java flexível e expressivo, que compila
+> em código-fonte compatível com Java 5.
+
+```xtend
+package my.company
+
+import java.util.list
+
+class Greeter {
+    def greetABunchOfPeople(List<String> people) {
+        people.forEach [
+            printLn(sayHello)
+        ]
+    }
+
+    def sayHello(String personToGreet)'''
+        Hello <<personToGreet>>!
+    '''
+}
+```
+
+<small>http://eclipse.org/xtend/</small>
+
+Note:
+- Criada pelo time do Eclipse
+- Simplifica a forma de escrever Java
+
+====
+
+#### Mirah
+
+> Mirah é uma nova forma de ver linguagens para a JVM.
+
+```ruby
+def foo
+  home = System.getProperty "java.home"
+  System.setProperty "hello.world", "something"
+  hello = System.getProperty "hello.world"
+
+  puts home
+  puts hello
+end
+
+puts "Hello world!"
+foo
+```
+
+<small>http://www.mirah.org/</small>
+
+Note:
+- Sintaxe similar a Ruby
+- Compila para .class
+- Rápida com Java (sério?)
+
+====
+
+#### JRuby
+
+> JRuby é uma implemantação de Ruby usando a JVM
+
+```ruby
+def total_elements nested_ary
+  nested_ary.inject(0) { | sum, ary|
+    sum += ary.size
+  }
+end
+
+a1 = %w{ a b c d}
+a2 = %w{ u v w x y }
+nested =  [a1, a2]
+
+total = total_elements nested
+
+p total
+```
+
+<small>http://jruby.org/</small>
+
+Note:
+- É Ruby interpretado pela JVM
+- Alta performance
+- Real Threading
+- Grande gama de bibliotecas
+
+----
+
+<small>_Fim_</small>
+
+## Que linguagem você vai usar?
+
+====
+
+> Se deseja contratar um bom programador Java,
+> contrate um programador Python.
+>
+> <small>-- _Fábio Olivé_ </small>
+
+Note:
+Algums citações...
+
+====
+
+> Um **bom programador** só pode ser considerado
+> como tal quando conhece várias linguagens.
+>
+> Aprenda tantas linguagens diferentes quanto
+> puder.
+>
+> <small>-- _alguém disse num Tchelinux_</small>
+
+Note:
+Algums citações...
+
+----
+
 ### Créditos das imagens
 
 <small>Em ordem de apresentação</small>

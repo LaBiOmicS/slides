@@ -1,41 +1,10 @@
 
-Javascript no servidor com 
-
-![Node.js](img/node-logo.svg) <!-- .element: class="no-border no-background" -->
-
-[nodejs.org](http://nodejs.org)
-
-<small>Versão 0.1</small>
-
-Note:
-Uma palestra iniciante sobre Node.js, 
-com uma visão geral e alguns exercícios práticos baseados no nodeschool.io 
-e espaço para discussões e perguntas e respostas.
-
-====
-
 ### Conteúdo
 
 * Conhecendo o Node.js
 * Como instalar módulos via npm
 * Aplicativos Node.js em linha de comando
 * Mão na massa — lições do nodeschool.io
-
-----
-
-#### Paulo Diovani Gonçalves
-
-Programador Web desde 2005 e usuário GNU/Linux a quase o mesmo tempo, domina as linguagens de programação PHP e Javascript e atualmente se dedica ao aprendizado de Node.js. 
-<!-- .element: style="font-size:0.6em;" -->
-
-Cursa Sistemas para Internet na Universidade Feevale.
-<!-- .element: style="font-size:0.6em;" -->
-
-[paulo@diovani.com](mailto:paulo@diovani.com)
-
-[@paulodiovani](paulo@diovani.com)
-
-[github.com/paulodiovani](http://github.com/paulodiovani)
 
 ----
 
@@ -723,17 +692,3 @@ para outros conjuntos de lições sobre temas diversos (em inglês).
 Perguntas
 
 Comentários
-
-----
-
-### Créditos da apresentação
-
-por [Paulo Diovani Gonçalves](mailto:paulo@diovani.com)
-
-<small>[paulo@diovani.com](mailto:paulo@diovani.com)</small>
-<small>[@paulodiovani](paulo@diovani.com)</small>
-<small>[github.com/paulodiovani](http://github.com/paulodiovani)</small>
-
-_powered by: [reveal.js](http://lab.hakim.se/reveal-js/)_
-
-<small>[http://lab.hakim.se/reveal-js/](http://lab.hakim.se/reveal-js/)</small>

@@ -9,6 +9,10 @@ a.no-background img {
   background: none !important;
 }
 
+.to-lowercase {
+  text-transform: lowercase;
+}
+
 .pull-left {
   float: left;
 }

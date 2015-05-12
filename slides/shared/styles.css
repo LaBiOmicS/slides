@@ -1,0 +1,38 @@
+img.no-border,
+a.no-border img {
+    border: 0 !important;
+    box-shadow: none !important;
+}
+
+img.no-background,
+a.no-background img {
+  background: none !important;
+}
+
+.pull-left {
+  float: left;
+}
+
+.pull-right {
+  float: right;
+}
+
+.clear {
+  clear: both;
+}
+
+.author ul li {
+  list-style: none;
+  font-size: 0.8em;
+  padding-bottom: 0.4em;
+}
+
+/* fix code overflow */
+
+.reveal pre {
+  width: auto;
+}
+
+.reveal pre code {
+  max-height: none;
+}

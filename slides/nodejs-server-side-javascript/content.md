@@ -1,13 +1,4 @@
 
-### Conteúdo
-
-* Conhecendo o Node.js
-* Como instalar módulos via npm
-* Aplicativos Node.js em linha de comando
-* Mão na massa — lições do nodeschool.io
-
-----
-
 ### Um simples servidor web
 
 ```javascript

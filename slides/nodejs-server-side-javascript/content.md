@@ -12,34 +12,17 @@ http.createServer(function (req, res) {
 console.log('Server running at http://127.0.0.1:1337/');
 ```
 
-Note:
-Criando um webserver em 30 segundos
-
-====
-
 #### Rodando o webserver
 
 ```
 $ node example.js
 Server running at http://127.0.0.1:1337/
-
-$ google-chrome http://127.0.0.1:1337/
 ```
 
 Note:
-Testando um webserver
+Criando um webserver em 30 segundos
 
 ----
-
-> JavaScript (JS) is a programming language primary used by web browsers to allow dynamic scripting of web pages. It can also be used server side to perform any sort of action.
-
-Fonte: <!-- .element: class="reference" -->
-[MDN](https://developer.mozilla.org/en-US/docs/Glossary/JavaScript)
-
-Note:
-Definição de Javascript no glossáro da MDN (Mozilla Developer Network)
-
-====
 
 > Javascript (JS) é uma linguagem de programação usada primeiramente por _web browsers_ para permitir conteúdo dinâmico em páginas web. Ela pode também ser utilizada no servidor para qualquer tipo de ações.
 
@@ -47,18 +30,22 @@ Fonte: <!-- .element: class="reference" -->
 [MDN](https://developer.mozilla.org/en-US/docs/Glossary/JavaScript)
 
 Note:
-Tradução livre
+Reparem que é escrito em Javascript.
+"Mas javascript é para browsers?"
 
-----
+Definição de Javascript no glossáro da MDN (Mozilla Developer Network)
+
+====
 
 Node.js permite escrever aplicações _server side_ com Javascript, incluindo...
 
 * Aplicações web
+* Webservice APIs
 * Aplicações em linha de comando
 * Interfaces (com widgets, CURSES, HTML, etc.)
 
 Note:
-Uma definição livre de Node.js
+Uma explicação livre de Node.js
 
 ====
 
@@ -96,7 +83,7 @@ Node.js não é a primeira, tampouco a única, solução para utilizar Javascrip
 Note:
 Tirinha que achei interessante, por dar foco à comunidade:
 
-> Ao invés de enviar presentes, favor, contribua com o repositório git.
+> Ao invés de enviar presentes, favor, contribua com o repositório no github.
 
 ----
 
@@ -142,10 +129,8 @@ Tradução livre da descrição acima.
 * Baixa curva de aprendizagem
 
 Note:
-Apesar de ser essencialmente Javascript, Node.js possui um ecosistema próprio,
-
-Basicamente ele suporta a sintaxe Javascript, enquanto possui sua própria forma
-de programar.
+Apesar de ser essencialmente Javascript, Node.js possui um ecosistema 
+próprio e sua própria forma de programar.
 
 ====
 

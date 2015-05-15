@@ -448,58 +448,62 @@ Node Packaged Modules
 
 ====
 
-**NPM** é para Node o que **PEAR/PECL** é para o PHP, ou
-o que **pip** é para Python, ou ainda o que o **gem** é para
-Ruby.
+Módulos são instalados localmente, sob
+a pasta `node_modules/`, com
 
-    $ npm install [module name]
-
-----
-
-Módulos são instalados localmente, sob a pasta `node_modules/`, com
-
-    $ npm install
+```bash
+npm install [module_name]
+```
 
 ou globalmente (como super-usuário) com
 
-    $ sudo npm install -g
+```bash
+sudo npm install -g [module_name]
+```
 
 ====
 
-Após um módulo ser instalado (seja local ou globalmene) ele pode ser utilizado
-num script com uso do `require()`.
+Após instalando, um módulo pode ser importado normalmente
+com uso da função `require()`.
+
+```bash
+npm install underscore
+```
 
 ```javascript
+// my-script.js
 var _ = require('underscore');
 
 _.each([1, 2, 3], console.log);
 ```
 
-====
-
-Para listar os módulos instalados utilize
-
-    $ npm list
-
-Ou, paral listar os módulos instalados globalmente
-
-    $ npm list -g
-
 ----
 
-As dependências de uma aplicação são definidas em um arquivo chamado `package.json`, o qual pode ser inicializado com `npm init`.
+## O `package.json`
 
-```
-$ mkdir node_test
-$ cd node_test
+O formado de pacotes para Node.js
 
-$ npm init
+====
+
+- nome e descrição do pacote
+- versão
+- autor(es)
+- script executável (`bin`)
+- dependências
+- etc.
+
+====
+
+Para criar um pacote Node.js em um diretório, digite:
+
+```bash
+npm init
 ```
 
 Você pode editar o arquivo manualmente após a criação.
 
-```
-$ vim package.json
+```bash
+vim package.json
 ```
 
 ====
@@ -507,21 +511,15 @@ $ vim package.json
 Para instalar dependências e salvá-las na no `package.json`, basta utilizar
 a opção `--save`.
 
-    $ npm install --save underscore
-
-Para instalar todas as dependência salvas no `package.json`, basta utilizar.
-
-    $ npm install
-
-====
-
-Verificando os módulos insalados e suas próprias dependências
-
+```bash
+npm install --save underscore
 ```
-$ npm list
 
-/media/userdata/diovani/Node/node_test
-└── underscore@1.6.0
+Para instalar todas as dependências previamente salvas
+no `package.json` (ao obter fontes do GitHub, por exemplo).
+
+```bash
+npm install
 ```
 
 ----

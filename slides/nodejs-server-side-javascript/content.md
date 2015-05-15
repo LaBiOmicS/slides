@@ -422,11 +422,18 @@ fs.createReadStream("input/people_euc-jp.csv.gz")
 
 #### WTF is `pipe()`?
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
 ```bash
+# this is also a pipe
 cat /etc/passwd | grep diovani
 ```
 
-Já costumamos usar _pipes_ em linha de comando.
+Já estamos acostumados a usar _pipes_ em linha de comando.
 
 Note:
 O método `pipe()` lê a _stream_ de origem e envia seu conteúdo diretamente para

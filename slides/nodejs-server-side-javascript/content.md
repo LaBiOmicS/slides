@@ -695,30 +695,17 @@ Uma ótima alternativa para começar com Node.js
 
 ### Aprendendo Node.js
 
-* [nodejs.org](http://nodejs.org)
+- [nodejs.org/documentation](https://nodejs.org/documentation/)
 
-    <small>Site oficial</small>
+    Documentação no site oficial
 
-* [nodeschool.io](http://nodeschool.io/)
+- [nodeschool.io](http://nodeschool.io/)
 
-    <small>Projeto com lições interativas de Node.js</small>
+    Projeto com lições interativas de Node.js
 
-* [nodebr.com](http://nodebr.com/)
+- [Node.js Brasil @ Google Groups](https://groups.google.com/forum/?hl=en#!forum/nodebr)
 
-    <small>Site da comunidade brasileira de Node.js</small>
-
-* [Aplicações web real-time com Node.js](http://www.casadocodigo.com.br/products/livro-nodejs)
-
-    <small>Livro escrito por Caio Ribeiro sobre Node.js. <br>
-    ISBN: 978-85-66250-14-5</small>
-
-* [Node.js Brasil @ Google Groups](https://groups.google.com/forum/?hl=en#!forum/nodebr)
-
-    <small>Grupo brasileiro de discussão sobre Node.js</small>
-
-* [jsbooks.revolunet.com](http://jsbooks.revolunet.com/)
-
-    <small>Livros gratuítos de Javascript, Node.js, e desenvolvimento web em geral.</small>
+    Grupo brasileiro de discussão sobre Node.js
 
 ----
 

@@ -221,22 +221,31 @@ Exemplo de uso de um callback node.js.
 
 Muitos objetos em Node.js emitem eventos.
 
-Um `net.Server` emite um evento a cada vez que um cliente conecta
-a ele, um `fs.readStream` quando o arquivo é aberto.
+- `net.Server` emite
+    + `connection` a cada vez que um cliente conecta.
+- `fs.readStream` emite
+    + `open` quando o arquivo é aberto.
 
 Note:
-Este comportamento se assemelha muito a cliques e outras ações do usuário em _web browsers_.
+Este comportamento se assemelha muito a cliques e outras
+ações do usuário em _web browsers_.
 
 ====
 
-Para adicionar `listeners` aos eventos de um objeto, utiliza-se o método `emitter.addListener` ou `emitter.on`.
+Adicionando _listeners_ aos eventos de um objeto.
 
 ```javascript
-emitter.addListener(event, listener)
+emitter.addListener(event, function(data) {
+    //...
+});
 ```
 
+ou
+
 ```javascript
-emitter.on(event, listener)
+emitter.on(event, function(data) {
+    //...
+});
 ```
 
 ====

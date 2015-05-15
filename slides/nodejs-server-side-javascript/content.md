@@ -381,6 +381,43 @@ Note:
 No exemplo, uma `stream` é criada com o módulo _filesystem_ ao ler o arquivo `example.txt`.
 
 ====
+
+```javascript
+var fs = require("fs");
+var zlib = require("zlib");
+var iconv = require("iconv");
+var csv = require("csv-streamify");
+var sprintf = require("sprintf");
+var es = require("event-stream");
+var trumpet = require("trumpet");
+
+var tr = trumpet();
+var trOut = fs.createReadStream("input/people_table_tmpl.html")
+  .pipe(tr)
+  .pipe(fs.createWriteStream("output/people.html"));
+
+// Read File
+fs.createReadStream("input/people_euc-jp.csv.gz")
+  // Un-Gzip
+  .pipe(zlib.createGunzip())
+  // Change Encoding
+  .pipe(new iconv.Iconv("EUC-JP", "UTF-8"))
+  // Parse CSV as Object
+  .pipe(csv({objectMode: true, columns: true}))
+  // Convert Object w/ Sprintf
+  .pipe(es.mapSync(function(data) {
+    return sprintf.sprintf("<tr>"
+      + "<td><a href='%(URL)s'>%(Name)s</a></td>"
+      + "<td>%(City)s</td>"
+    + "</tr>", data);
+  }))
+  // Insert HTML
+  .pipe(tr.select("tbody").createWriteStream());
+```
+
+<small>Brincando com _streams_ em [nodestreams.com](http://nodestreams.com/)</small>
+
+====
 <!-- .slide: data-background="img/pipes.png" -->
 
 #### WTF is `pipe()`?

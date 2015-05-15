@@ -24,7 +24,12 @@ Criando um webserver em 30 segundos
 
 ====
 
-> Javascript (JS) é uma linguagem de programação usada primeiramente por _web browsers_ para permitir conteúdo dinâmico em páginas web. Ela pode também ser utilizada no servidor para qualquer tipo de ações.
+> Javascript (JS) é uma linguagem de programação usada
+> primeiramente por _web browsers_ para permitir conteúdo
+> dinâmico em páginas web.
+>
+> Ela pode também ser utilizada
+> no servidor para qualquer tipo de ações.
 
 Fonte: <!-- .element: class="reference" -->
 [MDN](https://developer.mozilla.org/en-US/docs/Glossary/JavaScript)
@@ -105,9 +110,17 @@ Algumas pequenas empresas que usam node.js
 
 ----
 
-> Node.js é uma plataforma construída sobre o [_Motor Javascript do Chrome_](http://code.google.com/p/v8/) para criar aplicações em rede rápidas e escaláveis.
-> 
-> Node.js usa um modelo de _I/O_ não bloqueante, orientado a eventos, que o torna leve e eficiente, perfeito para aplicações em tempo real com grande tráfego de dados que rodam através de dispositivos distribuídos.
+> Node.js é uma plataforma construída sobre o
+> [_Motor Javascript do Chrome_](http://code.google.com/p/v8/) para criar
+> aplicações em rede rápidas e escaláveis.
+>
+> Node.js usa um modelo de _I/O_ não bloqueante, orientado a eventos,
+> que o torna leve e eficiente, perfeito para aplicações em tempo
+> real com grande tráfego de dados que rodam através de dispositivos
+> distribuídos.
+
+Fonte: <!-- .element: class="reference" -->
+[nodejs.org](http://nodejs.org/)
 
 Note:
 Definição do Node.js no site oficial.
@@ -120,7 +133,7 @@ Definição do Node.js no site oficial.
 * Baixa curva de aprendizagem
 
 Note:
-Apesar de ser essencialmente Javascript, Node.js possui um ecosistema 
+Apesar de ser essencialmente Javascript, Node.js possui um ecosistema
 próprio e sua própria forma de programar.
 
 ====
@@ -148,14 +161,15 @@ Pergunta: Então essas operações ficam em fila?
 
 #### _Non-blocking I/O_
 
-Cada nova operação não precisa esperar que as anteriores 
+Cada nova operação não precisa esperar que as anteriores
 sejam completadas. Todas são processadas de forma assíncrona.
 
 ====
 
-#### Node event loop
+![event-loop](img/node-event-loop.png)
 
-<!-- TODO: adicionar imagem -->
+Fonte: <!-- .element: class="reference" -->
+[Stack Overflow](http://stackoverflow.com/q/21596172/1712589)
 
 ----
 
@@ -207,7 +221,7 @@ Exemplo de uso de um callback node.js.
 
 Muitos objetos em Node.js emitem eventos.
 
-Um `net.Server` emite um evento a cada vez que um cliente conecta 
+Um `net.Server` emite um evento a cada vez que um cliente conecta
 a ele, um `fs.readStream` quando o arquivo é aberto.
 
 Note:
@@ -285,7 +299,7 @@ Node Packaged Modules
 
 ====
 
-**NPM** é para Node o que **PEAR/PECL** é para o PHP, ou 
+**NPM** é para Node o que **PEAR/PECL** é para o PHP, ou
 o que **pip** é para Python, ou ainda o que o **gem** é para
 Ruby.
 
@@ -293,11 +307,11 @@ Ruby.
 
 ----
 
-Módulos são instalados localmente, sob a pasta `node_modules/`, com 
+Módulos são instalados localmente, sob a pasta `node_modules/`, com
 
     $ npm install
 
-ou globalmente (como super-usuário) com 
+ou globalmente (como super-usuário) com
 
     $ sudo npm install -g
 
@@ -414,11 +428,11 @@ para validar scripts `*.js`.
     <small>Projeto com lições interativas de Node.js</small>
 
 * [nodebr.com](http://nodebr.com/)
-    
+
     <small>Site da comunidade brasileira de Node.js</small>
 
 * [Aplicações web real-time com Node.js](http://www.casadocodigo.com.br/products/livro-nodejs)
-    
+
     <small>Livro escrito por Caio Ribeiro sobre Node.js. <br>
     ISBN: 978-85-66250-14-5</small>
 
@@ -478,7 +492,7 @@ Escreva um programa que imprima "HELLO WORLD" no console (stdout).
 #### Dicas
 
 <small>
-Para escrever um programa Node.js, crie um arquivo com a extensão `.js` e 
+Para escrever um programa Node.js, crie um arquivo com a extensão `.js` e
 comece a escrever Javascript. Você pode executar seu programa rodando o
 comando `node`. Ex.:
 </small>
@@ -523,8 +537,8 @@ que é um array contendo a linha de comando completa. Ex.: `process.argv`
 </small>
 
 <small>
-O primeiro elemento de `process.argv` é sempre `node`,  e o segundo é 
-sempre o caminho para seu programa, então você deverá começar a partir 
+O primeiro elemento de `process.argv` é sempre `node`,  e o segundo é
+sempre o caminho para seu programa, então você deverá começar a partir
 do 3º elemento (índice `2`), somando cada item ao total até o final do
 array.
 </small>

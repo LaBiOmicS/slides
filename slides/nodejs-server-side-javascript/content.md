@@ -436,7 +436,7 @@ uma `stream` que seja `writable` (no caso a saída padrão).
 
 ### Módulos
 
-Módulos em Node.js utilizam a [CommonJS API](http://www.commonjs.org/).
+Utilizando [CommonJS API](http://www.commonjs.org/)
 
 - Todo script em Node.js é um módulo
 - Variáveis e funções declarados em um módulo são sempre
@@ -450,19 +450,45 @@ Módulos em Node.js utilizam a [CommonJS API](http://www.commonjs.org/).
 
 ```javascript
 //my-module.js
+var MyModule = function() {};
+
+MyModule.prototype.printHello = function() {
+  console.log("Hello, World!");
+};
+
+MyModule.prototype.printData = function(data) {
+  console.log(data.toString());
+};
+
+module.exports = new MyModule();
+```
+
+Note:
+Definindo um módulo `my-module.js` usando module.exports.
+
+====
+
+```javascript
+//my-module.js
+exports.printHello = function() {
+  console.log("Hello, World!");
+};
+
 exports.printData = function(data) {
   console.log(data.toString());
 };
 ```
 
 Note:
-Definindo um módulo `my-module.js`
+Definindo um módulo `my-module.js` usando exports.
+
+Bem mais simples, neste caso.
 
 ====
 
 ```javascript
-var      net = require('net'),
-    myModule = require('./my-module');
+var      net = require('net');
+var myModule = require('./my-module');
 
 var server = net.createServer(function (socket) {
   socket.on('data', function(data) {
@@ -486,14 +512,14 @@ Node Packaged Modules
 
 ====
 
-Módulos são instalados localmente, sob
-a pasta `node_modules/`, com
+Módulos podem ser instalados localmente, sob
+a pasta `node_modules/`
 
 ```bash
 npm install [module_name]
 ```
 
-ou globalmente (como super-usuário) com
+ou globalmente (como super-usuário)
 
 ```bash
 sudo npm install -g [module_name]
@@ -514,6 +540,8 @@ var _ = require('underscore');
 
 _.each([1, 2, 3], console.log);
 ```
+
+<small>Não é necessário definir o caminho</small>
 
 ----
 

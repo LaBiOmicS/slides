@@ -592,41 +592,32 @@ npm install
 
 ### Utilitários de linha de comando
 
-Módulos em Node.js podem definir um executável com o atibuto `bin/`
+Pacotes em Node.js podem definir um executável com o atributo `bin`
 no `package.json`.
 
-Ao instalar globalmente um módulo, seu executável é adicionado ao `PATH`,
-assim fica fácil criar aplicativos de linha de comando com Node.
+Este pacote, quando instaldo globalmente, disponibiliza o executável
+no `PATH`, criando um aplicativo.
 
 ====
 
 #### Instalando jshint via NPM
 
-    $ npm install -g jshint
+```bash
+npm install -g jshint
+```
 
 Verificando a instalação
 
-    $ jshint --version
-    jshint v2.5.0
-
-Listando as dependências
-
-```
-$ npm list -g
-
-/usr/local/lib
-└─┬ jshint@2.5.0
-  └─┬ cli@0.4.5
-    └─┬ glob@3.2.9
-      └── inherits@2.0.1
+```bash
+jshint --version
+# jshint v2.5.0
 ```
 
-====
+Utilizando `jshint` para validar scripts `*.js`.
 
-A partir de agora você pode utilizar o comando `jshint`, como qualquer usuário,
-para validar scripts `*.js`.
-
-    $ jshint myfile.js
+```bash
+jshint myfile.js
+```
 
 ----
 

@@ -637,6 +637,62 @@ jshint myfile.js
 
 ----
 
+## Frameworks, Stacks e ecosistema
+
+====
+
+> A comunidade do Javascript/Node.js é muito
+> fragmentada
+
+<small>Reflitam sobre isso...</small>
+
+====
+
+### The MEAN Stack
+
+- **M**ongoDB
+- **E**xpress
+- **A**ngularJS
+- **N**ode.js
+
+====
+
+![mean.io](img/logo-mean.io.png) <!-- .element: class="no-border no-background" -->
+![meanjs](img/logo-meanjs.png) <!-- .element: class="no-border no-background" -->
+![angular](img/logo-angular.png) <!-- .element: class="no-border no-background" -->
+
+- [MEAN.IO](http://mean.io/)
+- [MEAN.JS](http://meanjs.org/)
+- [Angular Fullstack](https://github.com/DaftMonk/generator-angular-fullstack)
+
+====
+
+### MVC Frameworks
+
+Model, View, Controller
+
+====
+
+![sails](img/logo-sails.png) <!-- .element: class="no-border no-background" -->
+![kraken](img/logo-kraken.png) <!-- .element: class="no-border no-background" -->
+
+- [Sails.js](http://sailsjs.org/)
+- [kraken](http://krakenjs.com/) <small>by PayPal</small>
+
+====
+
+![hackathon-starter](img/hackathon-starter.jpg)
+
+[Hackathon starter](https://github.com/sahat/hackathon-starter)
+
+- Estrutura MVC
+- Node + Express + Mongo + Passport
+
+Note:
+Uma ótima alternativa para começar com Node.js
+
+----
+
 ### Aprendendo Node.js
 
 * [nodejs.org](http://nodejs.org)

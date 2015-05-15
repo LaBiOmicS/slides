@@ -42,19 +42,7 @@ Definição de Javascript no glossáro da MDN (Mozilla Developer Network)
 
 ====
 
-Node.js permite escrever aplicações _server side_ com Javascript, incluindo...
-
-* Aplicações web _realtime_
-* Webservice APIs
-* Aplicações em linha de comando
-* Interfaces (com widgets, CURSES, HTML, etc.)
-
-Note:
-Uma explicação livre de Node.js
-
-====
-
-### Javascript no servidor
+### Javascript no servidor não é novidade
 
 * 4D Wakanda
 * APE project
@@ -74,36 +62,35 @@ Node.js não é a primeira, tampouco a única, solução para utilizar Javascrip
 
 ====
 
-#### Com tantas opções, porque Node.js?
+Node.js permite escrever aplicações _server side_ com Javascript, incluindo...
 
-* Ótimo em lidar com grande quantidade de conexões concorrentes usando poucos recursos
-* Comunidade crescente e participativa
-* Fácil de usar -- qualquer programador Javascript pode aprender rapidamente
-* NPM (_Node Packaged Modules_) -- repositórios via _github_, _gitbucket_, etc.
+* Aplicações web _realtime_
+* Webservice APIs
+* Aplicações em linha de comando
+* Aplicações desktop (com widgets, CURSES, HTML, etc.)
+
+Note:
+Uma explicação livre de Node.js
 
 ====
 
-![not invented here comic](img/node-not-invented-here.png)
+### Por que Node.js?
 
-Note:
-Tirinha que achei interessante, por dar foco à comunidade:
-
-> Ao invés de enviar presentes, favor, contribua com o repositório no github.
+- Rápido e escalável
+- Para APIs, mobile, web e IoT
+- Baixa curva de aprendizagem
+- Comunidade crescente e participativa
+- Javascript é a linguagem mais popular atualmente
+  ([GitHut](http://githut.info/))
 
 ====
 
 ### Quem usa Node.js?
 
-![](img/industry/dow_jones.png) <!-- .element: class="industry" -->
-![](img/industry/ebay.png) <!-- .element: class="industry" -->
-![](img/industry/linked_in.png) <!-- .element: class="industry" -->
-![](img/industry/pay_pal.png) <!-- .element: class="industry" -->
-![](img/industry/microsoft.png) <!-- .element: class="industry" -->
-![](img/industry/new_york_times.png) <!-- .element: class="industry" -->
-![](img/industry/yahoo.png) <!-- .element: class="industry" -->
+![big-brands](img/big-brands.png)
 
 Fonte: <!-- .element: class="reference" -->
-[nodejs.org](http://nodejs.org/industry/)
+[strongloop](https://strongloop.com/node-js/why-node/)
 
 Note:
 Algumas pequenas empresas que usam node.js

@@ -381,8 +381,9 @@ Note:
 No exemplo, uma `stream` é criada com o módulo _filesystem_ ao ler o arquivo `example.txt`.
 
 ====
+<!-- .slide: data-background="img/pipes.png" -->
 
-WTF is `pipe()`?
+#### WTF is `pipe()`?
 
 ```bash
 cat /etc/passwd | grep diovani

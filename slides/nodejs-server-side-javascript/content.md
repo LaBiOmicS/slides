@@ -22,7 +22,7 @@ Server running at http://127.0.0.1:1337/
 Note:
 Criando um webserver em 30 segundos
 
-----
+====
 
 > Javascript (JS) é uma linguagem de programação usada primeiramente por _web browsers_ para permitir conteúdo dinâmico em páginas web. Ela pode também ser utilizada no servidor para qualquer tipo de ações.
 
@@ -39,7 +39,7 @@ Definição de Javascript no glossáro da MDN (Mozilla Developer Network)
 
 Node.js permite escrever aplicações _server side_ com Javascript, incluindo...
 
-* Aplicações web
+* Aplicações web _realtime_
 * Webservice APIs
 * Aplicações em linha de comando
 * Interfaces (com widgets, CURSES, HTML, etc.)
@@ -85,7 +85,7 @@ Tirinha que achei interessante, por dar foco à comunidade:
 
 > Ao invés de enviar presentes, favor, contribua com o repositório no github.
 
-----
+====
 
 ### Quem usa Node.js?
 
@@ -105,23 +105,14 @@ Algumas pequenas empresas que usam node.js
 
 ----
 
->Node.js is a platform built on [Chrome's Javascript runtime](http://code.google.com/p/v8/) for easily building fast, scalable network applications. 
->
->Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices.
+> Node.js é uma plataforma construída sobre o [_Motor Javascript do Chrome_](http://code.google.com/p/v8/) para criar aplicações em rede rápidas e escaláveis.
+> 
+> Node.js usa um modelo de _I/O_ não bloqueante, orientado a eventos, que o torna leve e eficiente, perfeito para aplicações em tempo real com grande tráfego de dados que rodam através de dispositivos distribuídos.
 
 Note:
 Definição do Node.js no site oficial.
 
-==== 
-
-> Node.js é uma plataforma construída sobre o [_Motor Javascript do Chrome's_](http://code.google.com/p/v8/) para criar aplicações em rede rápidas e escaláveis. 
-> 
-> Node.js usa um modelo de _I/O_ _non-blocking_, orientado a eventos, que o torna leve e eficiente, perfeito para aplicações em tempo real com grande tráfego de dados que rodam através de dispositivos distribuídos.
-
-Note:
-Tradução livre da descrição acima.
-
-----
+====
 
 ### Node.js não é uma linguagem nova
 
@@ -134,59 +125,61 @@ próprio e sua própria forma de programar.
 
 ====
 
-#### Particularidades do Node.js
+### Node.js não é um framework
 
-* _Single threaded_
-* _Node callbacks_
-* _Event driven_
-* _Streams_
+Note:
+Ao contrário, existem diversos frameworks escritos
+para Node.js
 
-----
+====
 
 ### _Single threaded_
 
-Diferente de outras linguagens como PHP ou Java, Node.js foi desenvolvido
-para utilizar uma única _thread_.
+Node.js foi desenvolvido para utilizar uma única _thread_.
 
 Esta única _thread_ recebe e trata de todas as operações da aplicação.
 
+Note:
+Ou seja, um único processo.
+
+Pergunta: Então essas operações ficam em fila?
+
 ====
 
-#### Então estas operações ficam em fila?
+#### _Non-blocking I/O_
+
+Cada nova operação não precisa esperar que as anteriores 
+sejam completadas. Todas são processadas de forma assíncrona.
 
 ====
 
-##### Não
+#### Node event loop
 
-**_non-blocking I/O_**: cada nova operação
-não precisa esperar que as anteriores sejam completadas.
-
-#### Mas como fazemos isso?
+<!-- TODO: adicionar imagem -->
 
 ----
 
 ### Node _callbacks_
 
-Basicamente, ao fazer uma operação demorada, ao invés de esperar que
-esta seja finalizada, reservamos uma função para ser executada quando 
-ela finalizar.
+Ao se realizar uma operação de IO, passamos uma função de _callback_
+para a mesma.
 
-Assim, nosso servidor pode seguir com o processamento das demais operações
-em paralelo.
+O _callback_ é executado ao final da operação, enquanto outras operações
+são executadas em paralelo.
 
 Note:
 Muito semelhante ao uso de AJAX em Javascript.
 
 ====
 
-Um típico _node callback_ é uma função que recebe dois ou mais argumentos,
-sendo o primeiro, um objeto de erro, caso ocorra algum, e os demais
-contendo o resultado da operação.
+Um _node callback_ recebe um objeto de erro como primeiro argumento e um ou mais
+a seguir, contendo o resultado da operação.
 
 ```javascript
 function myNodeCallback(err, data) {
     if (err) {
-        //something wrong happened
+        //something went wrong
+        return;
     }
 
     //normal flow
@@ -198,19 +191,15 @@ function myNodeCallback(err, data) {
 ```javascript
 var fs = require('fs');
 
-var callback = function(err, content) {
+fs.readFile('./example.txt', function(err, content) {
     if (err) console.error("Ocorreu um erro ao ler o arquivo");
 
     console.log(content.toString());
-};
-
-fs.readFile('./example.txt', callback);
+});
 ```
 
 Note:
 Exemplo de uso de um callback node.js.
-
-Uma função é definida, recebendo dois argumentos, sendo que o primeiro é fornecido em caso de erro.
 
 ----
 

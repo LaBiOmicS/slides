@@ -714,3 +714,11 @@ Uma ótima alternativa para começar com Node.js
 ? <!-- .element: style="font-family:'Architects Daughter'; font-size:8em" -->
 
 Perguntas
+
+====
+
+##### Estes slides online
+
+[slides.diovani.com/slides/nodejs-server-side-javascript][js-onserver]
+
+[js-onserver]: http://slides.diovani.com/slides/nodejs-server-side-javascript/#/

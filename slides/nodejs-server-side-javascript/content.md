@@ -254,7 +254,7 @@ sejam completadas. Todas são processadas de forma assíncrona.
 ![event-loop](img/node-event-loop.png)
 
 Fonte: <!-- .element: class="reference" -->
-[Stack Overflow](http://stackoverflow.com/q/21596172/1712589)
+[stackoverflow](http://stackoverflow.com/q/21596172/1712589)
 
 ----
 
@@ -713,6 +713,44 @@ Uma ótima alternativa para começar com Node.js
 - [Node.js Brasil @ Google Groups](https://groups.google.com/forum/?hl=en#!forum/nodebr)
 
     Grupo brasileiro de discussão sobre Node.js
+
+----
+
+## O que vem por aí?
+
+====
+
+### ECMAScript 6
+
+![javascript](img/logo-javascript.png) <!-- .element: class="no-border no-background" -->
+
+- Suportado desde o Node.js 0.11 com a _flag_ `--harmony`
+
+```bash
+node --harmony app.js
+```
+
+Fonte: <!-- .element: class="reference" -->
+[stackoverflow](http://stackoverflow.com/a/28389178/1712589)
+
+====
+
+![iojs](img/logo-iojs.png) <!-- .element: class="no-border no-background" -->
+
+[iojs.org](https://iojs.org/en/index.html)
+
+- Suporta _features_ do ES6 sem precisar da _flag_ `--harmony`
+- Instalado como opção ao Node por [`nvm`][nvm] e [`n`][n]
+- Parte da Node Foundation desde Maio/2015
+
+Fonte: <!-- .element: class="reference" -->
+[iojs.org](https://iojs.org/en/es6.html)
+
+Fonte: <!-- .element: class="reference" -->
+[io.js on github](https://github.com/nodejs/io.js/issues/1664#issuecomment-101828384)
+
+[nvm]: https://github.com/creationix/nvm
+[n]: https://github.com/tj/n
 
 ----
 

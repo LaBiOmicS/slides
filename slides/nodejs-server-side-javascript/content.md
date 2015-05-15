@@ -278,7 +278,7 @@ Em caso de erro, loga a mensagem.
 
 Uma _stream_ é uma interface abstrata implementada por vários objetos em Node.js.
 
-_Streams_ podem ser _readable_, _writable_ ou ambos.
+_Streams_ podem ser para _leitura_, _escrita_ ou ambos.
 
 Todas streams são _emissores de eventos_.
 
@@ -292,9 +292,20 @@ var stream = fs.createReadStream(filename);
 stream.pipe(process.stdout);
 ```
 
-note:
+Note:
 No exemplo, uma `stream` é criada com o módulo _filesystem_ ao ler o arquivo `example.txt`.
 
+====
+
+WTF is `pipe()`?
+
+```bash
+cat /etc/passwd | grep diovani
+```
+
+Já costumamos usar _pipes_ em linha de comando.
+
+Note:
 O método `pipe()` lê a _stream_ de origem e envia seu conteúdo diretamente para
 uma `stream` que seja `writable` (no caso a saída padrão).
 

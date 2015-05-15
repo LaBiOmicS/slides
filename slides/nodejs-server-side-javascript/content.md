@@ -97,6 +97,105 @@ Algumas pequenas empresas que usam node.js
 
 ----
 
+![linkedin](img/logo-linkedin.png) <!-- .element: class="no-border no-background" -->
+![node](img/logo-node.png) <!-- .element: class="no-border no-background" -->
+
+> ##### LinkedIn muda de Rails para Node: 27 servidores cortados e até 20x mais rápido.
+
+Fonte: <!-- .element: class="reference" -->
+[highscalability][linkedin-to-node]
+
+<small>Obs: existem alguns [fatos não mencionados][some-facts]
+no artigo original.</small>
+
+[linkedin-to-node]: http://highscalability.com/blog/2012/10/4/linkedin-moved-from-rails-to-node-27-servers-cut-and-up-to-2.html
+[some-facts]: http://ikaisays.com/2012/10/04/clearing-up-some-things-about-linkedin-mobiles-move-from-rails-to-node-js/
+
+====
+
+![linkedin](img/logo-linkedin.png) <!-- .element: class="no-border no-background" -->
+![node](img/logo-node.png) <!-- .element: class="no-border no-background" -->
+
+> ##### Como o LinkedIn usou Node.js e HTML5 para construir uma app melhor e mais rápida
+
+Fonte: <!-- .element: class="reference" -->
+[venturebeat][linkedin-to-node-2]
+
+[linkedin-to-node-2]: http://venturebeat.com/2011/08/16/linkedin-node/
+
+====
+
+![paypal](img/logo-paypal.png) <!-- .element: class="no-border no-background" -->
+![node](img/logo-node.png) <!-- .element: class="no-border no-background" -->
+
+> ##### PayPal muda de Java para Javascript
+>
+> |                  | Java/Spring      | Node.js                 |
+> | --               | --               | --                      |
+> | Preparação       | 0                | 2 meses                 |
+> | Desenvolvimento  | ~5 meses         | ~3 meses                |
+> | Equipe           | 5                | 5                       |
+> | Linhas de código | não especificado | 66% de não especificado |
+
+Fonte: <!-- .element: class="reference" -->
+[infohq][paypal-to-node]
+
+[paypal-to-node]: http://www.infoq.com/news/2013/11/paypal-java-javascript
+
+====
+
+![paypal](img/logo-paypal.png) <!-- .element: class="no-border no-background" -->
+![node](img/logo-node.png) <!-- .element: class="no-border no-background" -->
+
+> ##### Node.js no PayPal
+>
+> - Construído quase 2x mais rápido com menos pessoas
+> - 33% menos linhas de código
+> - 40% menos arquivos
+> - Dobradas as requisições por segundo
+> - Queda de média de 35% no tempo de resposta
+
+Fonte: <!-- .element: class="reference" -->
+[paypal-enginering][paypal-to-node-2]
+
+[paypal-to-node-2]: https://www.paypal-engineering.com/2013/11/22/node-js-at-paypal/
+
+====
+
+![wallmart](img/logo-wallmart.png) <!-- .element: class="no-border no-background" -->
+![node](img/logo-node.png) <!-- .element: class="no-border no-background" -->
+
+> ##### Por que Wallmart está usando Node.js?
+>
+> [...] Executivos do Wallmart deixaram claro que o benefício
+> em usar Node.js era, de longe, maior que o risco [...]
+
+Fonte: <!-- .element: class="reference" -->
+[venturebeat][wallmart-in-node]
+
+[wallmart-in-node]: http://venturebeat.com/2012/01/24/why-walmart-is-using-node-js/
+
+====
+
+![netflix](img/logo-netflix.png) <!-- .element: class="no-border no-background" -->
+![node](img/logo-node.png) <!-- .element: class="no-border no-background" -->
+
+> ##### Node.js em chamas
+>
+> [...] notamos que a latência de requisições para a aplicação
+> em Node.js aumentava à medida do tempo [...]
+
+<small>Culpa do Express?</small><br>
+<small>[Resposta por hueniverse no GitHub.][answer-on-flames]</small>
+
+Fonte: <!-- .element: class="reference" -->
+[netflix techblog][netflix-node-on-fire]
+
+[netflix-node-on-fire]: http://techblog.netflix.com/2014/11/nodejs-in-flames.html
+[answer-on-flames]: https://gist.github.com/hueniverse/a3109f716bf25718ba0e
+
+----
+
 > Node.js é uma plataforma construída sobre o
 > [_Motor Javascript do Chrome_](http://code.google.com/p/v8/) para criar
 > aplicações em rede rápidas e escaláveis.

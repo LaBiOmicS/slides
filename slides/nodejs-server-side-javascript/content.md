@@ -543,6 +543,20 @@ _.each([1, 2, 3], console.log);
 
 <small>Não é necessário definir o caminho</small>
 
+====
+
+![module-counts](img/module-counts.png)
+
+Fonte: <!-- .element: class="reference" -->
+[modulecounts](http://www.modulecounts.com/)
+
+Note:
+Desde Julho/2014, a quantidade de Packages
+no registro do NPM já supera o Mavem(Java)
+e RubyGems.
+
+Lembram do que falei sobre comunidade crescente?
+
 ----
 
 ## O `package.json`
@@ -591,6 +605,8 @@ npm install
 ----
 
 ### Utilitários de linha de comando
+
+====
 
 Pacotes em Node.js podem definir um executável com o atributo `bin`
 no `package.json`.

@@ -213,10 +213,9 @@ Definição do Node.js no site oficial.
 
 ====
 
-### Node.js não é uma linguagem nova
+### Node.js não é uma nova linguagem
 
-* Escrito em Javascript
-* Baixa curva de aprendizagem
+<small>Escrito em Javascript</small>
 
 Note:
 Apesar de ser essencialmente Javascript, Node.js possui um ecosistema
@@ -230,7 +229,7 @@ Note:
 Ao contrário, existem diversos frameworks escritos
 para Node.js
 
-====
+----
 
 ### _Single threaded_
 
@@ -360,7 +359,7 @@ Em caso de erro, loga a mensagem.
 
 ----
 
-### _Streams_
+### Uso de _Streams_
 
 Uma _stream_ é uma interface abstrata implementada por vários objetos em Node.js.
 
@@ -394,6 +393,50 @@ Já costumamos usar _pipes_ em linha de comando.
 Note:
 O método `pipe()` lê a _stream_ de origem e envia seu conteúdo diretamente para
 uma `stream` que seja `writable` (no caso a saída padrão).
+
+----
+
+### Módulos
+
+Módulos em Node.js utilizam a [CommonJS API](http://www.commonjs.org/).
+
+- Todo script em Node.js é um módulo
+- Variáveis e funções declarados em um módulo são sempre
+  privados
+- Um módulo pode exportar um ou mais objetos ou funções
+  atribuindo-os ao objeto `module.exports` ou `exports`.
+- Módulos são importados com uso da função `require()`
+- Módulos externos podem ser instalados com uso do **NPM**
+
+====
+
+```javascript
+//my-module.js
+exports.printData = function(data) {
+  console.log(data.toString());
+};
+```
+
+Note:
+Definindo um módulo `my-module.js`
+
+====
+
+```javascript
+var      net = require('net'),
+    myModule = require('./my-module');
+
+var server = net.createServer(function (socket) {
+  socket.on('data', function(data) {
+    myModule.printData(data);
+  });
+});
+
+server.listen(1337, '127.0.0.1');
+```
+
+Note:
+Utilizando `my-module.js` juntamente com o módulo `net`
 
 ----
 

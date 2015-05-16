@@ -9,6 +9,16 @@ a.no-background img {
   background: none !important;
 }
 
+a.licence {
+  font-size: 16px;
+  line-height: 16px !important;
+  text-align: left;
+}
+
+a.licence img {
+  float: left;
+}
+
 .to-lowercase {
   text-transform: lowercase;
 }

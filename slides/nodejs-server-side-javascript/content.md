@@ -754,6 +754,67 @@ Fonte: <!-- .element: class="reference" -->
 
 ----
 
+## Algumas coisas Node.js
+
+![browserify](img/logo-browserify.png) <!-- .element: class="no-border no-background" -->
+![coffee](img/logo-coffee.png) <!-- .element: class="no-border no-background" -->
+![cordova](img/logo-cordova.png) <!-- .element: class="no-border no-background" -->
+
+![grunt](img/logo-grunt.png) <!-- .element: class="no-border no-background" -->
+![gulp](img/logo-gulp.png) <!-- .element: class="no-border no-background" -->
+![less](img/logo-less.png) <!-- .element: class="no-border no-background" -->
+![yoman](img/logo-yoman.png) <!-- .element: class="no-border no-background" -->
+
+Note:
+- browserify
+- coffee
+- cordova
+- grunt
+- gulp
+- less
+- yoman
+
+====
+
+### Algumas coisas mais
+
+![atom](img/logo-atom.png) <!-- .element: class="no-border no-background" -->
+![vs](img/logo-vs.png) <!-- .element: class="no-border no-background" -->
+![popcorn](img/logo-popcorn.png) <!-- .element: class="no-border no-background" -->
+
+Note:
+- Atom editor
+- Visual Studio Code (editor multi-plataforma)
+- Popcorn Time
+
+====
+
+### E ainda mais
+
+Eu já falei de _internet das coisas_?
+
+====
+
+![johnny-five](img/logo-johnny-five.png) <!-- .element: class="no-border no-background" -->
+
+#### [Johnny Five](https://github.com/rwaldron/johnny-five)
+
+Framework, baseado no [Protocolo Firmata](https://github.com/firmata/protocol)
+para programação de placas controladoras, incluindo Arduino
+(todos os modelos), Beagle Bone, Intel Galileo, Raspberry Pi,
+Particle, etc.
+
+====
+
+![tessel](img/logo-tessel.png) <!-- .element: class="no-border no-background" -->
+
+#### [Tessel 2](https://tessel.io/)
+
+Placa controladora programada em Javascript,
+com Node.js.
+
+----
+
 <link href='http://fonts.googleapis.com/css?family=Architects+Daughter' rel='stylesheet' type='text/css'>
 
 ? <!-- .element: style="font-family:'Architects Daughter'; font-size:8em" -->
@@ -762,7 +823,7 @@ Perguntas
 
 ====
 
-##### Estes slides online
+##### Encontre estes slides online
 
 [slides.diovani.com/slides/nodejs-server-side-javascript][js-onserver]
 

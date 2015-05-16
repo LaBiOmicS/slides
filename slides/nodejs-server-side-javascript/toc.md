@@ -6,4 +6,6 @@
 * Módulos, NPM e `package.json`
 * Utilitários de linha de comando
 * Frameworks, stacks e ecosistema
-* Aprendendo Node.js
+* Referências para aprender Node.js
+* "Futuro" do Javascript e Node.js
+* Ferramentas e apps Node.js

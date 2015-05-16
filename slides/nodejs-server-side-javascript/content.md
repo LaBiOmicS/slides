@@ -5,8 +5,8 @@
 var http = require('http');
 
 http.createServer(function (req, res) {
-    res.writeHead(200, {'Content-Type': 'text/plain'});
-    res.end('Hello World\n');
+  res.writeHead(200, {'Content-Type': 'text/plain'});
+  res.end('Hello World\n');
 }).listen(1337, '127.0.0.1');
 
 console.log('Server running at http://127.0.0.1:1337/');
@@ -271,17 +271,16 @@ Muito semelhante ao uso de AJAX em Javascript.
 
 ====
 
-Um _node callback_ recebe um objeto de erro como primeiro argumento e um ou mais
-a seguir, contendo o resultado da operação.
+Um _node callback_ recebe um objeto de erro como primeiro argumento
+e um ou mais argumentos a seguir, contendo o resultado da operação.
 
 ```javascript
 function myNodeCallback(err, data) {
-    if (err) {
-        //something went wrong
-        return;
-    }
-
-    //normal flow
+  if (err) {
+    //something went wrong
+    return;
+  }
+  //normal flow
 }
 ```
 
@@ -291,9 +290,9 @@ function myNodeCallback(err, data) {
 var fs = require('fs');
 
 fs.readFile('./example.txt', function(err, content) {
-    if (err) console.error("Ocorreu um erro ao ler o arquivo");
+  if (err) console.error("Ocorreu um erro ao ler o arquivo");
 
-    console.log(content.toString());
+  console.log(content.toString());
 });
 ```
 
@@ -306,10 +305,8 @@ Exemplo de uso de um callback node.js.
 
 Muitos objetos em Node.js emitem eventos.
 
-- `net.Server` emite
-    + `connection` a cada vez que um cliente conecta.
-- `fs.readStream` emite
-    + `open` quando o arquivo é aberto.
+- `net.Server` emite `"connection"` a cada vez que um cliente conecta.
+- `fs.readStream` emite `"open"` quando o arquivo é aberto.
 
 Note:
 Este comportamento se assemelha muito a cliques e outras
@@ -321,7 +318,7 @@ Adicionando _listeners_ aos eventos de um objeto.
 
 ```javascript
 emitter.addListener(event, function(data) {
-    //...
+  //...
 });
 ```
 
@@ -329,7 +326,7 @@ ou
 
 ```javascript
 emitter.on(event, function(data) {
-    //...
+  //...
 });
 ```
 
@@ -339,15 +336,15 @@ emitter.on(event, function(data) {
 var http = require('http');
 
 http.get('http://example.com', function(response) {
-    //dados recebidos, loga o conteúdo
-    response.on('data', function(data) {
-        console.log(data.toString());
-    });
+  //dados recebidos, loga o conteúdo
+  response.on('data', function(data) {
+    console.log(data.toString());
+  });
 
-    //em caso de erro, loga a mensagem
-    response.on('error', function(err) {
-        console.error(err.stack || err);
-    });
+  //em caso de erro, loga a mensagem
+  response.on('error', function(err) {
+    console.error(err.stack || err);
+  });
 });
 ```
 
@@ -420,7 +417,7 @@ fs.createReadStream("input/people_euc-jp.csv.gz")
 ====
 <!-- .slide: data-background="img/pipes.png" -->
 
-#### WTF is `pipe()`?
+#### _WTF is_ `pipe()`?
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>

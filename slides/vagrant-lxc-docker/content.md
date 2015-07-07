@@ -1,18 +1,42 @@
-## Main slide
+## Motivações
 
-====
+Ou, porque usar Vagrant ou Containers?
 
-### Sub-slide
-
-Fica abaixo do anterior.
+- Sem instalar dependências por projeto
+- Subir todos serviços com um único comando
+- Criar um ambiente fácil de reproduzir e distribuir
+- Remover tudo facilmente
 
 ----
 
-### Fragmented-slide
+Primeiro vamos falar sobre
 
-Isto aparece primeiro.
+## Virtualização
 
-Isto aparece depois. <!-- .element: class="fragment" data-fragment="1" -->
+====
+
+- Virtual Box
+- VM Ware
+- Windows Hyper-V
+- Xen
+
+Note:
+Alguns exemplos de Hypervisors
+
+====
+
+![virtualization](img/virtualization.png)
+
+====
+
+Virtualização depende de emulação de Hardware.
+
+- Suporte a vários _Host OS_ diferentes
+- Reserva recursos (especialmente memória)
+- Performance comprometida
+
+Note:
+Principais características
 
 ----
 
@@ -21,3 +45,7 @@ Isto aparece depois. <!-- .element: class="fragment" data-fragment="1" -->
 ====
 
 ### Créditos das imagens
+
+- Virtualização
+
+  http://arstechnica.com/business/2011/02/virtualization-in-the-trenches-with-vmware-part-1-basics-and-benefits/

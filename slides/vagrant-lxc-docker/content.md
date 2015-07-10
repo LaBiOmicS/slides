@@ -108,6 +108,27 @@ Conjunto de ferramentas do projeto Liunx Containers
 Note:
 Características
 
+====
+
+- Não emula _Hardware_
+- Não reserva recursos
+- Controle de processos pelo _host_
+
+Note:
+Principais diferenças de uma VM
+
+====
+
+```console
+lxc-create -t download -n my-container
+lxc-attach -n my-container
+```
+
+Note:
+- Cria um container a partir de uma imagem base
+    + Exibe lista de distribuições, versões e arquiteturas
+- Obtém acesso ao shell to container
+
 ----
 
 ### Créditos das imagens

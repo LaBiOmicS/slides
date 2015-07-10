@@ -40,6 +40,46 @@ Principais características
 
 ----
 
+![logo-vagrant](img/logo-vagrant.png) <!-- .element: class="no-border no-background" -->
+
+## Vagrant
+
+https://www.vagrantup.com
+
+====
+
+> Ambientes de desenvolvimento facilitados
+
+- _Box_ prontas para diversos fins
+- Fácil de empacotar e distribuir
+- Roda sobre Virtual Box ou VM Ware
+- _Provisionamento_ (via _bash_, _Chef_, _Puppet_, etc.)
+
+Note:
+Principais características
+
+- Também roda sobre Docker
+
+====
+
+Configuração feita através do arquivo `Vagrantfile`
+
+====
+
+```console
+vagrant init hashicorp/precise32
+vagrant up
+```
+
+Note:
+- Inicializa um ambiente com base no Ubuntu hashicorp/precise32
+- Sobe o ambiente
+
+  O comando `up` baixa a _box_ e configura todo o necessário
+
+
+----
+
 ![logo-lxc](img/logo-lxc.png) <!-- .element: class="no-border no-background" -->
 
 ## Linux Containers
@@ -69,10 +109,6 @@ Note:
 Características
 
 ----
-
-### Referências
-
-====
 
 ### Créditos das imagens
 

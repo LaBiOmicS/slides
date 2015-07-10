@@ -31,12 +31,42 @@ Alguns exemplos de Hypervisors
 
 Virtualização depende de emulação de Hardware.
 
-- Suporte a vários _Host OS_ diferentes
+- Qualquer Sistema Operacional
 - Reserva recursos (especialmente memória)
 - Performance comprometida
 
 Note:
 Principais características
+
+----
+
+![logo-lxc](img/logo-lxc.png) <!-- .element: class="no-border no-background" -->
+
+## Linux Containers
+
+https://linuxcontainers.org
+
+====
+
+- LXC
+- LXD
+- CG Manager
+- LXCFS
+
+Note:
+Conjunto de ferramentas do projeto Liunx Containers
+
+====
+
+> Alguma coisa entre um _chroot_ e uma máquina virtual completa
+
+- Apenas GNU/Linux
+- Utiliza características de contenção do kernel Linux
+- Roda no sistema de arquivos
+- _User space_ isolado
+
+Note:
+Características
 
 ----
 
@@ -46,6 +76,4 @@ Principais características
 
 ### Créditos das imagens
 
-- Virtualização
-
-  http://arstechnica.com/business/2011/02/virtualization-in-the-trenches-with-vmware-part-1-basics-and-benefits/
+- arstechnica.com

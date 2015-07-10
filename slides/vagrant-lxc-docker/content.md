@@ -98,6 +98,13 @@ Conjunto de ferramentas do projeto Liunx Containers
 
 ====
 
+![lxc-architecture](img/lxc-architecture.png) <!-- .element: class="no-border no-background" -->
+
+Note:
+Arquitetura de containers
+
+====
+
 > Alguma coisa entre um _chroot_ e uma máquina virtual completa
 
 - Apenas GNU/Linux

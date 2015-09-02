@@ -15,6 +15,12 @@ Primeiro vamos falar sobre
 
 ====
 
+![snes9x](img/snes9x.png) <!-- .element: class="no-border no-background" -->
+
+![mariocart](img/snes9x-mariocart.png)
+
+====
+
 - Virtual Box
 - VM Ware
 - Windows Hyper-V

@@ -28,13 +28,13 @@ Você deve também ter o módulo `grunt-cli` instalado globalmente.
 	sudo npm install -g grunt-cli
 
 Com o ambiente pronto, você pode servir os slides localmente, na porta 8000, via Grunt.
-	
+
 	grunt serve
 
 Ou gerar um site, que pode ser hospedado em qualquer servidor HTTP.
 
 O site completo com todas as apresentações, será exportado para o diretório `dist/`.
-	
+
 	grunt build
 
 Você pode ainda gerar o site completo num arquivo `.zip`, se preferir.

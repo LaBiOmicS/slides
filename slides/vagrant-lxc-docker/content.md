@@ -15,9 +15,9 @@ Primeiro vamos falar sobre
 
 ====
 
-![snes9x](img/snes9x.png) <!-- .element: class="no-border no-background" -->
-
 ![mariocart](img/snes9x-mariocart.png)
+
+snes9x.com <!-- .element: class="credits" -->
 
 ====
 
@@ -32,6 +32,8 @@ Alguns exemplos de Hypervisors
 ====
 
 ![virtualization](img/virtualization.png)
+
+arstechnica.com <!-- .element: class="credits" -->
 
 ====
 
@@ -104,7 +106,9 @@ Conjunto de ferramentas do projeto Liunx Containers
 
 ====
 
-![lxc-architecture](img/lxc-architecture.png) <!-- .element: class="no-border no-background" -->
+![lxc-architecture](img/lxc-architecture.png) <!-- .element: class="no-border no-background bigger" -->
+
+redhat.com <!-- .element: class="credits" -->
 
 Note:
 Arquitetura de containers
@@ -170,7 +174,11 @@ Ferramentas da suíte Docker
 
 ====
 
-![docker-layers](img/docker-layers.png) <!-- .element: class="no-border no-background" -->
+![docker-structure](img/docker-structure.png) <!-- .element: class="no-border no-background bigger" -->
+
+redhat.com <!-- .element: class="credits" -->
+
+====
 
 - Sistema de arquivos em camadas
 - Ampla variedade de imagens base

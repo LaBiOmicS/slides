@@ -1,0 +1,16 @@
+.credits {
+  font-size: .4em !important;
+  font-style: italic !important;
+}
+
+.credits::before {
+  content: "Image credits:";
+  font-size: .8em !important;
+  text-transform: uppercase;
+  padding-right: .4em;
+}
+
+img.bigger {
+  /*width: 100%;*/
+  /*height: 100%;*/
+}

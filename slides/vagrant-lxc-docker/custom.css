@@ -14,3 +14,16 @@ img.bigger {
   /*width: 100%;*/
   /*height: 100%;*/
 }
+
+.bibliography ul {
+  margin: 0;
+}
+
+.bibliography ul li {
+  list-style: none;
+  font-size: .7em;
+}
+
+.bibliography ul li code {
+  font-family: inherit;
+}

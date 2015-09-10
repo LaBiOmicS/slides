@@ -2,38 +2,51 @@
 
 Ou, porque usar Vagrant ou Containers?
 
-- Sem instalar dependências por projeto
+====
+
+- Sem instalar dependências no host
 - Subir todos serviços com um único comando
 - Criar um ambiente fácil de reproduzir e distribuir
+- Possuir paridade Dev X Prod
 - Remover tudo facilmente
 
 ----
+<!-- .slide: data-background="img/snes9x-mariocart.png" -->
 
 Primeiro vamos falar sobre
 
 ## Virtualização
 
-====
-
-![mariocart](img/snes9x-mariocart.png)
-
 snes9x.com <!-- .element: class="credits" -->
 
+Note:
+Emuladores de videgames não são muito diferentes de
+hypervisors.
+
 ====
 
-- Virtual Box
-- VM Ware
-- Windows Hyper-V
-- Xen
+Começou na década de 60 como uma forma de dividir recursos
+de um _mainframe_ entre diferentes aplicações.
 
 Note:
-Alguns exemplos de Hypervisors
+Meu contato foi por volta do ano 2000
 
 ====
 
 ![virtualization](img/virtualization.png)
 
 arstechnica.com <!-- .element: class="credits" -->
+
+====
+
+- KVM
+- Virtual Box
+- VM Ware
+- Windows Hyper-V
+- Xen
+
+Note:
+Alguns exemplos de Hypervisors conhecidos
 
 ====
 

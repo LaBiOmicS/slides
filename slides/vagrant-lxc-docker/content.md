@@ -39,6 +39,11 @@ arstechnica.com <!-- .element: class="credits" -->
 
 ====
 
+![kvm](img/logos/kvm.png) <!-- .element: class="no-border no-background" -->
+![virtualbox](img/logos/virtualbox.png) <!-- .element: class="no-border no-background" -->
+![vmware](img/logos/vmware.png) <!-- .element: class="no-border no-background" -->
+![xen](img/logos/xen.png) <!-- .element: class="no-border no-background" -->
+
 - KVM
 - Virtual Box
 - VM Ware

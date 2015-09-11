@@ -39,6 +39,16 @@ arstechnica.com <!-- .element: class="credits" -->
 
 ====
 
+- Depende de emulação de Hardware.
+- Qualquer Sistema Operacional
+- Reserva recursos (especialmente memória)
+- Performance comprometida
+
+Note:
+Principais características
+
+====
+
 ![kvm](img/logos/kvm.png) <!-- .element: class="no-border no-background" -->
 ![virtualbox](img/logos/virtualbox.png) <!-- .element: class="no-border no-background" -->
 ![vmware](img/logos/vmware.png) <!-- .element: class="no-border no-background" -->
@@ -52,17 +62,6 @@ arstechnica.com <!-- .element: class="credits" -->
 
 Note:
 Alguns exemplos de Hypervisors conhecidos
-
-====
-
-Virtualização depende de emulação de Hardware.
-
-- Qualquer Sistema Operacional
-- Reserva recursos (especialmente memória)
-- Performance comprometida
-
-Note:
-Principais características
 
 ----
 

@@ -146,6 +146,12 @@ a reprodução em ambiente não Linux.
 
 ----
 
+Agora vamos falar sobre
+
+## Containers
+
+----
+
 ![logo-lxc](img/logos/lxc.png) <!-- .element: class="no-border no-background" -->
 
 ## Linux Containers

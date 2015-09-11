@@ -49,10 +49,10 @@ Principais características
 
 ====
 
-![kvm](img/logos/kvm.png) <!-- .element: class="no-border no-background" -->
-![virtualbox](img/logos/virtualbox.png) <!-- .element: class="no-border no-background" -->
-![vmware](img/logos/vmware.png) <!-- .element: class="no-border no-background" -->
-![xen](img/logos/xen.png) <!-- .element: class="no-border no-background" -->
+![kvm](img/logos/kvm-small.png) <!-- .element: class="no-border no-background" -->
+![virtualbox](img/logos/virtualbox-small.png) <!-- .element: class="no-border no-background" -->
+![vmware](img/logos/vmware-small.png) <!-- .element: class="no-border no-background" -->
+![xen](img/logos/xen-small.png) <!-- .element: class="no-border no-background" -->
 
 - KVM
 - Virtual Box

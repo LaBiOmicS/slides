@@ -32,11 +32,16 @@ Vou repetir
 
 ====
 
-### Principais Implementações
+![vserver](img/logos/vserver-small.png) <!-- .element: class="no-border no-background" -->
+![openvz](img/logos/openvz-small.png) <!-- .element: class="no-border no-background" -->
+![lxc](img/logos/lxc-small.png) <!-- .element: class="no-border no-background" -->
+![docker](img/logos/docker-small.png) <!-- .element: class="no-border no-background" -->
+![rocket](img/logos/rocket-small.png) <!-- .element: class="no-border no-background" -->
 
 - chroot (1982)
-- FreeBSD Jail (2000)
+- FreeBSD Jails (2000)
 - Linux VServer (2001)
+- OpenVZ (2005)
 - LXC (2008)
 - SystemD nspawn (~2010)
 - Docker (2013)

@@ -61,3 +61,24 @@ Note:
 
 Note:
 Conjunto de ferramentas do projeto Liunx Containers
+
+====
+
+### Que problemas resolve?
+
+- Isolamento de _userspace_ e estrutura de diretórios
+- Uso transparente, semelhante a uma VM, após inicialização
+
+Note:
+_Heroku_ é um exemplo de _hosting_ que utiliza LXC
+em sua infraestrutura.
+
+====
+
+### Obstáculos
+
+- Apenas GNU/Linux
+- Muito verboso, difícil de gerenciar ou automatizar
+
+Note:
+_Heroku_ possui seu próprio sistema de _buildpacks_.

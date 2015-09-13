@@ -2,7 +2,7 @@
 
 ## Vagrant
 
-https://www.vagrantup.com
+[vagrantup.com](https://www.vagrantup.com)
 
 ====
 

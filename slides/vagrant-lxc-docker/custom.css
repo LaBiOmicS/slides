@@ -10,9 +10,8 @@
   padding-right: .4em;
 }
 
-img.bigger {
-  /*width: 100%;*/
-  /*height: 100%;*/
+.list-descriptions li > p:not(:first-child) {
+  font-size: .8em;
 }
 
 .bibliography ul {

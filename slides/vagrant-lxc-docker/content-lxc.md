@@ -6,13 +6,13 @@
 
 ====
 
-- LXC
-- LXD
-- CG Manager
-- LXCFS
+> Algo entre um _chroot_ e uma máquina virtual completa
 
-Note:
-Conjunto de ferramentas do projeto Liunx Containers
+====
+
+- Utiliza características de contenção do kernel Linux
+- Roda no sistema de arquivos
+- Compartilha o _Kernel_ com o _Host_
 
 ====
 
@@ -25,34 +25,39 @@ Arquitetura de containers
 
 ====
 
-> Alguma coisa entre um _chroot_ e uma máquina virtual completa
-
-- Apenas GNU/Linux
-- Utiliza características de contenção do kernel Linux
-- Roda no sistema de arquivos
-- Compartilha o _Kernel_ com o _Host_
-- _User space_ isolado
-
-Note:
-Características
-
-====
-
-- Não emula _Hardware_
-- Não reserva recursos
-- Controle de processos pelo _host_
-
-Note:
-Principais diferenças de uma VM
-
-====
-
 ```console
 lxc-create -t download -n my-container
+lxc-start -n my-container -d
 lxc-attach -n my-container
 ```
 
 Note:
 - Cria um container a partir de uma imagem base
     + Exibe lista de distribuições, versões e arquiteturas
+- Inicializa o container em _background_
 - Obtém acesso ao shell to container
+
+====
+<!-- .slide: class="list-descriptions" -->
+
+- LXC
+
+    Interface de _userspace_ para as capacidades de contenção
+    do Kernel Linux.
+
+- LXD
+
+    _Container hypervisor_ e uma nova experiência de usuário
+    para LXC.
+
+- CG Manager
+
+    Serviço centralizado para gerenciar _cgroups_.
+
+- LXCFS
+
+    Sistema de arquivos sobre _userspace_ desenvolvido para
+    resolver algumas limitações do Kernel linux.
+
+Note:
+Conjunto de ferramentas do projeto Liunx Containers

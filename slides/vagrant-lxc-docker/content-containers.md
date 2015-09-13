@@ -16,7 +16,7 @@ ou melhor, a nível de _kernel_.
 
 ====
 
-- Permitem várias instâncias isoladas de _user space_
+- Permitem várias instâncias isoladas de _userspace_
 - Sem emulação de _hardware_
 - Consumo de recursos mínimo ou nulo
 
@@ -48,7 +48,7 @@ Vou repetir
 - rkt (2014)
 
 Note:
-- _chroot_ não é um container, mas apenas um userspace
+- _chroot_ não é um container, mas apenas um _userspace_
 e sistema de arquivos (não muito) isolado.
 
 - SystemD tem release inicial em 2010, mas não encontrei

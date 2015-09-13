@@ -45,7 +45,7 @@ Vou repetir
 - LXC (2008)
 - SystemD nspawn (~2010)
 - Docker (2013)
-- Rocket (2014 - CoreOS)
+- rkt (2014)
 
 Note:
 - _chroot_ não é um container, mas apenas um userspace

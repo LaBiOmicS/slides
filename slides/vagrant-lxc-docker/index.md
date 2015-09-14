@@ -3,6 +3,18 @@
 Ou, porque usar Vagrant ou Containers?
 
 ====
+<!-- .slide: data-background="img/vini.jpg" data-background-size="50%" data-background-position="right" -->
+
+<div style="width:100%; text-align: right;">
+    <div style="width: 50%;">
+        <blockquote style="padding-right: 1em">
+            <p>Docker resolve muito bem um problema que nunca tive.</p>
+            <small>por Vinícius Almeida</small>
+        </blockquote>
+    </div>
+</div>
+
+====
 
 - Sem instalar dependências no host
 - Subir todos serviços com um único comando

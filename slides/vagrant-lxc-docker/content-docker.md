@@ -9,13 +9,14 @@
 > ### Build, Ship, Run
 >
 > Uma plataforma aberta de aplicações distribuídas
-> para desenvolvedores e _sysadmins_
+> para desenvolvedores e administradores de
+> sistemas
 
 ====
 
 - Sistema de arquivos em camadas
 - Ampla variedade de imagens base
-- Imagens nunca são alteradas, apenas o containers no topo
+- Imagens nunca são alteradas, apenas o container sobre elas
 - Rodam como serviços
 
 ====
@@ -162,3 +163,19 @@ Note:
 Note:
 Ferramentas da suíte Docker
 
+====
+
+### Que problemas resolve?
+
+- Isolamento de _userspace_ e estrutura de diretórios
+- Build system (com `Dockerfile`)
+- Reproduzir ambientes facilmente (com Docker Compose)
+- Distribuição
+- Não restrito a Linux Host (com `boot2docker` ou Docker Machine)
+
+====
+
+### Obstáculos
+
+- Containers como serviços
+- Ambientes não Linux exigem o uso de uma VM

@@ -66,6 +66,13 @@ For more examples and ideas, visit:
  https://docs.docker.com/userguide/
 ```
 
+Note:
+Notem que ele roda um comando e pára.
+
+Se este comando é um serviço e continua executando
+o container vai continuar ativo, caso contrário
+será terminado.
+
 ====
 
 - docker
@@ -78,20 +85,67 @@ Ferramentas da suíte Docker
 
 ====
 
+### Dockerfile
+
+Docker _build system_
+
+- cria novas imagens a partir de uma imagem base
+- permite distribuir apenas um arquivo ao invés
+  da imagem pronta
+
+====
+
 ```console
-➜  ~  vim Dockerfile
+➜  ~  mkdir docker-test
+➜  ~  cd docker-test
+➜  docker-test  vim Dockerfile
 ```
 
 ```Dockerfile
 FROM docker/whalesay:latest
 
-RUN apt-get -y update && apt-get install -y fortunes
+RUN apt-get -qq update \
+    && apt-get -qq --force-yes install fortunes
 
 CMD /usr/games/fortune -a | cowsay
 ```
 
+====
+
 ```console
-➜  ~  docker build -t docker-whale .
+➜  docker-test  docker build -t docker-whale .
+Sending build context to Docker daemon 2.048 kB
+Sending build context to Docker daemon
+Step 0 : FROM docker/whalesay:latest
+ ---> fb434121fc77
+Step 1 : RUN apt-get -qq update && apt-get -qq --force-yes install fortunes
+ ---> Using cache
+ ---> 0c9d9387db18
+Step 2 : CMD /usr/games/fortune -a | cowsay
+ ---> Using cache
+ ---> 9970f489cd29
+Successfully built 9970f489cd29
+```
+
+====
+
+```console
+➜  docker-test  docker run docker-whale
+ ____________________________
+< Just to have it is enough. >
+ ----------------------------
+    \
+     \
+      \
+                    ##        .
+              ## ## ##       ==
+           ## ## ## ##      ===
+       /""""""""""""""""___/ ===
+  ~~~ {~~ ~~~~ ~~~ ~~~~ ~~ ~ /  ===- ~~~
+       \______ o          __/
+        \    \        __/
+          \____\______/
+
 ```
 
 Note:

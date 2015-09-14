@@ -137,7 +137,7 @@ Conjunto de ferramentas do projeto Liunx Containers
 ### Que problemas resolve?
 
 - Isolamento de _userspace_ e estrutura de diretórios
-- Uso transparente, semelhante a uma VM, após inicialização
+- Uso transparente, semelhante a uma VM
 
 Note:
 _Heroku_ é um exemplo de _hosting_ que utiliza LXC

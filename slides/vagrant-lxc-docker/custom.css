@@ -1,3 +1,7 @@
+li > ul {
+  font-size: .9em !important;
+}
+
 .credits {
   font-size: .4em !important;
   font-style: italic !important;

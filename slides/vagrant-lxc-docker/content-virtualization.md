@@ -26,7 +26,7 @@ arstechnica.com <!-- .element: class="credits" -->
 
 ====
 
-- Depende de emulação de Hardware.
+- Depende de emulação de Hardware
 - Qualquer Sistema Operacional
 - Reserva recursos (especialmente memória)
 - Performance comprometida

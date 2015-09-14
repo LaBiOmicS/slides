@@ -8,15 +8,15 @@
 
 > ### Build, Ship, Run
 >
-> Uma plataforma aberta para aplicações distribuídas
+> Uma plataforma aberta de aplicações distribuídas
 > para desenvolvedores e _sysadmins_
 
 ====
 
 - docker
 - docker-compose
-- boot2docker
 - docker-machine
+- boot2docker
 
 Note:
 Ferramentas da suíte Docker

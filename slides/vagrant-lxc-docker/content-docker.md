@@ -75,16 +75,6 @@ será terminado.
 
 ====
 
-- docker
-- docker-compose
-- docker-machine
-- boot2docker
-
-Note:
-Ferramentas da suíte Docker
-
-====
-
 ### Dockerfile
 
 Docker _build system_
@@ -95,12 +85,6 @@ Docker _build system_
 
 ====
 
-```console
-➜  ~  mkdir docker-test
-➜  ~  cd docker-test
-➜  docker-test  vim Dockerfile
-```
-
 ```Dockerfile
 FROM docker/whalesay:latest
 
@@ -110,10 +94,13 @@ RUN apt-get -qq update \
 CMD /usr/games/fortune -a | cowsay
 ```
 
+Note:
+Exemplo de Dockerfile
+
 ====
 
 ```console
-➜  docker-test  docker build -t docker-whale .
+➜  ~  docker build -t docker-whale .
 Sending build context to Docker daemon 2.048 kB
 Sending build context to Docker daemon
 Step 0 : FROM docker/whalesay:latest
@@ -130,7 +117,7 @@ Successfully built 9970f489cd29
 ====
 
 ```console
-➜  docker-test  docker run docker-whale
+➜  ~  docker run docker-whale
  ____________________________
 < Just to have it is enough. >
  ----------------------------
@@ -153,29 +140,25 @@ Note:
 - Roda um container a partir da imagem
 
 ====
+<!-- .slide: class="list-descriptions" -->
 
-```console
-vim docker-compose.yml
-```
+- Docker
 
-```yml
-web:
-  build: .
-  ports:
-   - "5000:5000"
-  volumes:
-   - .:/code
-  links:
-   - redis
+    Cria e roda Docker Containers.
 
-redis:
-  image: redis
-```
+- Docker Hub
 
-```console
-docker-compose up -d
-```
+    Serviço de registro e hospedagem de imagens.
+
+- Docker Machine
+
+    Aumatiza o provisionamento de containers em sua rede
+    ou na Nuvem.
+
+- Docker Compose
+
+    Define aplicações _multi-containers_.
 
 Note:
-- Cria serviços `web` e `redis` com `docker-compose`
-- Inicia os serviços
+Ferramentas da suíte Docker
+

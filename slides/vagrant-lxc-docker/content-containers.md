@@ -80,4 +80,4 @@ Conheçam o
 
 - Surgiu em 2014
 - Atualmente oferece Docker como principal solução em Containers
-- Possivelmente a ser substituído pelo _rkt_ no futuro
+    + Possivelmente a ser substituído pelo _rkt_ no futuro

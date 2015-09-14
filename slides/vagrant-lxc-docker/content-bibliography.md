@@ -1,7 +1,3 @@
-# Dúvidas?
-
-----
-
 ### Bibliografia
 <!-- .slide: class="bibliography" -->
 

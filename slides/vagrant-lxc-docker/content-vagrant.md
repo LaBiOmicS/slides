@@ -20,6 +20,38 @@ _Box_ é como são chamadas as imagens do _Vagrant_
 
 ====
 
+```console
+➜  ~  vagrant init hashicorp/precise32
+A `Vagrantfile` has been placed in this directory. You are now
+ready to `vagrant up` your first virtual environment! Please read
+the comments in the Vagrantfile as well as documentation on
+`vagrantup.com` for more information on using Vagrant.
+```
+
+Note:
+Inicializa um ambiente com base no Ubuntu hashicorp/precise32
+
+====
+
+```
+➜  ~  vagrant up
+Bringing machine 'default' up with 'virtualbox' provider...
+==> default: Importing base box 'hashicorp/precise32'...
+==> ...
+==> default: Booting VM...
+==> default: Waiting for machine to boot. This may take a few minutes...
+    ...
+==> default: Machine booted and ready!
+==> ...
+==> default: Mounting shared folders...
+    default: /vagrant => /mnt/userdata/diovani/Vagrant/precise32
+```
+
+Note:
+Sobe o ambiente, baixando a box, se necessário.
+
+====
+
 Configuração feita através de um único arquivo.
 
 `Vagrantfile`
@@ -41,19 +73,6 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
 
 # ...
 ```
-
-====
-
-```console
-vagrant init hashicorp/hashicorp/precise32
-vagrant up
-```
-
-Note:
-- Inicializa um ambiente com base no Ubuntu hashicorp/precise32
-- Sobe o ambiente
-
-  O comando `up` baixa a _box_ e configura todo o necessário
 
 ====
 

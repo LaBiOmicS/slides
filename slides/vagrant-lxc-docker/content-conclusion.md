@@ -1,4 +1,8 @@
+<!-- .slide: data-background="img/qa.jpg" -->
+
 ## Perguntas e respostas
+
+hannacooper.com <!-- .element: class="credits" -->
 
 ====
 <!-- .slide: class="list-descriptions" -->

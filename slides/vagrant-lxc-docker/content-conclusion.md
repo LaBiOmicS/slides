@@ -84,5 +84,8 @@ Hyper-V Containers ainda não são disponíveis para uso.
 Esperados ainda para 2015.
 
 ====
+<!-- .slide: data-background="img/doubts.jpg" -->
 
 # Dúvidas?
+
+readytalk.com <!-- .element: class="credits" -->

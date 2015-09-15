@@ -29,6 +29,7 @@ Ou, porque usar Vagrant ou Containers?
 - Virtualização
     + Vagrant
 - Containers
+    + Core OS
     + LXC (Linux Containers)
     + Docker
 - Q&A

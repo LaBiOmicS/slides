@@ -1,6 +1,10 @@
+<!-- .slide: data-background="img/motivation.jpg" -->
+
 ## Motivações
 
 Ou, porque usar Vagrant ou Containers?
+
+opensource.com <!-- .element: class="credits" -->
 
 ====
 <!-- .slide: data-background="img/vini.jpg" data-background-size="50%" data-background-position="right" -->

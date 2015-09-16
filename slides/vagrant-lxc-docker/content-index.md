@@ -33,7 +33,6 @@ opensource.com <!-- .element: class="credits" -->
 - Virtualização
     + Vagrant
 - Containers
-    + Core OS
     + LXC (Linux Containers)
     + Docker
 - Q&A

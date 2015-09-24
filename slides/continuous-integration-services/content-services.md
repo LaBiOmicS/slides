@@ -230,3 +230,19 @@ uma linguagem não suportada oficielmente.
 - Integra com GitHub e BitBucket
 - Configurado via _browser_
 
+----
+
+![droneio](img/logos/droneio.png) <!-- .element: class="no-border no-background" -->
+
+### `drone.io`
+
+[drone.io](https://drone.io/)
+
+====
+
+![dashboard](img/droneio-dashboard.png)
+
+====
+
+- Integra com GitHub, BitBucket e Google Code
+- Configurado via _browser_

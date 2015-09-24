@@ -215,3 +215,18 @@ Note:
 Configuração para rodar testes com Elixir,
 uma linguagem não suportada oficielmente.
 
+----
+
+![codeship](img/logos/codeship.png) <!-- .element: class="no-border no-background" -->
+
+[codeship.com](https://codeship.com/)
+
+====
+
+![dashboard](img/codeship-dashboard.png)
+
+====
+
+- Integra com GitHub e BitBucket
+- Configurado via _browser_
+

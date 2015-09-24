@@ -150,3 +150,24 @@ java -jar jenkins.war
 Note:
 - baixa jenkins na versão edfinida
 - executa com `java -jar`
+
+----
+
+![bamboo](img/logos/bamboo.png) <!-- .element: class="no-border no-background" -->
+
+[atlassian.com/software/bamboo](https://www.atlassian.com/software/bamboo)
+
+Note:
+Pela mesma empresa do BitBucket.
+
+====
+
+![dashboard](img/bamboo-dashboard.png)
+
+atlassian.com <!-- .element: class="credits" -->
+
+====
+
+- Instalado em Amazon EC2 ou servidor próprio
+- Configurado via _browser_
+- Flexível, muito customizável

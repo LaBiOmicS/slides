@@ -171,3 +171,47 @@ atlassian.com <!-- .element: class="credits" -->
 - Instalado em Amazon EC2 ou servidor próprio
 - Configurado via _browser_
 - Flexível, muito customizável
+
+----
+
+![circle-ci](img/logos/circle-ci.png) <!-- .element: class="no-border no-background" -->
+
+[circleci.com](https://circleci.com/)
+
+====
+
+![dashboard](img/circleci-dashboard.png)
+
+====
+
+- Roda na nuvem
+- Sem configuração para frameworks mais populares
+- Configurações específicas realizadas vie `circle.yml`
+
+Note:
+O `circle.yml` deve ser adicionado ao repositório
+do projeto.
+
+====
+
+```yml
+dependencies:
+  pre:
+    - script/ci/prepare.sh
+  cache_directories:
+    - ~/dependencies
+    - ~/.mix
+    - _build
+    - deps
+
+test:
+  override:
+    - script/ci/test.sh
+```
+
+<small>`circle.yml`</small>
+
+Note:
+Configuração para rodar testes com Elixir,
+uma linguagem não suportada oficielmente.
+

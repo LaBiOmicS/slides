@@ -8,6 +8,10 @@
         "description": "Com CakePHP é possível colocar um website no ar em minutos, utilizando de ferramentas para prototipação e a poderosa abstração da base de dados do Framework.",
         "url": "slides/cakephp-course/"
     },{
+        "title": "Garantia de qualidade utilizando Integração Contínua",
+        "description": "Comparação dos principais softwares e serviços.",
+        "url": "slides/continuous-integration-services/"
+    },{
         "title": "GitHub como portfolio pessoal",
         "description": "Uma breve demonstração de como o Github pode ser usado como portfólio, demonstrando as capacidades do desenvolvedor e auxiliando na seleção pelas empresas.",
         "url": "slides/github-as-portfolio/"

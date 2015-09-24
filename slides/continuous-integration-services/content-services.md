@@ -216,7 +216,6 @@ atlassian.com <!-- .element: class="credits" -->
 
 ====
 
-- Roda na nuvem
 - Sem configuração para frameworks mais populares
 - Configurações específicas realizadas via `circle.yml`
 

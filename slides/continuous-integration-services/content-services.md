@@ -26,3 +26,82 @@
 - Facilidade de identificação de falhas
 - Ações tomadas dependendo do resultado
 - Particularidades ou extras
+
+----
+
+![cruise-control](img/logos/cruise-control.png) <!-- .element: class="no-border no-background" -->
+
+[cruisecontrol.sourceforge.net](http://cruisecontrol.sourceforge.net/)
+
+====
+
+![dashboard](img/cruise-control-dashboard.jpg)
+
+salesforce.com <!-- .element: class="credits" -->
+
+Note:
+Screenshot do Dashboard do CruiseControl
+
+====
+
+- Desenvolvido pela ThoughWorks®
+- Open source
+- Instalado em servidor próprio
+- Configuração via XML
+
+Note:
+Criado em 2001.
+Licença BSD-Style
+
+====
+
+Exemplo: _ANT Build file_
+
+```xml
+<!-- Delegating build script, used by cruisecontrol to build MY_PROJECT_1.
+     Note that the basedir is set to the checked out project -->
+<project name="build-MY_PROJECT_1"
+        default="build"
+        basedir="projects/MY_PROJECT_1">
+    <target name="build">
+        <!-- Get the latest from CVS -->
+        <cvs command="up -d -P"/>
+        <!-- Call the target that does everything -->
+        <ant antfile="build.xml" target="build-everything"/>
+    </target>
+</project>
+```
+
+<small>`build-MY_PROJECT_1.xml`</small>
+
+Note:
+Cada projeto deve ter um ANT file como este exemplo.
+
+====
+
+Exemplo: Arquivo de configuração do Cruise Control
+
+```xml
+<cruisecontrol>
+  <project name="MY_PROJECT_1" buildafterfailed="true">
+    <listeners>
+      <currentbuildstatuslistener
+          file="logs/MY_PROJECT_1/status.txt"/>
+    </listeners>
+
+    <modificationset quietperiod="10">
+      <cvs localworkingcopy="projects/MY_PROJECT_1"/>
+    </modificationset>
+
+    <schedule interval="60">
+      <ant buildfile="build-MY_PROJECT_1.xml"
+           uselogger="true"/>
+    </schedule>
+
+    <publishers>
+    </publishers>
+  </project>
+</cruisecontrol>
+```
+
+<small>`config.xml`</small>

@@ -7,9 +7,9 @@
 | **Cruise Control** | Muito Difícil    | OS, Local              |
 | **Jenkins**        | Difícil          | OS, Local              |
 | **Bamboo**         | Médio            | EC2 ou Local, _Deploy_ |
-| **Circle CI**      | Muito Fácil      | `circle.yml`, GitHub   |
 | **CodeShip**       | Fácil            |                        |
 | **Drone.io**       | Fácil            |                        |
+| **Circle CI**      | Muito Fácil      | `circle.yml`, GitHub   |
 | **Travis CI**      | Muito Fácil      | `.travis.yml`, GitHub  |
 
 Note:

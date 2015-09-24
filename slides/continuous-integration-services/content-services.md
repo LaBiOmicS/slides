@@ -3,9 +3,9 @@
 - Cruise Control
 - Jenkins server
 - Atlassian Bamboo
-- Circle CI
 - Codeship
 - Drone.IO
+- Circle CI
 - Travis CI
 
 ====
@@ -174,6 +174,38 @@ atlassian.com <!-- .element: class="credits" -->
 
 ----
 
+![codeship](img/logos/codeship.png) <!-- .element: class="no-border no-background" -->
+
+[codeship.com](https://codeship.com/)
+
+====
+
+![dashboard](img/codeship-dashboard.png)
+
+====
+
+- Integra com GitHub e BitBucket
+- Configurado via _browser_
+
+----
+
+![droneio](img/logos/droneio.png) <!-- .element: class="no-border no-background" -->
+
+### `drone.io`
+
+[drone.io](https://drone.io/)
+
+====
+
+![dashboard](img/droneio-dashboard.png)
+
+====
+
+- Integra com GitHub, BitBucket e Google Code
+- Configurado via _browser_
+
+----
+
 ![circle-ci](img/logos/circle-ci.png) <!-- .element: class="no-border no-background" -->
 
 [circleci.com](https://circleci.com/)
@@ -214,38 +246,6 @@ test:
 Note:
 Configuração para rodar testes com Elixir,
 uma linguagem não suportada oficielmente.
-
-----
-
-![codeship](img/logos/codeship.png) <!-- .element: class="no-border no-background" -->
-
-[codeship.com](https://codeship.com/)
-
-====
-
-![dashboard](img/codeship-dashboard.png)
-
-====
-
-- Integra com GitHub e BitBucket
-- Configurado via _browser_
-
-----
-
-![droneio](img/logos/droneio.png) <!-- .element: class="no-border no-background" -->
-
-### `drone.io`
-
-[drone.io](https://drone.io/)
-
-====
-
-![dashboard](img/droneio-dashboard.png)
-
-====
-
-- Integra com GitHub, BitBucket e Google Code
-- Configurado via _browser_
 
 ----
 

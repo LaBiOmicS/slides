@@ -252,7 +252,7 @@ uma linguagem não suportada oficielmente.
 
 [travis-ci.org](https://travis-ci.org/)
 
-[travis-ci.org](https://travis-ci.org/)
+[travis-ci.com](https://travis-ci.com/)
 
 ====
 

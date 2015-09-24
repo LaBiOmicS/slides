@@ -186,7 +186,7 @@ atlassian.com <!-- .element: class="credits" -->
 
 - Roda na nuvem
 - Sem configuração para frameworks mais populares
-- Configurações específicas realizadas vie `circle.yml`
+- Configurações específicas realizadas via `circle.yml`
 
 Note:
 O `circle.yml` deve ser adicionado ao repositório
@@ -246,3 +246,30 @@ uma linguagem não suportada oficielmente.
 
 - Integra com GitHub, BitBucket e Google Code
 - Configurado via _browser_
+
+----
+
+![travis](img/logos/travis.png) <!-- .element: class="no-border no-background" -->
+
+[travis-ci.org](https://travis-ci.org/)
+
+[travis-ci.org](https://travis-ci.org/)
+
+====
+
+![dashboard](img/travis-dashboard.png)
+
+====
+
+- Integra com GitHub
+- Configurado via `.travis.yml`
+
+====
+
+```yml
+language: elixir
+otp_release:
+  - 17.4
+```
+
+<small>`.travis.yml`</small>

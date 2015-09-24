@@ -105,3 +105,48 @@ Exemplo: Arquivo de configuração do Cruise Control
 ```
 
 <small>`config.xml`</small>
+
+----
+
+![jenkins](img/logos/jenkins.png) <!-- .element: class="no-border no-background" -->
+
+[jenkins-ci.org](https://jenkins-ci.org/)
+
+====
+
+![jenkins-screenshot](img/jenkins-screenshot.png)
+
+faseau.top <!-- .element: class="credits" -->
+
+Note:
+Screenshot da lista de projetos em teste no
+Jenkins.
+
+====
+
+- Open source
+- Instalado em servidor próprio
+- Configurado via _browser_
+- Flexível, muito customizável
+
+Note:
+Solução mais popular, atualmente,
+para integração contínua.
+
+1083 plugins, incluindo _triggers_,
+suporte à linguagens, etc.
+
+====
+
+Exemplo: Start Jenkins server
+
+```console
+JENKINS_VERSION=1.609.3
+curl -fL http://mirrors.jenkins-ci.org/war-stable/$JENKINS_VERSION/jenkins.war\
+  -o jenkins.war
+java -jar jenkins.war
+```
+
+Note:
+- baixa jenkins na versão edfinida
+- executa com `java -jar`

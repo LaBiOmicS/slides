@@ -6,4 +6,4 @@
 
 ### Entenda as diferenças
 
-<small>Versão 0.2.2</small>
+<small>Versão 0.3.2</small>

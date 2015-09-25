@@ -1,3 +1,34 @@
+## Conclusão
+
+====
+
+| &nbsp;               | Vagrant  | LXC      | Docker   |
+| --                   | :--:     | :--:     | :--:     |
+| Sem dependências     | &#10004; | &#10004; | &#10004; |
+| Único comando        | &#10004; |          | &#10004; |
+| Reproduzir ambientes | &#10004; |          | &#10004; |
+| Fácil distribuição   | &#10004; |          | &#10004; |
+| Remover facilmente   | &#10004; | &#10004; | &#10004; |
+| Uso transparente     | &#10004; |          | &#10004; |
+| Acesso ao _guest_    | &#10004; | &#10004; |          |
+| Provisionamento      | &#10004; |          | &#10004; |
+| Orquestração         |          |          | &#10004; |
+| Menor consumo        |          | &#10004; | &#10004; |
+
+Note:
+- Sem dependências ...instaladas no Host
+- Único comando ...para iniciar serviços
+- Reproduzir ambientes ...facilmente
+- Fácil distribuição ...imagens, scripts
+- Remover facilmente
+- Uso transparente ...para acesso a portas e diretórios
+- Acesso ao _guest_ ...via shell
+- Provisionamento ...scripts para automação
+- Orquestração ...subir serviços e conectá-los
+- Menor consumo ...de recursos
+
+====
+
 <!-- .slide: data-background="img/qa.jpg" -->
 
 ## Perguntas e respostas

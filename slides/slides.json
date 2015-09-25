@@ -28,7 +28,7 @@
         "description": "O Vagrant (http://vagrantup.com) permite criar, configurar e compartilhar rapidamente diversas VMs via linha de comando e utilizá-las de forma transparente, como se todo o ambiente fosse local.",
         "url": "slides/vagrant-for-software-development/"
     },{
-        "title": "Vagrant, LSX e Docker: Entenda as diferenças",
+        "title": "Vagrant, LXC e Docker: Entenda as diferenças",
         "description": "Uma comparação entre virtualização, Linux Containers e Docker, abrangendo os conceitos básicos, forma de usar e problemas que cada um resolve.",
         "url": "slides/vagrant-lxc-docker/"
     }]

@@ -55,14 +55,14 @@ Screenshot do Dashboard do CruiseControl
 
 ====
 
-- Desenvolvido pela ThoughWorks®
 - Open source
 - Instalado em servidor próprio
+- Flexível, muito customizável
 - Configuração via XML
 
 Note:
-Criado em 2001.
-Licença BSD-Style
+Criado em 2001, pela ThoughWorks.
+Licença BSD-Style.
 
 ====
 
@@ -117,6 +117,10 @@ Exemplo: Arquivo de configuração do Cruise Control
 
 <small>`config.xml`</small>
 
+====
+
+![chart-cruise-control](img/charts/cruise-control.png) <!-- .element: class="big" -->
+
 ----
 
 ![jenkins](img/logos/jenkins.png) <!-- .element: class="no-border no-background" -->
@@ -137,8 +141,8 @@ Jenkins.
 
 - Open source
 - Instalado em servidor próprio
-- Configurado via _browser_
 - Flexível, muito customizável
+- Configurado via _browser_
 
 Note:
 Solução mais popular, atualmente,
@@ -161,6 +165,10 @@ java -jar jenkins.war
 Note:
 - baixa jenkins na versão edfinida
 - executa com `java -jar`
+
+====
+
+![chart-jenkins](img/charts/jenkins.png) <!-- .element: class="big" -->
 
 ----
 

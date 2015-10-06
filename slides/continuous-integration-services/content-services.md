@@ -13,19 +13,30 @@
 ### Metodologia
 
 - Criadas suítes de testes em três diferentes linguagens
-- Configurados serviços de integração contínua
-  para executar as suítes
+- Configurados softwares/serviços para executar as suítes
 - Acompanhamento da execução dos testes
+- Classificação segundo os quesitos
+
+Note:
+Foram utilizados testes simples em Ruby, Node.js e Elixir.
 
 ====
 
-### Considerações
-
 - Tempo de instalação e configuração
 - Conhecimento específico necessário
+- Flexibilidade e customização
 - Facilidade de identificação de falhas
 - Ações tomadas dependendo do resultado
-- Particularidades ou extras
+
+Note:
+Considerei os seguintes quesitos na avaliação.
+
+====
+
+Notas de 1 a 5, onde:
+
+- **1:** Difícil, exigente, pouco útil ou com resultados imprecisos.
+- **5:** Fácil, flexível ou com resultados práticos.
 
 ----
 

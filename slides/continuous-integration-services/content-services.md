@@ -181,15 +181,20 @@ Pela mesma empresa do BitBucket.
 
 ====
 
-![dashboard](img/bamboo-dashboard.png)
+![dashboard](img/bamboo-dashboard.png) <!-- .element: class="big" -->
 
 atlassian.com <!-- .element: class="credits" -->
 
 ====
 
 - Instalado em Amazon EC2 ou servidor próprio
-- Configurado via _browser_
 - Flexível, muito customizável
+- Muitas opções _post build_ / _deploy_
+- Configurado via _browser_
+
+====
+
+![chart-bamboo](img/charts/bamboo.png) <!-- .element: class="big" -->
 
 ----
 

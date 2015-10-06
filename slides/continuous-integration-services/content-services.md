@@ -234,17 +234,33 @@ drone.io
 
 [circleci.com](https://circleci.com/)
 
+![travis](img/logos/travis.png) <!-- .element: class="no-border no-background" -->
+
+[travis-ci.org](https://travis-ci.org/)
+
+[travis-ci.com](https://travis-ci.com/)
+
 ====
 
 ![dashboard](img/circleci-dashboard.png)
 
+Circle CI
+
 ====
 
-- Sem configuração para frameworks mais populares
-- Configurações específicas realizadas via `circle.yml`
+![dashboard](img/travis-dashboard.png)
+
+Travis CI
+
+====
+
+- Integra com GitHub
+- Exibe notificações no GitHub
+- Sem configuração para frameworks mais populares (CircleCI)
+- Configurações específicas realizadas via arquivo (`circle.yml`, `.travis.yml`)
 
 Note:
-O `circle.yml` deve ser adicionado ao repositório
+O `circle.yml`/`.travis.yml` deve ser adicionado ao repositório
 do projeto.
 
 ====
@@ -268,24 +284,7 @@ test:
 
 Note:
 Configuração para rodar testes com Elixir,
-uma linguagem não suportada oficielmente.
-
-----
-
-![travis](img/logos/travis.png) <!-- .element: class="no-border no-background" -->
-
-[travis-ci.org](https://travis-ci.org/)
-
-[travis-ci.com](https://travis-ci.com/)
-
-====
-
-![dashboard](img/travis-dashboard.png)
-
-====
-
-- Integra com GitHub
-- Configurado via `.travis.yml`
+uma linguagem não suportada oficialmente.
 
 ====
 
@@ -296,3 +295,7 @@ otp_release:
 ```
 
 <small>`.travis.yml`</small>
+
+====
+
+![chart-circle-and-travis](img/charts/circle-and-travis.png) <!-- .element: class="big" -->

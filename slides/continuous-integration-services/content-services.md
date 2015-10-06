@@ -44,6 +44,15 @@ Notas de 1 a 5, onde:
 
 [cruisecontrol.sourceforge.net](http://cruisecontrol.sourceforge.net/)
 
+Note:
+Cruise Control foi o primeiro software criado
+para automatizar CI, pela TW. O CC é inclusive
+mencionado nos cases de Martin Fowler.
+
+Hoje, a TW patrocina o desenvolvimento do Go
+como alternativa ao Cruise Control e foco
+em Entrega Contínua.
+
 ====
 
 ![dashboard](img/cruise-control-dashboard.jpg)
@@ -127,6 +136,15 @@ Exemplo: Arquivo de configuração do Cruise Control
 
 [jenkins-ci.org](https://jenkins-ci.org/)
 
+Note:
+Solução mais popular, atualmente,
+para integração contínua.
+
+Jenkins é a solução mais versátil em
+se tratando de CI e, possivelmente, a
+mais fácil de se encontrar suporte ou
+profissionais especializados.
+
 ====
 
 ![jenkins-screenshot](img/jenkins-screenshot.png)
@@ -145,10 +163,7 @@ Jenkins.
 - Configurado via _browser_
 
 Note:
-Solução mais popular, atualmente,
-para integração contínua.
-
-1083 plugins, incluindo _triggers_,
+Possui 1083 plugins, incluindo _triggers_,
 suporte à linguagens, etc.
 
 ====
@@ -179,6 +194,10 @@ Note:
 Note:
 Pela mesma empresa do BitBucket.
 
+O Bamboo parece uma solução muito robusta
+e om ferramentas poderosas, especialmente
+para _Deploy_ na AWS.
+
 ====
 
 ![dashboard](img/bamboo-dashboard.png) <!-- .element: class="big" -->
@@ -205,6 +224,12 @@ atlassian.com <!-- .element: class="credits" -->
 ![droneio](img/logos/droneio.png) <!-- .element: class="no-border no-background" -->
 
 [drone.io](https://drone.io/)
+
+Note:
+Dois dos mais simples e baratos serviços de CI
+na nuvem.
+
+Relativamente fáceis de configurar via browser.
 
 ====
 
@@ -239,6 +264,12 @@ drone.io
 [travis-ci.org](https://travis-ci.org/)
 
 [travis-ci.com](https://travis-ci.com/)
+
+Note:
+Circle CI e Travis CI são os meus favoritos,
+especialmente por serem bastante fáceis de customizar
+utilizando os arquivos de configuração e pela
+integração co GitHub.
 
 ====
 

@@ -202,31 +202,31 @@ atlassian.com <!-- .element: class="credits" -->
 
 [codeship.com](https://codeship.com/)
 
-====
-
-![dashboard](img/codeship-dashboard.png)
-
-====
-
-- Integra com GitHub e BitBucket
-- Configurado via _browser_
-
-----
-
 ![droneio](img/logos/droneio.png) <!-- .element: class="no-border no-background" -->
-
-### `drone.io`
 
 [drone.io](https://drone.io/)
 
 ====
 
-![dashboard](img/droneio-dashboard.png)
+![dashboard](img/codeship-dashboard.png)
+
+Codeship
 
 ====
 
-- Integra com GitHub, BitBucket e Google Code
+![dashboard](img/droneio-dashboard.png)
+
+drone.io
+
+====
+
+- Integra com GitHub, BitBucket
+- Integra com Google Code (drone.io, apenas)
 - Configurado via _browser_
+
+====
+
+![chart-ship-and-drone](img/charts/ship-and-drone.png) <!-- .element: class="big" -->
 
 ----
 

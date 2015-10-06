@@ -30,3 +30,7 @@ li > ul {
 .bibliography ul li code {
   font-family: inherit;
 }
+
+img.big {
+  width: 100%;
+}

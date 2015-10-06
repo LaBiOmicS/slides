@@ -13,25 +13,45 @@
 ### Metodologia
 
 - Criadas suítes de testes em três diferentes linguagens
-- Configurados serviços de integração contínua
-  para executar as suítes
+- Configurados softwares/serviços para executar as suítes
 - Acompanhamento da execução dos testes
+- Classificação segundo os quesitos
+
+Note:
+Foram utilizados testes simples em Ruby, Node.js e Elixir.
 
 ====
 
-### Considerações
-
 - Tempo de instalação e configuração
 - Conhecimento específico necessário
+- Flexibilidade e customização
 - Facilidade de identificação de falhas
 - Ações tomadas dependendo do resultado
-- Particularidades ou extras
+
+Note:
+Considerei os seguintes quesitos na avaliação.
+
+====
+
+Notas de 1 a 5, onde:
+
+- **1:** Difícil, exigente, pouco útil ou com resultados imprecisos.
+- **5:** Fácil, flexível ou com resultados práticos.
 
 ----
 
 ![cruise-control](img/logos/cruise-control.png) <!-- .element: class="no-border no-background" -->
 
 [cruisecontrol.sourceforge.net](http://cruisecontrol.sourceforge.net/)
+
+Note:
+Cruise Control foi o primeiro software criado
+para automatizar CI, pela TW. O CC é inclusive
+mencionado nos cases de Martin Fowler.
+
+Hoje, a TW patrocina o desenvolvimento do Go
+como alternativa ao Cruise Control e foco
+em Entrega Contínua.
 
 ====
 
@@ -44,14 +64,14 @@ Screenshot do Dashboard do CruiseControl
 
 ====
 
-- Desenvolvido pela ThoughWorks®
 - Open source
 - Instalado em servidor próprio
+- Flexível, muito customizável
 - Configuração via XML
 
 Note:
-Criado em 2001.
-Licença BSD-Style
+Criado em 2001, pela ThoughWorks.
+Licença BSD-Style.
 
 ====
 
@@ -106,11 +126,24 @@ Exemplo: Arquivo de configuração do Cruise Control
 
 <small>`config.xml`</small>
 
+====
+
+![chart-cruise-control](img/charts/cruise-control.png) <!-- .element: class="big" -->
+
 ----
 
 ![jenkins](img/logos/jenkins.png) <!-- .element: class="no-border no-background" -->
 
 [jenkins-ci.org](https://jenkins-ci.org/)
+
+Note:
+Solução mais popular, atualmente,
+para integração contínua.
+
+Jenkins é a solução mais versátil em
+se tratando de CI e, possivelmente, a
+mais fácil de se encontrar suporte ou
+profissionais especializados.
 
 ====
 
@@ -126,14 +159,11 @@ Jenkins.
 
 - Open source
 - Instalado em servidor próprio
-- Configurado via _browser_
 - Flexível, muito customizável
+- Configurado via _browser_
 
 Note:
-Solução mais popular, atualmente,
-para integração contínua.
-
-1083 plugins, incluindo _triggers_,
+Possui 1083 plugins, incluindo _triggers_,
 suporte à linguagens, etc.
 
 ====
@@ -151,6 +181,10 @@ Note:
 - baixa jenkins na versão edfinida
 - executa com `java -jar`
 
+====
+
+![chart-jenkins](img/charts/jenkins.png) <!-- .element: class="big" -->
+
 ----
 
 ![bamboo](img/logos/bamboo.png) <!-- .element: class="no-border no-background" -->
@@ -160,17 +194,26 @@ Note:
 Note:
 Pela mesma empresa do BitBucket.
 
+O Bamboo parece uma solução muito robusta
+e om ferramentas poderosas, especialmente
+para _Deploy_ na AWS.
+
 ====
 
-![dashboard](img/bamboo-dashboard.png)
+![dashboard](img/bamboo-dashboard.png) <!-- .element: class="big" -->
 
 atlassian.com <!-- .element: class="credits" -->
 
 ====
 
 - Instalado em Amazon EC2 ou servidor próprio
-- Configurado via _browser_
 - Flexível, muito customizável
+- Muitas opções _post build_ / _deploy_
+- Configurado via _browser_
+
+====
+
+![chart-bamboo](img/charts/bamboo.png) <!-- .element: class="big" -->
 
 ----
 
@@ -178,31 +221,37 @@ atlassian.com <!-- .element: class="credits" -->
 
 [codeship.com](https://codeship.com/)
 
+![droneio](img/logos/droneio.png) <!-- .element: class="no-border no-background" -->
+
+[drone.io](https://drone.io/)
+
+Note:
+Dois dos mais simples e baratos serviços de CI
+na nuvem.
+
+Relativamente fáceis de configurar via browser.
+
 ====
 
 ![dashboard](img/codeship-dashboard.png)
 
-====
-
-- Integra com GitHub e BitBucket
-- Configurado via _browser_
-
-----
-
-![droneio](img/logos/droneio.png) <!-- .element: class="no-border no-background" -->
-
-### `drone.io`
-
-[drone.io](https://drone.io/)
+Codeship
 
 ====
 
 ![dashboard](img/droneio-dashboard.png)
 
+drone.io
+
 ====
 
-- Integra com GitHub, BitBucket e Google Code
+- Integra com GitHub, BitBucket
+- Integra com Google Code (drone.io, apenas)
 - Configurado via _browser_
+
+====
+
+![chart-ship-and-drone](img/charts/ship-and-drone.png) <!-- .element: class="big" -->
 
 ----
 
@@ -210,17 +259,39 @@ atlassian.com <!-- .element: class="credits" -->
 
 [circleci.com](https://circleci.com/)
 
+![travis](img/logos/travis.png) <!-- .element: class="no-border no-background" -->
+
+[travis-ci.org](https://travis-ci.org/)
+
+[travis-ci.com](https://travis-ci.com/)
+
+Note:
+Circle CI e Travis CI são os meus favoritos,
+especialmente por serem bastante fáceis de customizar
+utilizando os arquivos de configuração e pela
+integração co GitHub.
+
 ====
 
 ![dashboard](img/circleci-dashboard.png)
 
+Circle CI
+
 ====
 
-- Sem configuração para frameworks mais populares
-- Configurações específicas realizadas via `circle.yml`
+![dashboard](img/travis-dashboard.png)
+
+Travis CI
+
+====
+
+- Integra com GitHub
+- Exibe notificações no GitHub
+- Sem configuração para frameworks mais populares (CircleCI)
+- Configurações específicas realizadas via arquivo (`circle.yml`, `.travis.yml`)
 
 Note:
-O `circle.yml` deve ser adicionado ao repositório
+O `circle.yml`/`.travis.yml` deve ser adicionado ao repositório
 do projeto.
 
 ====
@@ -244,24 +315,7 @@ test:
 
 Note:
 Configuração para rodar testes com Elixir,
-uma linguagem não suportada oficielmente.
-
-----
-
-![travis](img/logos/travis.png) <!-- .element: class="no-border no-background" -->
-
-[travis-ci.org](https://travis-ci.org/)
-
-[travis-ci.com](https://travis-ci.com/)
-
-====
-
-![dashboard](img/travis-dashboard.png)
-
-====
-
-- Integra com GitHub
-- Configurado via `.travis.yml`
+uma linguagem não suportada oficialmente.
 
 ====
 
@@ -272,3 +326,7 @@ otp_release:
 ```
 
 <small>`.travis.yml`</small>
+
+====
+
+![chart-circle-and-travis](img/charts/circle-and-travis.png) <!-- .element: class="big" -->

@@ -2,4 +2,4 @@
 
 Comparação dos principais softwares e serviços
 
-<small>Versão 0.2.0</small>
+<small>Versão 0.2.1</small>

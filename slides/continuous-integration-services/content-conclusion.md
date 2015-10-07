@@ -2,8 +2,6 @@
 
 ====
 
-### Destaques
-
 | &nbsp;        | ![][cc]  | ![][jk]  | ![][bo]  | ![][cs]  | ![][dr]  | ![][ci]  | ![][tr]  |
 | --            | :--:     | :--:     | :--:     | :--:     | :--:     | :--:     | :--:     |
 | Configuração  |          |          |          |          |          | &#10004; | &#10004; |
@@ -36,6 +34,9 @@ mais nos experimentos.
 
 Algumas alternativas exigem **pouco ou nenhum** conhecimento extra
 da equipe e podem ser **configurados em minutos**.
+
+Com mínimo de esforço é possível utilizar **Integração Contínua**
+para melhorar a qualidade em qualquer projeto.
 
 ====
 

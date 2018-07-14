@@ -35,6 +35,6 @@
 
 Fatores motivadores:
 
-(i) o crescente número de seqüências protéicas disponíveis.
-(ii) a crescente idéia de que as macromoléculas carregavam informações genéticas extremamente importantes.
-(iii) disponibilidade de computadores mais velozes nas principais universidades e centros de pesquisa. 
+- (i) o crescente número de seqüências protéicas disponíveis.
+- (ii) a crescente idéia de que as macromoléculas carregavam informações genéticas extremamente importantes.
+- (iii) disponibilidade de computadores mais velozes nas principais universidades e centros de pesquisa. 

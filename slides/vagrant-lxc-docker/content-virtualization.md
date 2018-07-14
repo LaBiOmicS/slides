@@ -14,9 +14,14 @@ Duas bases científicas:
 
 ====
 
-![virtualization](img/virtualization.png)
+### O que é Reprodutibilidade?
 
-arstechnica.com <!-- .element: class="credits" -->
+- Reproduzir: criar condições idênticas a um resultado anterior e chegar a um resultado idêntico.
+- Na Bioinformática, isso significa:
+  - aplicar a mesma metodologia (idealmente o mesmo código) nos mesmos dados e obter o mesmo resultado.
+- Se o código não estiver disponível, primeiro devemos **reimplementar o método**.
+
+
 
 ====
 

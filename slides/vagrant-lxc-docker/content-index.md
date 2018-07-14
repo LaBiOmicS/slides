@@ -21,6 +21,8 @@
 <!-- .slide: data-background="img/motivation.jpg" -->
 
 - Bioinformática = Biologia Computacional
+
 - Bioinformática ≠ Biologia Computacional
+
 - Bioinformática ∈ Biologia Computacional
   - Bioinformática é uma subárea da Biologia Computacional;

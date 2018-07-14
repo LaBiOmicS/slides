@@ -10,6 +10,4 @@
 - Mestre em Biotecnologia
 - Doutorando em Biotecnologia
 
-[![codeminer42][code-logo]][code-site] <!-- .element: class="no-border no-background" -->
-
-[avatar]: ../shared/img/avatar-pb.jpg
+[avatar]: ../shared/img/menegidio.png

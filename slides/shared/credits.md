@@ -1,8 +1,8 @@
 ### Créditos da apresentação
 
-por [Paulo Diovani Gonçalves](mailto:paulo@diovani.com)
+por [Fabiano B. Menegidio](mailto:fabiano.menegidio@biology.bio.br)
 
-<small>[paulo@diovani.com]((mailto:paulo@diovani.com)</small>
+<small>[fabiano.menegidio@biology.bio.br]((mailto:fabiano.menegidio@biology.bio.br)</small>
 
 _powered by: [reveal.js](http://lab.hakim.se/reveal-js/)_
 

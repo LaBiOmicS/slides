@@ -52,8 +52,9 @@ Fatores motivadores:
 - Grande inventor. 
 - Desenvolveu projetos como o FIDAC, o ADAD, 
     entre outros.
-- Criou a NBRF para promover o uso de computadores 
-    e equipamentos eletrônicos na pesquisa biomédica.
+- Criou a NBRF para promover o uso de 
+    computadores e equipamentos eletrônicos 
+    na pesquisa biomédica.
     
 [avatar]: ../shared/img/Ledley.jpg
 
@@ -73,4 +74,4 @@ Fatores motivadores:
 - Criou o código de uma letra utilizado para os 
     aminoácidos.
     
-[avatar]: ../shared/img/Ledley.jpg
+[avatar]: ../shared/img/Dayhoff.jpeg

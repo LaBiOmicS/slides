@@ -1,25 +1,15 @@
 <!-- .slide: data-background="img/containers.jpg" -->
 
-Agora vamos falar sobre
+Tentativas de solucionar o problema:
 
-## Containers
-
-cphcontainers.dk <!-- .element: class="credits" -->
+## Passado...
 
 ====
 
-_Operating-system-level Virtualization_
-
-Note:
-É uma forma de virtualização, mas a nível de sistema operacional,
-ou melhor, a nível de _kernel_.
+### Virtualização por hardware
 
 ====
 
-- Não podem rodar um sistema operacional diferente do _host_
-- Permitem várias instâncias isoladas de _userspace_
-- Sem emulação de _hardware_
-- Consumo de recursos mínimo ou nulo
 
 ====
 <!-- .slide: data-background="img/yes-baby.jpg" -->

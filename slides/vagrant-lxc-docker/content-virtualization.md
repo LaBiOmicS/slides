@@ -1,8 +1,8 @@
 <!-- .slide: data-background="img/snes9x-mariocart.png" -->
 
-Primeiro vamos falar sobre
+Dois problemas científicos:
 
-## Virtualização
+## Reprodutibilidade & Replicabilidade
 
 snes9x.com <!-- .element: class="credits" -->
 

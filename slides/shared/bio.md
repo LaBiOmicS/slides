@@ -1,6 +1,6 @@
 <!-- .slide: class="author" -->
 
-## Fabiano Bezerra Menegidio
+## Fabiano B. Menegidio
 
 - ![avatar][avatar] <!-- .element: class="pull-right" -->
 - Computeiro e Biólogo
@@ -20,4 +20,4 @@
 [blog]: https://scriptomics.wordpress.com
 [slides]: https://opensciencebr.github.io/slides
 [code-logo]: ../shared/img/codeminer42.png
-[code-site]: http://codeminer42.com/
+[code-site]: http://openscience.com.br

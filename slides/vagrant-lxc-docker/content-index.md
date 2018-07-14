@@ -22,7 +22,23 @@
 
 - Bioinformática = Biologia Computacional
 
+
 - Bioinformática ≠ Biologia Computacional
+
 
 - Bioinformática ∈ Biologia Computacional
   - Bioinformática é uma subárea da Biologia Computacional;
+
+====
+
+### Origem da Bioinformática
+
+1960 - Origens da Bioinformática e da Biologia Computacional
+
+Fatores motivadores:
+
+(i) o crescente número de seqüências protéicas disponíveis.
+
+(ii) a crescente idéia de que as macromoléculas carregavam informações genéticas extremamente importantes.
+
+(iii) disponibilidade de computadores mais velozes nas principais universidades e centros de pesquisa. 

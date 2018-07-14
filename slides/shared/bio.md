@@ -19,5 +19,5 @@
 [avatar]: ../shared/img/menegidio.jpg
 [blog]: https://scriptomics.wordpress.com
 [slides]: https://opensciencebr.github.io/slides
-[code-logo]: ../shared/img/codeminer42.png
+[code-logo]: ../shared/img/scriptomics.png
 [code-site]: http://openscience.com.br

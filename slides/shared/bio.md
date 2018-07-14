@@ -15,7 +15,7 @@
 
 [![codeminer42][code-logo]][code-site] <!-- .element: class="no-border no-background" -->
 
-[avatar]: ../shared/img/menegidio.png
+[avatar]: ../shared/img/menegidio.jpg
 [blog]: http://blog.diovani.com
 [slides]: http://slides.diovani.com
 [code-logo]: ../shared/img/codeminer42.png

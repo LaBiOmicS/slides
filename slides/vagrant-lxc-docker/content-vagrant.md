@@ -39,4 +39,4 @@ Reproducibility.” Nature 533 (7604): 452–54.
 
 ![avatar][avatar]
 
-[avatar]: ../shared/img/111.jpg
+[avatar]: ../shared/img/111.png

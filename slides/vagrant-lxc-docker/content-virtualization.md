@@ -1,5 +1,3 @@
-<!-- .slide: data-background="img/snes9x-mariocart.png" -->
-
 Duas bases científicas:
 
 ## Reprodutibilidade & Replicabilidade

@@ -1,35 +1,7 @@
 {
     "presentations": [{
-        "title": "CoffeeScript: tome um gole de café",
-        "description": "CoffeeScript é uma pequena linguagem que compila em Javascript. Com foco na legibilidade e escrita rápida, CoffeeScript se assemelha muito à sintaxe de linguagens mais modernas, como Python e Ruby, sem querer reinventar o Javascript.",
-        "url": "slides/coffeescript/"
-    },{
-        "title": "Desenvolvimento Web Rápido com CakePHP 3.0",
-        "description": "Com CakePHP é possível colocar um website no ar em minutos, utilizando de ferramentas para prototipação e a poderosa abstração da base de dados do Framework.",
-        "url": "slides/cakephp-course/"
-    },{
-        "title": "Garantia de qualidade utilizando Integração Contínua",
-        "description": "Comparação dos principais softwares e serviços.",
-        "url": "slides/continuous-integration-services/"
-    },{
-        "title": "GitHub como portfolio pessoal",
-        "description": "Uma breve demonstração de como o Github pode ser usado como portfólio, demonstrando as capacidades do desenvolvedor e auxiliando na seleção pelas empresas.",
-        "url": "slides/github-as-portfolio/"
-    },{
-        "title": "Javascript no servidor com Node.js",
-        "description": "Uma palestra para iniciantes em Node.js, com uma visão geral e alguns exercícios práticos baseados no nodeschool.io.",
-        "url": "slides/nodejs-server-side-javascript/"
-    },{
-        "title": "Por que diabos vou usar Java?",
-        "description": "Apresentação sobre linguagens modernas, com foco em desenvolvimento rápido e código legível.",
-        "url": "slides/why-the-hell-java/"
-    },{
-        "title": "Vagrant - Descomplicando o uso de VMs para desenvolvimento de software",
-        "description": "O Vagrant (http://vagrantup.com) permite criar, configurar e compartilhar rapidamente diversas VMs via linha de comando e utilizá-las de forma transparente, como se todo o ambiente fosse local.",
-        "url": "slides/vagrant-for-software-development/"
-    },{
         "title": "Vagrant, LXC e Docker: Entenda as diferenças",
-        "description": "Uma comparação entre virtualização, Linux Containers e Docker, abrangendo os conceitos básicos, forma de usar e problemas que cada um resolve.",
+        "description": "A reprodutibilidade e a replicabilidade de experimentos e resultados são alguns dos pilares fundamentais da atividade científica. No entanto, novas ferramentas e tecnologias, enormes quantidades de dados, abordagens interdisciplinares e a complexidade das questões que estão sendo feitas durante as pesquisas complicam os esforços de replicação e reprodução, assim como aumentam a pressão sobre os cientistas.  Essa critibilidade da reprodutibilidade afeta, em diferentes extensões, uma grande parte dos campos científicos, sendo esse um problema também visualizado na Bioinformática, que se tornou um elemento-chave de inúmeros estudos biológicos e médicos. Em sua maioria, os problemas de reprodutibilidade e replicabilidade na Bioinformática estão relacionados à baixa semi-vida do software, baixo envolvimento da comunidade de utilizadores, à complexidade das pipelines e workflows de análise, aos efeitos descontrolados induzidos pelas mudanças nas bibliotecas do sistema e do ecossistema computacional, à incompletude ou à imprecisão na descrição do fluxo de trabalho, na ausência de documentação e de treinamento, entre outros. Nessa palestra, pretendemos apresentar os principais desafios e dificuldades para a reprodutibilidade plena na Bioinformática e na Biologia Computacional. Além disso, pretendemos apresentar os principais projetos Open Source disponíveis que buscam resolver essas dificuldades e como esses auxiliam na promoção e no desenvolvimento do conceito de Open Science. Também vamos propor algumas recomendações à comunidade de pesquisa para melhorar a reutilização dos dados de pesquisa e algumas formas da Comunidade Open Source auxiliar no desenvolvimento científico e de uma Ciência Cidadã.",
         "url": "slides/vagrant-lxc-docker/"
     }]
 }

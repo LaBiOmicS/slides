@@ -47,10 +47,26 @@ Fatores motivadores:
 (Jun 28, 1926 – Jul 24, 2012)
 
 - ![avatar][avatar] <!-- .element: class="pull-right" -->
-- - Foi pioneiro na utilização de computadores em biologia e medicina.
-- - Grande inventor. 
-- - Desenvolveu projetos como o FIDAC, o ADAD, entre outros.
-- - Criou a NBRF para promover o uso de computadores e 
+- Foi pioneiro na utilização de computadores em biologia e medicina.
+- Grande inventor. 
+- Desenvolveu projetos como o FIDAC, o ADAD, entre outros.
+- Criou a NBRF para promover o uso de computadores e 
     equipamentos eletrônicos na pesquisa biomédica.
     
-[avatar]: ../shared/img/menegidio.jpg
+[avatar]: ../shared/img/Ledley.jpg
+
+====
+
+<!-- .slide: class="author" -->
+
+## Robert Ledley 
+(Jun 28, 1926 – Jul 24, 2012)
+
+- ![avatar][avatar] <!-- .element: class="pull-right" -->
+- Foi pioneiro na utilização de computadores em biologia e medicina.
+- Grande inventor. 
+- Desenvolveu projetos como o FIDAC, o ADAD, entre outros.
+- Criou a NBRF para promover o uso de computadores e 
+    equipamentos eletrônicos na pesquisa biomédica.
+    
+[avatar]: ../shared/img/Ledley.jpg

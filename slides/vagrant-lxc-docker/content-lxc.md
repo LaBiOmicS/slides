@@ -75,3 +75,11 @@ Tentativas de solucionar o problema:
 ![avatar][avatar] <!-- .element: class="pull-center" -->
 
 [avatar]: ../shared/img/bioconda.png
+
+====
+
+### Jupyter Notebook
+
+![avatar][avatar] <!-- .element: class="pull-center" -->
+
+[avatar]: ../shared/img/jupyter.png

@@ -14,6 +14,14 @@ Tentativas de solucionar o problema:
 
 ### BioLinux
 
+![avatar][avatar] <!-- .element: class="pull-center" -->
 
+[avatar]: ../shared/img/biolinux.jpg
 
 ====
+
+### CloudBioLinux
+
+![avatar][avatar] <!-- .element: class="pull-center" -->
+
+[avatar]: ../shared/img/cloudbiolinux.jpg

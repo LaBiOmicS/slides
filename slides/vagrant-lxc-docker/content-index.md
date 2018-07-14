@@ -69,7 +69,8 @@ Fatores motivadores:
 - Coletou, organizou e disponibilizou o primeiro atlas 
     de seqüências protéicas.
 - Originou uma das primeiras e mais importantes matrizes
-    de substituição (PAM).- Desenvolveu projetos como o 
+    de substituição (PAM).
+- Desenvolveu projetos como o 
     FIDAC, o ADAD, entre outros.
 - Criou o código de uma letra utilizado para os 
     aminoácidos.

@@ -4,8 +4,7 @@ Dois problemas científicos:
 
 ====
 
-> ## Reproduzir
-> Criar condições idênticas para um resultado anterior e chegar ao resultado idêntico.
+> # CRISE DA REPRODUTIBILIDADE CIENTÍFICA
 
 ====
 

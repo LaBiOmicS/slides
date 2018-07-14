@@ -2,12 +2,6 @@ Duas bases científicas:
 
 ## Reprodutibilidade & Replicabilidade
 
-snes9x.com <!-- .element: class="credits" -->
-
-Note:
-Emuladores de videgames não são muito diferentes de
-hypervisors.
-
 ====
 
 Começou na década de 60 como uma forma de dividir recursos

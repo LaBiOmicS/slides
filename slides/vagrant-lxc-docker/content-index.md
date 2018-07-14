@@ -47,11 +47,12 @@ Fatores motivadores:
 (Jun 28, 1926 – Jul 24, 2012)
 
 - ![avatar][avatar] <!-- .element: class="pull-right" -->
-- Foi pioneiro na utilização de computadores em biologia e medicina.
+- Foi pioneiro na utilização de computadores em biologia 
+    e medicina.
 - Grande inventor. 
 - Desenvolveu projetos como o FIDAC, o ADAD, entre outros.
-- Criou a NBRF para promover o uso de computadores e 
-    equipamentos eletrônicos na pesquisa biomédica.
+- Criou a NBRF para promover o uso de computadores 
+    e equipamentos eletrônicos na pesquisa biomédica.
     
 [avatar]: ../shared/img/Ledley.jpg
 
@@ -63,10 +64,12 @@ Fatores motivadores:
 (Mar 11, 1925 – Fev 2, 1983)
 
 - ![avatar][avatar] <!-- .element: class="pull-right" -->
-- Foi pioneiro na utilização de computadores em biologia e medicina.
-- Grande inventor. 
-- Desenvolveu projetos como o FIDAC, o ADAD, entre outros.
-- Criou a NBRF para promover o uso de computadores e 
-    equipamentos eletrônicos na pesquisa biomédica.
+- Coletou, organizou e disponibilizou o primeiro atlas 
+    de seqüências protéicas.
+- Originou uma das primeiras e mais importantes matrizes
+    de substituição (PAM).- Desenvolveu projetos como o 
+    FIDAC, o ADAD, entre outros.
+- Criou o código de uma letra utilizado para os 
+    aminoácidos.
     
 [avatar]: ../shared/img/Ledley.jpg

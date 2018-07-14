@@ -3,11 +3,13 @@
 ## Fabiano Bezerra Menegidio
 
 - ![avatar][avatar] <!-- .element: class="pull-right" -->
+- Computeiro e Biólogo
 - Bioinformata e Biólogo Computacional
 - Mestre e Doutorando em Biotecnologia
     para Internet pela Universidade Feevale
-- Usuário GNU/Linux desde 2005
-- Javascript, PHP, Java, Ruby, Python, Arduino
+- Usuário GNU/Linux desde 1997
+- Interesse em reprodutibilidade, replicabilidade
+    e Ciência Livre com Software Livre
 
 [blog.diovani.com][blog]
 

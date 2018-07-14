@@ -59,8 +59,8 @@ Fatores motivadores:
 
 <!-- .slide: class="author" -->
 
-## Robert Ledley 
-(Jun 28, 1926 – Jul 24, 2012)
+##  Margaret Dayhoff
+(Mar 11, 1925 – Fev 2, 1983)
 
 - ![avatar][avatar] <!-- .element: class="pull-right" -->
 - Foi pioneiro na utilização de computadores em biologia e medicina.

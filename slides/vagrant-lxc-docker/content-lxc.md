@@ -16,7 +16,7 @@ Tentativas de solucionar o problema:
 
 ![avatar][avatar] <!-- .element: class="pull-center" -->
 
-[avatar]: ../shared/img/biocontainer.jpg
+[avatar]: ../shared/img/biocontainer.png
 
 ====
 

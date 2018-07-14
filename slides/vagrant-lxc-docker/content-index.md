@@ -53,16 +53,5 @@ Fatores motivadores:
 - Usuário GNU/Linux desde 1997
 - Interesse em reprodutibilidade, replicabilidade
     e Ciência Livre com Software Livre
-
-[scriptomics.wordpress.com][blog]
-
-[opensciencebr.github.io/slides][slides]
-
-[![codeminer42][code-logo]][code-site] <!-- .element: class="no-border no-background" -->
-
+    
 [avatar]: ../shared/img/menegidio.jpg
-[blog]: https://scriptomics.wordpress.com
-[slides]: https://opensciencebr.github.io/slides
-[code-logo]: ../shared/img/scriptomics.png
-[code-site]: http://openscience.com.br
-

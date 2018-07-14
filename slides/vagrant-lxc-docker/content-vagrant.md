@@ -4,12 +4,16 @@ Dois problemas científicos:
 
 ====
 
-> ## CRISE DA REPRODUTIBILIDADE CIENTÍFICA
+> ## CRISE DE REPRODUTIBILIDADE CIENTÍFICA
 
 ====
 
-> ## Replicar
-> Repetir um experimento (laboratorial ou computacional)  descrito anteriormente utilizando um novo material ou dados
+> “More than 70% of researchers have tried and failed to reproduce another
+scientist's experiments, and more than half have failed to reproduce
+their own experiments.”
+
+Baker, Monya. 2016. “1,500 Scientists Lift the Lid on
+Reproducibility.” Nature 533 (7604): 452–54.
 
 ====
 

@@ -1,6 +1,6 @@
 <!-- .slide: class="author" -->
 
-#### Fabiano Bezerra Menegidio
+## Fabiano Bezerra Menegidio
 
 - ![avatar][avatar] <!-- .element: class="pull-right" -->
 - Bioinformata e Biólogo Computacional

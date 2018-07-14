@@ -4,11 +4,13 @@ Duas bases científicas:
 
 ====
 
-Começou na década de 60 como uma forma de dividir recursos
-de um _mainframe_ entre diferentes aplicações.
+> ## Reproduzir
+> Criar condições idênticas para um resultado anterior e chegar ao resultado idêntico.
 
-Note:
-Meu contato foi por volta do ano 2000
+====
+
+> ## Replicar
+> Repetir um experimento (laboratorial ou computacional)  descrito anteriormente utilizando um novo material ou dados
 
 ====
 

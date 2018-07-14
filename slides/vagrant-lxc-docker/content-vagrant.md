@@ -15,3 +15,21 @@ Reproducibility.” Nature 533 (7604): 452–54.
 
 ====
 
+
+![avatar][avatar] <!-- .element: class="pull-center" -->
+
+[avatar]: ../shared/img/1.jpeg
+
+====
+
+
+![avatar][avatar] <!-- .element: class="pull-center" -->
+
+[avatar]: ../shared/img/2.jpeg
+
+====
+
+
+![avatar][avatar] <!-- .element: class="pull-center" -->
+
+[avatar]: ../shared/img/3.jpeg

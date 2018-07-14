@@ -1,6 +1,6 @@
 <!-- .slide: data-background="img/snes9x-mariocart.png" -->
 
-Dois problemas científicos:
+Duas bases científicas:
 
 ## Reprodutibilidade & Replicabilidade
 

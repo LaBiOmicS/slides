@@ -4,7 +4,7 @@
 
 - ![avatar][avatar] <!-- .element: class="pull-right" -->
 - Bioinformata e Biólogo Computacional
-- Acadêmico de graduação em Tecnologia em Sistemas
+- Mestre e Doutorando em Biotecnologia
     para Internet pela Universidade Feevale
 - Usuário GNU/Linux desde 2005
 - Javascript, PHP, Java, Ruby, Python, Arduino

@@ -1,12 +1,8 @@
 <!-- .slide: data-background="../shared/img/code-nh-view.jpg" -->
 
-![codeminer42][code-logo] <!-- .element: class="no-border no-background" -->
+"Bioinformática é a pesquisa, desenvolvimento e aplicação de ferramentas e abordagens computacionais que permitem o uso de de dados biológicos, comportamentais ou da área de saúde, incluindo sua aquisição, organização, visualização, análise e armazenamento."
 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+Nih working definition of bioinformatics and computational biology (National Center for Biotechnology Information)
 
 ## [become@codeminer42.com][code-become] <!-- .element: class="to-lowercase" -->
 

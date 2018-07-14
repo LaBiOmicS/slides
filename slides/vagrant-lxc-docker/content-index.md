@@ -38,3 +38,31 @@ Fatores motivadores:
 - (i) o crescente número de seqüências protéicas disponíveis.
 - (ii) a crescente idéia de que as macromoléculas carregavam informações genéticas extremamente importantes.
 - (iii) disponibilidade de computadores mais velozes nas principais universidades e centros de pesquisa. 
+
+====
+
+<!-- .slide: class="author" -->
+
+## Robert Ledley 
+(Jun 28, 1926 – Jul 24, 2012)
+
+- ![avatar][avatar] <!-- .element: class="pull-right" -->
+- Computeiro e Biólogo
+- Bioinformata e Biólogo Computacional
+- Mestre e Doutorando em Biotecnologia
+- Usuário GNU/Linux desde 1997
+- Interesse em reprodutibilidade, replicabilidade
+    e Ciência Livre com Software Livre
+
+[scriptomics.wordpress.com][blog]
+
+[opensciencebr.github.io/slides][slides]
+
+[![codeminer42][code-logo]][code-site] <!-- .element: class="no-border no-background" -->
+
+[avatar]: ../shared/img/menegidio.jpg
+[blog]: https://scriptomics.wordpress.com
+[slides]: https://opensciencebr.github.io/slides
+[code-logo]: ../shared/img/scriptomics.png
+[code-site]: http://openscience.com.br
+

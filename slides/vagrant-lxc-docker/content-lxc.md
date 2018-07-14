@@ -83,3 +83,11 @@ Tentativas de solucionar o problema:
 ![avatar][avatar] <!-- .element: class="pull-center" -->
 
 [avatar]: ../shared/img/jupyter.png
+
+====
+
+### Open Science Framework
+
+![avatar][avatar] <!-- .element: class="pull-center" -->
+
+[avatar]: ../shared/img/OSF.png

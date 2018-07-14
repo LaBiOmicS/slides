@@ -3,11 +3,12 @@
 #### Fabiano Bezerra Menegidio
 
 - ![avatar][avatar] <!-- .element: class="pull-right" -->
-- Computeiro e Biólogo
-- Bioinformata e Biólogo Computacional
+- Computeiro 
+- Biólogo
+- Bioinformata
+- Biólogo Computacional
 - Mestre em Biotecnologia
 - Doutorando em Biotecnologia
-- Evangelista Software Livre e Ciência Livre
 
 [![codeminer42][code-logo]][code-site] <!-- .element: class="no-border no-background" -->
 

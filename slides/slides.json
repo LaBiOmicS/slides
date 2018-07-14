@@ -1,6 +1,6 @@
 {
     "presentations": [{
-        "title": "Vagrant, LXC e Docker: Entenda as diferenças",
+        "title": "VReprodutibilidade e Replicabilidade em Bioinformática usando Software Livre",
         "description": "Uma comparação entre virtualização, Linux Containers e Docker, abrangendo os conceitos básicos, forma de usar e problemas que cada um resolve.",
         "url": "slides/vagrant-lxc-docker/"
     }]

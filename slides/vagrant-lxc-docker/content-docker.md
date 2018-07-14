@@ -6,3 +6,6 @@ Um objetivo:
 
 ====
 
+![avatar][avatar] <!-- .element: class="pull-center" -->
+
+[avatar]: ../shared/img/opensciencesss.png

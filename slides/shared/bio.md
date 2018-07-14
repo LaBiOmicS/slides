@@ -3,7 +3,7 @@
 #### Fabiano Bezerra Menegidio
 
 - ![avatar][avatar] <!-- .element: class="pull-right" -->
-- Desenvolvedor na Codeminer 42
+- Bioinformata e Biólogo Computacional
 - Acadêmico de graduação em Tecnologia em Sistemas
     para Internet pela Universidade Feevale
 - Usuário GNU/Linux desde 2005

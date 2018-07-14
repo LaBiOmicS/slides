@@ -10,7 +10,7 @@ Tentativas de solucionar o problema:
 
 ![avatar][avatar] <!-- .element: class="pull-center" -->
 
-[avatar]: ../shared/img/biocontainer1.png
+[avatar]: ../shared/img/galaxy.png
 
 ====
 

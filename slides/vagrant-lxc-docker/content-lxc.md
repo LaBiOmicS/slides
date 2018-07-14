@@ -6,9 +6,19 @@ Tentativas de solucionar o problema:
 
 ====
 
-### Containerização
+### Galaxy
 
-- Utilização de Docker, Rkt, entre outros.
+![avatar][avatar] <!-- .element: class="pull-center" -->
+
+[avatar]: ../shared/img/biocontainer1.png
+
+====
+
+### Galaxy
+
+![avatar][avatar] <!-- .element: class="pull-center" -->
+
+[avatar]: ../shared/img/galaxy1.png
 
 ====
 

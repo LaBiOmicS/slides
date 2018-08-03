@@ -10,6 +10,8 @@ Um problema científico:
 
 <!-- .slide: data-background="img/motivation.jpg" -->
 <img src="img/logos/data3.png" style="background:none; border:none; box-shadow:none;">
+Fig 1. Crescimento do sequenciamento de DNA.
+O gráfico mostra o crescimento do sequenciamento de DNA tanto no número total de genomas humanos sequenciados (eixo esquerdo) quanto na capacidade de seqüenciamento anual global (eixo direito: Tera-basepairs (Tbp), Peta-basepairs (Pbp), Exa-basepairs (Ebp), Zetta-pares de bases (Zbps)). Os valores até 2015 são baseados no registro histórico de publicações.
 
 ====
 

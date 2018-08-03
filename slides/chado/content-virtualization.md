@@ -7,6 +7,8 @@ Um problema científico:
 >"A genômica apresenta de forma clara alguns dos desafios computacionais mais graves que enfrentaremos na próxima década."
 
 ====
+<!-- .slide: data-background="img/motivation.jpg" -->
+
 
 >"Considerando as demandas computacionais em todo o ciclo de vida de um conjunto de dados (aquisição, armazenamento, distribuição e análise) a genômica (e suas áreas correlacionadas) é uma das áreas mais exigentes nos domínios do Big Data."
 <br><br>

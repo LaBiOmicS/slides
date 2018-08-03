@@ -4,7 +4,21 @@ Uma tentativa de solução:
 
 ## Chado
 
-> "Um esquema de banco de dados relacional, desenvolvido em Postgres, que é amplamente utilizado para o gerenciamento do conhecimento biológico para uma grande variedade de organismos."
+> "Um schema de banco de dados relacional, desenvolvido em Postgres, que é amplamente utilizado para o gerenciamento do conhecimento biológico para uma grande variedade de organismos."
+
+====
+<!-- .slide: data-background="img/motivation.jpg" -->
+
+### O que é exatamente o Chado
+
+- Primeiro, um schema de banco de dados desenvolvido inicialmente para o FlyBase
+- Um banco de dados para curadoria muito profunda
+- Um banco de dados integrado
+- Um banco de dados que é genérico o suficiente para ser usado por qualquer organismo
+
+====
+<!-- .slide: data-background="img/logos/data5.jpg" -->
+
 
 ====
 

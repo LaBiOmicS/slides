@@ -67,3 +67,16 @@ Uma tentativa de solução:
 | Sequence                   | sequências                             |
 | Stock                      | espécimes e coleções biológicas        |
 | WWW                        | classes genéricas para web             |
+
+====
+
+<!-- .slide: data-background="img/motivation.jpg" -->
+
+<img src="img/logos/data6.png" style="background:none; border:none; box-shadow:none;">
+
+====
+
+<!-- .slide: data-background="img/motivation.jpg" -->
+
+<img src="img/logos/data7.png" style="background:none; border:none; box-shadow:none;">
+

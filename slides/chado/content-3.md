@@ -1,8 +1,8 @@
-<!-- .slide: data-background="img/containers.jpg" -->
+<!-- .slide: data-background="img/background.jpg" -->
 
-Tentativas de solucionar o problema:
+Como tratavamos (e ainda tratam) os dados em laboratórios:
 
-## Passado...
+## Planilhas, inúmeras planilhas...
 
 ====
 

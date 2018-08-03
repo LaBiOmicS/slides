@@ -39,7 +39,7 @@ Uma tentativa de solução:
 
 ### Um schema modular
 
-| Module                     | Description                            |
+| Módulos                    | Descrição                              |
 |----------------------------|----------------------------------------|
 | Audit                      | auditorias de banco de dados           |
 | Companalysis               | dados de análise computacional         |

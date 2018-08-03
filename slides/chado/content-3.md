@@ -1,6 +1,6 @@
-Dois problemas científicos:
+Uma tentativa de solução no gerenciamento de dados biológicos:
 
-## Reprodutibilidade & Replicabilidade
+## Chado
 
 ====
 

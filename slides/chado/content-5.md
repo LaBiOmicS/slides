@@ -35,7 +35,9 @@ Uma tentativa de solução:
 - Projetado para lidar com representações complexas do conhecimento biológico.
 - Pode ser considerado um dos esquemas relacionais mais sofisticado e disponível atualmente na biologia molecular.
 
-====
+===
+
+<!-- .slide: data-background="img/motivation.jpg" -->
 
 ### Um schema modular
 
@@ -50,6 +52,8 @@ Uma tentativa de solução:
 | Genetic                    | dados genéticos e genótipos            |
 
 ====
+
+<!-- .slide: data-background="img/motivation.jpg" -->
 
 | Module                     | Description                            |
 |----------------------------|----------------------------------------|

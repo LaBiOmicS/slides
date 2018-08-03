@@ -16,6 +16,8 @@ Uma tentativa de solução:
 - Esquema de banco de dados relacional que serve de base para muitos projetos de Bioinformática.
 - Capaz de representar inúmeras classes gerais de dados frequentemente encontradas na biologia moderna.
 - Armazena dados de sequências, comparações de sequências, fenótipos, genótipos, ontologias, entre outros dados biológicos.
+- Projetado para lidar com representações complexas do conhecimento biológico.
+- Pode ser considerado um dos esquemas relacionais mais sofisticado e disponível atualmente na biologia molecular.
 
 ====
 

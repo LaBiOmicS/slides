@@ -7,13 +7,6 @@ Um problema científico:
 
 >"A genômica apresenta de forma clara alguns dos desafios computacionais mais graves que enfrentaremos nas próximas décadas."
 
-
-====
-
-<!-- .slide: data-background="img/motivation.jpg" -->
-<img src="img/logos/data3.png" style="background:none; border:none; box-shadow:none;">
-<small><b>Fig 1.</b> Crescimento do sequenciamento de DNA. <br></small>
-
 ====
 
 <!-- .slide: data-background="img/motivation.jpg" -->
@@ -29,6 +22,13 @@ Um problema científico:
 - Quanto tempo até atingirmos os zettabytes e	yottabytes?
 
 ====
+
+<!-- .slide: data-background="img/motivation.jpg" -->
+<img src="img/logos/data3.png" style="background:none; border:none; box-shadow:none;">
+<small><b>Fig 1.</b> Crescimento do sequenciamento de DNA. <br></small>
+
+====
+
 <!-- .slide: data-background="img/motivation.jpg" -->
 
 

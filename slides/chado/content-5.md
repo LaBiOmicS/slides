@@ -35,7 +35,7 @@ Uma tentativa de solução:
 - Projetado para lidar com representações complexas do conhecimento biológico.
 - Pode ser considerado um dos esquemas relacionais mais sofisticado e disponível atualmente na biologia molecular.
 
-===
+====
 
 <!-- .slide: data-background="img/motivation.jpg" -->
 

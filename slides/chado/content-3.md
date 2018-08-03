@@ -7,14 +7,5 @@ Como tratavam (e ainda tratam) os dados em laboratórios?
 
 ====
 
-### Virtualização por hardware
+<img src="img/logos/data4.png" style="background:none; border:none; box-shadow:none;">
 
-- Utilização de virtualizadores como Vmware, Virtualbox, KVM, entre outros.
-
-====
-
-### BioLinux
-
-![avatar][avatar] <!-- .element: class="pull-center" -->
-
-[avatar]: ../shared/img/biolinux.jpg

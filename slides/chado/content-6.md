@@ -55,4 +55,22 @@
 
 <!-- .slide: data-background="img/motivation.jpg" -->
 
-### Tripal
+### Banana Genome Hub
+
+<img src="img/logos/data13.png" style="background:none; border:none; box-shadow:none;">
+
+====
+
+<!-- .slide: data-background="img/motivation.jpg" -->
+
+### Cacao Genome Database
+
+<img src="img/logos/data14.png" style="background:none; border:none; box-shadow:none;">
+
+====
+
+<!-- .slide: data-background="img/motivation.jpg" -->
+
+### Citrus Genome Database
+
+<img src="img/logos/data15.png" style="background:none; border:none; box-shadow:none;">

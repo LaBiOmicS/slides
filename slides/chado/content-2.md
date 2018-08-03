@@ -2,7 +2,7 @@
 
 Um problema científico:
 
-## Armazenamento de Dados
+## Gerenciamento e Armazenamento de Dados
 
 >"A genômica apresenta de forma clara alguns dos desafios computacionais mais graves que enfrentaremos nas próximas décadas."
 

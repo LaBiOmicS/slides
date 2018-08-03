@@ -56,9 +56,7 @@ Fatores motivadores:
 
 ====
 
-## Primeiro BD Biológico da Bioinformática
+## Primeiro Database Biológico
 
-- Formato de livro impresso
-- Originou o primeiro BD digital
 
 <img src="img/logos/data1.png" style="background:none; border:none; box-shadow:none;">

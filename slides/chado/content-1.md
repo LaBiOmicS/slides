@@ -36,6 +36,9 @@
 
 ====
 
+<!-- .slide: data-background="img/motivation.jpg" -->
+
+
 ### Origem da Bioinformática
 
 1960 - Origens da Bioinformática e da Biologia Computacional

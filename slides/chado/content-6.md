@@ -40,7 +40,7 @@
 
 ## Módulo de Expressão
 
-<img src="img/logos/data19.jpg" style="background:none; border:none; box-shadow:none;">
+<img src="img/logos/data19.png" style="background:none; border:none; box-shadow:none;">
 
 
 ====
@@ -49,4 +49,4 @@
 
 ## Módulo de Expressão Diferencial
 
-<img src="img/logos/data20.jpg" style="background:none; border:none; box-shadow:none;">
+<img src="img/logos/data20.png" style="background:none; border:none; box-shadow:none;">

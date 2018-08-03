@@ -1,6 +1,6 @@
 <!-- .slide: data-background="img/motivation.jpg" -->
 
-## Chado em diferentes pesquisas e projetos
+## Chado em diferentes projetos científicos
 
 ====
 
@@ -42,7 +42,7 @@
 
 <!-- .slide: data-background="img/motivation.jpg" -->
 
-### Tripal
+## Chado em diferentes bancos de dados biológicos
 
 ====
 

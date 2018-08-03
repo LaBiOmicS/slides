@@ -17,11 +17,3 @@ Como tratavamos (e ainda tratam) os dados em laboratórios:
 ![avatar][avatar] <!-- .element: class="pull-center" -->
 
 [avatar]: ../shared/img/biolinux.jpg
-
-====
-
-### CloudBioLinux
-
-![avatar][avatar] <!-- .element: class="pull-center" -->
-
-[avatar]: ../shared/img/cloudbiolinux.jpg

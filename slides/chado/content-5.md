@@ -4,7 +4,7 @@ Uma tentativa de solução:
 
 ## Chado
 
-> "Um schema de banco de dados relacional, desenvolvido em Postgres, que é amplamente utilizado para o gerenciamento do conhecimento biológico para uma grande variedade de organismos."
+> "Um schema de banco de dados relacional, desenvolvido para diferentes plataformas (com maior aceitação e desenvolvimento em ambientes Postgres), que é amplamente utilizado para o gerenciamento do conhecimento biológico para uma grande variedade de organismos."
 
 ====
 <!-- .slide: data-background="img/motivation.jpg" -->

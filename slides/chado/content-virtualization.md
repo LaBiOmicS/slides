@@ -4,12 +4,11 @@ Um problema científico:
 
 ## Big Data
 
-#### Crescimento dos dados biológicos graças a redução de custo do sequenciamento
+>"A genômica apresenta de forma clara alguns dos desafios computacionais mais graves que enfrentaremos na próxima década."
 
 ====
 
-> ## Problema
->"A genômica apresenta claramente alguns dos desafios computacionais mais graves que enfrentaremos na próxima década. Considerando as demandas computacionais em todo o ciclo de vida de um conjunto de dados - aquisição, armazenamento, distribuição e análise -, a genômica é uma das áreas mais exigentes entre os domínios do Big Data."
+>"Considerando as demandas computacionais em todo o ciclo de vida de um conjunto de dados - aquisição, armazenamento, distribuição e análise -, a genômica é uma das áreas mais exigentes entre os domínios do Big Data."
 
 <cite> <small>Stephens ZD, Lee SY, Faghri F, Campbell RH, Zhai C, et al. (2015) Big Data: Astronomical or Genomical?. PLOS Biology 13(7): e1002195. https://doi.org/10.1371/journal.pbio.1002195a </small></cite>
 

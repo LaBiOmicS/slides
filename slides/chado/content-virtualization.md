@@ -4,7 +4,7 @@ Um problema científico:
 
 ## Big Data
 
->"A genômica apresenta de forma clara alguns dos desafios computacionais mais graves que enfrentaremos na próxima década."
+>"A genômica apresenta de forma clara alguns dos desafios computacionais mais graves que enfrentaremos nas próximas décadas."
 
 ====
 <!-- .slide: data-background="img/motivation.jpg" -->

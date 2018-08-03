@@ -8,7 +8,7 @@ Um problema científico:
 
 ====
 
->"Considerando as demandas computacionais em todo o ciclo de vida de um conjunto de dados - aquisição, armazenamento, distribuição e análise -, a genômica é uma das áreas mais exigentes nos domínios do Big Data."
+>"Considerando as demandas computacionais em todo o ciclo de vida de um conjunto de dados (aquisição, armazenamento, distribuição e análise) a genômica é uma das áreas mais exigentes nos domínios do Big Data."
 
 <cite> <small>Stephens ZD, Lee SY, Faghri F, Campbell RH, Zhai C, et al. (2015) Big Data: Astronomical or Genomical?. PLOS Biology 13(7): e1002195. https://doi.org/10.1371/journal.pbio.1002195a </small></cite>
 

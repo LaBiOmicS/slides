@@ -58,7 +58,7 @@ Fatores motivadores:
 
 <!-- .slide: data-background="img/motivation.jpg" -->
 
-## Primeiro Database Biológico
+### Primeiro Database Biológico
 
 
 <img src="img/logos/data1.png" style="background:none; border:none; box-shadow:none;">
@@ -67,7 +67,7 @@ Fatores motivadores:
 
 <!-- .slide: data-background="img/motivation.jpg" -->
 
-## Protein Information Resource (PIR)
+### Protein Information Resource (PIR)
 
 
 <img src="img/logos/data2.png" style="background:none; border:none; box-shadow:none;">

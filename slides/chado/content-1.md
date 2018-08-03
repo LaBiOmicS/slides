@@ -8,11 +8,15 @@
 
 ====
 
+<!-- .slide: data-background="img/motivation.jpg" -->
+
 ### Origem da Bioinformática
 
 1960 - Origens da Bioinformática e da Biologia Computacional
 
 ====
+
+<!-- .slide: data-background="img/motivation.jpg" -->
 
 Fatores motivadores:
 
@@ -21,6 +25,7 @@ Fatores motivadores:
 - (iii) disponibilidade de computadores mais velozes nas principais universidades e centros de pesquisa. 
 
 ====
+<!-- .slide: data-background="img/motivation.jpg" -->
 
 <!-- .slide: class="author" -->
 
@@ -40,6 +45,7 @@ Fatores motivadores:
 [avatar]: ../shared/img/Ledley.jpg
 
 ====
+<!-- .slide: data-background="img/motivation.jpg" -->
 
 <!-- .slide: class="author" -->
 

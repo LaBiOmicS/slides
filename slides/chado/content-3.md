@@ -8,4 +8,4 @@ Como tratavam (e ainda tratam) os dados em laboratórios?
 ====
 
 <img src="img/logos/data4.png" style="background:none; border:none; box-shadow:none;">
-<small> Planilha com identificadores de genes relacionais entre espécies diferentes de fungos patogênicos.</small>
+<small> <b>Fig 2.</b> Planilha contendo identificadores de genes relacionais entre espécies diferentes de fungos patogênicos.</small>

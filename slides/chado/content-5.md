@@ -39,3 +39,22 @@ Uma tentativa de solução:
 
 ### Um schema modular
 
+| Module                     | Description                            |
+|----------------------------|----------------------------------------|
+| Audit                      | database audits                        |
+| Companalysis               | data from computational analysis       |
+| Contact                    | people and groups                      |
+| Controlled Vocabulary (cv) | controlled vocabularies and ontologies |
+| Expression                 | summarized RNA and protein expresssion |
+| General                    | identifiers                            |
+| Genetic                    | genetic data and genotypes             |
+| Library                    | descriptions of molecular libraries    |
+| Mage                       | microarray data                        |
+| Map                        | maps without sequence                  |
+| Organism                   | species                                |
+| Phenotype                  | phenotypic data                        |
+| Phylogeny                  | phylogenetic trees                     |
+| Publication (pub)          | publications and references            |
+| Sequence                   | sequences and sequence features        |
+| Stock                      | specimens and biological collections   |
+| WWW                        | generic classes for web interfaces     |

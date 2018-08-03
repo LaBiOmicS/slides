@@ -1,6 +1,6 @@
 <!-- .slide: data-background="img/motivation.jpg" -->
 
-## Chado em diferentes projetos científicos
+## Chado em projetos científicos
 
 ====
 
@@ -49,7 +49,7 @@
 
 <!-- .slide: data-background="img/motivation.jpg" -->
 
-## Chado em diferentes databases biológicos
+## Chado em databases biológicos
 
 ====
 

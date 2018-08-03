@@ -20,6 +20,8 @@ Uma tentativa de solução:
 
 <!-- .slide: data-background="img/motivation.jpg" -->
 
+<img src="img/logos/data5.png" style="background:none; border:none; box-shadow:none;">
+
 ====
 
 <!-- .slide: data-background="img/motivation.jpg" -->

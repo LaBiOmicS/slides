@@ -2,6 +2,8 @@ Um problema científico:
 
 ## Big Data
 
+#### Crescimento dos dados biológicos graças a redução de custo do sequenciamento
+
 ====
 
 > ## Reproduzir

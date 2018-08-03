@@ -1,3 +1,5 @@
+<!-- .slide: data-background="img/motivation.jpg" -->
+
 Um problema científico:
 
 ## Big Data
@@ -6,8 +8,8 @@ Um problema científico:
 
 ====
 
-> ## Reproduzir
-> Criar condições idênticas para um resultado anterior e chegar ao resultado idêntico.
+<!-- .slide: data-background="img/motivation.jpg" -->
+<img src="img/logos/data3.png" style="background:none; border:none; box-shadow:none;">
 
 ====
 

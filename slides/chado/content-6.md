@@ -32,7 +32,7 @@
 - Escolha dos módulos que seriam usados
 - Input dos dados
 - Criação de novos módulos para o projeto
-- Inputo dos novos dados
+- Input dos novos dados
 
 ====
 

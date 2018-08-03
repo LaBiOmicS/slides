@@ -1,5 +1,7 @@
 <!-- .slide: data-background="img/motivation.jpg" -->
 
+<img src="img/logos/elefante.png" style="background:none; border:none; box-shadow:none;">
+
 ====
 
 > ### Bioinformática:

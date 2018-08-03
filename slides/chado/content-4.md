@@ -7,7 +7,7 @@
 <!-- .slide: data-background="img/motivation.jpg" -->
 
 
-## Como fornecer uma solução para pesquisadores com baixo (em sua maioria nulo) conhecimento em banco de dados?
+## Como fornecer uma solução para pesquisadores com baixo (em sua maioria nulo) conhecimento em banco de dados e informática?
 
 ====
 

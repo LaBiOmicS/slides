@@ -8,7 +8,10 @@ Uma tentativa de solução:
 
 ====
 
-> ## CRISE DE REPRODUTIBILIDADE CIENTÍFICA
+> ### Características
+
+- Esquema de banco de dados relacional que serve de base para muitas instalações GMOD.
+- Capaz de representar inúmeras classes gerais de dados encontradas na biologia moderna.
 
 ====
 

@@ -37,5 +37,25 @@ Um problema científico:
 <cite> <small>Stephens ZD, Lee SY, Faghri F, Campbell RH, Zhai C, et al. (2015) Big Data: Astronomical or Genomical?. PLOS Biology 13(7): e1002195. https://doi.org/10.1371/journal.pbio.1002195a </small></cite>
 
 
+====
+
+<!-- .slide: data-background="img/motivation.jpg" -->
+
+### Millhares de arquivos FASTQ
+
+<img src="img/logos/data16.jpg" style="background:none; border:none; box-shadow:none;">
+
+
+====
+
+<!-- .slide: data-background="img/motivation.jpg" -->
+
+### Millhares de arquivos FASTA
+
+<img src="img/logos/data17.png" style="background:none; border:none; box-shadow:none;">
+
+
+
+
 
 

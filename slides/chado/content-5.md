@@ -21,7 +21,7 @@ Uma tentativa de solução:
 <!-- .slide: data-background="img/motivation.jpg" -->
 
 <img src="img/logos/data5.png" style="background:none; border:none; box-shadow:none;">
-<small><b>Fig 3.</b> FlyBase: banco de dados genômico para <b><i>Drosophila</i></b> (mosca-da-fruta) <br></small>b
+<small><b>Fig 3.</b> FlyBase: banco de dados genômico para <b><i>Drosophila</i></b> (mosca-da-fruta) <br></small>
 
 ====
 

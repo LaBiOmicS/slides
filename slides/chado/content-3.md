@@ -1,3 +1,5 @@
+<!-- .slide: data-background="img/motivation.jpg" -->
+
 Uma tentativa de solução para dados biológicos:
 
 ## Chado

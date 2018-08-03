@@ -1,4 +1,4 @@
-<!-- .slide: data-background="img/background.jpg" -->
+<!-- .slide: data-background="img/motivation.jpg" -->
 
 Como tratavam (e ainda tratam) os dados em laboratórios?
 

@@ -1,3 +1,5 @@
+<!-- .slide: data-background="img/motivation.jpg" -->
+
 <!-- .slide: class="author" -->
 
 ## Fabiano B. Menegidio

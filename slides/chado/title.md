@@ -1,5 +1,5 @@
-## Reprodutibilidade e Replicabilidade em Bioinformática usando Software Livre
+Chado – Utilizando o PostgreSQL no gerenciamento do conhecimento biológico em Bioinformática
 
-### FISL18
+### PGConf 2018
 
 <small>Versão 0.0.1</small>

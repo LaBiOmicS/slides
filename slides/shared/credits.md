@@ -1,3 +1,5 @@
+<!-- .slide: data-background="img/motivation.jpg" -->
+
 ### Créditos da apresentação
 
 por [Fabiano B. Menegidio](mailto:fabiano.menegidio@biology.bio.br)

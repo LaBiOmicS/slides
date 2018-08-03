@@ -55,7 +55,7 @@ Uma tentativa de solução:
 
 <!-- .slide: data-background="img/motivation.jpg" -->
 
-| Module                     | Description                            |
+| Módulos                    | Descrição                              |
 |----------------------------|----------------------------------------|
 | Library                    | descrições de bibliotecas moleculares  |
 | Mage                       | dados de microarray                    |

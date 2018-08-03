@@ -41,13 +41,13 @@ Uma tentativa de solução:
 
 | Module                     | Description                            |
 |----------------------------|----------------------------------------|
-| Audit                      | database audits                        |
-| Companalysis               | data from computational analysis       |
-| Contact                    | people and groups                      |
-| Controlled Vocabulary (cv) | controlled vocabularies and ontologies |
-| Expression                 | summarized RNA and protein expresssion |
-| General                    | identifiers                            |
-| Genetic                    | genetic data and genotypes             |
+| Audit                      | auditorias de banco de dados           |
+| Companalysis               | dados de análise computacional         |
+| Contact                    | pessoas e grupos                       |
+| Controlled Vocabulary (cv) | controle de vocabulários e ontologias  |
+| Expression                 | Sumário de expressão de RNA e proteína |
+| General                    | identificadores                        |
+| Genetic                    | dados genéticos e genótipos            |
 
 ====
 

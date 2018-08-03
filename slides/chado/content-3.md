@@ -6,7 +6,7 @@ Uma tentativa de solução:
 
 > "Um esquema de banco de dados relacional, desenvolvido em Postgres, que é amplamente utilizado para o gerenciamento do conhecimento biológico para uma grande variedade de organismos."
 
-===
+====
 
 <!-- .slide: data-background="img/motivation.jpg" -->
 
@@ -14,7 +14,7 @@ Uma tentativa de solução:
 ### Características
 
 - Esquema de banco de dados relacional que serve de base para muitos projetos de Bioinformática.
-- Capaz de representar inúmeras classes gerais de dados encontradas na biologia moderna.
+- Capaz de representar inúmeras classes gerais de dados frequentemente encontradas na biologia moderna.
 
 ====
 

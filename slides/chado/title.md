@@ -1,4 +1,4 @@
-# Chado – Utilizando o PostgreSQL no gerenciamento do conhecimento biológico em Bioinformática
+## Chado – Utilizando o PostgreSQL no gerenciamento do conhecimento biológico em Bioinformática
 
 ### PGConf 2018
 

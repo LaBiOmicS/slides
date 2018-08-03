@@ -1,6 +1,6 @@
 <!-- .slide: data-background="img/motivation.jpg" -->
 
-## Como resolver esse problema em laboratórios ao redor do mundo?
+## Como resolver esse problema em diferentes laboratórios ao redor do mundo?
 
 ====
 

@@ -17,6 +17,6 @@ Um problema científico:
 
 
 > ## Problema
-> <small>"A genômica apresenta claramente alguns dos desafios computacionais mais graves que enfrentaremos na próxima década. A genômica é uma “Besta de quatro cabeças”; Considerando as demandas computacionais em todo o ciclo de vida de um conjunto de dados - aquisição, armazenamento, distribuição e análise -, a genômica uma das áreas mais exigentes entre os domínios do Big Data."</small>
+>"A genômica apresenta claramente alguns dos desafios computacionais mais graves que enfrentaremos na próxima década. Considerando as demandas computacionais em todo o ciclo de vida de um conjunto de dados - aquisição, armazenamento, distribuição e análise -, a genômica é uma das áreas mais exigentes entre os domínios do Big Data."
 
-<cite> Stephens ZD, Lee SY, Faghri F, Campbell RH, Zhai C, et al. (2015) Big Data: Astronomical or Genomical?. PLOS Biology 13(7): e1002195. https://doi.org/10.1371/journal.pbio.1002195a </cite>
+<cite> <small>Stephens ZD, Lee SY, Faghri F, Campbell RH, Zhai C, et al. (2015) Big Data: Astronomical or Genomical?. PLOS Biology 13(7): e1002195. https://doi.org/10.1371/journal.pbio.1002195a </small></cite>

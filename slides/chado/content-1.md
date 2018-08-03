@@ -1,5 +1,7 @@
 <!-- .slide: data-background="img/motivation.jpg" -->
 
+### O que é Bioinformática e qual a correlação com o PGConf?
+
 <img src="img/logos/elefante.png" style="background:none; border:none; box-shadow:none;">
 
 ====

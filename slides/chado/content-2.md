@@ -18,7 +18,8 @@ Um problema científico:
 
 <!-- .slide: data-background="img/motivation.jpg" -->
 
-- Começamos com megabytes (bactérias)
+- Começamos com os bytes e kilobytes (genes e proteínas)
+- Atingimos os megabytes (bactérias)
 - Passamos para gigabytes (eucariotos)
 - Chegamos nos terabytes
 - Ultrapassamos os petabytes

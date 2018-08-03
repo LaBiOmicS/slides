@@ -34,26 +34,7 @@ Fatores motivadores:
 - (iii) disponibilidade de computadores mais velozes nas principais universidades e centros de pesquisa. 
 
 ====
-<!-- .slide: data-background="img/motivation.jpg" -->
 
-<!-- .slide: class="author" -->
-
-## Robert Ledley 
-(Jun 28, 1926 – Jul 24, 2012)
-
-- ![avatar][avatar] <!-- .element: class="pull-right" -->
-- Foi pioneiro na utilização de computadores em 
-    biologia e medicina.
-- Grande inventor. 
-- Desenvolveu projetos como o FIDAC, o ADAD, 
-    entre outros.
-- Criou a NBRF para promover o uso de 
-    computadores e equipamentos eletrônicos 
-    na pesquisa biomédica.
-    
-[avatar]: ../shared/img/Ledley.jpg
-
-====
 <!-- .slide: data-background="img/motivation.jpg" -->
 
 <!-- .slide: class="author" -->
@@ -72,3 +53,12 @@ Fatores motivadores:
     aminoácidos.
     
 [avatar]: ../shared/img/Dayhoff.jpeg
+
+====
+
+## Primeiro BD Biológico da Bioinformática
+
+- Formato de livro impresso
+- Originou o primeiro BD digital
+
+<img src="img/logos/data1.png" style="background:none; border:none; box-shadow:none;">

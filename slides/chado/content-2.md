@@ -18,13 +18,15 @@ Um problema científico:
 
 <!-- .slide: data-background="img/motivation.jpg" -->
 
+## Quebrando a Lei de Moore
+
 - Começamos com os bytes e kilobytes (genes e proteínas)
 - Atingimos os megabytes (bactérias)
 - Passamos para gigabytes (eucariotos)
 - Chegamos nos terabytes
 - Ultrapassamos os petabytes
 - Estamos muito próximos dos exabytes
-- Quanto tempo até atingirmos os zettabytess e	yottabytes?
+- Quanto tempo até atingirmos os zettabytes e	yottabytes?
 
 ====
 <!-- .slide: data-background="img/motivation.jpg" -->

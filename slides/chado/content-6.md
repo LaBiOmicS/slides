@@ -49,7 +49,7 @@
 
 <!-- .slide: data-background="img/motivation.jpg" -->
 
-## Chado em diferentes bancos de dados biológicos
+## Chado em diferentes databases biológicos
 
 ====
 

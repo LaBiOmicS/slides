@@ -4,6 +4,6 @@
 
 ## Chado – Utilizando o PostgreSQL no gerenciamento do conhecimento biológico em Bioinformática
 
-#### PGConf 2018
+<img src="img/logos/foot_logo.png" style="background:none; border:none; box-shadow:none;">
 
 <small>Versão 0.0.1</small>

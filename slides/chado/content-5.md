@@ -12,9 +12,9 @@ Uma tentativa de solução:
 ### O que é exatamente o Chado
 
 - Primeiro, um schema de banco de dados desenvolvido inicialmente para o FlyBase
-- Um banco de dados para curadoria muito profunda
-- Um banco de dados integrado
-- Um banco de dados que é genérico o suficiente para ser usado por qualquer organismo
+- Um schema de banco de dados para curadoria muito profunda
+- Um schema de banco de dados integrado
+- Um schema de banco de dados que é genérico o suficiente para ser usado por qualquer organismo
 
 ====
 <!-- .slide: data-background="img/logos/data5.jpg" -->

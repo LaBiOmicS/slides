@@ -45,7 +45,7 @@ Uma tentativa de solução:
 | Companalysis               | dados de análise computacional         |
 | Contact                    | pessoas e grupos                       |
 | Controlled Vocabulary (cv) | controle de vocabulários e ontologias  |
-| Expression                 | Sumário de expressão de RNA e proteína |
+| Expression                 | sumário de expressão de RNA e proteína |
 | General                    | identificadores                        |
 | Genetic                    | dados genéticos e genótipos            |
 
@@ -53,13 +53,13 @@ Uma tentativa de solução:
 
 | Module                     | Description                            |
 |----------------------------|----------------------------------------|
-| Library                    | descriptions of molecular libraries    |
-| Mage                       | microarray data                        |
-| Map                        | maps without sequence                  |
-| Organism                   | species                                |
-| Phenotype                  | phenotypic data                        |
-| Phylogeny                  | phylogenetic trees                     |
-| Publication (pub)          | publications and references            |
-| Sequence                   | sequences and sequence features        |
-| Stock                      | specimens and biological collections   |
-| WWW                        | generic classes for web interfaces     |
+| Library                    | descrições de bibliotecas moleculares  |
+| Mage                       | dados de microarray                    |
+| Map                        | mapas sem sequência                    |
+| Organism                   | espécies                               |
+| Phenotype                  | dados fenotípicos                      |
+| Phylogeny                  | árvores filogenéticas                  |
+| Publication (pub)          | publicações e referências              |
+| Sequence                   | sequências                             |
+| Stock                      | espécimes e coleções biológicas        |
+| WWW                        | classes genéricas para web             |

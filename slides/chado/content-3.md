@@ -4,6 +4,8 @@ Uma tentativa de solução para dados biológicos:
 
 ## Chado
 
+> "Um esquema de banco de dados relacional, desenvolvido em Postgres, que é amplamente utilizado para o gerenciamento do conhecimento biológico para uma grande variedade de organismos."
+
 ====
 
 > ## CRISE DE REPRODUTIBILIDADE CIENTÍFICA

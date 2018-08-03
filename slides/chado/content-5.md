@@ -48,6 +48,11 @@ Uma tentativa de solução:
 | Expression                 | summarized RNA and protein expresssion |
 | General                    | identifiers                            |
 | Genetic                    | genetic data and genotypes             |
+
+====
+
+| Module                     | Description                            |
+|----------------------------|----------------------------------------|
 | Library                    | descriptions of molecular libraries    |
 | Mage                       | microarray data                        |
 | Map                        | maps without sequence                  |

@@ -1,4 +1,4 @@
-<!-- .slide: data-background="img/background.jpg" -->
+<!-- .slide: data-background="img/motivation.jpg" -->
 
 <img src="img/logos/pgconf1.png" style="background:none; border:none; box-shadow:none;">
 

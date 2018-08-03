@@ -62,3 +62,12 @@ Fatores motivadores:
 
 
 <img src="img/logos/data1.png" style="background:none; border:none; box-shadow:none;">
+
+====
+
+<!-- .slide: data-background="img/motivation.jpg" -->
+
+## Protein Information Resource (PIR)
+
+
+<img src="img/logos/data2.png" style="background:none; border:none; box-shadow:none;">

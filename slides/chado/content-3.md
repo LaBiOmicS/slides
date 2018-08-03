@@ -1,6 +1,6 @@
 <!-- .slide: data-background="img/background.jpg" -->
 
-Como tratavamos (e ainda tratam) os dados em laboratórios:
+Como tratavam (e ainda tratam) os dados em inúmeros laboratórios?
 
 ## Planilhas, inúmeras planilhas...
 

@@ -1,3 +1,5 @@
+![core-os](img/logos/pgconf.png)
+
 ## Chado – Utilizando o PostgreSQL no gerenciamento do conhecimento biológico em Bioinformática
 
 ### PGConf 2018

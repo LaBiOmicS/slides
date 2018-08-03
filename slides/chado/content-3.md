@@ -8,9 +8,9 @@ Uma tentativa de solução:
 
 ====
 
-> ### Características
+### Características
 
-- Esquema de banco de dados relacional que serve de base para muitas instalações GMOD.
+- Esquema de banco de dados relacional que serve de base para muitos projetos de Bioinformática.
 - Capaz de representar inúmeras classes gerais de dados encontradas na biologia moderna.
 
 ====

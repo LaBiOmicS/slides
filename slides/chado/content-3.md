@@ -1,4 +1,4 @@
-Uma tentativa de solução no gerenciamento de dados biológicos:
+Uma tentativa de solução para dados biológicos:
 
 ## Chado
 

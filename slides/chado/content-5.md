@@ -28,7 +28,7 @@ Uma tentativa de solução:
 <!-- .slide: data-background="img/motivation.jpg" -->
 
 
-### Características
+### Características do Chado
 
 - Esquema de banco de dados relacional que serve de base para muitos projetos de Bioinformática.
 - Capaz de representar inúmeras classes gerais de dados frequentemente encontradas na biologia moderna.

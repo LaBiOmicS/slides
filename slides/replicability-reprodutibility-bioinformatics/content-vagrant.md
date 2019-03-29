@@ -1,3 +1,13 @@
+
+
+> ## “escrever e depois rodar um novo software baseado na descrição de um modelo ou método computacional fornecido na publicação original e obter resultados que sejam similares o suficiente…”
+
+====
+
+> ## “rodar o mesmo software nos mesmos dados de entrada e obter os mesmos resultados”
+
+
+====
 ## Reproducibility 
 ## Replicability
 ## Repeatability

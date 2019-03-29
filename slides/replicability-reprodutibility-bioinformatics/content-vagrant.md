@@ -1,5 +1,5 @@
 
-"Nesse caso, os dados e o código do estudo original foram disponibilizados, mas estavam incompletos e / ou incorretos. Um grupo independente… examinou o que foi fornecido e projetou ***um novo conjunto de código que reproduzia os resultados originais***. […] ***Isso difere da nossa definição de reprodutibilidade*** porque o segundo conjunto de analistas […] não conseguiu usar o código original e teve que aplicar [código modificado] em vez disso."
+"Nesse caso, os dados e o código do estudo original foram disponibilizados, mas estavam incompletos e / ou incorretos. Um grupo independente… examinou o que foi fornecido e projetou __**um novo conjunto de código que reproduzia os resultados originais**__. […] __**Isso difere da nossa definição de reprodutibilidade**__ porque o segundo conjunto de analistas […] não conseguiu usar o código original e teve que aplicar [código modificado] em vez disso."
 
 ----
 

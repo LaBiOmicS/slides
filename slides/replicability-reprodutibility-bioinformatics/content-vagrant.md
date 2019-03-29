@@ -1,3 +1,8 @@
+
+"Nesse caso, os dados e o código do estudo original foram disponibilizados, mas estavam incompletos e / ou incorretos. Um grupo independente… examinou o que foi fornecido e projetou ***um novo conjunto de código que reproduzia os resultados originais***. […] ***Isso difere da nossa definição de reprodutibilidade porque o segundo conjunto de analistas […] não conseguiu usar o código original e teve que aplicar [código modificado] em vez disso.***"
+
+----
+
 #### Repetibilidade (Mesma equipe, mesma configuração experimental): 
 
 A medição pode ser obtida com a mesma precisão usando o mesmo procedimento de medição, o mesmo sistema de medição, sob as mesmas condições de operação, no mesmo local em várias tentativas. 

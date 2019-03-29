@@ -1,3 +1,11 @@
+> ### um conjunto de condições que inclui o mesmo procedimento de medição, mesma localização e medidas replicadas no mesmo objeto ou em objetos semelhantes durante um período prolongado, mas pode incluir outras condições que envolvam alterações.
+
+====
+
+> ### um conjunto de condições que inclui o mesmo procedimento de medição, mesmos operadores, mesmo sistema de medição, mesmas condições de operação e mesma localização, e medições replicadas no mesmo objeto ou objetos similares em um curto período de tempo
+
+====
+
 Estudante A: faria as cinco repetições de titulações em rápida sucessão. O mesmo conjunto de soluções e o mesmo material de vidro seriam usados por toda parte, a mesma temperatura, umidade e outras condições de laboratório permaneceriam as mesmas. Em tais circunstâncias, a precisão medida seria a precisão dentro da operação: isso é chamado de repetibilidade. 
 
 Suponhamos, no entanto, que, por alguma razão, as titulações fossem realizadas por equipes diferentes em cinco ocasiões diferentes em diferentes laboratórios, usando diferentes peças de vidro e diferentes lotes de indicadores. Esse conjunto de dados refletiria a precisão entre as etapas do método, ou seja, sua reprodutibilidade.

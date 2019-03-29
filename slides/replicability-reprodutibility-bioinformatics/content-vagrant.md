@@ -1,3 +1,28 @@
+#### Repetibilidade (Mesma equipe, mesma configuração experimental): 
+
+A medição pode ser obtida com a mesma precisão usando o mesmo procedimento de medição, o mesmo sistema de medição, sob as mesmas condições de operação, no mesmo local em várias tentativas. 
+
+Para experimentos computacionais, isso significa que um pesquisador pode repetir com confiança seu próprio cálculo.
+
+----
+
+
+#### Replicabilidade (Equipe diferente, mesma configuração experimental): 
+
+A medição pode ser obtida com precisão determinada por uma equipe diferente usando o mesmo procedimento de medição, o mesmo sistema de medição, sob as mesmas condições operacionais, no mesmo local ou em locais diferentes em várias tentativas. 
+
+Para experimentos computacionais, isso significa que um grupo independente pode obter o mesmo resultado usando os artefatos do próprio autor.
+
+----
+
+#### Reprodutibilidade (Equipe diferente, configuração experimental diferente): 
+
+A medição pode ser obtida com precisão determinada por uma equipe diferente, um sistema de medição diferente, em um local diferente em várias tentativas. 
+
+Para experimentos computacionais, isso significa que um grupo independente pode obter o mesmo resultado usando artefatos que eles desenvolvem de forma completamente independente.
+
+====
+
 > ### um conjunto de condições que inclui o mesmo procedimento de medição, mesma localização e medidas replicadas no mesmo objeto ou em objetos semelhantes durante um período prolongado, mas pode incluir outras condições que envolvam alterações.
 
 ====

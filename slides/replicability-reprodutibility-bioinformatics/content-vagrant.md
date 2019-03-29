@@ -1,4 +1,6 @@
+> #### … A convenção moderna faz uma distinção cuidadosa entre reprodutibilidade e repetibilidade . … Estudante A… faria as cinco repetições de titulações em rápida sucessão…. O mesmo conjunto de soluções e o mesmo material de vidro seriam usados por toda parte, a mesma temperatura, umidade e outras condições de laboratório permaneceriam as mesmas. Em tais circunstâncias, a precisão medida seria a precisão dentro da operação: isso é chamado de repetibilidade . Suponhamos, no entanto, que, por alguma razão, as titulações fossem realizadas por equipes diferentes em cinco ocasiões diferentes em diferentes laboratórios, usando diferentes peças de vidro e diferentes lotes de indicadores…. Esse conjunto de dados refletiria a precisão entre as etapas do método, ou seja, sua reprodutibilidade .
 
+====
 
 > ### “escrever e depois rodar um novo software baseado na descrição de um modelo ou método computacional fornecido na publicação original e obter resultados que sejam similares o suficiente…”
 

@@ -1,3 +1,12 @@
+## Reproducibility 
+## Replicability
+## Repeatability
+## Reusability
+## Reliability
+## Re-run
+
+====
+
 Dois problemas científicos:
 
 ## Reprodutibilidade & Replicabilidade

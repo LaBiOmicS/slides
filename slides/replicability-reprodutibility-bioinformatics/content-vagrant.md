@@ -1,4 +1,12 @@
 
+***Reprodutibilidade dos métodos:*** fornecer detalhes suficientes sobre procedimentos e dados para que os mesmos procedimentos possam ser repetidos com exatidão.
+
+***Reprodutibilidade dos resultados:*** obtenha os mesmos resultados de um estudo independente, com procedimentos tão semelhantes aos do estudo original quanto possível.
+
+***Reprodutibilidade inferencial:*** tire as mesmas conclusões de uma replicação independente de um estudo ou de uma reanálise do estudo original.
+
+====
+
 "Nesse caso, os dados e o código do estudo original foram disponibilizados, mas estavam incompletos e / ou incorretos. Um grupo independente… examinou o que foi fornecido e projetou __**um novo conjunto de código que reproduzia os resultados originais**__. […] __**Isso difere da nossa definição de reprodutibilidade**__ porque o segundo conjunto de analistas […] não conseguiu usar o código original e teve que aplicar [código modificado] em vez disso."
 
 ----

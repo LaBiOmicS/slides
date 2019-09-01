@@ -61,6 +61,6 @@ Tarefas intensivas e extremamente complexas, além de multifacetadas, graças as
 
 ### Resultados:
 
-1. A maioria das análises publicadas não é reprodutível.
+1. A maioria das análises publicadas não são reprodutível.
 2. Metodologia não pode ser reproduzida.
 3. Softwares, versões, parâmetros e dados brutos ausentes.

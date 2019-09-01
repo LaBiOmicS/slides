@@ -19,3 +19,5 @@ Resumo:
 > "**Software de código aberto** que simplifica a integração de ferramentas e dados, além de permitir a personalização em uma **__infraestrutura pessoal de análises__**."
 
 ====
+
+> "Uma **plataforma aberta e extensível** para compartilhar ferramentas, tipos de dados, fluxos de trabalho, ..."

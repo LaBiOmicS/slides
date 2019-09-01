@@ -53,9 +53,32 @@
 ### A reprodutibilidade pode ser alcançada?
 #### Um espectro de soluções:
 
-- Sistemas de fluxo de trabalho (Taverna, Pegasus, *_Galaxy_* ...)
+- Sistemas de fluxo de trabalho (Taverna, Pegasus, **_Galaxy_**, ...)
 
 ====
 
 ### A reprodutibilidade pode ser alcançada?
 #### Um espectro de soluções:
+
+- Cadernos de anotação (iPython notebook, ...)
+
+====
+
+### A reprodutibilidade pode ser alcançada?
+#### Um espectro de soluções:
+
+- Estilo de programação alfabética (Sweave/knitR, ...)
+
+====
+
+### A reprodutibilidade pode ser alcançada?
+#### Um espectro de soluções:
+
+- Captura de fragmentos no nível do sistema (ReproZip, ...)
+
+====
+
+### A reprodutibilidade pode ser alcançada?
+#### Um espectro de soluções:
+
+- Captura completa do ambiente (VMs, Contêineres,…)

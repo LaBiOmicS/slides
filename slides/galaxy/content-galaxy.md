@@ -69,7 +69,7 @@ Servidores públicos alternativos:
 
 ====
 
-## MÃO-NA-MASSA
+## MÃO-NA-MASSA:
 
 ### Acesso aos servidores públicos do Galaxy
 

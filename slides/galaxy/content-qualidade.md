@@ -40,6 +40,8 @@ Primeira etapa das análises de bioinformática
 
 [avatar]: ../shared/img/FASTQ.png
 
+====
+
 ## MÃO-NA-MASSA:
 
 ### Verificando os formatos FASTA e FASTQ

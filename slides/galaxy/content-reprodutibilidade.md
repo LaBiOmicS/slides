@@ -104,3 +104,9 @@ Para experimentos computacionais, isso significa que um grupo independente pode 
 > Repetir um experimento (laboratorial ou computacional) descrito anteriormente utilizando um novo material ou dados
 
 ====
+
+***Reprodutibilidade dos métodos:*** fornecer detalhes suficientes sobre procedimentos e dados para que os mesmos procedimentos possam ser repetidos com exatidão.
+
+***Reprodutibilidade dos resultados:*** obtenha os mesmos resultados de um estudo independente, com procedimentos tão semelhantes aos do estudo original quanto possível.
+
+***Reprodutibilidade inferencial:*** tire as mesmas conclusões de uma replicação independente de um estudo ou de uma reanálise do estudo original.

@@ -66,11 +66,3 @@ Servidores públicos alternativos:
 
 ## https://usegalaxy.eu
 ## https://usegalaxy.org.au
-
-====
-
-## MÃO-NA-MASSA:
-
-### Acesso aos servidores públicos do Galaxy
-
-<small>https://usegalaxy.org | https://usegalaxy.eu | https://usegalaxy.org.au</small>

@@ -1,4 +1,4 @@
-### Por que falar de Bioinformática em Ciêncas da Conservação?
+### Por que falar de Bioinformática nas Ciências da Conservação?
 
 ====
 

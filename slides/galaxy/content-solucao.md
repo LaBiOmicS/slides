@@ -14,6 +14,6 @@
 ### A reprodutibilidade pode ser alcançada?
 #### Um espectro de soluções
 
-- Práticas recomendadas da linha de comando (controle de versão, Makefiles, ...)
+- Práticas recomendadas da linha de comando (Controle de versão, Makefiles, ...)
 - Ambientes de análise (**_Galaxy_**, GenePattern, Mobyle, ...)
 - Sistemas de fluxo de trabalho (Taverna, Pegasus, VisTrails, ...)

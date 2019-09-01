@@ -44,3 +44,9 @@
 ## ETAPA 4:
 
 - Repita os passos anteriores nos 3 servidores.
+
+====
+
+## Parabéns:
+
+Agora você tem acesso aos 3 principais servidores públicos do Galaxy.

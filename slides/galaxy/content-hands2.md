@@ -83,4 +83,27 @@
 
 ## Parabéns:
 
-Agora você tem acesso aos 3 principais servidores públicos do Galaxy que permitirão a realização dos exercícios desse curso, além de análises reais de Bioinformática.
+Agora você fez o upload das primeiras bibliotecas que serão utilizadas ao longo dos exercícios desse curso. Hora de realizar novos uploads.
+
+====
+
+## DESAFIO:
+
+Faça o upload das bibliotecas de Staphylococcus aureus abaixo para a sua instância do Galaxy:
+
+https://zenodo.org/record/582600/files/mutant_R1.fastq?download=1 
+(Nomear como Staphylococcus_aureus_mutant_dnaseq_R1.fastq)
+
+https://zenodo.org/record/582600/files/mutant_R2.fastq?download=1
+(Nomear como Staphylococcus_aureus_mutant_dnaseq_R2.fastq)
+
+https://zenodo.org/record/582600/files/wildtype.fna?download=1
+(Nomear como Staphylococcus_aureus_REFSeq.fasta)
+
+https://zenodo.org/record/582600/files/wildtype.gbk?download=1
+(Nomear como Staphylococcus_aureus_REFSeq.gbk)
+
+https://zenodo.org/record/582600/files/wildtype.gff?download=1
+(Nomear como Staphylococcus_aureus_REFSeq.gff)
+
+

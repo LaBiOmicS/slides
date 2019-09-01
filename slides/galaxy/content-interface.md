@@ -50,13 +50,9 @@ Permite configurações de preferências do usuário e acesso a históricos, con
 ##  Menu de Ferramentas
 
 - ![avatar][avatar] <!-- .element: class="pull-right" -->
-- Coletou, organizou e disponibilizou o primeiro atlas 
-    de seqüências protéicas.
-- Originou uma das primeiras e mais importantes matrizes
-    de substituição (PAM).
-- Desenvolveu projetos como o 
-    FIDAC, o ADAD, entre outros.
-- Criou o código de uma letra utilizado para os 
-    aminoácidos.
+- Permite pesquisar ferramentas pelo nome (azul)
+- Acessar ferramentas favoritas (vermelho)
+- Upload de dados para o Galaxy (verde)
+- Acessar inúmeras ferramentas categorizadas (amarelo)
     
 [avatar]: ../shared/img/tools.jpeg

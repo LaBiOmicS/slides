@@ -90,7 +90,50 @@ Primeira etapa das análises de bioinformática
 
 - Selecione a opção **View All Histories**
 - Troque para o History com dos dados de Staphylococcus
-- Faça uma análise de qualidade para cada um dos FASTQ
+- Faça uma análise de qualidade com o FASTQC para cada um dos FASTQ
 - Ao término, clique em **View Data** no arquivo HTML gerado
+
+====
+
+## DESAFIO:
+
+- Crie um novo History
+- Nomeie como Drosophila melanogaster
+- Faça o download das bibliotecas a seguir
+- Faça uma análise de qualidade com o FASTQC para cada um dos FASTQ
+
+====
+
+<small> - https://zenodo.org/record/61771/files/GSM461177_untreat_paired_subset_1.fastq?download=1 </small>
+<small>   - Nomear como Drosophila melanogaster_untreat1_rnaseq_R1.fastq </small>
+
+<small> - https://zenodo.org/record/61771/files/GSM461177_untreat_paired_subset_2.fastq?download=1 </small>
+<small>   - Nomear como Drosophila melanogaster_untreat1_rnaseq_R2.fastq </small>
+
+<small> - https://zenodo.org/record/61771/files/GSM461178_untreat_paired_subset_1.fastq?download=1 </small>
+<small>   - Nomear como Drosophila melanogaster_untreat2_rnaseq_R1.fastq </small>
+
+<small> - https://zenodo.org/record/61771/files/GSM461178_untreat_paired_subset_2.fastq?download=1 </small>
+<small>   - Nomear como Drosophila melanogaster_untreat2_rnaseq_R2.fastq </small>
+
+====
+
+<small> - https://zenodo.org/record/61771/files/GSM461180_treat_paired_subset_1.fastq?download=1 </small>
+<small>   - Nomear como Drosophila melanogaster_treat1_rnaseq_R1.fastq </small>
+
+<small> - https://zenodo.org/record/61771/files/GSM461180_treat_paired_subset_2.fastq?download=1 </small>
+<small>   - Nomear como Drosophila melanogaster_treat1_rnaseq_R2.fastq </small>
+
+<small> - https://zenodo.org/record/61771/files/GSM461181_treat_paired_subset_1.fastq?download=1 </small>
+<small>   - Nomear como Drosophila melanogaster_treat2_rnaseq_R1.fastq </small>
+
+<small> - https://zenodo.org/record/61771/files/GSM461181_treat_paired_subset_2.fastq?download=1 </small>
+<small>   - Nomear como Drosophila melanogaster_treat2_rnaseq_R2.fastq </small>
+
+====
+
+## MÃO-NA-MASSA:
+
+### Criando Coleções de Bibliotecas
 
 ====

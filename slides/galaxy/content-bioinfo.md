@@ -7,3 +7,7 @@
 ====
 
 ### Como podemos garantir que esses métodos sejam acessível aos pesquisadores?
+
+====
+
+### ... garantindo ao mesmo tempo que os resultados científicos permaneçam reprodutíveis?

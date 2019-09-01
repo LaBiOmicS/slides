@@ -50,3 +50,17 @@ Reproducibility.” Nature 533 (7604): 452–54.
 ### Principais causas para a crise computacional
 
 Tarefas intensivas e extremamente complexas, além de multifacetadas, graças as inúmeras ferramentas de software, sistemas de gerenciamento de fluxo de trabalho, diferentes padrões e formatos de arquivos, conjuntos de dados heterogêneos e plataformas disponíveis.
+
+====
+
+### E...
+
+... pouquíssimos estudos tem se preocupado em registrar as etapas de suas pesquisas em detalhes suficientes para que outros possam reproduzir os ambientes de teste e produção, além dos resultados associados.
+
+====
+
+### Resultados:
+
+1. A maioria das análises publicadas não é reprodutível.
+2. Metodologia não pode ser reproduzida.
+3. Softwares, versões, parâmetros e dados brutos ausentes.

@@ -34,8 +34,8 @@
 
 - No site do NCBI:
   - digite o número de projeto "PRJNA79809" no campo ao lado de **All Databases**
-- Clique em Search
-- Selecione o projeto exibido: GENE-counter: a computational and statistical pipeline for assessing RNA-Seq data for genome-wide expression differences 
+  - Clique em Search
+  - Selecione o projeto exibido: **GENE-counter: a computational and statistical pipeline for assessing RNA-Seq data for genome-wide expression differences**
 
 ====
 

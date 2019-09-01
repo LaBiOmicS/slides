@@ -56,3 +56,4 @@ Permite configurações de preferências do usuário e acesso a históricos, con
 - Ferramentas categorizadas (amarelo)
     
 [avatar]: ../shared/img/tools.png
+

@@ -39,3 +39,10 @@ O Galaxy está disponível como um servidor web gratuito (para todos), que integ
 No entanto, uma única solução centralizada não pode suportar as diferentes necessidades de análise de todo o mundo!
 
 ====
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/usersgalaxy.png
+
+Leveraging the national cyberinfrastructure for biomedical research
+LeDuc, et al. J Am Med Inform Assoc doi:10.1136/amiajnl-2013-002059

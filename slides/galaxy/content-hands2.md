@@ -65,11 +65,21 @@
   - Clique em Search e depois na opção **Run (1 results found) - SRR074286**
   - As opções **FASTQ files (Galaxy)** e **NCBI SRA file (Galaxy)** encaminham a biblioteca direto para o Galaxy Oficial
   - As opções **FASTQ files (FTP)** e **NCBI SRA file (FTP)** permitem o download direto das bibliotecas
-    - Clique com o botão esquerdo do mouse em **File 1** da opção **FASTQ files (FTP)** para realizar o download da biblioteca para seu computador.
     - Clique com o botão direito do mouse em **File 1** da opção **FASTQ files (FTP)** e depois em **Copy link address**
     - Cole o link em um bloco de notas
   
 ====
+
+## ETAPA 3:
+
+- Volte para um dos servidores do Galaxy:
+  - Selecione a opção **Download from web or upload from disk** no menu de ferramentas:
+    - Selecione o botão **Paste/Fetch Data**
+    - Cole na caixa de texto o link que você copiou anteriormente
+    - Em **Name**, forneça um nome representativo para a biblioteca (Ex: SRR074286 - Arabidopsis thaliana - hrcC-2)
+    - Clique em Start
+    
+ ====
 
 ## Parabéns:
 

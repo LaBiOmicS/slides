@@ -32,7 +32,7 @@
 
 ### Recomendações para solucionar essa crise:
 
-- Registre todos os parâmetros, mesmo que valores padrão sejam usados.
+- Registre todos os parâmetros, mesmo que valores padrões sejam utilizados.
 
 ====
 

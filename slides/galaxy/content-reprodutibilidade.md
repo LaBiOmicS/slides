@@ -4,6 +4,25 @@ Duas bases científicas:
 
 ====
 
+> “[...] ocorrências particulares não suscetíveis de reprodução carecem de significado para a ciência”
+
+-- <cite>Karl Popper, 1934</cite>
+
+====
+
+> “[...] podemos dizer que um fenômeno é experimentalmente demonstrável quando sabemos como conduzir um experimento que raramente não nos dará um resultado estatisticamente significativo”
+
+-- <cite>Ronald A. Fisher (1935)</cite>
+
+====
+
+Dois problemas de definição:
+
+## Reprodutibilidade & Replicabilidade
+
+====
+
+
 > ## Reproduzir
 > Criar condições idênticas para um resultado anterior e chegar ao resultado idêntico.
 

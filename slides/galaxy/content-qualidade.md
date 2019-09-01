@@ -34,7 +34,7 @@ Primeira etapa das análises de bioinformática
 
 ====
 
-## Forrmato FASTQ
+## Formato FASTQ
 
 ![avatar][avatar]
 

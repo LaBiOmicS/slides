@@ -84,14 +84,13 @@ Primeira etapa das análises de bioinformática
 - Clique em Execute
 - Ao término, clique em **View Data** no arquivo HTML gerado
 
-=====
+====
 
 ## ETAPA 2
 
 - Selecione a opção **View All Histories**
-- Troque para o History com dos dados de Staphylococcus aureus
+- Troque para o History com dos dados de Staphylococcus
 - Faça uma análise de qualidade para cada um dos FASTQ
 - Ao término, clique em **View Data** no arquivo HTML gerado
 
-=====
-
+====

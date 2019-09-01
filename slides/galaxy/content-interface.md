@@ -55,13 +55,12 @@ Permite configurações de preferências do usuário e acesso a históricos, con
 
 ====
 
-##  Menu de Ferramentas
+## Interface das Ferramentas
 
-- Pesquisa de ferramentas pelo nome (azul)
-- Acessar ferramentas favoritas (vermelho)
-- Upload de dados para o Galaxy (verde)
-- Ferramentas categorizadas (amarelo)
-    
+![avatar][avatar]
+
+[avatar]: ../shared/img/interfacetools.png
+
 ====
 
 ##  Histórico
@@ -70,9 +69,20 @@ Permite configurações de preferências do usuário e acesso a históricos, con
 
 [avatar]: ../shared/img/historico.png
 
-##  Menu de Ferramentas
+====
 
-- Pesquisa no Histórico (azul)
-- Atualizar Histórico, Novo Histórico, Visualizar todos os históricos e Opções do Histórico (vermelho)
-- Arquivos do histórico atual (verde)
+##  Opções do Histórico
 
+![avatar][avatar]
+
+[avatar]: ../shared/img/opcoeshistorico.png
+
+====
+
+##  Todos Históricos
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/todoshistoricos.png
+
+====

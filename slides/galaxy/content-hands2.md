@@ -35,6 +35,14 @@
 - No site do NCBI:
   - No campo **All Databases**, altere para a opção **SRA**
   - Digite o ID **SRR074286** e clique em Search
+  
+====
+
+## ETAPA 4:
+
+- Volte para um dos servidores do Galaxy:
+  - No campo de busca de ferramentas:
+    - Digite **SRA**
 
 ====
 
@@ -44,12 +52,6 @@
   - No campo de busca do lado esquerdo, digite o ID **SRR074286**
   - Clique em Search e depois na opção **Run (1 results found) - SRR074286**
   
-====
-
-![avatar][avatar]
-
-[avatar]: ../shared/img/hands1.gif
-
 ====
 
 ## Parabéns:

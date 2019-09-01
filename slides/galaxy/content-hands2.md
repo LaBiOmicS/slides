@@ -12,6 +12,10 @@
 
 ====
 
+## Obtendo dados pelo NCBI SRA
+
+====
+
 ## ETAPA 1:
 
 - Abra uma nova aba no seu navegador (Chrome ou Firefox)
@@ -23,22 +27,13 @@
 
 ## ETAPA 2:
 
-- Abra uma nova aba no seu navegador (Chrome ou Firefox)
-- Acesse o endereço do banco de dados do EBI ENA:
-
-<small> https://www.ebi.ac.uk/ena </small>
-
-====
-
-## ETAPA 3:
-
 - No site do NCBI:
   - No campo **All Databases**, altere para a opção **SRA**
   - Digite o ID **SRR074286** e clique em Search
   
 ====
 
-## ETAPA 4:
+## ETAPA 3:
 
 - Volte para um dos servidores do Galaxy:
   - No campo de busca de ferramentas:
@@ -50,11 +45,29 @@
 
 ====
 
-## ETAPA 4:
+## Obtendo dados pelo EBI ENA:
+
+====
+
+## ETAPA 1:
+
+- Abra uma nova aba no seu navegador (Chrome ou Firefox)
+- Acesse o endereço do banco de dados do EBI ENA:
+
+<small> https://www.ebi.ac.uk/ena </small>
+
+====
+
+## ETAPA 2:
 
 - No site do EBI ENA:
   - No campo de busca do lado esquerdo, digite o ID **SRR074286**
   - Clique em Search e depois na opção **Run (1 results found) - SRR074286**
+  - As opções **FASTQ files (Galaxy)** e **NCBI SRA file (Galaxy)** encaminham a biblioteca direto para o Galaxy Oficial
+  - As opções **FASTQ files (FTP)** e **NCBI SRA file (FTP)** permitem o download direto das bibliotecas
+    - Clique com o botão esquerdo do mouse em **File 1** da opção **FASTQ files (FTP)** para realizar o download da biblioteca para seu computador.
+    - Clique com o botão direito do mouse em **File 1** da opção **FASTQ files (FTP)** e depois em **Copy link address**
+    - Cole o link em um bloco de notas
   
 ====
 

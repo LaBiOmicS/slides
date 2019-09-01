@@ -62,5 +62,17 @@ Permite configurações de preferências do usuário e acesso a históricos, con
 - Upload de dados para o Galaxy (verde)
 - Ferramentas categorizadas (amarelo)
     
+====
 
+##  Histórico
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/historico.png
+
+##  Menu de Ferramentas
+
+- Pesquisa no Histórico (azul)
+- Atualizar Histórico, Novo Histórico, Visualizar todos os históricos e Opções do Histórico (vermelho)
+- Arquivos do histórico atual (verde)
 

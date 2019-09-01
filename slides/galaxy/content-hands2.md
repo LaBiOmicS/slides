@@ -91,8 +91,8 @@ Agora você fez o upload das primeiras bibliotecas que serão utilizadas ao long
 
 Faça o upload das bibliotecas de Staphylococcus aureus abaixo para a sua instância do Galaxy:
 
-- <small> https://zenodo.org/record/582600/files/mutant_R1.fastq?download=1 </small>
-  - <small> Nomear como Staphylococcus_aureus_mutant_dnaseq_R1.fastq </small>
+<small> - https://zenodo.org/record/582600/files/mutant_R1.fastq?download=1 </small>
+<small>   - Nomear como Staphylococcus_aureus_mutant_dnaseq_R1.fastq </small>
 
 - <small> https://zenodo.org/record/582600/files/mutant_R2.fastq?download=1 </small>
   - <small> Nomear como Staphylococcus_aureus_mutant_dnaseq_R2.fastq </small>

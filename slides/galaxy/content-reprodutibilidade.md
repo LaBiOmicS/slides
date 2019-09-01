@@ -38,16 +38,6 @@ Dois problemas de definição:
 
 ====
 
-> ## Reproduzir
-> Criar condições idênticas para um resultado anterior e chegar ao resultado idêntico.
-
-====
-
-> ## Replicar
-> Repetir um experimento (laboratorial ou computacional) descrito anteriormente utilizando um novo material ou dados
-
-====
-
 ### O que é Reprodutibilidade?
 
 - Reproduzir: criar condições idênticas a um resultado anterior e chegar a um resultado idêntico.
@@ -96,3 +86,21 @@ A medição pode ser obtida com precisão determinada por uma equipe diferente u
 
 Para experimentos computacionais, isso significa que um grupo independente pode obter o mesmo resultado **usando os artefatos do próprio autor**.
 
+====
+## Reproducibility 
+## Replicability
+## Repeatability
+## Reusability
+## Reliability
+## Re-run
+====
+
+#### Nesse curso...
+
+> ## Reproduzir
+> Criar condições idênticas para um resultado anterior e chegar ao resultado idêntico.
+
+> ## Replicar
+> Repetir um experimento (laboratorial ou computacional) descrito anteriormente utilizando um novo material ou dados
+
+====

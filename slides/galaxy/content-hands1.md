@@ -49,4 +49,4 @@
 
 ## Parabéns:
 
-Agora você tem acesso aos 3 principais servidores públicos do Galaxy.
+Agora você tem acesso aos 3 principais servidores públicos do Galaxy que permitirão a realização dos exercícios desse curso, além de análises reais de Bioinformática.

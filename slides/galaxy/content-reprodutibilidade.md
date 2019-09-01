@@ -16,6 +16,22 @@ Duas bases científicas:
 
 ====
 
+Pausa dramática...
+
+## Afinal, o que é Reprodutibilidade?
+## E o que significa Replicabilidade?
+## Já ouviu falar em Repetibilidade?
+
+====
+
+#### Repetibilidade (Mesma equipe, mesma configuração experimental): 
+
+A medição pode ser obtida com a mesma precisão usando o mesmo procedimento de medição, o mesmo sistema de medição, sob as mesmas condições de operação, no mesmo local em várias tentativas. 
+
+Para experimentos computacionais, isso significa que **um pesquisador pode repetir com confiança seu próprio cálculo**.
+
+====
+
 Dois problemas de definição:
 
 ## Reprodutibilidade & Replicabilidade

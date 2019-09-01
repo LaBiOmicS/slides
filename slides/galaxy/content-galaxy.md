@@ -13,3 +13,9 @@ Resumo:
 ====
 
 > "**é uma aplicação web gratuita (para todos)** que integra uma variedade de ferramentas, recursos de computação, terabytes de dados de referência e **armazenamento permanente**"
+
+====
+
+> "**Software de código aberto** que simplifica a integração de ferramentas e dados, além de permitir a personalização em uma **__infraestrutura pessoal de análises__**."
+
+====

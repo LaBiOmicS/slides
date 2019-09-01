@@ -8,4 +8,4 @@
 
 Resumo:
 
-## Galaxy: imsistema acessível para análises de bioinformática
+## Galaxy: um sistema acessível para análises de bioinformática

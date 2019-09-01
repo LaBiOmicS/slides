@@ -44,5 +44,6 @@ No entanto, uma única solução centralizada não pode suportar as diferentes n
 
 [avatar]: ../shared/img/usersgalaxy.png
 
-Leveraging the national cyberinfrastructure for biomedical research
+**Leveraging the national cyberinfrastructure for biomedical research**
+
 LeDuc, et al. J Am Med Inform Assoc doi:10.1136/amiajnl-2013-002059

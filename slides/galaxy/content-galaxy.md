@@ -73,4 +73,4 @@ Servidores públicos alternativos:
 
 ### Acesso aos servidores públicos do Galaxy
 
-<small>https://usegalaxy.org https://usegalaxy.eu https://usegalaxy.org.au</small>
+<small>https://usegalaxy.org | https://usegalaxy.eu | https://usegalaxy.org.au</small>

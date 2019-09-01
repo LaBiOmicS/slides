@@ -43,6 +43,10 @@
 - Volte para um dos servidores do Galaxy:
   - No campo de busca de ferramentas:
     - Digite **SRA**
+    - Selecione a opção **Download and Extract Reads in FASTA/Q format from NCBI SRA**
+    - Na opção **Accession**, digite o ID **SRR074286**
+    - Na opção **Select output format** selecione **Uncompressed fastq**
+    - Clique em **Execute**
 
 ====
 

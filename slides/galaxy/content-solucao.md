@@ -82,3 +82,137 @@
 #### Um espectro de soluções:
 
 - Captura completa do ambiente (VMs, Contêineres,…)
+
+====
+
+<!-- .slide: data-background="img/containers.jpg" -->
+
+Tentativas de solucionar o problema:
+
+## Passado...
+
+====
+
+### Virtualização por hardware
+
+- Utilização de virtualizadores como Vmware, Virtualbox, KVM, entre outros.
+
+====
+
+### BioLinux
+
+![avatar][avatar] <!-- .element: class="pull-center" -->
+
+[avatar]: ../shared/img/biolinux.jpg
+
+====
+
+### CloudBioLinux
+
+![avatar][avatar] <!-- .element: class="pull-center" -->
+
+[avatar]: ../shared/img/cloudbiolinux.jpg
+
+====
+
+<!-- .slide: data-background="img/containers.jpg" -->
+
+Tentativas de solucionar o problema:
+
+## Presente...
+
+====
+
+### Biocontainer
+
+![avatar][avatar] <!-- .element: class="pull-center" -->
+
+[avatar]: ../shared/img/biocontainer1.png
+
+====
+
+### Biocontainer
+
+![avatar][avatar] <!-- .element: class="pull-center" -->
+
+[avatar]: ../shared/img/biocontainer.png
+
+====
+
+### Dugong
+
+![avatar][avatar] <!-- .element: class="pull-center" -->
+
+[avatar]: ../shared/img/dugong.png
+
+====
+
+### Dugong
+
+![avatar][avatar] <!-- .element: class="pull-center" -->
+
+[avatar]: ../shared/img/dugong1.png
+
+====
+
+### Bioportainer
+
+![avatar][avatar] <!-- .element: class="pull-center" -->
+
+[avatar]: ../shared/img/bioportainer-paper.png
+
+====
+
+### Bioportainer
+
+![avatar][avatar] <!-- .element: class="pull-center" -->
+
+[avatar]: ../shared/img/bioportainer.png
+
+====
+
+### BioConda
+
+![avatar][avatar] <!-- .element: class="pull-center" -->
+
+[avatar]: ../shared/img/bioconda1.png
+
+====
+
+### BioConda
+
+![avatar][avatar] <!-- .element: class="pull-center" -->
+
+[avatar]: ../shared/img/bioconda.png
+
+====
+
+### Jupyter Notebook
+
+![avatar][avatar] <!-- .element: class="pull-center" -->
+
+[avatar]: ../shared/img/jupyter.png
+
+====
+
+### Open Science Framework
+
+![avatar][avatar] <!-- .element: class="pull-center" -->
+
+[avatar]: ../shared/img/OSF.png
+
+====
+
+### Galaxy
+
+![avatar][avatar] <!-- .element: class="pull-center" -->
+
+[avatar]: ../shared/img/galaxy.png
+
+====
+
+### Galaxy
+
+![avatar][avatar] <!-- .element: class="pull-center" -->
+
+[avatar]: ../shared/img/galaxy1.png

@@ -12,7 +12,7 @@
 
 ### Descrição das áreas do Galaxy
 
-Amarelo: Menu Principal
+Amarelo: Menu Superior
 
 Vermelho: Menu de Ferramentas
 
@@ -22,7 +22,7 @@ Azul: Histórico de Execuções
 
 ====
 
-### Menu Principal
+### Menu Superior
 
 ![avatar][avatar]
 
@@ -34,3 +34,13 @@ Azul: Histórico de Execuções
 - Shared data: acesso a conteúdos compartilhados
 - Help: links de ajuda do Galaxy
 - User: Menu principal do usuário
+
+====
+
+### Menu do usuário
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/usermenu.png
+
+Permite configurações de preferências do usuário e acesso a históricos, conjuntos de dados, páginas e visualizações salvas pelo usuário.

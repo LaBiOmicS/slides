@@ -12,7 +12,7 @@
 - Interesse em reprodutibilidade, replicabilidade
     e Ciência Livre com Software Livre
 
-[http://lattes.cnpq.br/2745899638505571][blog]
+[fabiano.menegidio@biology.bio.br][blog]
 
 [fabianomenegidio.github.io/slides][slides]
 

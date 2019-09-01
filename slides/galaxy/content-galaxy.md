@@ -24,9 +24,9 @@ Resumo:
 
 ====
 
-Diferentes maneiras de:
+Diferentes maneiras de utilizar o:
 
-## Utilizar o Galaxy
+# Galaxy
 
 O Galaxy está disponível como um servidor web gratuito (para todos), que integra diversas ferramentas, recursos de computação, terabytes de dados de referência e armazenamento permanente:
 

@@ -12,7 +12,7 @@ Duas bases científicas:
 
 > “[...] podemos dizer que um fenômeno é experimentalmente demonstrável quando sabemos como conduzir um experimento que raramente não nos dará um resultado estatisticamente significativo”
 
--- <cite>Ronald A. Fisher (1935)</cite>
+-- <cite>Ronald A. Fisher, 1935</cite>
 
 ====
 

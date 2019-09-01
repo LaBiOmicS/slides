@@ -28,6 +28,8 @@ Diferentes maneiras de utilizar o:
 
 # Galaxy
 
+====
+
 O Galaxy está disponível como um servidor web gratuito (para todos), que integra diversas ferramentas, recursos de computação, terabytes de dados de referência e armazenamento permanente:
 
 ## https://usegalaxy.org/

@@ -97,7 +97,7 @@ Faça o upload das bibliotecas de Staphylococcus aureus abaixo para a sua instâ
 - <small> https://zenodo.org/record/582600/files/mutant_R2.fastq?download=1 </small>
   - <small> Nomear como Staphylococcus_aureus_mutant_dnaseq_R2.fastq </small>
 
-- <small> https://zenodo.org/record/582600/files/wildtype.fna?download=1 </<small>>
+- <small> https://zenodo.org/record/582600/files/wildtype.fna?download=1 </small>
   - <small> Nomear como Staphylococcus_aureus_REFSeq.fasta </small>
 
 - <small> https://zenodo.org/record/582600/files/wildtype.gbk?download=1 </small>

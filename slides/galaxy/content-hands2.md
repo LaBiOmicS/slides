@@ -33,16 +33,17 @@
 ## ETAPA 3:
 
 - No site do NCBI:
-  - digite o número de projeto "PRJNA79809" no campo ao lado de **All Databases**
-  - Clique em Search
-  - Selecione o projeto: **GENE-counter: a computational and statistical pipeline for assessing RNA-Seq data for genome-wide expression differences**
+  - No campo **All Databases**, altere para a opção **SRA**
+  - Digite o ID **SRR074286** e clique em Search
 
 ====
 
 ## ETAPA 4:
 
-- Repita os passos anteriores nos 3 servidores.
-
+- No site do EBI ENA:
+  - No campo de busca do lado esquerdo, digite o ID **SRR074286**
+  - Clique em Search e depois na opção **Run (1 results found) - SRR074286**
+  
 ====
 
 ![avatar][avatar]

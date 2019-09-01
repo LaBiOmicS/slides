@@ -9,6 +9,6 @@
 ## Objetivo:
 
 1. Acessar diferentes servidores públicos do Galaxy. 
-2. Cadastrar um usuário em cada um dos servidores acessados. 
-3. Autenticar no servidor. 
+2. Cadastrar um usuário nos servidores acessados. 
+3. Autenticar nos servidores. 
 4. Conhecer a interface gráfica do Galaxy

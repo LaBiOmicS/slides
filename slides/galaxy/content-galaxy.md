@@ -32,7 +32,7 @@ Diferentes maneiras de utilizar o:
 
 O Galaxy está disponível como um servidor web gratuito (para todos), que integra diversas ferramentas, recursos de computação, terabytes de dados de referência e armazenamento permanente:
 
-## https://usegalaxy.org/
+## https://usegalaxy.org
 
 ====
 
@@ -59,3 +59,10 @@ LeDuc, et al. J Am Med Inform Assoc doi:10.1136/amiajnl-2013-002059
 1. Utilização de novos servidores públicos
 2. Instalação local
 3. Instalação em um provedor de computação em nuvem
+
+====
+
+Servidores públicos alternativos:
+
+## https://usegalaxy.eu
+## https://usegalaxy.org.au

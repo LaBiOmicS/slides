@@ -38,3 +38,9 @@
 - Clique na opção: Login or Register
 - Preencha o formulário com o usuário e senha.
 - Clique em Login.
+
+====
+
+## ETAPA 4:
+
+- Repita os passos anteriores nos 3 servidores.

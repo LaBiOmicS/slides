@@ -18,7 +18,7 @@
 ## ETAPA 1:
 
 - Abra seu navegador (Chrome ou Firefox)
-- Acesse o endereço dos 3 servidores do Galaxy:
+- Acesse os endereços dos 3 servidores do Galaxy:
 
 <small>https://usegalaxy.org | https://usegalaxy.eu | https://usegalaxy.org.au</small>
 

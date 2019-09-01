@@ -11,7 +11,6 @@ Duas bases científicas:
 
 <!-- .slide: data-background="img/motivation.jpg" -->
 
->
 > “[...] reprodutibilidade se refere a capacidade de um pesquisador duplicar os resultados de um estudo anterior usando os mesmos dados utilizados pela equipe original”
 
 -- <cite>Subcomitê para a Replicabilidade da Ciência da U.S. National Science Foundation (NSF)</cite>
@@ -29,6 +28,14 @@ Duas bases científicas:
 
 > ## Replicar
 > Repetir um experimento (laboratorial ou computacional)  descrito anteriormente utilizando um novo material ou dados
+
+====
+
+<!-- .slide: data-background="img/motivation.jpg" -->
+
+> “[...] a capacidade de um pesquisador de duplicar os resultados de um estudo anterior se os mesmos procedimentos forem seguidos, mas novos dados forem coletados”
+
+-- <cite>Subcomitê para a Replicabilidade da Ciência da U.S. National Science Foundation (NSF)</cite>
 
 ====
 

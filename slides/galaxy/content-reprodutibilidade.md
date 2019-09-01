@@ -16,6 +16,12 @@ Duas bases científicas:
 
 ====
 
+> “O principal objetivo das publicações científicas é ensinar novos conceitos, mostrar as implicações resultantes desses conceitos em uma ilustração e fornecer detalhes suficientes para tornar o trabalho reprodutível”
+
+-- <cite>Claerbout, 1992</cite>
+
+====
+
 Pausa dramática...
 
 ## Afinal, o que é Reprodutibilidade?

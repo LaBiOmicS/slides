@@ -44,3 +44,9 @@ Reproducibility.” Nature 533 (7604): 452–54.
 ====
 
 > ## CRISE DE REPRODUTIBILIDADE COMPUTACIONAL
+
+====
+
+#### Principais causas para a crise computacional
+
+Tarefas intensiva e extremamente complexa, além de multifacetada, graças as inúmeras ferramentas de software, sistemas de gerenciamento de fluxo de trabalho, diferentes padrões e formatos de arquivos, conjuntos de dados heterogêneos e plataformas disponíveis.

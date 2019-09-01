@@ -53,7 +53,7 @@
 ### A reprodutibilidade pode ser alcançada?
 #### Um espectro de soluções:
 
-- Sistemas de fluxo de trabalho (Taverna, Pegasus, VisTrails, ...)
+- Sistemas de fluxo de trabalho (Taverna, Pegasus, *_Galaxy_* ...)
 
 ====
 

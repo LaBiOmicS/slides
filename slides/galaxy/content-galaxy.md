@@ -21,3 +21,9 @@ Resumo:
 ====
 
 > "Uma **plataforma aberta e extensível** para compartilhar ferramentas, tipos de dados, fluxos de trabalho, ..."
+
+====
+
+Diferentes maneiras de:
+
+## Utilizar o Galaxy

@@ -54,3 +54,9 @@ Primeira etapa das análises de bioinformática
 2. Identificar os valores de qualidade.
 
 ====
+
+## Indice de Qualidade (Phread)
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/phread.png

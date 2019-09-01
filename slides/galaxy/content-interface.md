@@ -79,7 +79,7 @@ Permite configurações de preferências do usuário e acesso a históricos, con
 
 ====
 
-##  Todos Históricos
+##  Visualizar todos os históricos
 
 ![avatar][avatar]
 

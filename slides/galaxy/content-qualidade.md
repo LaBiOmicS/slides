@@ -60,3 +60,36 @@ Primeira etapa das análises de bioinformática
 ![avatar][avatar]
 
 [avatar]: ../shared/img/phread.png
+
+## MÃO-NA-MASSA:
+
+### Verificando a qualidade de bibliotecas FASTQ
+
+====
+
+## Objetivo:
+
+1. Observar a qualidade de bibliotecas FASTQ. 
+2. Utilizar o software FASTQC para análise de qualidade.
+
+====
+
+## ETAPA 1
+
+- Procure a ferramenta **FASTQC** através do menu
+- Selecione a biblioteca **SRR074286 - Arabidopsis thaliana - hrcC-2** na opção **Short read data from your current history**
+- Mantenha todas as opções padrões
+- Clique em Execute
+- Ao término, clique em **View Data** no arquivo HTML gerado
+
+=====
+
+## ETAPA 2
+
+- Selecione a opção **View All Histories**
+- Troque para o History com dos dados de Staphylococcus aureus
+- Faça uma análise de qualidade para cada um dos FASTQ
+- Ao término, clique em **View Data** no arquivo HTML gerado
+
+=====
+

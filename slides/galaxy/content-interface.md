@@ -10,9 +10,14 @@
 
 ====
 
+### Descrição das áreas do Galaxy
+
 Amarelo: Menu Principal
+
 Vermelho: Menu de Ferramentas
+
 Verde: Área Principal
+
 Azul: Histórico de Execuções
 
 ====

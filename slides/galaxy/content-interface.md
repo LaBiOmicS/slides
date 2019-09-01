@@ -44,3 +44,19 @@ Azul: Histórico de Execuções
 [avatar]: ../shared/img/usermenu.png
 
 Permite configurações de preferências do usuário e acesso a históricos, conjuntos de dados, páginas e visualizações salvas pelo usuário.
+
+====
+
+##  Menu de Ferramentas
+
+- ![avatar][avatar] <!-- .element: class="pull-right" -->
+- Coletou, organizou e disponibilizou o primeiro atlas 
+    de seqüências protéicas.
+- Originou uma das primeiras e mais importantes matrizes
+    de substituição (PAM).
+- Desenvolveu projetos como o 
+    FIDAC, o ADAD, entre outros.
+- Criou o código de uma letra utilizado para os 
+    aminoácidos.
+    
+[avatar]: ../shared/img/tools.jpeg

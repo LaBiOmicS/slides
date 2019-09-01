@@ -61,6 +61,8 @@ Primeira etapa das análises de bioinformática
 
 [avatar]: ../shared/img/phread.png
 
+====
+
 ## MÃO-NA-MASSA:
 
 ### Verificando a qualidade de bibliotecas FASTQ

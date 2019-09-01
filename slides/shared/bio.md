@@ -8,13 +8,13 @@
 - Computeiro e Biólogo
 - Bioinformata e Biólogo Computacional
 - Mestre e Doutorando em Biotecnologia
-- Usuário GNU/Linux desde 1997
+- Atuando com diferentes áreas das Ômicas
 - Interesse em reprodutibilidade, replicabilidade
     e Ciência Livre com Software Livre
 
-[scriptomics.wordpress.com][blog]
+[http://lattes.cnpq.br/2745899638505571][blog]
 
-[opensciencebr.github.io/slides][slides]
+[fabianomenegidio.github.io/slides][slides]
 
 [avatar]: ../shared/img/menegidio.jpg
 [blog]: https://scriptomics.wordpress.com

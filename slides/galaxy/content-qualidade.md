@@ -39,3 +39,16 @@ Primeira etapa das análises de bioinformática
 ![avatar][avatar]
 
 [avatar]: ../shared/img/FASTQ.png
+
+## MÃO-NA-MASSA:
+
+### Verificando os formatos FASTA e FASTQ
+
+====
+
+## Objetivo:
+
+1. Observar as diferenças entre FASTA e FASTQ. 
+2. Identificar os valores de qualidade.
+
+====

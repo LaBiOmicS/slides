@@ -1,4 +1,6 @@
+### Apresentação breve
+
 - Nome.
 - Com o que trabalha.
 - Utiliza métodos computacionais no que trabalha?
-- Se não, acha que esses métodos podem auxiliar futuramente?
+- Se não, pretende utilizar futuramente?

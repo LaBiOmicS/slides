@@ -18,8 +18,23 @@
 ## ETAPA 1:
 
 - Abra seu navegador (Chrome ou Firefox)
-- Acesse os endereços dos 3 servidores do Galaxy:
+- Acesse o endereço de cada servidor:
 
 <small>https://usegalaxy.org | https://usegalaxy.eu | https://usegalaxy.org.au</small>
 
 ====
+
+## ETAPA 2:
+
+- Clique na opção: Login or Register
+- Clique na opção: Register here.
+- Preencha o formulário.
+- Confirme o e-mail de validação recebido.
+
+====
+
+## ETAPA 3:
+
+- Clique na opção: Login or Register
+- Preencha o formulário com o usuário e senha.
+- Clique em Login.

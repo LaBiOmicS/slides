@@ -15,7 +15,7 @@
 ## ETAPA 1:
 
 - Abra uma nova aba no seu navegador (Chrome ou Firefox)
-- Acesse o endereço de cada servidor:
+- Acesse o endereço do banco de dados do NCBI:
 
 <small> https://www.ncbi.nlm.nih.gov </small>
 
@@ -24,7 +24,7 @@
 ## ETAPA 2:
 
 - Abra uma nova aba no seu navegador (Chrome ou Firefox)
-- Acesse o endereço de cada servidor:
+- Acesse o endereço do banco de dados do EBI ENA:
 
 <small> https://www.ebi.ac.uk/ena </small>
 
@@ -33,7 +33,7 @@
 ## ETAPA 3:
 
 - No site do NCBI:
--- digite o número de projeto "PRJNA79809" no campo ao lado de **All Databases**
+  - digite o número de projeto "PRJNA79809" no campo ao lado de **All Databases**
 - Clique em Search
 - Selecione o projeto exibido: GENE-counter: a computational and statistical pipeline for assessing RNA-Seq data for genome-wide expression differences 
 

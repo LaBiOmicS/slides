@@ -55,4 +55,4 @@ Permite configurações de preferências do usuário e acesso a históricos, con
 - Upload de dados para o Galaxy (verde)
 - Acessar inúmeras ferramentas categorizadas (amarelo)
     
-[avatar]: ../shared/img/tools.jpeg
+[avatar]: ../shared/img/tools.png

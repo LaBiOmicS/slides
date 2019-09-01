@@ -22,7 +22,7 @@
 
 [avatar]: ../shared/img/experimentos.png
 
-Controle de qualidade = Primeira etapa das análises de bioinformática
+Primeira etapa das análises de bioinformática
 
 ====
 

@@ -86,3 +86,9 @@ Permite configurações de preferências do usuário e acesso a históricos, con
 [avatar]: ../shared/img/todoshistoricos.png
 
 ====
+
+## Status das execuções
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/status.png

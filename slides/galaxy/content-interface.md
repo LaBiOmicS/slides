@@ -91,4 +91,4 @@ Permite configurações de preferências do usuário e acesso a históricos, con
 
 ![avatar][avatar]
 
-[avatar]: ../shared/img/status.png
+[avatar]: ../shared/img/states.png

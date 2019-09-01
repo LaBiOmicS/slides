@@ -49,11 +49,18 @@ Permite configurações de preferências do usuário e acesso a históricos, con
 
 ##  Menu de Ferramentas
 
- ![avatar][avatar] <!-- .element: class="pull-right" -->
+![avatar][avatar]
+
+[avatar]: ../shared/img/tools.png
+
+====
+
+##  Menu de Ferramentas
+
 - Pesquisa de ferramentas pelo nome (azul)
 - Acessar ferramentas favoritas (vermelho)
 - Upload de dados para o Galaxy (verde)
 - Ferramentas categorizadas (amarelo)
     
-[avatar]: ../shared/img/tools.png
+
 

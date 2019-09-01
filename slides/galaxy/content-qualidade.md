@@ -10,6 +10,32 @@
 
 ====
 
-### Como melhorar a qualidade de um conjunto de dados de sequência?
+### Como melhorar a qualidade de um conjunto de dados de sequências?
 
 ====
+
+### Por que controlar a qualidade das sequências?
+
+====
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/experimentos.png
+
+Controle de qualidade = Primeira etapa das análises de bioinformática
+
+====
+
+## Formato FASTA
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/FASTA.png
+
+====
+
+## Forrmato FASTQ
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/FASTQ.png

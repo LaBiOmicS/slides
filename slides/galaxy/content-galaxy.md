@@ -54,7 +54,7 @@ LeDuc, et al. J Am Med Inform Assoc doi:10.1136/amiajnl-2013-002059
 
 ====
 
-Alternativas ao servidores público oficial
+Alternativas ao servidores público oficial:
 
 1) Utilização de novos servidores públicos
 2) Instalação local

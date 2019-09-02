@@ -263,8 +263,13 @@ Primeira etapa das análises de bioinformática
 - Selecione a opção **fastp** no campo **Which tool was used generate logs?**
 - Siga os passos da Etapa 1
 
+====
+
 ## MÃO-NA-MASSA:
 
-### Teste outras ferramentas das categorias **FASTA/FASTQ** e **FASTQ Quality Control**
+### Teste outras ferramentas das categorias: 
+
+- FASTA/FASTQ
+- FASTQ Quality Control
 
 ====

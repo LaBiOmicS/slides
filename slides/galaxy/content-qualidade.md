@@ -113,6 +113,60 @@ Primeira etapa das análises de bioinformática
 
 ====
 
+![avatar][avatar]
+
+[avatar]: ../shared/img/qualy1.png
+
+====
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/qualy2.png
+
+====
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/qualy3.png
+
+====
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/qualy4.png
+
+====
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/qualy5.png
+
+====
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/qualy6.png
+
+====
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/qualy7.png
+
+====
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/qualy8.png
+
+====
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/qualy9.png
+
+====
+
 ## DESAFIO:
 
 - Crie um novo History

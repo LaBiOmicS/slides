@@ -154,8 +154,8 @@
 - Selecione a opção **View All Histories**
 - Troque para o History com os dados de Staphylococcus
 - Procure a ferramenta **BOWTIE2** através do menu
-- Em **Is this single or paired library**, selecione a Paired-End
-- Selecione as bibliotecas forwared (R1) e reverse (R1) do DNASeq.
+- Em **Is this single or paired library**, selecione Paired-End
+- Selecione as bibliotecas originais forwared (R1) e reverse (R1) do DNASeq.
 - Habilite as opções: **Write unaligned reads (in fastq format) to separate file(s)** e **Write aligned reads (in fastq format) to separate file(s)**
 
 ====
@@ -171,17 +171,27 @@
 
 ## ETAPA 2:
 
-- Repita os passos acima para Arabidopsis e Drosophila.
+- Repita os passos acima para os arquivos de saída do **fastp**, que passaram por corte de qualidade Q20.
+
+====
+
+## ETAPA 3:
+
+- Observe e compare as informações de alinhamento contidas no arquivo mapping stats das duas análises acima
+
+====
+
+## ETAPA 4:
+
+- Repita os passos acima para Arabidopsis e Drosophila utilizando apenas os arquivos do **fastp Q20**.
 - Preste atenção nos arquivos Paired-End e Single-End.
 - Como ambos são organismos modelo, eles possuem os genomas de referência no servidor.
 - No campo **Will you select a reference genome from your history or use a built-in index?**, selecione **Use a built-in genome index**
 - Para Arabidopsis selecione o genoma TAIR10
 - Para Drosophila realize o alinhamento com os genomas DM3 e DM6
 
-=====
+====
 
-## ETAPA 3:
-
-- Procure a ferramenta **BOWTIE2** através do menu
+## ETAPA 4:
 
 

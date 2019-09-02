@@ -154,7 +154,7 @@ Primeira etapa das análises de bioinformática
 
 - Troque para o History com os dados de Staphylococcus
 - Procure a ferramenta **FASTQ interlacer** através do menu
-- Selecione a bibilioteca Left (R1) e Right (R2)
+- Selecione as bibiliotecas Left (R1) e Right (R2)
 - Execute o processo
 - Refaça a análise de FASTQC
 
@@ -171,5 +171,44 @@ Primeira etapa das análises de bioinformática
 
 - Repita os passos para as bibliotecas de Drosophila e Arabidopsis.
 - Refaça a análise de FASTQC e compare os resultados.
+
+====
+
+# MÃO-NA-MASSA:
+
+### Limpando Bibliotecas FASTQ
+
+====
+
+## Objetivo:
+
+1. Limpar bibliotecas FASTQ baseado nos indices de qualidade Phread
+
+====
+
+## ETAPA 1
+
+- Troque para o History com os dados de Staphylococcus
+- Procure a ferramenta **fastp** através do menu
+- Selecione a opção Paired e as bibiliotecas Left (R1) e Right (R2)
+- Execute o processo com as configurações padrões.
+- Visualize o arquivo HTML gerado.
+
+====
+
+## ETAPA 2
+
+- Clique na opção **Run this job again** do arquivo HTML gerado
+- Clique na opção **Filter Options** -> **Quality filtering options**
+- No campo **Qualified quality phred**, altere o valor padrão (Q15) para 20. 
+- Execute o processo.
+- Ao término, refaça o procedimento com o valor de **Qualified quality phred**: 30
+- Compare os resultados
+
+====
+
+## ETAPA 3
+
+- Repita os passos para as bibliotecas de Drosophila e Arabidopsis.
 
 ====

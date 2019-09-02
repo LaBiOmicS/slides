@@ -199,3 +199,15 @@
 - Utilize a ferramenta **BAM/SAM Mapping Stats** para gerar estatísticas do arquivo BAM gerado pelo **BWA**
 - Compare os resultados do Bowtie2 e do BWA.
 - Qual rendeu um melhor alinhamento?
+
+====
+
+====
+
+## DESAFIO:
+
+- Escolha uma das bibliotecas.
+- Utilize a ferramenta **QualityScoreDistribution** para gerar estatísticas de qualidade do arquivo BAM gerado pelo **Bowtie2** e **BWA**
+- Compare os resultados
+
+====

@@ -52,12 +52,6 @@
 
 ====
 
-![avatar][avatar]
-
-[avatar]: ../shared/img/transcriptoma5.png
-
-====
-
 ## Pré-processamento dos Dados
 
 1. Remoção dos adaptadores de seqüenciamento
@@ -86,6 +80,8 @@
 
 ====
 
+## Comparação entre Mapeamento por referência e montagem de novo
+
 ![avatar][avatar]
 
 [avatar]: ../shared/img/transcriptoma10.png
@@ -94,9 +90,19 @@
 
 ![avatar][avatar]
 
+[avatar]: ../shared/img/transcriptoma5.png
+
+====
+
+## Pipeline padrão do Tuxedo
+
+![avatar][avatar]
+
 [avatar]: ../shared/img/transcriptoma8.png
 
 ====
+
+## Conjunto de transcrição baseada em anotação de referência (RABT)
 
 ![avatar][avatar]
 
@@ -104,11 +110,15 @@
 
 ====
 
+## Alinhamento TopHat com um genoma de referência
+
 ![avatar][avatar]
 
 [avatar]: ../shared/img/transcriptoma11.png
 
 ====
+
+## Conjunto de transcrição baseada em anotação de referência (RABT)
 
 ![avatar][avatar]
 
@@ -116,11 +126,15 @@
 
 ====
 
+## Cufflinks - Estimativa de abundância
+
 ![avatar][avatar]
 
 [avatar]: ../shared/img/transcriptoma13.png
 
 ====
+
+
 
 ![avatar][avatar]
 
@@ -128,11 +142,15 @@
 
 ====
 
+## Mesclando montagens do Cufflinks
+
 ![avatar][avatar]
 
 [avatar]: ../shared/img/transcriptoma15.png
 
 ====
+
+## Métricas
 
 ![avatar][avatar]
 
@@ -140,11 +158,16 @@
 
 ====
 
+## Usando outros softwares em conjunto
+
 ![avatar][avatar]
 
 [avatar]: ../shared/img/transcriptoma17.png
 
 ====
+
+## Novas extensões ...
+
 
 ![avatar][avatar]
 

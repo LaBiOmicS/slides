@@ -42,6 +42,10 @@
 
 ====
 
+![avatar][avatar]
+
+[avatar]: ../shared/img/transcriptoma19.png
+
 ## Como analisar os dados de RNA-seq para quantificação de RNA?
 
 ====
@@ -80,7 +84,7 @@
 
 ====
 
-## Comparação entre Mapeamento por referência e montagem de novo
+## Mapeamento X Montagem De Novo
 
 ![avatar][avatar]
 

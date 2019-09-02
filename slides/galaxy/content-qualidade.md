@@ -89,7 +89,7 @@ Primeira etapa das análises de bioinformática
 ## ETAPA 2
 
 - Selecione a opção **View All Histories**
-- Troque para o History com dos dados de Staphylococcus
+- Troque para o History com os dados de Staphylococcus
 - Faça uma análise de qualidade com o FASTQC para cada um dos FASTQ
 - Ao término, clique em **View Data** no arquivo HTML gerado
 
@@ -135,5 +135,39 @@ Primeira etapa das análises de bioinformática
 ## MÃO-NA-MASSA:
 
 ### Criando Coleções de Bibliotecas
+
+====
+
+## MÃO-NA-MASSA:
+
+### Intrelaçando Bibliotecas Paired-End
+
+====
+
+## Objetivo:
+
+1. Unificar bibliotecas forward e reverse em uma biblioteca intrelaçada
+
+====
+
+## ETAPA 1
+
+- Troque para o History com os dados de Staphylococcus
+- Procure a ferramenta **FASTQ interlacer** através do menu
+- Selecione a bibilioteca Left (R1) e Right (R2)
+- Execute o processo
+
+====
+
+## ETAPA 2
+
+- Procure a ferramenta **FASTQ de-interlacer** através do menu
+- Faça o processo inverso selecionando a biblioteca intrelaçada gerada no passo anterior.
+
+====
+
+## ETAPA 3
+
+- Repita os passos para as bibiliotecas de Drosophila e Arabidopsis
 
 ====

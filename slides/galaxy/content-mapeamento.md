@@ -30,13 +30,14 @@
 
 ### Alinhamento de sequência
 
-- Determinar a posição da leitura curta no genoma de referência
+- Determinar a posição da leitura curta no genoma de referência.
 
 ![avatar][avatar]
 
 [avatar]: ../shared/img/map1.png
 
-- A leitura pode se alinhar a vários lugares
+
+- A leitura pode se alinhar a vários lugares.
 
 ![avatar][avatar]
 

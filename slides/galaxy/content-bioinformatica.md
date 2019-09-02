@@ -87,6 +87,8 @@ Fatores motivadores:
 - Criou o código de uma letra utilizado para os 
     aminoácidos.
     
+[avatar]: ../shared/img/Dayhoff.jpeg
+    
 ====
 
 ## Quem são os bioinformatas?
@@ -102,5 +104,3 @@ Fatores motivadores:
 ![avatar][avatar]
 
 [avatar]: ../shared/img/preciso.png
-    
-[avatar]: ../shared/img/Dayhoff.jpeg

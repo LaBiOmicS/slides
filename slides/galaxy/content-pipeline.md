@@ -20,12 +20,17 @@ Facilitando a vida do IC e do pós-graduando
 
 ====
 
-## Por que você deseja criar fluxos de trabalho?
+## Benefícios fluxos de trabalho
 
 - Execute novamente a mesma análise em diferentes conjuntos de dados de entrada
 - Alterar parâmetros antes de executar novamente uma análise semelhante
 - Fazer uso do agendamento de trabalhos de fluxo de trabalho
   - Os trabalhos são enviados assim que suas entradas estão prontas
+  
+====
+  
+## Benefícios fluxos de trabalho
+  
 - Criar sub-workflows: um fluxo de trabalho dentro de outro fluxo de trabalho
 - Compartilhar fluxos de trabalho para publicação e com a comunidade
 

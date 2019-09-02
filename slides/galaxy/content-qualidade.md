@@ -174,7 +174,7 @@ Primeira etapa das análises de bioinformática
 
 ====
 
-# MÃO-NA-MASSA:
+## MÃO-NA-MASSA:
 
 ### Limpando Bibliotecas FASTQ
 

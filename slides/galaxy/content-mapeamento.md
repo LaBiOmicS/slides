@@ -157,6 +157,11 @@
 - Em **Is this single or paired library**, selecione a Paired-End
 - Selecione as bibliotecas forwared (R1) e reverse (R1) do DNASeq.
 - Habilite as opções: **Write unaligned reads (in fastq format) to separate file(s)** e **Write aligned reads (in fastq format) to separate file(s)**
+
+====
+
+## ETAPA 1 (continuação):
+
 - Em **Will you select a reference genome from your history or use a built-in index?**, selecione **Use a genome from the history and build index**.
 - No campo **Select reference genome**, selecione o arquivo **Staphylococcus_aureus_REFSeq.fasta**
 - Habilite a opção **Save the bowtie2 mapping statistics to the history**

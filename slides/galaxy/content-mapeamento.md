@@ -108,6 +108,30 @@
 
 ====
 
+![avatar][avatar]
+
+[avatar]: ../shared/img/sam.png
+
+====
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/sam1.png
+
+====
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/sam3.png
+
+====
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/igv.gif
+
+====
+
 ## MÃO-NA-MASSA:
 
 ### Alinhamento de Sequências

@@ -204,6 +204,11 @@ Primeira etapa das análises de bioinformática
 
 ====
 
+<small> - https://zenodo.org/record/61771/files/Drosophila_melanogaster.BDGP5.78.gtf?download=1 </small>
+<small>   - Nomear como Drosophila_melanogaster.BDGP5.78.REFSEQ.gtf </small>
+
+====
+
 ## MÃO-NA-MASSA:
 
 ### Criando Coleções de Bibliotecas

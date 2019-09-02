@@ -97,3 +97,11 @@
 ![avatar][avatar]
 
 [avatar]: ../shared/img/match5.png
+
+====
+
+## Qual ferramenta escolher?
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/match6.png

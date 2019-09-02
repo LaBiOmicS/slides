@@ -230,3 +230,35 @@ Primeira etapa das análises de bioinformática
 - Repita os passos para as bibliotecas de Drosophila e Arabidopsis.
 
 ====
+
+## MÃO-NA-MASSA:
+
+### Unificando relatórios de qualidade
+
+====
+
+## Objetivo:
+
+1. Unificar diversos relatórios de qualidade em apenas um arquivo
+
+====
+
+## ETAPA 1
+
+- Troque para o History com os dados de Drosophila
+- Procure a ferramenta **MultiQC** através do menu
+- Selecione **FASTQC** no campo **Which tool was used generate logs?**
+- Selecione o arquivo Webpage do FASTQC da primeira biblioteca em **Output of BAMtools**
+- Clique em **Insert Results** e selecione outro arquivo Webpage do FASTQC de outra biblioteca
+- Repita o processo até selecionar todos os arquivos
+- Preencha o campo **Report title** com um titulo para o relatório agregado
+- Clique em Execute.
+- Visualize o novo arquivo HTML do MultiQC
+
+====
+
+## ETAPA 2
+
+- Repita o processo para os arquivos do **fastp** de Drosophila
+- Selecione a opção **fastp** no campo **Which tool was used generate logs?**
+- Siga os passos da Etapa 1

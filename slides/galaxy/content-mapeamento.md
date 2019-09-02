@@ -42,3 +42,21 @@
 ![avatar][avatar]
 
 [avatar]: ../shared/img/map2.png
+
+====
+
+### Problemas
+
+- Como lidar com leituras multi-mapeadas?
+  - Depende da ferramenta:
+    - Mapeiar para a melhor região (o que é melhor?)
+    - Mapear para todas as regiões
+    - Mapear para uma região aleatoriamente
+    - Descartar leitura
+
+====
+
+### Problemas
+
+- Como determinamos a melhor região?
+  - Atribuir **pontuação de alinhamento** a cada mapeamento   

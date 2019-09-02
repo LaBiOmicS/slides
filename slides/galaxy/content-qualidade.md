@@ -95,6 +95,24 @@ Primeira etapa das análises de bioinformática
 
 ====
 
+![avatar][avatar]
+
+[avatar]: ../shared/img/quality1.png
+
+====
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/quality2.png
+
+====
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/quality3.png
+
+====
+
 ## DESAFIO:
 
 - Crie um novo History

@@ -107,3 +107,46 @@ Faça o upload das bibliotecas de Staphylococcus aureus abaixo para a sua instâ
 
 <small> - https://zenodo.org/record/582600/files/wildtype.gff?download=1 </small>
 <small>   - Nomear como Staphylococcus_aureus_REFSeq.gff </small>
+
+====
+
+## DESAFIO:
+
+- Crie um novo History
+- Nomeie como Mouse
+- Faça o download das bibliotecas a seguir
+
+====
+
+<small> - https://zenodo.org/record/254485/files/G1E_R1_forward_downsampled_SRR549355.fastqsanger.gz?download=1 </small>
+<small>   - Nomear como Mouse_C1_rnaseq_R1.fastq </small>
+
+<small> - https://zenodo.org/record/254485/files/G1E_R1_reverse_downsampled_SRR549355.fastqsanger.gz?download=1 </small>
+<small>   - Nomear como Mouse_C1_rnaseq_R2.fastq </small>
+
+<small> - https://zenodo.org/record/254485/files/G1E_R2_forward_downsampled_SRR549356.fastqsanger.gz?download=1 </small>
+<small>   - Nomear como Mouse_C2_rnaseq_R1.fastq </small>
+
+<small> - https://zenodo.org/record/254485/files/G1E_R2_reverse_downsampled_SRR549356.fastqsanger.gz?download=1 </small>
+<small>   - Nomear como Mouse_C2_rnaseq_R2.fastq </small>
+
+====
+
+<small> - https://zenodo.org/record/254485/files/Megakaryocyte_R1_forward_downsampled_SRR549357.fastqsanger.gz?download=1 </small>
+<small>   - Nomear como Mouse_M1_rnaseq_R1.fastq </small>
+
+<small> - https://zenodo.org/record/254485/files/Megakaryocyte_R1_reverse_downsampled_SRR549357.fastqsanger.gz?download=1 </small>
+<small>   - Nomear como Mouse_M1_rnaseq_R2.fastq </small>
+
+<small> - https://zenodo.org/record/254485/files/Megakaryocyte_R2_forward_downsampled_SRR549358.fastqsanger.gz?download=1 </small>
+<small>   - Nomear como Mouse_M2_rnaseq_R1.fastq </small>
+
+<small> - https://zenodo.org/record/254485/files/Megakaryocyte_R2_reverse_downsampled_SRR549358.fastqsanger.gz?download=1 </small>
+<small>   - Nomear como Mouse_M2_rnaseq_R2.fastq </small>
+
+====
+
+- Como esse está "zipado", faça o download para a sua máquina e suba manualmente para o Galaxy:
+
+<small> - https://zenodo.org/record/254485/files/RefSeq_gene_annotations_mm10.bed.gtf.gz?download=1 </small>
+<small>   - Nomear como Mouse_REFSEQ_mm10.gtf </small>

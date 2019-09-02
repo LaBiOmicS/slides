@@ -156,18 +156,20 @@ Primeira etapa das análises de bioinformática
 - Procure a ferramenta **FASTQ interlacer** através do menu
 - Selecione a bibilioteca Left (R1) e Right (R2)
 - Execute o processo
+- Refaça a análise de FASTQC
 
 ====
 
 ## ETAPA 2
 
-- Procure a ferramenta **FASTQ de-interlacer** através do menu
+- Procure a ferramenta **FASTQ de-interlacer** através do menu.
 - Faça o processo inverso selecionando a biblioteca entrelaçada gerada no passo anterior.
 
 ====
 
 ## ETAPA 3
 
-- Repita os passos para as bibiliotecas de Drosophila e Arabidopsis
+- Repita os passos para as bibliotecas de Drosophila e Arabidopsis.
+- Refaça a análise de FASTQC e compare os resultados.
 
 ====

@@ -87,4 +87,16 @@ Fatores motivadores:
 - Criou o código de uma letra utilizado para os 
     aminoácidos.
     
+====
+
+## Quem são os bioinformatas?
+
+====
+
+## O que é preciso para ser um?
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/preciso.gif
+    
 [avatar]: ../shared/img/Dayhoff.jpeg

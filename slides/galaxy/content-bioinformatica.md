@@ -35,7 +35,7 @@ Pausa dramática...
 
 ![avatar][avatar]
 
-[avatar]: ../shared/img/bioinformatics.gif
+[avatar]: ../shared/img/bioinformatics.png
 
 ====
 

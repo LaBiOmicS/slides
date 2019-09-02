@@ -140,13 +140,13 @@ Primeira etapa das análises de bioinformática
 
 ## MÃO-NA-MASSA:
 
-### Intrelaçando Bibliotecas Paired-End
+### Entrelaçando Bibliotecas Paired-End
 
 ====
 
 ## Objetivo:
 
-1. Unificar bibliotecas forward e reverse em uma biblioteca intrelaçada
+1. Unificar bibliotecas forward e reverse em uma biblioteca entrelaçada
 
 ====
 
@@ -162,7 +162,7 @@ Primeira etapa das análises de bioinformática
 ## ETAPA 2
 
 - Procure a ferramenta **FASTQ de-interlacer** através do menu
-- Faça o processo inverso selecionando a biblioteca intrelaçada gerada no passo anterior.
+- Faça o processo inverso selecionando a biblioteca entrelaçada gerada no passo anterior.
 
 ====
 

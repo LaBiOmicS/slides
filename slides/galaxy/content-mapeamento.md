@@ -16,6 +16,6 @@
 
 ![avatar][avatar]
 
-[avatar]: ../shared/img/ngs.gif
+[avatar]: ../shared/img/ngs.png
 
 Uma visualização de alto nível de um fluxo de trabalho típico de bioinformática de NGS

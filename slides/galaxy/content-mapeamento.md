@@ -49,7 +49,7 @@
 
 - Como lidar com leituras multi-mapeadas?
   - Depende da ferramenta:
-    - Mapeiar para a melhor região (o que é melhor?)
+    - Mapear para a melhor região (o que é melhor?)
     - Mapear para todas as regiões
     - Mapear para uma região aleatoriamente
     - Descartar leitura

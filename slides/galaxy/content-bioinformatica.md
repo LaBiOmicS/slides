@@ -91,12 +91,16 @@ Fatores motivadores:
 
 ## Quem são os bioinformatas?
 
+![avatar][avatar]
+
+[avatar]: ../shared/img/bioinformata.png
+
 ====
 
 ## O que é preciso para ser um?
 
 ![avatar][avatar]
 
-[avatar]: ../shared/img/preciso.gif
+[avatar]: ../shared/img/preciso.png
     
 [avatar]: ../shared/img/Dayhoff.jpeg

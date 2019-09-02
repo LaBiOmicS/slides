@@ -218,7 +218,6 @@
 
 ## DESAFIO:
 
-- Refaça o alinhamento com Tophat e HISAT2 para as bibliotecas de Drosophila
+- Refaça o alinhamento com HISAT2 para as bibliotecas de Drosophila
 
 ====
-

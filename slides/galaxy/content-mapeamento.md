@@ -36,6 +36,9 @@
 
 [avatar]: ../shared/img/mapeamento1.png
 
+====
+
+### Alinhamento de sequência
 
 - A leitura pode se alinhar a vários lugares.
 

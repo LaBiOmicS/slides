@@ -20,7 +20,7 @@
 
 ====
 
-## Desafios do sequenciamento de RNA
+## Desafios RNA-Seq
 
 - Origem diferente para o RNA da amostra e o genoma de referência
 - Presença de RNAs incompletamente processados ​​ou ruído de fundo transcricional
@@ -28,7 +28,7 @@
 
 ====
 
-## Aplicações de pesquisa para RNA-Seq
+## Aplicações do RNA-Seq
 
 1. Descoberta de transcrição
   - Quais moléculas de RNA estão na minha amostra?

@@ -121,7 +121,7 @@ Primeira etapa das análises de bioinformática
 
 ![avatar][avatar]
 
-[avatar]: ../shared/img/qualy2.png
+[avatar]: ../shared/img/qualiy2.png
 
 ====
 

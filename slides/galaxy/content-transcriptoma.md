@@ -153,14 +153,6 @@
 
 ====
 
-### Métricas
-
-![avatar][avatar]
-
-[avatar]: ../shared/img/transcriptoma16.png
-
-====
-
 ### Usando outros softwares em conjunto
 
 ![avatar][avatar]
@@ -175,3 +167,11 @@
 ![avatar][avatar]
 
 [avatar]: ../shared/img/transcriptoma18.png
+
+====
+
+### Métricas
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/transcriptoma16.png

@@ -202,8 +202,6 @@
 
 ====
 
-====
-
 ## DESAFIO:
 
 - Escolha uma das bibliotecas.
@@ -211,3 +209,16 @@
 - Compare os resultados
 
 ====
+
+## MÃO-NA-MASSA:
+
+### Alinhamento de Transcriptoma com Tophat e HISAT2
+
+====
+
+## DESAFIO:
+
+- Refaça o alinhamento com Tophat e HISAT2 para as bibliotecas de Drosophila
+
+====
+

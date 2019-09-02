@@ -33,6 +33,12 @@ Pausa dramática...
 
 ====
 
+![avatar][avatar]
+
+[avatar]: ../shared/img/bioinformatics.gif
+
+====
+
 ### Origem da Bioinformática
 
 1960 - Origens da Bioinformática e da Biologia Computacional

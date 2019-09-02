@@ -271,5 +271,3 @@ Primeira etapa das análises de bioinformática
 
 - FASTA/FASTQ
 - FASTQ Quality Control
-
-====

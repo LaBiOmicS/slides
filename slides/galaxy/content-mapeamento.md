@@ -192,6 +192,10 @@
 
 ====
 
-## ETAPA 4:
+## DESAFIO:
 
-
+- Refaça os alinhamentos (apenas dos arquivos provenientes do fastp) utilizando a ferramenta **Map with BWA**.
+- Utilize as configurações padrões da ferramenta.
+- Utilize a ferramenta **BAM/SAM Mapping Stats** para gerar estatísticas do arquivo BAM gerado pelo **BWA**
+- Compare os resultados do Bowtie2 e do BWA.
+- Qual rendeu um melhor alinhamento?

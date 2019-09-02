@@ -94,15 +94,13 @@
 
 ====
 
-## Pipeline padrão do Tuxedo
-
 ![avatar][avatar]
 
 [avatar]: ../shared/img/transcriptoma8.png
 
 ====
 
-## Conjunto de transcrição baseada em anotação de referência (RABT)
+### Pipeline padrão do Tuxedo
 
 ![avatar][avatar]
 
@@ -110,7 +108,7 @@
 
 ====
 
-## Alinhamento TopHat com um genoma de referência
+### Conjunto de transcrição baseada em anotação de referência (RABT)
 
 ![avatar][avatar]
 
@@ -118,7 +116,8 @@
 
 ====
 
-## Conjunto de transcrição baseada em anotação de referência (RABT)
+### Alinhamento TopHat com um genoma de referência
+
 
 ![avatar][avatar]
 
@@ -126,7 +125,7 @@
 
 ====
 
-## Cufflinks - Estimativa de abundância
+### Conjunto de transcrição baseada em anotação de referência (RABT)
 
 ![avatar][avatar]
 
@@ -134,7 +133,7 @@
 
 ====
 
-
+### Cufflinks - Estimativa de abundância
 
 ![avatar][avatar]
 
@@ -142,7 +141,7 @@
 
 ====
 
-## Mesclando montagens do Cufflinks
+### Mesclando montagens do Cufflinks
 
 ![avatar][avatar]
 
@@ -150,7 +149,7 @@
 
 ====
 
-## Métricas
+### Métricas
 
 ![avatar][avatar]
 
@@ -158,7 +157,7 @@
 
 ====
 
-## Usando outros softwares em conjunto
+### Usando outros softwares em conjunto
 
 ![avatar][avatar]
 
@@ -166,11 +165,9 @@
 
 ====
 
-## Novas extensões ...
+### Novas extensões ...
 
 
 ![avatar][avatar]
 
 [avatar]: ../shared/img/transcriptoma18.png
-
-====

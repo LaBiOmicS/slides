@@ -39,3 +39,49 @@
 2. Quantificação de RNA
   - Qual é a concentração de RNAs?
   - Expressão genética absoluta (dentro da amostra), Expressão diferencial (entre amostras biológicas)
+
+====
+
+## Como analisar os dados de RNA-seq para quantificação de RNA?
+
+====
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/transcriptoma4.png
+
+====
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/transcriptoma5.png
+
+====
+
+## Pré-processamento dos Dados
+
+1. Remoção dos adaptadores de seqüenciamento
+2. Corte de qualidade para remover bases de baixa qualidade e chamadas incorretamente
+
+====
+
+## Montagem do Transcriptoma
+
+- 3 principais estratégias para montagem:
+  - Mapeamento contra um transcriptoma de referência
+  - Mapeamento contra um genoma de referência
+  - Montagem de novo com posterior anotação
+  
+====
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/transcriptoma6.png
+
+====
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/transcriptoma7.png
+
+====

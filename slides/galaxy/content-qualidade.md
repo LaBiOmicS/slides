@@ -251,7 +251,7 @@ Primeira etapa das análises de bioinformática
 - Selecione o arquivo Webpage do FASTQC da primeira biblioteca em **Output of BAMtools**
 - Clique em **Insert Results** e selecione outro arquivo Webpage do FASTQC de outra biblioteca
 - Repita o processo até selecionar todos os arquivos
-- Preencha o campo **Report title** com um titulo para o relatório agregado
+- Preencha o campo **Report title** com um titulo
 - Clique em Execute.
 - Visualize o novo arquivo HTML do MultiQC
 

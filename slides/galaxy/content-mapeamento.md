@@ -34,7 +34,7 @@
 
 ![avatar][avatar]
 
-[avatar]: ../shared/img/map1.png
+[avatar]: ../shared/img/mapeamento1.png
 
 
 - A leitura pode se alinhar a vários lugares.
@@ -60,3 +60,15 @@
 
 - Como determinamos a melhor região?
   - Atribuir **pontuação de alinhamento** a cada mapeamento   
+
+====
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/match1.png
+
+====
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/match2.png

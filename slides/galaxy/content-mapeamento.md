@@ -212,7 +212,7 @@
 
 ## MÃO-NA-MASSA:
 
-### Alinhamento de Transcriptoma com Tophat e HISAT2
+### Alinhamento de Transcriptoma com HISAT2
 
 ====
 

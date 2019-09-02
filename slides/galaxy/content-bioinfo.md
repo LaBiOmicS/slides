@@ -6,6 +6,70 @@
 
 ====
 
+## Onde a Bioinformática pode ser utilizada nas Ciências da Conservação?
+
+====
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/slide13.png
+
+====
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/job1.png
+
+====
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/job2.png
+
+====
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/job3.png
+
+====
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/job4.png
+
+====
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/job5.png
+
+====
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/job6.png
+
+====
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/job7.png
+
+====
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/job8.png
+
+====
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/job9.png
+
+====
+
 ### Como podemos garantir que esses métodos sejam acessível aos pesquisadores?
 
 ====

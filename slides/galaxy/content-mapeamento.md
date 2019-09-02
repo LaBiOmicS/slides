@@ -167,6 +167,7 @@
 ## ETAPA 2:
 
 - Repita os passos acima para Arabidopsis e Drosophila.
+- Preste atenção nos arquivos Paired-End e Single-End.
 - Como ambos são organismos modelo, eles possuem os genomas de referência no servidor.
 - No campo **Will you select a reference genome from your history or use a built-in index?**, selecione **Use a built-in genome index**
 - Para Arabidopsis selecione o genoma TAIR10

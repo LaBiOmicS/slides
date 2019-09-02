@@ -248,7 +248,7 @@ Primeira etapa das análises de bioinformática
 - Troque para o History com os dados de Drosophila
 - Procure a ferramenta **MultiQC** através do menu
 - Selecione **FASTQC** no campo **Which tool was used generate logs?**
-- Selecione o arquivo Webpage do FASTQC da primeira biblioteca em **Output of BAMtools**
+- Selecione o arquivo Webpage do FASTQC da primeira biblioteca em **FastQC output**
 - Clique em **Insert Results** e selecione outro arquivo Webpage do FASTQC de outra biblioteca
 - Repita o processo até selecionar todos os arquivos
 - Preencha o campo **Report title** com um titulo

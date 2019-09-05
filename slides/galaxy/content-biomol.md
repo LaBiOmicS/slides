@@ -10,24 +10,6 @@
 
 ![avatar][avatar]
 
-[avatar]: ../shared/img/slide2.png
-
-====
-
-![avatar][avatar]
-
-[avatar]: ../shared/img/slide3.png
-
-====
-
-![avatar][avatar]
-
-[avatar]: ../shared/img/slide4.png
-
-====
-
-![avatar][avatar]
-
 [avatar]: ../shared/img/slide5.png
 
 ====

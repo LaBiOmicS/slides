@@ -40,12 +40,6 @@
 
 ![avatar][avatar]
 
-[avatar]: ../shared/img/slide10.png
-
-====
-
-![avatar][avatar]
-
 [avatar]: ../shared/img/slide11.png
 
 ====

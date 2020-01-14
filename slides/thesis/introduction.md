@@ -95,3 +95,8 @@ Dois problemas de
 >
 > <small>-- <cite>Claerbout, 1992</cite></small>
 
+====
+
+Um problema científico:
+
+## Crise de Reprodutibilidade

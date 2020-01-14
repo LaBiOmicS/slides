@@ -256,5 +256,5 @@ Tentativa de solucionar o problema:
 ## Benefício dos contêineres Docker
 
 - Velocidade: não necessita de boot de um SO convidado.
-- Portabilidade: menos dependências entre as camadas de processo.
-- Eficiência: menos sobrecarga de SO e densidade de VM melhorada.
+- Portabilidade: menos dependências entre as camadas.
+- Eficiência: menos sobrecarga de SO e melhor densidade.

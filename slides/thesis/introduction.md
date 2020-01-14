@@ -217,7 +217,7 @@ Tentativa de solucionar o problema:
 - Elevados custos de infraestrutura computacional.
 - Baixa escalabilidade.
 - Dificuldades de implementação.
-- Elevados consumos de recursos computacionais.
+- Elevado consumo de recursos computacionais.
 
 ====
 

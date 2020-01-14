@@ -79,8 +79,21 @@ Dois problemas de
 
 ====
 
+## Outras terminologias:
+
+- Reprodutibilidade empírica
+- Reprodutibilidade estatística
+- Reprodutibilidade computacional
+
+====
+
 Definição de:
 
 ## Terminologia
 
 ====
+
+> “O principal objetivo das publicações científicas é ensinar novos conceitos, mostrar as implicações resultantes desses conceitos em uma ilustração e fornecer detalhes suficientes para tornar o trabalho reprodutível”
+>
+> <small>-- <cite>Claerbout, 1992</cite></small>
+

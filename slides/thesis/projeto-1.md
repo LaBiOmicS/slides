@@ -73,13 +73,13 @@ doi: https://doi.org/10.1093/bioinformatics/btx554
 
 ## Estudo de Caso: CirComPara
 
-<img src="img/circ.png" width="80%" height="80%" style="background:none; border:none; box-shadow:none;">
+<img src="img/FIG28.png" width="80%" height="80%" style="background:none; border:none; box-shadow:none;">
 
 ====
 
 ## Teste de Reprodutibilidade do CirComPara
 
-<img src="img/circrep.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
+<img src="img/FIG29.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
 
 ====
 

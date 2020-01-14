@@ -127,3 +127,11 @@ Em 2016...
 <img src="img/FIG7.png" width="300%" height="300%" style="background:none; border:none; box-shadow:none;">
 
 ====
+
+<img src="img/FIG8.png" width="300%" height="300%" style="background:none; border:none; box-shadow:none;">
+
+====
+
+Crise de
+
+# Reprodutibilidade Computacional

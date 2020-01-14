@@ -6,7 +6,8 @@
 - Justificativa.
 - Objetivos.
 - Metodologia.
-- Dugong.
-- BioPortainer.
-- ParaDB.
+- Ferramentas desenvolvidas:
+  - Dugong.
+  - BioPortainer.
+  - ParaDB.
 - Conclusões.

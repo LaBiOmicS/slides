@@ -232,4 +232,4 @@ Tentativa de solucionar o problema:
 
 ## Docker
 
-> * "Docker é uma plataforma open source usada para construir, executar e distribuir ambientes através da tecnologia de virtualização por software."*
+> *"Docker é uma plataforma open source usada para construir, executar e distribuir ambientes através da tecnologia de virtualização por software."*

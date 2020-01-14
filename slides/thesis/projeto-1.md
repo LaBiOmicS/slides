@@ -67,6 +67,10 @@ doi: https://doi.org/10.1093/bioinformatics/btx554
 
 ====
 
+## Discussão
+
+====
+
 ### Comparação do Dugong com outros serviços de virtualização por hardware
 
 <img src="img/FIG26.png" width="80%" height="80%" style="background:none; border:none; box-shadow:none;">

@@ -81,17 +81,15 @@ Dois problemas de
 
 ## Outras terminologias:
 
-<p class="fragment" data-fragment-index="1">- Reprodutibilidade empírica</p>
-<p class="fragment" data-fragment-index="2">- Reprodutibilidade estatística</p>
-<p class="fragment" data-fragment-index="3">- Reprodutibilidade computacional</p>
-
-====
-
-<span class="fragment fade-in">
-	<span class="fragment fade-out">
-  - Reprodutibilidade empírica
-  </span>
-</span>
+<p class="fragment" data-fragment-index="1">
+- Reprodutibilidade empírica
+</p>
+<p class="fragment" data-fragment-index="2">
+- Reprodutibilidade estatística
+</p>
+<p class="fragment" data-fragment-index="3">
+- Reprodutibilidade computacional
+</p>
 
 ====
 

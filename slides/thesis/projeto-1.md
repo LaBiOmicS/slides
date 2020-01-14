@@ -18,7 +18,7 @@ doi: https://doi.org/10.1093/bioinformatics/btx554
 
 ## Características do Dugong
 
-<img src="img/FIG19.png" width="80%" height="80%" style="background:none; border:none; box-shadow:none;">
+<img src="img/FIG19.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
 
 ====
 

@@ -166,3 +166,74 @@ Contribuição para a Crise:
 
 ====
 
+Tentativa de solucionar o problema:
+
+## Sistemas Operacionais Científicos
+
+====
+
+<img src="img/biolinux.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
+
+====
+
+<img src="img/dnalinux.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
+
+====
+
+## Problemas:
+
+- Difícil manutenção do SO.
+- Conhecimento avançado para o desenvolvimento.
+- Necessidade de uma comunidade de apoio.
+- Falta de compatibilidade com diferentes hardwares.
+
+====
+
+Tentativa de solucionar o problema:
+
+## Virtualização por Hardware
+
+<small> ou </small><br>
+<small> Virtualização por Hypervisor ou Clássica </small>
+
+====
+
+<img src="img/hypervisor.png" width="50%" height="50%" style="background:none; border:none; box-shadow:none;">
+
+====
+
+<img src="img/biolinux.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
+
+====
+
+<img src="img/dnalinux.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
+
+====
+
+<img src="img/clovr.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
+
+====
+
+<img src="img/cloudbio.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
+
+====
+
+## Problemas:
+
+- Elevados custos associados à infraestrutura computacional.
+- Baixa escalabilidade.
+- Dificuldades de implementação.
+- Elevados consumos de recursos computacionais.
+
+====
+
+Tentativa de solucionar o problema:
+
+## Virtualização por Software
+
+<small> ou </small><br>
+<small> Virtualização por Contêineres ou Leve </small>
+
+====
+
+<img src="img/container.png" width="50%" height="50%" style="background:none; border:none; box-shadow:none;">

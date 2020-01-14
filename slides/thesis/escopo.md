@@ -1,3 +1,4 @@
-## Objeto de Estudo
+Objeto de Estudo:
 
-Reprodutibilidade e Replicabilidade em Bioinformática
+## Reprodutibilidade e Replicabilidade 
+## na Bioinformática e na Biologia Computacional

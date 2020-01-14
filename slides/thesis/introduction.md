@@ -57,7 +57,7 @@ Mas afinal,
 
 Dois problemas de 
 
-## Nomenclatura (Definição)
+# Nomenclatura
 
 ====
 
@@ -99,4 +99,5 @@ Dois problemas de
 
 Um problema científico:
 
-## Crise de Reprodutibilidade
+# Crise de 
+# Reprodutibilidade

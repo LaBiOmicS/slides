@@ -226,7 +226,7 @@ Tentativa de solucionar o problema:
 
 ====
 
-<img src="img/FIG15.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
+<img src="img/FIG15.png" width="70%" height="70%" style="background:none; border:none; box-shadow:none;">
 
 ====
 

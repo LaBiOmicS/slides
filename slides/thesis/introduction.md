@@ -141,3 +141,21 @@ Crise de
 Contribuição para a Crise:
 
 ## Aumento das análises computacionais
+
+====
+
+## Principais causas
+
+- Tarefas intensivas e extremamente complexas, além de multifacetadas.
+- Crescente quantidade de dados biológicos e softwares.
+- Sistemas de gerenciamento de fluxo de trabalho complexos. 
+- Diferentes padrões e formatos de arquivos. 
+- Conjuntos de dados heterogêneos.
+
+====
+
+> *"Irreprodutibilidade é a configuração padrão para toda a ciência, e a pesquisa irreprodutível é **particularmente comum nas ciências computacionais**."*
+>
+> <small><cite>Hong *et al.* (2015). Top Tips to Make Your Research Irreproducible. arXiv. https://arxiv.org/abs/1504.00062 </cite></small>
+
+====

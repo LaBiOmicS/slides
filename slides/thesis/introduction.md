@@ -13,3 +13,9 @@
 > <small>-- <cite>Subcomitê para a Replicabilidade da Ciência da U.S. National Science Foundation (NSF)</cite></small>
 
 ====
+
+Bases Fundamentais da:
+
+# Metodologia Científica
+
+====

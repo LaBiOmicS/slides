@@ -80,7 +80,7 @@ Dois problemas de
 ====
 
 ## Outras terminologias:
-
+<br>
 <p class="fragment" data-fragment-index="1">- Reprodutibilidade empírica</p>
 <p class="fragment" data-fragment-index="2">- Reprodutibilidade estatística</p>
 <p class="fragment" data-fragment-index="3">- Reprodutibilidade computacional</p>
@@ -151,7 +151,7 @@ Contribuição para a Crise:
 ====
 
 ## Principais causas
-
+<br>
 <p class="fragment" data-fragment-index="1">- Tarefas intensivas e extremamente complexas.</p>
 <p class="fragment" data-fragment-index="2">- Crescente quantidade de dados biológicos e softwares.</p>
 <p class="fragment" data-fragment-index="3">- Sistemas de gerenciamento de pipelines complexos.</p>
@@ -175,7 +175,7 @@ Tentativa de solucionar o problema:
 ====
 
 ## Problemas:
-
+<br>
 <p class="fragment" data-fragment-index="1">- Difícil manutenção do SO.</p>
 <p class="fragment" data-fragment-index="2">- Conhecimento avançado para o desenvolvimento.</p>
 <p class="fragment" data-fragment-index="3">- Necessidade de uma comunidade de apoio.</p>
@@ -209,7 +209,7 @@ Tentativa de solucionar o problema:
 ====
 
 ## Problemas:
-
+<br>
 <p class="fragment" data-fragment-index="1">- Elevados custos de infraestrutura computacional.</p>
 <p class="fragment" data-fragment-index="2">- Baixa escalabilidade.</p>
 <p class="fragment" data-fragment-index="3">- Dificuldades de implementação.</p>
@@ -241,7 +241,7 @@ Tentativa de solucionar o problema:
 ====
 
 ## Limitações das VMs
-
+<br>
 <p class="fragment" data-fragment-index="1">
 - Cada VM requer: (1) Alocação de CPU; (2) Armazenamento; (3) RAM; (4) SO convidado. <br>
  </p> 
@@ -252,7 +252,7 @@ Tentativa de solucionar o problema:
 ====
 
 ## Benefício dos contêineres Docker
-
+<br>
 <p class="fragment" data-fragment-index="1">- **Velocidade:** não necessita de boot de um SO convidado.</p>
 <p class="fragment" data-fragment-index="2">- **Portabilidade:** menos dependências entre as camadas.</p>
 <p class="fragment" data-fragment-index="3">- **Eficiência:** menos sobrecarga de SO e melhor densidade.</p>

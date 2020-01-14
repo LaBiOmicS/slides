@@ -144,6 +144,12 @@ Contribuição para a Crise:
 
 ====
 
+> *"Irreprodutibilidade é a configuração padrão para toda a ciência, e a pesquisa irreprodutível é **particularmente comum nas ciências computacionais**."*
+>
+> <small><cite>Hong *et al.* (2015). Top Tips to Make Your Research Irreproducible. arXiv. https://arxiv.org/abs/1504.00062 </cite></small>
+
+====
+
 ## Principais causas
 
 - Tarefas intensivas e extremamente complexas.
@@ -154,8 +160,4 @@ Contribuição para a Crise:
 
 ====
 
-> *"Irreprodutibilidade é a configuração padrão para toda a ciência, e a pesquisa irreprodutível é **particularmente comum nas ciências computacionais**."*
->
-> <small><cite>Hong *et al.* (2015). Top Tips to Make Your Research Irreproducible. arXiv. https://arxiv.org/abs/1504.00062 </cite></small>
 
-====

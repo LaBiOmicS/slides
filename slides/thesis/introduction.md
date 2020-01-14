@@ -4,6 +4,12 @@ Bases Fundamentais da:
 
 ====
 
+Pilares Metodológicos das:
+
+# Pesquisas Experimentais
+
+====
+
 ## Reprodutibilidade
 
 > “[...] a capacidade de um pesquisador duplicar os resultados de um estudo anterior **usando os mesmos dados utilizados pela equipe original**”

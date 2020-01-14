@@ -37,37 +37,37 @@ doi: https://doi.org/10.1093/bioinformatics/btx554
 
 ## Web Terminal
 
-<img src="img/webterminal.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
+<img src="img/FIG22.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
 
 ====
 
 ## Repositório BioConda
 
-<img src="img/bioconda.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
+<img src="img/FIG23.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
 
 ====
 
 ## Anaconda Navigator
 
-<img src="img/anaconda.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
+<img src="img/FIG24.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
 
 ====
 
 ## Jupyter Notebook
 
-<img src="img/Jupyter.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
+<img src="img/FIG25.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
 
 ====
 
 ### Comparação do Dugong com outros serviços de virtualização por hardware
 
-<img src="img/compare1.png" width="80%" height="80%" style="background:none; border:none; box-shadow:none;">
+<img src="img/FIG26.png" width="80%" height="80%" style="background:none; border:none; box-shadow:none;">
 
 ====
 
 ### Comparação do Dugong com outros serviços de virtualização por contêiner
 
-<img src="img/compare2.png" width="80%" height="80%" style="background:none; border:none; box-shadow:none;">
+<img src="img/FIG27.png" width="80%" height="80%" style="background:none; border:none; box-shadow:none;">
 
 ====
 

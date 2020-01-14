@@ -64,3 +64,9 @@ Dois problemas de
 <img src="img/FIG1.png" width="80%" height="80%" style="background:none; border:3; box-shadow:5;">
 
 > <small>-- <cite>Barba, 2018</cite> </small>
+
+====
+
+<img src="img/FIG2.png" width="80%" height="80%" style="background:none; border:3; box-shadow:5;">
+
+> <small>-- <cite>Barba, 2018</cite> </small>

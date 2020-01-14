@@ -12,11 +12,6 @@ doi: https://doi.org/10.1093/bioinformatics/btx554
 
 ====
 
-## Objetivo
-
-- Introduz o conceito de Área de Trabalho como Serviço (do inglês, Desktop-as-a-Service, ou DaaS). <br>
-- Auxiliar pesquisadores na instalação e execução de uma grande variedade de ferramentas de bioinformática.
-
 ====
 
 <img src="img/dugongo.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">

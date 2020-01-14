@@ -101,3 +101,13 @@ Um problema científico:
 
 # Crise de 
 # Reprodutibilidade
+
+====
+
+Em 2016...
+
+> *"Mais de 70% dos pesquisadores tentaram e não conseguiram reproduzir os experimentos de outros cientistas, e mais da metade não conseguiu reproduzir seus próprios experimentos."*
+>
+> <cite><small>-- Baker, M. (2016). 1,500 Scientists Lift the Lid on Reproducibility. Nature 533 (7604):452–54. https://doi.org/10.1038/533452a</small></cite>
+
+====

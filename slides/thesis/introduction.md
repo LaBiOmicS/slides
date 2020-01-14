@@ -87,6 +87,14 @@ Dois problemas de
 
 ====
 
+<span class="fragment fade-in">
+	<span class="fragment fade-out">
+  - Reprodutibilidade empírica
+  </span>
+</span>
+
+====
+
 ## Terminologia para esse trabalho
 
 ====

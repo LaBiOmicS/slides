@@ -8,32 +8,32 @@ doi: https://doi.org/10.1093/bioinformatics/btx554
 
 ====
 
-<img src="img/Fig1.png" style="background:none; border:none; box-shadow:none;">
+<img src="img/FIG17.png" style="background:none; border:none; box-shadow:none;">
 
 ====
 
 ====
 
-<img src="img/dugongo.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
+<img src="img/FIG18.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
 
 ====
 
 ## Características do Dugong
 
-<img src="img/dugong1.png" width="80%" height="80%" style="background:none; border:none; box-shadow:none;">
+<img src="img/FIG19.png" width="80%" height="80%" style="background:none; border:none; box-shadow:none;">
 
 ====
 
 ## XFCE4
 
-<img src="img/xfce.png" width="80%" height="80%" style="background:none; border:none; box-shadow:none;">
+<img src="img/FIG20.png" width="80%" height="80%" style="background:none; border:none; box-shadow:none;">
 
 
 ====
 
 ## VNC
 
-<img src="img/vnc.png" width="80%" height="80%" style="background:none; border:none; box-shadow:none;">
+<img src="img/FIG21.png" width="80%" height="80%" style="background:none; border:none; box-shadow:none;">
 
 ====
 

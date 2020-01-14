@@ -14,9 +14,7 @@ doi: https://doi.org/10.1093/bioinformatics/btx554
 
 ## Objetivo
 
-====
-
-> *Desenvolver uma área de trabalho virtual (*Desktop-as-a-Service, ou DaaS*) que possibilite a execução de uma grande variedade de análises de bioinformática, de maneira reprodutível , por usuários com baixa ou nenhuma experiência com a linha de comando.*
+<p class="fragment" data-fragment-index="1">*Desenvolver uma área de trabalho virtual (*Desktop-as-a-Service, ou DaaS*) que possibilite a execução de uma grande variedade de análises de bioinformática, de maneira reprodutível , por usuários com baixa ou nenhuma experiência com a linha de comando.*</p>
 
 ====
 

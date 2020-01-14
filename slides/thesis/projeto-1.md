@@ -90,10 +90,6 @@ doi: https://doi.org/10.1093/bioinformatics/btx554
 
 ====
 
-<iframe width="760" height="515" src="https://www.youtube.com/embed/lk92Jj7JDiI?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-====
-
 ## Conclusão
 
 - Esforço pioneiro na implementação de um *DaaS*.

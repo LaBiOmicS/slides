@@ -11,4 +11,4 @@ doi: https://doi.org/10.1371/journal.pntd.0007576
 
 ====
 
-<img src="img/Fig3.png" style="background:none; border:none; box-shadow:none;">
+<img src="img/FIG32.png" style="background:none; border:none; box-shadow:none;">

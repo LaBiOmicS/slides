@@ -14,7 +14,7 @@
 
 ====
 
-> *Implementar o modelo *Anything-as-a-Service (XaaS)* durante o desenvolvimento das plataformas, as tornando compatíveis com diferentes metodologias de Computação em Nuvem.* 
+> *Implementar o modelo Tudo como um Serviço (*Anything-as-a-Service, XaaS*) durante o desenvolvimento das plataformas, as tornando compatíveis com diferentes metodologias de Computação em Nuvem.* 
 
 ====
 

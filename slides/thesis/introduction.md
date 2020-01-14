@@ -233,3 +233,8 @@ Tentativa de solucionar o problema:
 ## Docker
 
 > *"Docker é uma plataforma open source usada para construir, executar e distribuir ambientes através da tecnologia de virtualização por software."*
+
+====
+
+<img src="img/FIG16.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
+

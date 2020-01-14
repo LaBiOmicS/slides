@@ -160,4 +160,9 @@ Contribuição para a Crise:
 
 ====
 
+## E...
+
+> "pouco estudos tem se preocupado em registrar as etapas de suas pesquisas em detalhes suficientes para que outros possam reproduzir os ambientes, além dos resultados associados."
+
+====
 

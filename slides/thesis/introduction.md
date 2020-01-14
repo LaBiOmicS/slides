@@ -81,15 +81,9 @@ Dois problemas de
 
 ## Outras terminologias:
 
-<p class="fragment" data-fragment-index="1">
-- Reprodutibilidade empírica
-</p>
-<p class="fragment" data-fragment-index="2">
-- Reprodutibilidade estatística
-</p>
-<p class="fragment" data-fragment-index="3">
-- Reprodutibilidade computacional
-</p>
+<p class="fragment" data-fragment-index="1">- Reprodutibilidade empírica</p>
+<p class="fragment" data-fragment-index="2">- Reprodutibilidade estatística</p>
+<p class="fragment" data-fragment-index="3">- Reprodutibilidade computacional</p>
 
 ====
 
@@ -158,11 +152,11 @@ Contribuição para a Crise:
 
 ## Principais causas
 
-- Tarefas intensivas e extremamente complexas.
-- Crescente quantidade de dados biológicos e softwares.
-- Sistemas de gerenciamento de pipelines complexos. 
-- Diferentes padrões e formatos de arquivos. 
-- Conjuntos de dados heterogêneos.
+<p class="fragment" data-fragment-index="1">- Tarefas intensivas e extremamente complexas.</p>
+<p class="fragment" data-fragment-index="2">- Crescente quantidade de dados biológicos e softwares.</p>
+<p class="fragment" data-fragment-index="3">- Sistemas de gerenciamento de pipelines complexos.</p>
+<p class="fragment" data-fragment-index="4">- Diferentes padrões e formatos de arquivos.</p>
+<p class="fragment" data-fragment-index="5">- Conjuntos de dados heterogêneos.</p>
 
 ====
 
@@ -182,10 +176,10 @@ Tentativa de solucionar o problema:
 
 ## Problemas:
 
-- Difícil manutenção do SO.
-- Conhecimento avançado para o desenvolvimento.
-- Necessidade de uma comunidade de apoio.
-- Falta de compatibilidade com diferentes hardwares.
+<p class="fragment" data-fragment-index="1">- Difícil manutenção do SO.</p>
+<p class="fragment" data-fragment-index="2">- Conhecimento avançado para o desenvolvimento.</p>
+<p class="fragment" data-fragment-index="3">- Necessidade de uma comunidade de apoio.</p>
+<p class="fragment" data-fragment-index="4">- Falta de compatibilidade com diferentes hardwares.</p>
 
 ====
 

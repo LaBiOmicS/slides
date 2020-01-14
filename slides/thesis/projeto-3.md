@@ -17,4 +17,4 @@ doi: https://doi.org/10.1371/journal.pntd.0007576
 
 # Objetivo
 
-<p class="fragment" data-fragment-index="1">*Desenvolver uma plataforma virtual (*Platform-as-a-Service, ou PaaS*) capaz de aprimorar o desempenho de ambientes de virtualização Docker em diferentes níveis e camadas computacionais (infraestrutura, plataforma e aplicação).*</p>
+<p class="fragment" data-fragment-index="1">*Desenvolver um banco de dados virtual (Database-as-a-Service, ou DbaaS) como uma estratégia para garantir o armazenamento perene e reprodutível de dados genômicos à comunidade científica.*</p>

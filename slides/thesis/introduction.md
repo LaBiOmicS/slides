@@ -81,9 +81,9 @@ Dois problemas de
 
 ## Outras terminologias:
 
-- Reprodutibilidade empírica
-- Reprodutibilidade estatística
-- Reprodutibilidade computacional
+<p class="fragment" data-fragment-index="1">- Reprodutibilidade empírica</p>
+<p class="fragment" data-fragment-index="2">- Reprodutibilidade estatística</p>
+<p class="fragment" data-fragment-index="3">- Reprodutibilidade computacional</p>
 
 ====
 

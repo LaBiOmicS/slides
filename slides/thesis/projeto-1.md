@@ -8,6 +8,14 @@ doi: https://doi.org/10.1093/bioinformatics/btx554
 
 ====
 
+## Objetivo
+
+====
+
+
+
+====
+
 <img src="img/FIG17.png" style="background:none; border:none; box-shadow:none;">
 
 ====

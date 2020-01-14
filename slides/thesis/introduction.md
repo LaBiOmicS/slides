@@ -1,12 +1,21 @@
 Bases Fundamentais da:
 
-# Metodologia Científica
+# Metodologia 
+# Científica
 
 ====
 
 Pilares Metodológicos das:
 
-# Pesquisas Experimentais
+# Pesquisas 
+# Experimentais
+
+====
+
+Diretamente associados as:
+
+# Boas Práticas 
+# Científica
 
 ====
 

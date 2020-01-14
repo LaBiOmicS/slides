@@ -111,6 +111,7 @@ Em 2016...
 > <cite><small>-- Baker, M. (2016). 1,500 Scientists Lift the Lid on Reproducibility. Nature 533 (7604):452–54. https://doi.org/10.1038/533452a</small></cite>
 
 ====
+
 <img src="img/FIG4.png" width="70%" height="70%" style="background:none; border:none; box-shadow:none;">
 
 ====

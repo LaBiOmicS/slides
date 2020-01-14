@@ -192,10 +192,6 @@ Tentativa de solucionar o problema:
 
 ====
 
-<img src="img/FIG11.png" width="50%" height="50%" style="background:none; border:none; box-shadow:none;">
-
-====
-
 <img src="img/FIG9.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
 
 ====
@@ -229,5 +225,3 @@ Tentativa de solucionar o problema:
 <small> Virtualização por Contêineres ou Leve </small>
 
 ====
-
-<img src="img/FIG14.png" width="50%" height="50%" style="background:none; border:none; box-shadow:none;">

@@ -84,8 +84,8 @@ doi: https://doi.org/10.1093/bioinformatics/btx554
 ====
 
 ## Conclusão
-
-- Esforço pioneiro na implementação de um *DaaS*.
-- Preocupação com a usabilidade dos utilizadores.
-- Maior acervo de softwares de bioinformática.
-- Acréscimo importante para a comunidade científica.
+<br>
+<p class="fragment" data-fragment-index="1">- Esforço pioneiro na implementação de um *DaaS*.</p>
+<p class="fragment" data-fragment-index="2">- Preocupação com a usabilidade dos utilizadores.</p>
+<p class="fragment" data-fragment-index="3">- Maior acervo de softwares de bioinformática.</p>
+<p class="fragment" data-fragment-index="4">- Acréscimo importante para a comunidade científica.</p>

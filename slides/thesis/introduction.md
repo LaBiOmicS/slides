@@ -210,10 +210,10 @@ Tentativa de solucionar o problema:
 
 ## Problemas:
 
-- Elevados custos de infraestrutura computacional.
-- Baixa escalabilidade.
-- Dificuldades de implementação.
-- Elevado consumo de recursos computacionais.
+<p class="fragment" data-fragment-index="1">- Elevados custos de infraestrutura computacional.</p>
+<p class="fragment" data-fragment-index="2">- Baixa escalabilidade.</p>
+<p class="fragment" data-fragment-index="3">- Dificuldades de implementação.</p>
+<p class="fragment" data-fragment-index="4">- Elevado consumo de recursos computacionais.</p>
 
 ====
 
@@ -242,19 +242,22 @@ Tentativa de solucionar o problema:
 
 ## Limitações das VMs
 
+<p class="fragment" data-fragment-index="1">
+
 - Cada VM requer
   - alocação de CPU
   - Armazenamento
   - RAM
   - Um SO convidado completo
-- Quanto mais VMs você executa, mais recursos você precisa
-- SO convidado significa recursos desperdiçados
-- Portabilidade do aplicativo não garantida
+ </p> 
+<p class="fragment" data-fragment-index="2">- Quanto mais VMs você executa, mais recursos você precisa.</p>
+<p class="fragment" data-fragment-index="3">- SO convidado significa recursos desperdiçados.</p>
+<p class="fragment" data-fragment-index="4">- Portabilidade do aplicativo não garantida.</p>
 
 ====
 
 ## Benefício dos contêineres Docker
 
-- **Velocidade:** não necessita de boot de um SO convidado.
-- **Portabilidade:** menos dependências entre as camadas.
-- **Eficiência:** menos sobrecarga de SO e melhor densidade.
+<p class="fragment" data-fragment-index="1">- **Velocidade:** não necessita de boot de um SO convidado.</p>
+<p class="fragment" data-fragment-index="2">- **Portabilidade:** menos dependências entre as camadas.</p>
+<p class="fragment" data-fragment-index="3">- **Eficiência:** menos sobrecarga de SO e melhor densidade.</p>

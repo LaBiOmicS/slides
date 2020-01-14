@@ -241,10 +241,10 @@ Tentativa de solucionar o problema:
 ====
 
 - Cada VM requer
-     - alocação de CPU
-     - Armazenamento
-     - RAM
-     - Um SO convidado completo
+  - alocação de CPU
+  - Armazenamento
+  - RAM
+  - Um SO convidado completo
 - Quanto mais VMs você executa, mais recursos você precisa
 - SO convidado significa recursos desperdiçados
 - Portabilidade do aplicativo não garantida

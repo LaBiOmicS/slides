@@ -118,3 +118,7 @@ Em 2016...
 <img src="img/FIG5.png" width="70%" height="70%" style="background:none; border:3; box-shadow:5;">
 
 ====
+
+<img src="img/FIG6.png" width="70%" height="70%" style="background:none; border:3; box-shadow:5;">
+
+====

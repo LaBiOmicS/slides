@@ -148,7 +148,7 @@ Contribuição para a Crise:
 
 - Tarefas intensivas e extremamente complexas.
 - Crescente quantidade de dados biológicos e softwares.
-- Sistemas de gerenciamento de fluxo de trabalho complexos. 
+- Sistemas de gerenciamento de pipelines complexos. 
 - Diferentes padrões e formatos de arquivos. 
 - Conjuntos de dados heterogêneos.
 

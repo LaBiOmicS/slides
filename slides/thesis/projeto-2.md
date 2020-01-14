@@ -8,18 +8,16 @@ doi: https://doi.org/10.1093/gigascience/giz041
 
 ====
 
-<img src="img/Fig2.png" style="background:none; border:none; box-shadow:none;">
+<img src="img/FIG30.png" style="background:none; border:none; box-shadow:none;">
 
 ====
 
 ## Objetivo
 
-- Introduzir os conceito de IaaS, PaaS e SaaS.
-- Fornecer uma aplicação baseado em interface gráfica para fácil implementação e administração de recursos baseados no Docker.
-- Permitir a execução e gerenciamento de pipelines complexas através do Nextflow em contêineres Docker.
+<p class="fragment" data-fragment-index="1">*Desenvolver uma plataforma virtual (*Platform-as-a-Service, ou PaaS*) capaz de aprimorar o desempenho de ambientes de virtualização Docker em diferentes níveis e camadas computacionais (infraestrutura, plataforma e aplicação).*</p>
 
 ====
 
-<img src="img/bioportainer.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
+<img src="img/FIG31.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
 
 ====

@@ -146,7 +146,7 @@ Contribuição para a Crise:
 
 ## Principais causas
 
-- Tarefas intensivas e extremamente complexas, além de multifacetadas.
+- Tarefas intensivas e extremamente complexas.
 - Crescente quantidade de dados biológicos e softwares.
 - Sistemas de gerenciamento de fluxo de trabalho complexos. 
 - Diferentes padrões e formatos de arquivos. 

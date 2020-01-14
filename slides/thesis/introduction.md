@@ -135,3 +135,9 @@ Em 2016...
 Crise de
 
 # Reprodutibilidade Computacional
+
+====
+
+Contribuição para a Crise:
+
+## Aumento das análises computacionais

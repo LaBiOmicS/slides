@@ -240,6 +240,8 @@ Tentativa de solucionar o problema:
 
 ====
 
+## Limitações das VMs
+
 - Cada VM requer
   - alocação de CPU
   - Armazenamento

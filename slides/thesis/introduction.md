@@ -238,3 +238,15 @@ Tentativa de solucionar o problema:
 
 <img src="img/FIG16.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
 
+====
+
+- Cada VM requer
+     - alocação de CPU
+     - Armazenamento
+     - RAM
+     - Um SO convidado completo
+- Quanto mais VMs você executa, mais recursos você precisa
+- SO convidado significa recursos desperdiçados
+- Portabilidade do aplicativo não garantida
+
+====

@@ -160,23 +160,17 @@ Contribuição para a Crise:
 
 ====
 
-## E...
-
-> "pouco estudos tem se preocupado em registrar as etapas de suas pesquisas em detalhes suficientes para que outros possam reproduzir os ambientes, além dos resultados associados."
-
-====
-
 Tentativa de solucionar o problema:
 
 ## Sistemas Operacionais Científicos
 
 ====
 
-<img src="img/biolinux.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
+<img src="img/FIG9.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
 
 ====
 
-<img src="img/dnalinux.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
+<img src="img/FIG10.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
 
 ====
 
@@ -198,23 +192,23 @@ Tentativa de solucionar o problema:
 
 ====
 
-<img src="img/hypervisor.png" width="50%" height="50%" style="background:none; border:none; box-shadow:none;">
+<img src="img/FIG11.png" width="50%" height="50%" style="background:none; border:none; box-shadow:none;">
 
 ====
 
-<img src="img/biolinux.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
+<img src="img/FIG9.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
 
 ====
 
-<img src="img/dnalinux.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
+<img src="img/FIG10.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
 
 ====
 
-<img src="img/clovr.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
+<img src="img/FIG12.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
 
 ====
 
-<img src="img/cloudbio.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
+<img src="img/FIG13.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
 
 ====
 
@@ -236,4 +230,4 @@ Tentativa de solucionar o problema:
 
 ====
 
-<img src="img/container.png" width="50%" height="50%" style="background:none; border:none; box-shadow:none;">
+<img src="img/FIG14.png" width="50%" height="50%" style="background:none; border:none; box-shadow:none;">

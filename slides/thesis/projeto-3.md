@@ -12,3 +12,9 @@ doi: https://doi.org/10.1371/journal.pntd.0007576
 ====
 
 <img src="img/FIG32.png" style="background:none; border:none; box-shadow:none;">
+
+====
+
+# Objetivo
+
+<p class="fragment" data-fragment-index="1">*Desenvolver uma plataforma virtual (*Platform-as-a-Service, ou PaaS*) capaz de aprimorar o desempenho de ambientes de virtualização Docker em diferentes níveis e camadas computacionais (infraestrutura, plataforma e aplicação).*</p>

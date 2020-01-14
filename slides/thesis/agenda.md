@@ -1,6 +1,4 @@
-# Agenda
-
-====
+## Agenda
 
 - Objeto de estudo.
 - Escopo do estudo.

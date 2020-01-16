@@ -77,8 +77,8 @@ Dois problemas de
 
 - **Grupo A:**
 - **Grupo B:**
- - **Grupo B1:**
- - **Grupo B2:** 
+  - **Grupo B1:**
+  - **Grupo B2:** 
 
 ====
 

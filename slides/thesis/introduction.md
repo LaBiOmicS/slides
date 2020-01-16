@@ -79,6 +79,12 @@ Dois problemas de
 
 ====
 
+<img src="img/FIG1.png" width="80%" height="80%" style="background:none; border:3; box-shadow:5;">
+
+> <small>-- <cite>Barba, 2018</cite> </small>
+
+====
+
 - **Grupo A:** autores não diferenciavam Reprodutibilidade e Replicabilidade.
 - **Grupo B:** autores diferenciavam Reprodutibilidade e Replicabilidade.
   - **Grupo B1:** 
@@ -87,12 +93,6 @@ Dois problemas de
   - **Grupo B2:**
     - **Reprodutibilidade:** novos dados e/ou novos métodos em um estudo independente = mesmas descobertas
     - **Replicabilidade:** mesmos dados + mesmos métodos = mesmos resultados
-
-====
-
-<img src="img/FIG1.png" width="80%" height="80%" style="background:none; border:3; box-shadow:5;">
-
-> <small>-- <cite>Barba, 2018</cite> </small>
 
 ====
 

@@ -102,20 +102,6 @@ Dois problemas de
 
 ====
 
-<img src="img/FIG3.png" width="80%" height="80%" style="background:none; border:3; box-shadow:5;">
-
-> <small>-- <cite>Plesser, 2018</cite> </small>
-
-====
-
-## Outras terminologias:
-<br>
-<p class="fragment" data-fragment-index="1">- Reprodutibilidade empírica</p>
-<p class="fragment" data-fragment-index="2">- Reprodutibilidade estatística</p>
-<p class="fragment" data-fragment-index="3">- Reprodutibilidade computacional</p>
-
-====
-
 ## Terminologia para esse trabalho
 
 ====

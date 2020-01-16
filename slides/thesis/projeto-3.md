@@ -26,8 +26,28 @@ doi: https://doi.org/10.1371/journal.pntd.0007576
 
 ## Plano de Fundo (continuação):
 
-<p class="fragment" align="justify" data-fragment-index="7"> - Em 2015, o banco de dados do Broad Institute foi descontinuado.</p>
-<p class="fragment" align="justify" data-fragment-index="7"> - Sequenciamento do genoma de 2 novos isolados (PbCNH e Pb300).</p>
-<p class="fragment" align="justify" data-fragment-index="8"> - Dados funcionais foram distribuídos entre os bancos de dados genéricos Genbank/RefSeq e Ensembl, além dos bancos de dados especializados em fungos FungiDB e MycoCosm. </p>
+<p class="fragment" align="justify" data-fragment-index="1"> - Em 2015, o banco de dados do Broad Institute foi descontinuado.</p>
+<p class="fragment" align="justify" data-fragment-index="2"> - Sequenciamento do genoma de 2 novos isolados (PbCNH e Pb300).</p>
+<p class="fragment" align="justify" data-fragment-index="3"> - Dados funcionais foram distribuídos entre os bancos de dados genéricos Genbank/RefSeq e Ensembl, além dos bancos de dados especializados em fungos FungiDB e MycoCosm. </p>
+<p class="fragment" align="justify" data-fragment-index="4"> - Bancos de Dados exibem versões diferentes dos genomas. </p>
+
+====
+
+## Plano de Fundo (continuação):
+
+<p class="fragment" align="justify" data-fragment-index="1"> - Anotações exibem até ~88% de proteínas descritas como hipotéticas.</p>
+<p class="fragment" align="justify" data-fragment-index="2"> - Esses dados inviabilizam a utilização das anotações para estudos funcionais.</p>
+
+====
+
+<img src="img/FIG49.png" style="background:none; border:none; box-shadow:none;">
+
+====
+
+<img src="img/FIG50.jpg" style="background:none; border:none; box-shadow:none;">
+
+====
+
+<img src="img/FIG51.png" style="background:none; border:none; box-shadow:none;">
 
 ====

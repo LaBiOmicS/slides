@@ -86,4 +86,52 @@ doi: https://doi.org/10.1093/gigascience/giz041
 
 ====
 
+## BioPortainer Console
+
+> Acesso facilitado através de um console de terminal pela interface do BioPortainer Panel.
+
+====
+
+<img src="img/FIG42.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
+
+====
+
+## BioPortainer Job Runner
+
+> Interface para execução de scripts utilizando uma imagem Docker de preferência e contêinerização dos resultados.
+
+====
+
+<img src="img/FIG43.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
+
+====
+
+## BioPortainer GUI-Runner
+
+> Interface Web para ferramntas de linha de comando através de um formulário JSON.
+>
+> Apresenta mais de 109 ferramentas de bioinformática já configuradas.
+
+====
+
+<img src="img/FIG44.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
+
+====
+
+## BioPortainer Pipeline Runner
+
+> Interface Web baseada no BioPortainer GUI-Runner para execução de fluxos de trabalho do Nextflow. Também possibilita a execução através do Jupyter Notebook. Baseada no conceito de Docker-in-Docker.
+>
+> Permite a utilização de mais de 80 fluxos de trabalho desenvolvidos e disponibilizados pela comunidade de usuários do Nextflow.
+
+====
+
+<img src="img/FIG45.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
+
+====
+
+<img src="img/FIG46.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
+
+====
+
 # Conclusão

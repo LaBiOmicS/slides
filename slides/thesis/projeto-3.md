@@ -70,22 +70,22 @@ baseado em contêineres Docker
 
 ====
 
-<img src="img/FIG53.jpg" style="background:none; border:none; box-shadow:none;">
+<img src="img/FIG53.png" style="background:none; border:none; box-shadow:none;">
 
 ====
 
-<img src="img/FIG54.jpg" style="background:none; border:none; box-shadow:none;">
+<img src="img/FIG54.png" style="background:none; border:none; box-shadow:none;">
 
 ====
 
-<img src="img/FIG55.jpg" style="background:none; border:none; box-shadow:none;">
+<img src="img/FIG55.png" style="background:none; border:none; box-shadow:none;">
 
 ====
 
-<img src="img/FIG56.jpg" style="background:none; border:none; box-shadow:none;">
+<img src="img/FIG56.png" style="background:none; border:none; box-shadow:none;">
 
 ====
 
-<img src="img/FIG57.jpg" style="background:none; border:none; box-shadow:none;">
+<img src="img/FIG57.png" style="background:none; border:none; box-shadow:none;">
 
 ====

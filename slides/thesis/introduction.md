@@ -75,6 +75,10 @@ Dois problemas de
 
 ====
 
+<img src="img/FIG34.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
+
+====
+
 - **Grupo A:**
 - **Grupo B:**
   - **Grupo B1:**

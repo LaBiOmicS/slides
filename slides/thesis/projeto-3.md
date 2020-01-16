@@ -9,6 +9,8 @@ doi: https://doi.org/10.1371/journal.pntd.0007576
 
 <small>¹ Considerar primeiros autores do trabalho por contribuirem igualmente para sua realização.</small>
 
+> <small> **OBJETIVO:** *Desenvolver um banco de dados virtual (Database-as-a-Service, ou DbaaS) como uma estratégia para garantir o armazenamento perene e reprodutível de dados genômicos à comunidade científica.* </small>
+
 ====
 
 <img src="img/FIG32.png" style="background:none; border:none; box-shadow:none;">

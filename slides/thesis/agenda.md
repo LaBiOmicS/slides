@@ -1,7 +1,7 @@
 ## Agenda
 
 - Objeto de Estudo.
-- Contexto e Fundamentação Teórica.
+- Contextualização e Fundamentação Teórica.
 - Objetivos.
 - Metodologia.
 - Ferramentas Desenvolvidas:

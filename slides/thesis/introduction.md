@@ -110,7 +110,7 @@ Dois problemas de
 
 </p>
 
-<p class="fragment" data-fragment-index="1">
+<p class="fragment" data-fragment-index="2">
 
 > **Replicabilidade:** *“[...] a capacidade de um pesquisador de duplicar os resultados de um estudo anterior se **os mesmos procedimentos forem seguidos, mas novos dados forem coletados**”*
 

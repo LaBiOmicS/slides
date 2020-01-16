@@ -137,6 +137,10 @@ doi: https://doi.org/10.1093/gigascience/giz041
 
 ====
 
+<img src="img/FIG47.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
+
+====
+
 ## Fluxos de Trabalho Nextflow
 
 > Permite a utilização de mais de 80 fluxos de trabalho desenvolvidos e disponibilizados pela comunidade de usuários do Nextflow.

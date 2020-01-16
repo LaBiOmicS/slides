@@ -346,3 +346,4 @@ Nova estratégia computacional:
 Uma solução para Reprodutibilidade e Replicabilidade:
 
 # Contêineres Docker
+em conjunto com os modelos de Computação em Nuvem

@@ -116,13 +116,6 @@ Dois problemas de
 > **Replicabilidade:** *“[...] a capacidade de um pesquisador de duplicar os resultados de um estudo anterior se **os mesmos procedimentos forem seguidos, mas novos dados forem coletados**”*
 </p>
 
-
-====
-
-> *“O principal objetivo das publicações científicas é ensinar novos conceitos, mostrar as implicações resultantes desses conceitos em uma ilustração e fornecer detalhes suficientes para tornar o trabalho reprodutível.”*
->
-> <small>-- <cite>Claerbout, 1992</cite></small>
-
 ====
 
 Um problema científico:

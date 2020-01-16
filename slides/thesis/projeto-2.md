@@ -122,7 +122,7 @@ doi: https://doi.org/10.1093/gigascience/giz041
 
 > Interface Web baseada no BioPortainer GUI-Runner para execução de fluxos de trabalho do Nextflow. 
 >
-> Também possibilita a execução através do Jupyter Notebook. 
+> Também possibilita a execução de pipelines através do Jupyter Notebook. 
 >
 > Baseada no conceito de Docker-in-Docker.
 

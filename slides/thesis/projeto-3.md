@@ -65,3 +65,7 @@ Contribuição:
 baseado em contêineres Docker
 
 ====
+
+<img src="img/FIG52.tif" style="background:none; border:3; box-shadow:none;">
+
+====

@@ -327,6 +327,8 @@ Nova estratégia computacional:
 
 ====
 
+## Principais modelos de serviço
+
 <img src="img/FIG48.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
 
 ====

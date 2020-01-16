@@ -176,7 +176,8 @@ Quais seriam as
 
 ====
 
-<img src="img/FIG35.png" width="60%" height="60%" style="background:none; border:none; box-shadow:none;">
+<img src="img/FIG35.png" width="80%" height="80%" style="background:none; border:none; box-shadow:none;">
+
 > <small><cite>Adaptado de Kim *et al.* (2018). Experimenting with reproducibility in bioinformatics. GigaScience, V.7, Issue 7, 2018, giy077.</cite></small>
 
 ====

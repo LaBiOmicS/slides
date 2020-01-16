@@ -5,9 +5,6 @@ Aciole Barbosa, D.¹; Menegidio, F.B.¹ *et al.*
 PLOS Neglected Tropical Diseases, 13(7), e0007576
 
 doi: https://doi.org/10.1371/journal.pntd.0007576
-<br><br>
-
-<small>¹ Considerar primeiros autores do trabalho por contribuirem igualmente para sua realização.</small>
 
 > <small> **OBJETIVO:** *Desenvolver um banco de dados virtual (Database-as-a-Service, ou DbaaS) como uma estratégia para garantir o armazenamento perene e reprodutível de dados genômicos à comunidade científica.* </small>
 

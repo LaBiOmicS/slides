@@ -33,9 +33,11 @@ Diretamente associados as:
 
 Mas afinal,
 
-## O que é Reprodutibilidade?
+## O que é Repetibilidade?
 
-## O que significa Replicabilidade?
+## O que significa Reprodutibilidade?
+
+## E Replicabilidade?
 
 ====
 

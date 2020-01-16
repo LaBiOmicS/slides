@@ -71,6 +71,11 @@ Dois problemas de
 
 ====
 
+<img src="img/FIG33.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
+
+
+====
+
 <img src="img/FIG1.png" width="80%" height="80%" style="background:none; border:3; box-shadow:5;">
 
 > <small>-- <cite>Barba, 2018</cite> </small>

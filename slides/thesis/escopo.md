@@ -1,11 +1,11 @@
-Objeto de Estudo Primário:
+Objeto Primário de Estudo:
 
 ## Reprodutibilidade e Replicabilidade 
 ## na Bioinformática
 
 ====
 
-Objeto de Estudo Secundário:
+Objeto Secundário de Estudo:
 
 ## Aplicabilidade de contêineres Docker
 ## na Bioinformática

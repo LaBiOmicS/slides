@@ -27,7 +27,7 @@ Diretamente associados as:
 
 > “[...] podemos dizer que um fenômeno é experimentalmente demonstrável quando sabemos como conduzir um experimento que raramente não nos dará um resultado estatisticamente significativo.”
 >
-> <small>-- <cite>Ronald A. Fisher, 1935</cite> </small>
+> <small>-- <cite>Ronald A. Fisher, The Design of Experiments (1935)</cite> </small>
 
 ====
 
@@ -44,8 +44,8 @@ Mas afinal,
 ## Repetibilidade
 
 > *“[...] a capacidade de um mesmo pesquisador obter **o mesmo resultado gerado após novas análises utilizando os mesmos dados e procedimentos adotados anteriormente**”*
-
--- <cite>Plesser (2018) e McArthur (2019)</cite>
+>
+> <small>-- <cite>Plesser (2018) e McArthur (2019)</cite></small>
 
 ====
 

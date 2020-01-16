@@ -79,8 +79,8 @@ Dois problemas de
 
 ====
 
-- **Grupo A:** Autores não diferenciavam Reprodutibilidade e Replicabilidade.
-- **Grupo B:** Autores diferenciavam Reprodutibilidade e Replicabilidade.
+- **Grupo A:** autores não diferenciavam Reprodutibilidade e Replicabilidade.
+- **Grupo B:** autores diferenciavam Reprodutibilidade e Replicabilidade.
   - **Grupo B1:** 
     - **Reprodutibilidade:** mesmos dados + mesmos métodos = mesmos resultados
     - **Replicabilidade:** novos dados e/ou novos métodos em um estudo independente = mesmas descobertas

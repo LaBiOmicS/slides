@@ -112,14 +112,14 @@ Dois problemas de
 <br>
 <p class="fragment" data-fragment-index="1">
 
-> **Reprodutibilidade:** “[...] a capacidade de um pesquisador duplicar os resultados de um estudo anterior **usando os mesmos dados utilizados pela equipe original**”
+> **Reprodutibilidade:** *“[...] a capacidade de um pesquisador duplicar os resultados de um estudo anterior **usando os mesmos dados utilizados pela equipe original**”.*
 </p>
 
 <br>
 
 <p class="fragment" data-fragment-index="2">
 
-> **Replicabilidade:** *“[...] a capacidade de um pesquisador de duplicar os resultados de um estudo anterior se **os mesmos procedimentos forem seguidos, mas novos dados forem coletados**”*
+> **Replicabilidade:** *“[...] a capacidade de um pesquisador de duplicar os resultados de um estudo anterior se **os mesmos procedimentos forem seguidos, mas novos dados forem coletados**”.*
 </p>
 
 ====

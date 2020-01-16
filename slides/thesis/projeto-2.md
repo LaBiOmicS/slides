@@ -59,8 +59,8 @@ doi: https://doi.org/10.1093/gigascience/giz041
 <p class="fragment" align="justify" data-fragment-index="3"> 9. Bioconductor Platform; </p> 
 <p class="fragment" align="justify" data-fragment-index="4"> 10. R and RStudio Platform; </p>
 <p class="fragment" align="justify" data-fragment-index="5"> 11. Jupyter Notebook Platform. </p>
-
-<small> Total: 86 plataformas disponíveis </small>
+<br>
+<p class="fragment" align="justify" data-fragment-index="5">  <small> Total: 86 plataformas disponíveis </small> </p>
 
 ====
 

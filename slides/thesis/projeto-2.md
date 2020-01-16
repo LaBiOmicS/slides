@@ -23,7 +23,8 @@ doi: https://doi.org/10.1093/gigascience/giz041
 
 ====
 
-# Camada de Infraestrutura
+# Camada 
+# de Infraestrutura
 
 ====
 
@@ -35,11 +36,13 @@ doi: https://doi.org/10.1093/gigascience/giz041
 
 ====
 
-# Camada de Plataforma
+# Camada
+# de Plataforma
 
 ====
 
-# Camada de Aplicação
+# Camada
+# de Aplicação
 
 ====
 

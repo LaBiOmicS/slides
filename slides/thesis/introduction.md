@@ -281,19 +281,19 @@ Tentativa de solucionar o problema:
 <br>
 <p class="fragment" align="justify" data-fragment-index="1">
 - Cada VM requer: <br> 
-       (a) Alocação de CPU <br>
-       (b) Armazenamento <br>
-       (c) RAM <br>
-       (d) SO convidado <br>
+&nbsp;&nbsp;(a) Alocação de CPU <br>
+&nbsp;&nbsp;(b) Armazenamento <br>
+&nbsp;&nbsp;(c) RAM <br>
+&nbsp;&nbsp;(d) SO convidado <br>
 </p> 
 <p class="fragment" align="justify" data-fragment-index="2">
-Quanto mais VMs você executa, mais recursos você precisa.
+- Quanto mais VMs você executa, mais recursos você precisa.
 </p>
 <p class="fragment" align="justify" data-fragment-index="3">
-SO convidado significa recursos desperdiçados.
+- SO convidado significa recursos desperdiçados.
 </p>
 <p class="fragment" align="justify" data-fragment-index="4">
-Portabilidade do aplicativo não garantida.
+- Portabilidade do aplicativo não garantida.
 </p>
 
 ====

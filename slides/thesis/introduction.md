@@ -41,6 +41,14 @@ Mas afinal,
 
 ====
 
+## Repetibilidade
+
+> “[...] a capacidade de um mesmo pesquisador obter **o mesmo resultado gerado após novas análises utilizando os mesmos dados e procedimentos adotados anteriormente**”
+
+-- <cite>Plesser (2018) e McArthur (2019)</cite>
+
+====
+
 ## Reprodutibilidade
 
 > “[...] a capacidade de um pesquisador duplicar os resultados de um estudo anterior **usando os mesmos dados utilizados pela equipe original**”

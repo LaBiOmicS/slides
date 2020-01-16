@@ -335,6 +335,8 @@ Nova estratégia computacional:
 
 ## Outros modelos de serviço
 
+<br>
+
 - **Área de Trabalho como Serviço**
   - ou Desktop-as-a-Service (DaaS)
 - **Banco de Dados como Serviço** 

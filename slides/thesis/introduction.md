@@ -43,7 +43,7 @@ Mas afinal,
 
 ## Repetibilidade
 
-> “[...] a capacidade de um mesmo pesquisador obter **o mesmo resultado gerado após novas análises utilizando os mesmos dados e procedimentos adotados anteriormente**”
+> *“[...] a capacidade de um mesmo pesquisador obter **o mesmo resultado gerado após novas análises utilizando os mesmos dados e procedimentos adotados anteriormente**”*
 
 -- <cite>Plesser (2018) e McArthur (2019)</cite>
 
@@ -51,7 +51,7 @@ Mas afinal,
 
 ## Reprodutibilidade
 
-> “[...] a capacidade de um pesquisador duplicar os resultados de um estudo anterior **usando os mesmos dados utilizados pela equipe original**”
+> *“[...] a capacidade de um pesquisador duplicar os resultados de um estudo anterior **usando os mesmos dados utilizados pela equipe original**”*
 >
 > <small>-- <cite>Subcomitê para a Replicabilidade da Ciência da U.S. National Science Foundation (NSF)</cite> </small>
 
@@ -103,6 +103,19 @@ Dois problemas de
 ====
 
 ## Terminologia para esse trabalho
+
+<p class="fragment" data-fragment-index="1">
+
+> **Reprodutibilidade:** “[...] a capacidade de um pesquisador duplicar os resultados de um estudo anterior **usando os mesmos dados utilizados pela equipe original**”
+
+</p>
+
+<p class="fragment" data-fragment-index="1">
+
+> **Replicabilidade:** *“[...] a capacidade de um pesquisador de duplicar os resultados de um estudo anterior se **os mesmos procedimentos forem seguidos, mas novos dados forem coletados**”*
+
+</p>
+
 
 ====
 

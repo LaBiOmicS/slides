@@ -188,7 +188,7 @@ Quais seriam as
 
 ====
 
-## Outras causas
+## Outras causas na Bioinformática
 <br>
 <p class="fragment" data-fragment-index="1">- Tarefas intensivas e extremamente complexas.</p>
 <p class="fragment" data-fragment-index="2">- Crescente quantidade de dados biológicos e softwares.</p>

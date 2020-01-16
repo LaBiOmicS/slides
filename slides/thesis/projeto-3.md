@@ -20,5 +20,10 @@ doi: https://doi.org/10.1371/journal.pntd.0007576
 <p class="fragment" align="justify" data-fragment-index="2"> - Paracoccidioidomicose, doença tropical negligenciada. </p>
 <p class="fragment" align="justify" data-fragment-index="3"> - Apresenta 5 isolados sequenciados atualmente. </p>
 <p class="fragment" align="justify" data-fragment-index="5"> - Primeira versão do genoma de 3 isolados (Pb1, Pb03 e Pb18) foram anotados e disponibilizados no banco de dados JGI do Broad Institute.</p>
-<p class="fragment" align="justify" data-fragment-index="6"> - Resequenciamento e Reanotação dos 3 isolados iniciais (Pb1, Pb03 e Pb18) geraram inconsistências entre os bancos de dados. </p>
-<p class="fragment" align="justify" data-fragment-index="7">
+<p class="fragment" align="justify" data-fragment-index="6"> - Resequenciamento e Reanotação dos 3 isolados iniciais (Pb01, Pb03 e Pb18) geraram inconsistências entre os bancos de dados. </p>
+
+## Plano de Fundo (continuação):
+
+<p class="fragment" align="justify" data-fragment-index="7"> - Em 2015, o banco de dados do Broad Institute foi descontinuado.</p>
+<p class="fragment" align="justify" data-fragment-index="7"> - Sequenciamento do genoma de 2 novos isolados (PbCNH e Pb300).</p>
+<p class="fragment" align="justify" data-fragment-index="8"> - Dados funcionais foram distribuídos entre os bancos de dados genéricos Genbank/RefSeq e Ensembl, além dos bancos de dados especializados em fungos FungiDB e MycoCosm. </p>

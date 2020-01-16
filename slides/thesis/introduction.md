@@ -327,4 +327,8 @@ Nova estratégia computacional:
 
 ====
 
+====
 
+Uma solução para Reprodutibilidade e Replicabilidade:
+
+# Contêineres Docker

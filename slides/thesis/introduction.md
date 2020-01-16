@@ -310,7 +310,7 @@ Tentativa de solucionar o problema:
 
 ====
 
-Nova estratégia computacional:
+Nova estratégia:
 
 # Computação em Nuvem
 

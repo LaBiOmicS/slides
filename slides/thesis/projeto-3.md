@@ -66,6 +66,6 @@ baseado em contêineres Docker
 
 ====
 
-<img src="img/FIG52.tif" style="background:none; border:3; box-shadow:none;">
+<img src="img/FIG52.jpg" style="background:none; border:3; box-shadow:none;">
 
 ====

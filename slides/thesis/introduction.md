@@ -312,4 +312,19 @@ Tentativa de solucionar o problema:
 
 Nova estratégia computacional:
 
-## Cloud Computing
+## Computação em Nuvem
+
+<small> ou </small><br>
+<small> Cloud Computing </small>
+
+====
+
+## Computação em Nuvem
+
+> “[...] um modelo para permitir acesso conveniente e sob demanda da rede a um conjunto compartilhado de recursos de computação configuráveis (por exemplo, redes, servidores, armazenamento, aplicativos e serviços) que podem ser rapidamente provisionados e liberados com o mínimo esforço de gerenciamento ou interação com o provedor de serviços”
+>
+> <small>-- <cite>Instituto Nacional de Tecnologias e Padrões dos EUA (NIST)</cite></small>
+
+====
+
+

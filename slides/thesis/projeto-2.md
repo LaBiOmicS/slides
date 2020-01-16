@@ -41,6 +41,10 @@ doi: https://doi.org/10.1093/gigascience/giz041
 
 ====
 
+<img src="img/FIG40.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
+
+====
+
 # Camada
 # de Aplicação
 

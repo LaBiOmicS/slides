@@ -312,7 +312,7 @@ Tentativa de solucionar o problema:
 
 Nova estratégia computacional:
 
-## Computação em Nuvem
+# Computação em Nuvem
 
 <small> ou </small><br>
 <small> Cloud Computing </small>

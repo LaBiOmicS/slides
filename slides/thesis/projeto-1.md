@@ -1,20 +1,17 @@
 ### DUGONG: uma imagem Docker, baseada no Ubuntu Linux, focada na Reprodutibilidade e Replicabilidade para análises de Bioinformática
 
-Menegidio, F.B. *et al.*
+<small> Menegidio, F.B. *et al.* </small>
 
-Bioinformatics, 34(3), btx554
+<small> Bioinformatics, 34(3), btx554 </small>
 
-doi: https://doi.org/10.1093/bioinformatics/btx554
+<small> doi: https://doi.org/10.1093/bioinformatics/btx554 </small>
+
+
+> **OBJETIVO:** "Desenvolver uma área de trabalho virtual (*Desktop-as-a-Service, ou DaaS*) que possibilite a execução de uma grande variedade de análises de bioinformática, de maneira reprodutível , por usuários com baixa ou nenhuma experiência com a linha de comando".
 
 ====
 
 <img src="img/FIG17.png" style="background:none; border:none; box-shadow:none;">
-
-====
-
-## Objetivo
-
-<p class="fragment" data-fragment-index="1">*Desenvolver uma área de trabalho virtual (*Desktop-as-a-Service, ou DaaS*) que possibilite a execução de uma grande variedade de análises de bioinformática, de maneira reprodutível , por usuários com baixa ou nenhuma experiência com a linha de comando.*</p>
 
 ====
 

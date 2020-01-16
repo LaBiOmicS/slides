@@ -287,15 +287,16 @@ Tentativa de solucionar o problema:
       <li>RAM;</li>
       <li>SO convidado;</li>
     </ul>
+</li>
 </p> 
 <p class="fragment" align="justify" data-fragment-index="2">
-<li> Quanto mais VMs você executa, mais recursos você precisa.
+<li> Quanto mais VMs você executa, mais recursos você precisa.</li>
 </p>
 <p class="fragment" align="justify" data-fragment-index="3">
-<li> SO convidado significa recursos desperdiçados.
+<li> SO convidado significa recursos desperdiçados.</li>
 </p>
 <p class="fragment" align="justify" data-fragment-index="4">
-<li> Portabilidade do aplicativo não garantida.
+<li> Portabilidade do aplicativo não garantida.</li>
 </p>
 
 ====

@@ -186,7 +186,6 @@ Quais seriam as
 <p class="fragment" data-fragment-index="1">- Tarefas intensivas e extremamente complexas.</p>
 <p class="fragment" data-fragment-index="2">- Crescente quantidade de dados biológicos e softwares.</p>
 <p class="fragment" data-fragment-index="3">- Sistemas de gerenciamento de pipelines complexos.</p>
-<p class="fragment" data-fragment-index="4">- Diferentes padrões e formatos de arquivos.</p>
 <p class="fragment" data-fragment-index="5">- Conjuntos de dados heterogêneos.</p>
 
 ====

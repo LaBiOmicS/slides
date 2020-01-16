@@ -155,7 +155,7 @@ doi: https://doi.org/10.1093/gigascience/giz041
 
 # Conclusão
 
-<p class="fragment" align="justify" data-fragment-index="1"> - Pioneiro na integração de diferentes camadas computacionais. </p>
+<p class="fragment" align="justify" data-fragment-index="1"> - Pioneiro em integrar diferentes camadas computacionais. </p>
 <p class="fragment" align="justify" data-fragment-index="2"> - Único em sua categoria. </p>
 <p class="fragment" align="justify" data-fragment-index="3"> - Facilita a implementação e gerenciamento de ambientes Docker. </p>
 <p class="fragment" align="justify" data-fragment-index="4"> - Importante acréscimo pra a comunidade Nextflow, fornecendo uma interface de fácil assimilação para a execução de pipelines. </p>

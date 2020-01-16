@@ -89,3 +89,17 @@ baseado em contêineres Docker
 <img src="img/FIG57.png" style="background:none; border:none; box-shadow:none;">
 
 ====
+
+<img src="img/FIG58.png" style="background:none; border:none; box-shadow:none;">
+
+====
+
+# Conclusão
+
+<p class="fragment" align="justify" data-fragment-index="1"> - Esforço pioneiro e eficaz para garantir a manutenção de dados localizáveis, acessíveis, interoperáveis e reutilizáveis através de um DbaaS. </p>
+
+<p class="fragment" align="justify" data-fragment-index="2"> - Infraestrutura de alta disponibilizada baseada em contêineres Docker. </p>
+
+<p class="fragment" align="justify" data-fragment-index="3"> - Possibilidade de instalação de espelhos locais de forma agnóstica a aplicação online. </p>
+
+<p class="fragment" align="justify" data-fragment-index="4"> - Prova de conceito funcional da utilização do Docker para manutenção de banco de dados biológicos.</p>

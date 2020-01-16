@@ -15,7 +15,7 @@ Pilares Metodológicos das:
 Diretamente associados as:
 
 # Boas Práticas 
-# Científica
+# Científicas
 
 ====
 

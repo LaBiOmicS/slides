@@ -333,10 +333,12 @@ Nova estratégia computacional:
 
 ## Outros modelos de serviço
 
-- Desktop-as-a-Service (DaaS)
-- Database-as-a-Service (DbaaS)
-- Anything-as-a-Service (XaaS)
-  - ou **TUDO como um Serviço**
+- **Área de Trabalho como Serviço**
+  - ou Desktop-as-a-Service (DaaS)
+- **Banco de Dados como Serviço** 
+  - ou Database-as-a-Service (DbaaS)
+- **TUDO como um Serviço**
+  - ou Anything-as-a-Service (XaaS)
 
 
 ====

@@ -44,10 +44,10 @@ doi: https://doi.org/10.1371/journal.pntd.0007576
 
 ====
 
-<img src="img/FIG50.jpg" style="background:none; border:none; box-shadow:none;">
+<img src="img/FIG50.jpg" style="background:none; border:3; box-shadow:none;">
 
 ====
 
-<img src="img/FIG51.png" style="background:none; border:none; box-shadow:none;">
+<img src="img/FIG51.png" style="background:none; border:3; box-shadow:none;">
 
 ====

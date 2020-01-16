@@ -21,7 +21,7 @@ Diretamente associados as:
 
 > “[...] ocorrências particulares não suscetíveis de reprodução carecem de significado para a ciência.”
 >
-> <small>-- <cite>Karl Popper, 1934</cite> </small>
+> <small>-- <cite>Karl Popper, A Lógica da Pesquisa Científica (1934)</cite> </small>
 
 ====
 

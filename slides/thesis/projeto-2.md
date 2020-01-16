@@ -88,7 +88,7 @@ doi: https://doi.org/10.1093/gigascience/giz041
 
 ## BioPortainer Console
 
-> Acesso facilitado através de um console de terminal pela interface do BioPortainer Panel.
+> Acesso facilitado através de um console de terminal através da interface do BioPortainer Panel.
 
 ====
 

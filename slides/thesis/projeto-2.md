@@ -108,7 +108,7 @@ doi: https://doi.org/10.1093/gigascience/giz041
 
 ## BioPortainer GUI-Runner
 
-> Interface Web para ferramntas de linha de comando através de um formulário JSON.
+> Interface Web para ferramentas de linha de comando através de um formulário JSON.
 >
 > Apresenta mais de 109 ferramentas de bioinformática já configuradas.
 

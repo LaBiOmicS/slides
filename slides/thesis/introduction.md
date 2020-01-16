@@ -280,8 +280,11 @@ Tentativa de solucionar o problema:
 ## Limitações das VMs
 <br>
 <p class="fragment" align="justify" data-fragment-index="1">
-- Cada VM requer: (1) Alocação de CPU; (2) Armazenamento; (3) RAM; (4) SO convidado. <br>
- </p> 
+- Cada VM requer: 
+  - Alocação de CPU;
+  - Armazenamento;
+  - RAM; (4) SO convidado.
+</p> 
 <p class="fragment" align="justify" data-fragment-index="2">- Quanto mais VMs você executa, mais recursos você precisa.</p>
 <p class="fragment" align="justify" data-fragment-index="3">- SO convidado significa recursos desperdiçados.</p>
 <p class="fragment" align="justify" data-fragment-index="4">- Portabilidade do aplicativo não garantida.</p>

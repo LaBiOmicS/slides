@@ -77,6 +77,8 @@ doi: https://doi.org/10.1093/gigascience/giz041
 
 ====
 
+## Aplicações:
+
 <p class="fragment" align="justify" data-fragment-index="1"> - BioPortainer Console</p>
 <p class="fragment" align="justify" data-fragment-index="2"> - BioPortainer Job Runner</p> 
 <p class="fragment" align="justify" data-fragment-index="3"> - BioPortainer GUI-Runner</p> 

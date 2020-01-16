@@ -79,10 +79,14 @@ Dois problemas de
 
 ====
 
-- **Grupo A:**
-- **Grupo B:**
-  - **Grupo B1:**
-  - **Grupo B2:** 
+- **Grupo A:** Autores não diferenciavam Reprodutibilidade e Replicabilidade.
+- **Grupo B:** Autores diferenciavam Reprodutibilidade e Replicabilidade.
+  - **Grupo B1:** 
+    - Reprodutibilidade: mesmos dados + mesmos métodos = mesmos resultados
+    - Replicabilidade: novos dados e/ou novos métodos em um estudo independente = mesmas descobertas
+  - **Grupo B2:**
+    - Reprodutibilidade: novos dados e/ou novos métodos em um estudo independente = mesmas descobertas
+    - Replicabilidade: mesmos dados + mesmos métodos = mesmos resultados
 
 ====
 

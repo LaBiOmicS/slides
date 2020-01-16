@@ -16,6 +16,6 @@
 - *Desenvolver uma plataforma virtual (*Platform-as-a-Service, ou PaaS*) capaz de aprimorar o desempenho de ambientes de virtualização Docker em diferentes níveis e camadas computacionais (infraestrutura, plataforma e aplicação).*
 </p>
 
-<p class="fragment" align="justify" data-fragment-index="1">
+<p class="fragment" align="justify" data-fragment-index="3">
 - *Desenvolver um banco de dados virtual (Database-as-a-Service, ou DbaaS) como uma estratégia para garantir o armazenamento perene e reprodutível de dados genômicos à comunidade científica.*
 </p>

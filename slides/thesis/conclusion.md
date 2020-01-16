@@ -10,11 +10,9 @@
 
 ====
 
-# Considerações Finais (continuação)
-
 <p class="fragment" align="justify" data-fragment-index="1"> - Conseguimos parametrizar e propor soluções abrangentes para a reprodutibilidade de ambientes de trabalho de bioinformática </p>
 
 <p class="fragment" align="justify" data-fragment-index="2"> - Demonstramos que a virtualização por contêineres pode fornecer
 uma estratégia promissora para a implementação de diferentes vertentes de pesquisa. </p>
 
-<p class="fragment" align="justify" data-fragment-index="2"> - Acreditamos que esse trabalho pode fornecer um novo paradigma de uma Bioinformática como Serviço (Bioinformatics-as-a-Service, ou BioaaS). </p>
+<p class="fragment" align="justify" data-fragment-index="3"> - Acreditamos que esse trabalho pode fornecer um novo paradigma de uma Bioinformática como Serviço (Bioinformatics-as-a-Service, ou BioaaS). </p>

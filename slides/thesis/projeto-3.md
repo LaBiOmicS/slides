@@ -17,4 +17,4 @@ doi: https://doi.org/10.1371/journal.pntd.0007576
 ## Plano de Fundo:
 
 - *Paracoccidioides spp* - fungo patogênico humano
-- Causador Paracoccidioidomicose, doença tropical negligenciada.
+- Paracoccidioidomicose, doença tropical negligenciada.

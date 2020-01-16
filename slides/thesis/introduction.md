@@ -171,7 +171,10 @@ Contribuição para a Crise:
 
 ====
 
-## Principais causas
+Quais seriam as
+## Principais causas?
+
+====
 
 <img src="img/FIG35.png" width="55%" height="55%" style="background:none; border:none; box-shadow:none;">
 

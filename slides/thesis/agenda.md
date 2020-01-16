@@ -1,11 +1,11 @@
 ## Agenda
 
-- Objeto de estudo.
+- Objeto de Estudo.
 - Contexto e Fundamentação Teórica.
 - Objetivos.
 - Metodologia.
-- Ferramentas desenvolvidas:
+- Ferramentas Desenvolvidas:
   - Dugong.
   - BioPortainer.
   - ParaDB.
-- Conclusões.
+- Considerações Finais.

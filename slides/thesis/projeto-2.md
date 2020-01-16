@@ -15,3 +15,32 @@ doi: https://doi.org/10.1093/gigascience/giz041
 ====
 
 <img src="img/FIG31.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
+
+====
+
+<img src="img/FIG37.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
+
+
+====
+
+# Camada de Infraestrutura
+
+====
+
+<img src="img/FIG38.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
+
+====
+
+<img src="img/FIG39.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
+
+====
+
+# Camada de Plataforma
+
+====
+
+# Camada de Aplicação
+
+====
+
+# Conclusão

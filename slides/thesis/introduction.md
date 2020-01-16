@@ -327,6 +327,18 @@ Nova estratégia computacional:
 
 ====
 
+<img src="img/FIG48.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
+
+====
+
+## Outros modelos de serviço
+
+- Desktop-as-a-Service (DaaS)
+- Database-as-a-Service (DbaaS)
+- Anything-as-a-Service (XaaS)
+  - ou **TUDO como um Serviço**
+
+
 ====
 
 Uma solução para Reprodutibilidade e Replicabilidade:

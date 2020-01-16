@@ -2,7 +2,9 @@
 
 Menegidio, F.B. *et al.*
 
-**Bioinformatics**, 34(3), btx554. doi: https://doi.org/10.1093/bioinformatics/btx554
+**Bioinformatics**, 34(3), btx554. 
+
+doi: https://doi.org/10.1093/bioinformatics/btx554
 
 <br>
 

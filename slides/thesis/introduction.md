@@ -287,7 +287,7 @@ Tentativa de solucionar o problema:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(d) SO convidado <br>
 </p> 
 <p class="fragment" align="justify" data-fragment-index="2">
-- Quanto mais VMs você executa, mais recursos você precisa.
+- Quanto mais VMs, mais recursos serão necessários.
 </p>
 <p class="fragment" align="justify" data-fragment-index="3">
 - SO convidado significa recursos desperdiçados.

@@ -142,8 +142,8 @@ doi: https://doi.org/10.1093/gigascience/giz041
 
 # Conclusão
 
-<p class="fragment" align="justify" data-fragment-index="1"> - Esforço pioneiro para integrar diferentes camadas computacionais focadas em Bioinformática. </p>
-<p class="fragment" align="justify" data-fragment-index="2"> - Único em sua categoria nas mais diversas áreas científicas </p>
-<p class="fragment" align="justify" data-fragment-index="3"> - Facilita a implementação e gerenciamento de ambientes complexos baseados em Docker. </p>
+<p class="fragment" align="justify" data-fragment-index="1"> - Pioneiro para integrar diferentes camadas computacionais focadas em Bioinformática. </p>
+<p class="fragment" align="justify" data-fragment-index="2"> - Único em sua categoria. </p>
+<p class="fragment" align="justify" data-fragment-index="3"> - Facilita a implementação e gerenciamento de ambientes Docker. </p>
 <p class="fragment" align="justify" data-fragment-index="4"> - Importante acréscimo pra a comunidade Nextflow, fornecendo uma interface de fácil assimilação para a execução de pipelines. </p>
-<p class="fragment" align="justify" data-fragment-index="5"> - Possibilita a integração dos mais diversos projetos baseado em Docker em uma interface de fácil assimilação. </p>
+<p class="fragment" align="justify" data-fragment-index="5"> - Possibilita a integração dos mais diversos projetos Docker em uma interface de fácil assimilação. </p>

@@ -303,3 +303,13 @@ Tentativa de solucionar o problema:
 <p class="fragment" align="justify" data-fragment-index="1">- **Velocidade:** não necessita de boot de um SO convidado.</p>
 <p class="fragment" align="justify" data-fragment-index="2">- **Portabilidade:** menos dependências entre as camadas.</p>
 <p class="fragment" align="justify" data-fragment-index="3">- **Eficiência:** menos sobrecarga de SO e melhor densidade.</p>
+
+====
+
+<img src="img/FIG36.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
+
+====
+
+Nova estratégia computacional:
+
+## Cloud Computing

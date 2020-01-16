@@ -60,6 +60,8 @@ doi: https://doi.org/10.1093/gigascience/giz041
 <p class="fragment" align="justify" data-fragment-index="4"> 10. R and RStudio Platform; </p>
 <p class="fragment" align="justify" data-fragment-index="5"> 11. Jupyter Notebook Platform. </p>
 
+<small> Total: 86 plataformas disponíveis </small>
+
 ====
 
 <img src="img/FIG40.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
@@ -72,6 +74,13 @@ doi: https://doi.org/10.1093/gigascience/giz041
 
 # Camada
 # de Aplicação
+
+====
+
+<p class="fragment" align="justify" data-fragment-index="1"> - BioPortainer Console</p>
+<p class="fragment" align="justify" data-fragment-index="2"> - BioPortainer Job Runner</p> 
+<p class="fragment" align="justify" data-fragment-index="3"> - BioPortainer GUI-Runner</p> 
+<p class="fragment" align="justify" data-fragment-index="4"> - BioPortainer Pipeline Runner</p>
 
 ====
 

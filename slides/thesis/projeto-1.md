@@ -1,7 +1,6 @@
 ## DUGONG: uma imagem Docker, baseada no Ubuntu Linux, focada na Reprodutibilidade e Replicabilidade para análises de Bioinformática
 
 <small> Menegidio, F.B. *et al.*. **Bioinformatics**, 34(3), btx554. </small>
----
 <br>
 <br>
 

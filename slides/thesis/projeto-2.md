@@ -41,6 +41,22 @@ doi: https://doi.org/10.1093/gigascience/giz041
 
 ====
 
+## Plataformas:
+
+(i) BioPortainer CPU Platform; 
+(ii) BioPortainer CPU Platform; 
+(iii) BioPortainer GUI Runner Platform;
+(iv) Galaxy Platform; 
+(v) Galaxy Tools Platform; 
+(vi) BioContainers Platform; 
+(vii) Dugong Platform; 
+(viii) GUIdock Platform; 
+(ix) Bioconductor Platform; 
+(x) R and RStudio Platform; e
+(xi) Jupyter Notebook Platform.
+
+====
+
 <img src="img/FIG40.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
 
 ====

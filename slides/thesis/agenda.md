@@ -2,7 +2,6 @@
 
 - Objeto de estudo.
 - Contexto e Fundamentação Teórica.
-- Justificativa.
 - Objetivos.
 - Metodologia.
 - Ferramentas desenvolvidas:

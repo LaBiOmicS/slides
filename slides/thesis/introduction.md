@@ -228,9 +228,7 @@ Benefício dos
 
 ====
 
-## Principais modelos de serviço
-
-<!-- .slide: data-background="img/FIG59.jpg" data-background-size="50%" data-background-position="right" -->
+<!-- .slide: data-background="img/FIG59.jpg" data-background-size="40%" data-background-position="right" -->
 
 <div style="width:100%; text-align: left;">
     <div style="width: 50%;">

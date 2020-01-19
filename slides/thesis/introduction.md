@@ -191,6 +191,18 @@ Tentativa de solucionar o problema:
 
 ====
 
+<!-- .slide: data-background="img/FIG15.png" data-background-size="50%" data-background-position="right" -->
+
+<div style="width:100%; text-align: right;">
+    <div style="width: 50%;">
+        <blockquote style="padding-right: 1em">
+            <p><b>Docker:</b></p>
+            <p><i>"[...] plataforma open source usada para construir, executar e distribuir ambientes através da tecnologia de virtualização por software."</i></p>
+        </blockquote>
+    </div>
+</div>
+
+
 <img src="img/FIG15.png" width="70%" height="70%" style="background:none; border:none; box-shadow:none;">
 
 ====

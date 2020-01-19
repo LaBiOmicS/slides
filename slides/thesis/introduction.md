@@ -219,7 +219,7 @@ Benefício dos
 
 ====
 
-Nova estratégia:
+Estratégia:
 
 # Computação em Nuvem
 

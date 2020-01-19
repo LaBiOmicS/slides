@@ -85,12 +85,6 @@ doi: https://doi.org/10.1093/bioinformatics/btx554
 
 ====
 
-## Jupyter Notebook
-
-<img src="img/FIG25.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
-
-====
-
 ### Comparação do Dugong com outros serviços de virtualização por hardware
 
 <img src="img/FIG26.png" width="80%" height="80%" style="background:none; border:none; box-shadow:none;">
@@ -104,6 +98,18 @@ doi: https://doi.org/10.1093/bioinformatics/btx554
 ====
 
 # Estudo de Caso
+
+<!-- .slide: data-background="img/FIG25.png" data-background-size="50%" data-background-position="right" -->
+
+<div style="width:100%; text-align: center;">
+    <div style="width: 25%;">
+        <blockquote style="padding-right: 1em">
+            <p><b><center>ESTUDO DE CASO</center></b></p>
+            <small><small><center>CirComPara</center></small></small>
+        </blockquote>
+    </div>
+</div>
+
 
 ====
 

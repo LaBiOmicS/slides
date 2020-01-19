@@ -211,7 +211,7 @@ Benefício dos
 <br>
 <p class="fragment" align="justify" data-fragment-index="1">- **Velocidade:** não necessita de boot de um SO convidado.</p>
 <p class="fragment" align="justify" data-fragment-index="2">- **Portabilidade:** menos dependências entre as camadas.</p>
-<p class="fragment" align="justify" data-fragment-index="3">- **Eficiência:** menos sobrecarga de SO e melhor densidade.</p>
+<p class="fragment" align="justify" data-fragment-index="3">- **Eficiência:** menos sobrecarga de SO e consumo de recursos.</p>
 
 ====
 

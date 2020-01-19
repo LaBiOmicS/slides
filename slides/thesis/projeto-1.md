@@ -20,26 +20,29 @@ doi: https://doi.org/10.1093/bioinformatics/btx554
 
 ====
 
-<!-- .slide: data-background="img/FIG20.png"  data-background-size="1058px 794px"  -->
-
-====
-
 <!-- .slide: data-background="img/FIG20.png" data-background-size="68%" data-background-position="right" -->
 
 <div style="width:100%; text-align: center;">
     <div style="width: 25%;">
         <blockquote style="padding-right: 1em">
             <p><b><center>XFCE4</center></b></p>
-            <small><small><center>Interface Gráfica do Usuário.</center></small></small>
+            <small><small><center>Interface Gráfica do Usuário</center></small></small>
         </blockquote>
     </div>
 </div>
 
 ====
 
-## VNC
+<!-- .slide: data-background="img/FIG21.png" data-background-size="68%" data-background-position="right" -->
 
-<img src="img/FIG21.png" width="80%" height="80%" style="background:none; border:none; box-shadow:none;">
+<div style="width:100%; text-align: center;">
+    <div style="width: 25%;">
+        <blockquote style="padding-right: 1em">
+            <p><b><center>VNC e noVNC</center></b></p>
+            <small><small><center>Acesso Remoto</center></small></small>
+        </blockquote>
+    </div>
+</div>
 
 ====
 

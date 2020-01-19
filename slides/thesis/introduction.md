@@ -154,14 +154,6 @@ Tentativa de solucionar o problema:
 
 ====
 
-<img src="img/FIG9.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
-
-====
-
-<img src="img/FIG10.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
-
-====
-
 <img src="img/FIG12.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
 
 ====

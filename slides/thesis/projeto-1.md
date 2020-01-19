@@ -103,8 +103,8 @@ doi: https://doi.org/10.1093/bioinformatics/btx554
     <div style="width: 50%;">
         <blockquote style="padding-right: 1em">
             <p><b><center>ESTUDO DE CASO:</center></b></p>
-            <small><center>Adaptação do CirCompara para o Dugong</center></small>
-            <small><center>Análise de Reprodutibilidade do CirComPara no Dungong</center></small>
+            <small><center>1. Adaptação do CirCompara.</center></small>
+            <small><center>2. Análise de Reprodutibilidade.</center></small>
         </blockquote>
     </div>
 </div>

@@ -30,7 +30,7 @@ doi: https://doi.org/10.1093/bioinformatics/btx554
     <div style="width: 37%;">
         <blockquote style="padding-right: 1em">
             <p><b>XFCE4</b></p>
-            <small>Interface Gráfica do Usuário.</small>
+            <small><small>Interface Gráfica do Usuário.</small></small>
         </blockquote>
     </div>
 </div>

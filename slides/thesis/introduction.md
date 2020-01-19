@@ -82,11 +82,11 @@ Em 2016...
 
 ====
 
-<img src="img/FIG7.png" width="300%" height="300%" style="background:none; border:none; box-shadow:none;">
+<!-- .slide: data-background="img/FIG7.png" data-background-size="940px 532px" -->
 
 ====
 
-<img src="img/FIG8.png" width="300%" height="300%" style="background:none; border:none; box-shadow:none;">
+<!-- .slide: data-background="img/FIG8.png" data-background-size="1919px 1079px" -->
 
 ====
 

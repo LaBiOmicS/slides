@@ -115,7 +115,7 @@ Contribuição para a Crise:
     <div style="width: 50%;">
         <blockquote style="padding-right: 1em">
             <p>Quais seriam as</p>
-            <h2>Principais causas</h2>?
+            <h3>Principais causas?</h3>
         </blockquote>
     </div>
 </div>

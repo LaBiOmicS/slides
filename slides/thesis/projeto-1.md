@@ -24,13 +24,13 @@ doi: https://doi.org/10.1093/bioinformatics/btx554
 
 ====
 
-<!-- .slide: data-background="img/FIG20.png" data-background-size="65%" data-background-position="right" -->
+<!-- .slide: data-background="img/FIG20.png" data-background-size="68%" data-background-position="right" -->
 
 <div style="width:100%; text-align: center;">
     <div style="width: 25%;">
         <blockquote style="padding-right: 1em">
             <p><b>XFCE4</b></p>
-            <small><small>Interface Gráfica do Usuário.</small></small>
+            <small><small><center>Interface Gráfica do Usuário.</center></small></small>
         </blockquote>
     </div>
 </div>

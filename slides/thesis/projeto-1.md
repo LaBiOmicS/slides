@@ -31,12 +31,6 @@ doi: https://doi.org/10.1093/bioinformatics/btx554
 
 ====
 
-## Web Terminal
-
-<img src="img/FIG22.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
-
-====
-
 ## Repositório BioConda
 
 <img src="img/FIG23.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">

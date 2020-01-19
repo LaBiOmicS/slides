@@ -122,20 +122,14 @@ Contribuição para a Crise:
 
 ====
 
-## Outras causas na Bioinformática
-<br>
-<p class="fragment" align="justify" data-fragment-index="1">- Tarefas intensivas e extremamente complexas.</p>
-<p class="fragment" align="justify" data-fragment-index="2">- Crescente quantidade de dados biológicos e softwares.</p>
-<p class="fragment" align="justify" data-fragment-index="3">- Sistemas de gerenciamento de pipelines complexos.</p>
-<p class="fragment" align="justify" data-fragment-index="5">- Conjuntos de dados heterogêneos.</p>
-
-====
-
 Tentativa de solucionar o problema:
 
 ## Sistemas Operacionais Científicos
 
 ====
+
+<!-- .slide: data-background="img/FIG9.png" data-background-size="1019px 979px" -->
+
 
 <img src="img/FIG9.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
 

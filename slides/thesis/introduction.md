@@ -204,7 +204,10 @@ Tentativa de solucionar o problema:
 
 ====
 
-## Benefício dos contêineres Docker
+Benefício dos 
+
+## contêineres Docker
+
 <br>
 <p class="fragment" align="justify" data-fragment-index="1">- **Velocidade:** não necessita de boot de um SO convidado.</p>
 <p class="fragment" align="justify" data-fragment-index="2">- **Portabilidade:** menos dependências entre as camadas.</p>

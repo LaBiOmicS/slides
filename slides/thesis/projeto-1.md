@@ -16,8 +16,6 @@ doi: https://doi.org/10.1093/bioinformatics/btx554
 
 ====
 
-## Arquitetura do Dugong
-
 <!-- .slide: data-background="img/FIG18.png"  data-background-size="1058px 794px"  -->
 
 ====

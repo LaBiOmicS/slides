@@ -82,7 +82,7 @@ Em 2016...
 
 ====
 
-<!-- .slide: data-background="img/FIG7.png" data-background-size="940px 532px" -->
+<!-- .slide: data-background="img/FIG7.png" data-background-size="1940px 1532px" -->
 
 ====
 

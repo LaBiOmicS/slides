@@ -12,4 +12,4 @@
 
 <p class="fragment fade-in-then-out"><b>2.</b> Desenvolver uma plataforma virtual capaz de aprimorar o desempenho de ambientes de virtualização Docker em diferentes níveis e camadas computacionais (<b>Bioportainer</b>).</p>
 
-<p class="fragment fade-in-then-out"><b>3.</b> Desenvolver um banco de dados virtual como uma estratégia para garantir o armazenamento perene e reprodutível de dados genômicos à comunidade científica (<b>ParaDB</b>).</p>
+<p class="fragment fade-in-then-out"><b>3.</b> Desenvolver um banco de dados virtual como uma estratégia para garantir o armazenamento perene e reprodutível de dados genômicos pela comunidade científica (<b>ParaDB</b>).</p>

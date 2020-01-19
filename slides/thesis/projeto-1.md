@@ -120,6 +120,8 @@ doi: https://doi.org/10.1093/bioinformatics/btx554
 # Conclusão
 <br>
 <p class="fragment" align="justify" data-fragment-index="1">- Esforço pioneiro na implementação de um *DaaS*.</p>
-<p class="fragment" align="justify" data-fragment-index="2">- Preocupação com a usabilidade.</p>
+<p class="fragment" align="justify" data-fragment-index="2">- Real preocupação com a usabilidade.</p>
 <p class="fragment" align="justify" data-fragment-index="3">- Maior acervo de softwares de bioinformática.</p>
-<p class="fragment" align="justify" data-fragment-index="4">- Acréscimo importante para a comunidade científica.</p>
+<p class="fragment" align="justify" data-fragment-index="4">- Método eficaz para garantir Reprodutibilidade.</p>
+<p class="fragment" align="justify" data-fragment-index="5">- Acréscimo importante para a comunidade científica.</p>
+

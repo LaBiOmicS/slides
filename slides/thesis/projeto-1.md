@@ -33,7 +33,7 @@ doi: https://doi.org/10.1093/bioinformatics/btx554
 
 ====
 
-<!-- .slide: data-background="img/FIG21.png" data-background-size="67%" data-background-position="right" -->
+<!-- .slide: data-background="img/FIG21.png" data-background-size="68%" data-background-position="right" -->
 
 <div style="width:100%; text-align: center;">
     <div style="width: 25%;">
@@ -66,6 +66,19 @@ doi: https://doi.org/10.1093/bioinformatics/btx554
         <blockquote style="padding-right: 1em">
             <p><b><center>Anaconda Navigator</center></b></p>
             <small><small><center>Bioconda GUI</center></small></small>
+        </blockquote>
+    </div>
+</div>
+
+====
+
+<!-- .slide: data-background="img/FIG25.png" data-background-size="68%" data-background-position="right" -->
+
+<div style="width:100%; text-align: center;">
+    <div style="width: 25%;">
+        <blockquote style="padding-right: 1em">
+            <p><b><center>Jupyter Notebook</center></b></p>
+            <small><small><center>Caderno de Laboratório Virtual</center></small></small>
         </blockquote>
     </div>
 </div>

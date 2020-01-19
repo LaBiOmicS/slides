@@ -20,11 +20,11 @@ doi: https://doi.org/10.1093/bioinformatics/btx554
 
 ====
 
-<!-- .slide: data-background="img/FIG19.png"  data-background-size="1058px 794px"  -->
+<!-- .slide: data-background="img/FIG20.png"  data-background-size="1058px 794px"  -->
 
 ====
 
-<!-- .slide: data-background="img/FIG19.jpg" data-background-size="60%" data-background-position="right" -->
+<!-- .slide: data-background="img/FIG20.jpg" data-background-size="60%" data-background-position="right" -->
 
 <div style="width:100%; text-align: right;">
     <div style="width: 30%;">
@@ -33,12 +33,6 @@ doi: https://doi.org/10.1093/bioinformatics/btx554
         </blockquote>
     </div>
 </div>
-
-
-## 
-
-<img src="img/FIG20.png" width="80%" height="80%" style="background:none; border:none; box-shadow:none;">
-
 
 ====
 

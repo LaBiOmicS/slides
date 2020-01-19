@@ -86,6 +86,14 @@ doi: https://doi.org/10.1093/bioinformatics/btx554
 ====
 
 ## Comparação
+&nbsp
+&nbsp
+&nbsp
+&nbsp
+&nbsp
+&nbsp
+&nbsp
+&nbsp
 
 <!-- .slide: data-background="img/FIG27.png" data-background-size="80%" data-background-position="center bottom" -->
 

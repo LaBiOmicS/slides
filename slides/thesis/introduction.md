@@ -130,9 +130,6 @@ Tentativa de solucionar o problema:
 
 <!-- .slide: data-background="img/FIG9.png" data-background-size="1019px 979px" -->
 
-
-<img src="img/FIG9.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
-
 ====
 
 <img src="img/FIG10.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">

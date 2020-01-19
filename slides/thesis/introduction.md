@@ -185,7 +185,7 @@ Tentativa de solucionar o problema:
 <div style="width:100%; text-align: right;">
     <div style="width: 70%;">
         <blockquote style="padding-right: 1em">
-            <p><b>Docker:</b></p>
+            <p><b>DOCKER:</b></p>
             <p><i>"[...] plataforma open source usada para construir, executar e distribuir ambientes através da tecnologia de virtualização por software."</i></p>
         </blockquote>
     </div>

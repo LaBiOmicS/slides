@@ -85,17 +85,9 @@ doi: https://doi.org/10.1093/bioinformatics/btx554
 
 ====
 
-<!-- .slide: data-background="img/FIG27.png" data-background-size="68%" data-background-position="center bottom" -->
+## Comparação
 
-
-<div style="width:100%; text-align: center;">
-    <div style="width: 100%;">
-        <blockquote style="padding-top: 1em">
-            <p><b><center>Comparação do Dugong com outras ferramentas de virtualização por hardware.</center></b></p>
-        </blockquote>
-    </div>
-</div>
-
+<!-- .slide: data-background="img/FIG27.png" data-background-size="80%" data-background-position="center bottom" -->
 
 ====
 

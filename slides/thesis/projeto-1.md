@@ -52,7 +52,7 @@ doi: https://doi.org/10.1093/bioinformatics/btx554
     <div style="width: 25%;">
         <blockquote style="padding-right: 1em">
             <p><b><center>Bioconda</center></b></p>
-            <small><small><center>Repositório Bioinformática</center></small></small>
+            <small><small><center>Repositório de Bioinformática</center></small></small>
         </blockquote>
     </div>
 </div>

@@ -173,10 +173,10 @@ Tentativa de solucionar o problema:
 
 Tentativa de solucionar o problema:
 
-## Virtualização por Software
+## Virtualização por Contêineres
 
 <small> ou </small><br>
-<small> Virtualização por Contêineres ou Leve </small>
+<small> Virtualização por Software ou Leve </small>
 
 ====
 
@@ -186,7 +186,7 @@ Tentativa de solucionar o problema:
     <div style="width: 70%;">
         <blockquote style="padding-right: 1em">
             <p><b>DOCKER:</b></p>
-            <p><i>"[...] plataforma aberta para construir, executar e distribuir ambientes através da tecnologia de virtualização por software."</i></p>
+            <p><i>"[...] plataforma aberta para construir, executar e distribuir ambientes baseados na tecnologia de virtualização por contêineres."</i></p>
         </blockquote>
     </div>
 </div>

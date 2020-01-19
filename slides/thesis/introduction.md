@@ -39,6 +39,14 @@ para esse trabalho
 
 ====
 
+Definição do:
+
+# Subcomitê para a Replicabilidade da Ciência
+
+U.S. National Science Foundation (NSF)
+
+====
+
 ## Reprodutibilidade
 
 > *“[...] a capacidade de um pesquisador duplicar os resultados de um estudo anterior **usando os mesmos dados utilizados pela equipe original**”*

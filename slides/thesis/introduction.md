@@ -29,6 +29,8 @@ Problemas de
 
 # Terminologia
 
+<small> Diferentes pesquisadores de diversas áreas utilizam terminologias conflitantes </small>
+
 ====
 
 Definindo

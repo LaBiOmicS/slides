@@ -235,17 +235,15 @@ Benefício dos
 <div style="width:100%; text-align: left;">
     <div style="width: 50%;">
         <blockquote style="padding-left: 1em">
-            <p>- Infraestrutura como serviço</p>
-            <p>- Plataforma como serviço</p>
-            <p>- Software como serviço</p>
-            <p>- Banco de Dados como serviço</p>
-            <p>- Ambiente de Trabalho como serviço</p>
-            <p>- Tudo como serviço</p>
+            <p><small>- Infraestrutura como serviço</small></p>
+            <p><small>- Plataforma como serviço</small></p>
+            <p><small>- Software como serviço</small></p>
+            <p><small>- Banco de Dados como serviço</small></p>
+            <p><small>- Ambiente de Trabalho como serviço</small></p>
+            <p><small>- Tudo como serviço</small></p>
         </blockquote>
     </div>
 </div>
-
-<img src="img/FIG59.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
 
 ====
 

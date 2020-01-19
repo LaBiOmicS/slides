@@ -20,6 +20,10 @@ doi: https://doi.org/10.1093/bioinformatics/btx554
 
 ====
 
+<!-- .slide: data-background="img/FIG19.png"  data-background-size="1058px 794px"  -->
+
+====
+
 <!-- .slide: data-background="img/FIG19.jpg" data-background-size="60%" data-background-position="right" -->
 
 <div style="width:100%; text-align: right;">

@@ -70,10 +70,6 @@ doi: https://doi.org/10.1093/bioinformatics/btx554
     </div>
 </div>
 
-## Anaconda Navigator
-
-<img src="img/FIG24.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
-
 ====
 
 ## Jupyter Notebook

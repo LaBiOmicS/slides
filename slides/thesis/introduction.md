@@ -41,7 +41,8 @@ para esse trabalho
 
 Definição do:
 
-## Subcomitê para a Replicabilidade da Ciência
+## Subcomitê para a 
+## Replicabilidade da Ciência
 
 <small> Fundação Nacional de Ciências dos EUA (NSF) </small>
 

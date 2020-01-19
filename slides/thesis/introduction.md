@@ -1,3 +1,9 @@
+> “[...] ocorrências particulares não suscetíveis de reprodução carecem de significado para a ciência.”
+>
+> <small>-- <cite>Karl Popper, A Lógica da Pesquisa Científica (1934)</cite> </small>
+
+====
+
 Bases Fundamentais da:
 
 # Metodologia 
@@ -16,12 +22,6 @@ Diretamente associados as:
 
 # Boas Práticas 
 # Científicas
-
-====
-
-> “[...] ocorrências particulares não suscetíveis de reprodução carecem de significado para a ciência.”
->
-> <small>-- <cite>Karl Popper, A Lógica da Pesquisa Científica (1934)</cite> </small>
 
 ====
 

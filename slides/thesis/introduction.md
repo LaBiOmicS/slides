@@ -31,7 +31,7 @@ Dois problemas de
 
 ====
 
-## Terminologia para esse trabalho
+# Terminologia para esse trabalho
 
 ====
 

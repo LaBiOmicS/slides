@@ -97,15 +97,13 @@ doi: https://doi.org/10.1093/bioinformatics/btx554
 
 ====
 
-# Estudo de Caso
-
 <!-- .slide: data-background="img/FIG25.png" data-background-size="50%" data-background-position="right" -->
 
 <div style="width:100%; text-align: center;">
     <div style="width: 25%;">
         <blockquote style="padding-right: 1em">
-            <p><b><center>ESTUDO DE CASO</center></b></p>
-            <small><small><center>CirComPara</center></small></small>
+            <p><b><center>ESTUDO DE CASO:</center></b></p>
+            <small><small><center>Análise de Reprodutibilidade do CirComPara no Dungong</center></small></small>
         </blockquote>
     </div>
 </div>

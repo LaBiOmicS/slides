@@ -107,7 +107,7 @@ Contribuição para a Crise:
 
 ====
 
-<!-- .slide: data-background="img/FIG35.png" data-background-size="100%" data-background-position="right" -->
+<!-- .slide: data-background="img/FIG35.png" data-background-size="50%" data-background-position="right" -->
 
 <div style="width:100%; text-align: right;">
     <div style="width: 50%;">

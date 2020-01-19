@@ -219,7 +219,7 @@ Benefício dos
 
 ====
 
-Estratégia:
+Estratégia de provisionamento de recursos e aplicações pela Internet:
 
 # Computação em Nuvem
 

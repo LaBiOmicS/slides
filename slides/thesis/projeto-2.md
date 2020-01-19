@@ -8,7 +8,7 @@ doi: https://doi.org/10.1093/gigascience/giz041
 
 ---
 
-**OBJETIVO:** *"Desenvolver uma plataforma virtual (*Platform-as-a-Service, ou PaaS*) capaz de aprimorar o desempenho de ambientes de virtualização Docker em diferentes níveis e camadas computacionais (infraestrutura, plataforma e aplicação)".*
+**OBJETIVO:** *"Desenvolver uma plataforma virtual capaz de aprimorar o desempenho de ambientes de virtualização Docker em diferentes níveis e camadas computacionais (infraestrutura, plataforma e aplicação)".*
 
 ====
 

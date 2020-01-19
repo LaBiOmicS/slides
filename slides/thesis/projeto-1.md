@@ -6,6 +6,8 @@ Menegidio, F.B. *et al.*
 
 doi: https://doi.org/10.1093/bioinformatics/btx554
 
+---
+
 > **OBJETIVO:** "Desenvolver uma área de trabalho virtual que possibilite a execução de uma grande variedade de análises de bioinformática, de maneira reprodutível.
 
 ====

@@ -230,21 +230,7 @@ Benefício dos
 
 ## Principais modelos de serviço
 
-<img src="img/FIG48.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
-
-====
-
-## Outros modelos de serviço
-
-<br>
-
-- **Área de Trabalho como Serviço**
-  - ou Desktop-as-a-Service (DaaS)
-- **Banco de Dados como Serviço** 
-  - ou Database-as-a-Service (DbaaS)
-- **TUDO como um Serviço**
-  - ou Anything-as-a-Service (XaaS)
-
+<img src="img/FIG59.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
 
 ====
 

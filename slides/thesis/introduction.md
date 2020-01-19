@@ -82,7 +82,7 @@ Em 2016...
 
 ====
 
-<!-- .slide: data-background="img/FIG7.png" data-background-size="1940px 1532px" -->
+<!-- .slide: data-background="img/FIG7.png" data-background-size="1840px 932px" -->
 
 ====
 
@@ -99,12 +99,6 @@ Crise de
 Contribuição para a Crise:
 
 ## Aumento das análises computacionais
-
-====
-
-> *"Irreprodutibilidade é a configuração padrão para toda a ciência, e a pesquisa irreprodutível é **particularmente comum nas ciências computacionais**."*
->
-> <small><cite>Hong *et al.* (2015). Top Tips to Make Your Research Irreproducible. arXiv. https://arxiv.org/abs/1504.00062 </cite></small>
 
 ====
 

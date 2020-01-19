@@ -115,20 +115,10 @@ Contribuição para a Crise:
     <div style="width: 50%;">
         <blockquote style="padding-right: 1em">
             <p>Quais seriam as</p>
-            <h3> Principais causas</h3> 
+            <h2>Principais causas</h2>?
         </blockquote>
     </div>
 </div>
-
-
-
-
-
-====
-
-<img src="img/FIG35.png" width="70%" height="70%" style="background:none; border:none; box-shadow:none;">
-
-> <small><cite>Adaptado de Kim *et al.* (2018). Experimenting with reproducibility in bioinformatics. GigaScience, V.7, Issue 7, 2018, giy077.</cite></small>
 
 ====
 

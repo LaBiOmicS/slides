@@ -228,11 +228,12 @@ Benefício dos
 
 ====
 
-<!-- .slide: data-background="img/FIG59.png" data-background-size="50%" data-background-position="right" -->
+<!-- .slide: data-background="img/FIG59.png" data-background-size="60%" data-background-position="right" -->
 
 <div style="width:100%; text-align: left;">
     <div style="width: 50%;">
         <blockquote style="padding-right: 1em">
+            <p><b>Modelos de Serviço:</b></p>
             <p><small>- Infraestrutura como serviço</small></p>
             <p><small>- Plataforma como serviço</small></p>
             <p><small>- Software como serviço</small></p>

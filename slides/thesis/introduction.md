@@ -197,27 +197,6 @@ Tentativa de solucionar o problema:
 
 ====
 
-## Limitações das VMs
-<br>
-<p class="fragment" align="justify" data-fragment-index="1">
-- Cada VM requer: <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a) Alocação de CPU <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b) Armazenamento <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c) RAM <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(d) SO convidado <br>
-</p> 
-<p class="fragment" align="justify" data-fragment-index="2">
-- Quanto mais VMs, mais recursos serão necessários.
-</p>
-<p class="fragment" align="justify" data-fragment-index="3">
-- SO convidado significa recursos desperdiçados.
-</p>
-<p class="fragment" align="justify" data-fragment-index="4">
-- Portabilidade do aplicativo não garantida.
-</p>
-
-====
-
 ## Benefício dos contêineres Docker
 <br>
 <p class="fragment" align="justify" data-fragment-index="1">- **Velocidade:** não necessita de boot de um SO convidado.</p>

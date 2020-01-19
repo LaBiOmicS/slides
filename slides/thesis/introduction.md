@@ -228,14 +228,6 @@ Estratégia de provisionamento de recursos e aplicações pela Internet:
 
 ====
 
-## Computação em Nuvem
-
-> “[...] um modelo para permitir acesso conveniente e sob demanda da rede a um conjunto compartilhado de recursos de computação configuráveis (por exemplo, redes, servidores, armazenamento, aplicativos e serviços) que podem ser rapidamente provisionados e liberados com o mínimo esforço de gerenciamento ou interação com o provedor de serviços”
->
-> <small>-- <cite>Instituto Nacional de Tecnologias e Padrões dos EUA (NIST)</cite></small>
-
-====
-
 ## Principais modelos de serviço
 
 <img src="img/FIG48.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">

@@ -228,7 +228,7 @@ Benefício dos
 
 ====
 
-<!-- .slide: data-background="img/FIG59.png" data-background-size="40%" data-background-position="right" -->
+<!-- .slide: data-background="img/FIG59.png" data-background-size="70%" data-background-position="right" -->
 
 <div style="width:100%; text-align: left;">
     <div style="width: 50%;">

@@ -85,7 +85,7 @@ doi: https://doi.org/10.1093/bioinformatics/btx554
 
 ====
 
-<!-- .slide: data-background="img/FIG27.png"  data-background-size="1534px 984px"  -->
+<!-- .slide: data-background="img/FIG27.png"  data-background-size="1234px 684px"  -->
 
 ====
 

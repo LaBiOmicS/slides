@@ -128,7 +128,7 @@ Tentativa de solucionar o problema:
 
 ====
 
-<!-- .slide: data-background="img/FIG9.png" data-background-size="1019px 979px" -->
+<!-- .slide: data-background="img/FIG9.png" data-background-size="1819px 979px" -->
 
 ====
 

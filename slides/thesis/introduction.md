@@ -234,12 +234,12 @@ Benefício dos
     <div style="width: 50%;">
         <blockquote style="padding-right: 1em">
             <p><b>Modelos de Serviço:</b></p>
-            <p><small>- Infraestrutura como serviço</small></p>
-            <p><small>- Plataforma como serviço</small></p>
-            <p><small>- Software como serviço</small></p>
-            <p><small>- Banco de Dados como serviço</small></p>
-            <p><small>- Ambiente de Trabalho como serviço</small></p>
-            <p><small>- Tudo como serviço</small></p>
+            <small>- Infraestrutura como serviço</small><br>
+            <small>- Plataforma como serviço</small><br>
+            <small>- Software como serviço</small><br>
+            <small>- Banco de Dados como serviço</small><br>
+            <small>- Ambiente de Trabalho como serviço</small><br>
+            <small>- Tudo como serviço</small>
         </blockquote>
     </div>
 </div>

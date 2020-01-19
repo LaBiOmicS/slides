@@ -1,4 +1,4 @@
-<!-- .slide: data-background="img/popper.jpg" data-background-size="50%" data-background-position="right" -->
+<!-- .slide: data-background="img/popper.jpg" data-background-size="45%" data-background-position="right" -->
 
 <div style="width:100%; text-align: right;">
     <div style="width: 70%;">

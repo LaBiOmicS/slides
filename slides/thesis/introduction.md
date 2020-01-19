@@ -31,7 +31,11 @@ Problemas de
 
 ====
 
-# Terminologia para esse trabalho
+Definindo
+
+# Terminologias
+
+para esse trabalho
 
 ====
 

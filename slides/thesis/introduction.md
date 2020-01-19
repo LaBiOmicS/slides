@@ -51,63 +51,6 @@ Dois problemas de
 
 ====
 
-
-
-====
-
-<img src="img/FIG33.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
-
-====
-
-<img src="img/FIG34.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
-
-====
-
-<img src="img/FIG1.png" width="80%" height="80%" style="background:none; border:3; box-shadow:5;">
-
-> <small>-- <cite>Barba, 2018</cite> </small>
-
-====
-
-- **Grupo A:** autores não diferenciavam Reprodutibilidade e Replicabilidade.
-- **Grupo B:** autores diferenciavam Reprodutibilidade e Replicabilidade.
-  - **Grupo B1:** 
-    - **Reprodutibilidade:** mesmos dados + mesmos métodos = mesmos resultados
-    - **Replicabilidade:** novos dados e/ou novos métodos em um estudo independente = mesmas descobertas
-  - **Grupo B2:**
-    - **Reprodutibilidade:** novos dados e/ou novos métodos em um estudo independente = mesmas descobertas
-    - **Replicabilidade:** mesmos dados + mesmos métodos = mesmos resultados
-
-====
-
-<img src="img/FIG1-1.png" width="80%" height="80%" style="background:none; border:3; box-shadow:5;">
-
-> <small>-- <cite>Barba, 2018</cite> </small>
-
-====
-
-<img src="img/FIG2.png" width="80%" height="80%" style="background:none; border:3; box-shadow:5;">
-
-> <small>-- <cite>Barba, 2018</cite> </small>
-
-====
-
-
-<br>
-<p class="fragment" data-fragment-index="1">
-
-> **Reprodutibilidade:** *“[...] a capacidade de um pesquisador duplicar os resultados de um estudo anterior **usando os mesmos dados utilizados pela equipe original**”.*
-</p>
-
-<br>
-
-<p class="fragment" data-fragment-index="2">
-
-> **Replicabilidade:** *“[...] a capacidade de um pesquisador de duplicar os resultados de um estudo anterior se **os mesmos procedimentos forem seguidos, mas novos dados forem coletados**”.*
-</p>
-
-====
-
 Um problema científico:
 
 # Crise de 

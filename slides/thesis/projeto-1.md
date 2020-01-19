@@ -27,7 +27,7 @@ doi: https://doi.org/10.1093/bioinformatics/btx554
 <!-- .slide: data-background="img/FIG20.png" data-background-size="60%" data-background-position="right" -->
 
 <div style="width:100%; text-align: center;">
-    <div style="width: 30%;">
+    <div style="width: 35%;">
         <blockquote style="padding-right: 1em">
             <p><b>XFCE4</b></p>
             <small>Interfece Gráfica do Usuário.</small>

@@ -25,9 +25,9 @@ Diretamente associados as:
 
 ====
 
-Dois problemas de 
+Problemas de 
 
-# Nomenclatura
+# Terminologia
 
 ====
 

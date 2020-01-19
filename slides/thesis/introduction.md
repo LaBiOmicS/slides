@@ -84,7 +84,7 @@ Em 2016...
 
 ====
   
-<img src="img/FIG4.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
+<img src="img/FIG4.png" width="80%" height="80%" style="background:none; border:none; box-shadow:none;">
 
 ====
 

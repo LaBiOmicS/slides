@@ -46,7 +46,7 @@ doi: https://doi.org/10.1093/bioinformatics/btx554
 
 ====
 
-<!-- .slide: data-background="img/FIG22.png" data-background-size="67%" data-background-position="right" -->
+<!-- .slide: data-background="img/FIG23.png" data-background-size="67%" data-background-position="right" -->
 
 <div style="width:100%; text-align: center;">
     <div style="width: 25%;">
@@ -59,11 +59,16 @@ doi: https://doi.org/10.1093/bioinformatics/btx554
 
 ====
 
-## Repositório BioConda
+<!-- .slide: data-background="img/FIG24.png" data-background-size="67%" data-background-position="right" -->
 
-<img src="img/FIG23.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
-
-====
+<div style="width:100%; text-align: center;">
+    <div style="width: 25%;">
+        <blockquote style="padding-right: 1em">
+            <p><b><center>Anaconda Navigator</center></b></p>
+            <small><small><center>Bioconda GUI</center></small></small>
+        </blockquote>
+    </div>
+</div>
 
 ## Anaconda Navigator
 

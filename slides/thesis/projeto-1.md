@@ -46,7 +46,7 @@ doi: https://doi.org/10.1093/bioinformatics/btx554
 
 ====
 
-<!-- .slide: data-background="img/FIG23.png" data-background-size="67%" data-background-position="right" -->
+<!-- .slide: data-background="img/FIG23.png" data-background-size="68%" data-background-position="right" -->
 
 <div style="width:100%; text-align: center;">
     <div style="width: 25%;">
@@ -59,7 +59,7 @@ doi: https://doi.org/10.1093/bioinformatics/btx554
 
 ====
 
-<!-- .slide: data-background="img/FIG24.png" data-background-size="67%" data-background-position="right" -->
+<!-- .slide: data-background="img/FIG24.png" data-background-size="68%" data-background-position="right" -->
 
 <div style="width:100%; text-align: center;">
     <div style="width: 25%;">

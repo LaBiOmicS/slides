@@ -1,6 +1,13 @@
-> “[...] ocorrências particulares não suscetíveis de reprodução carecem de significado para a ciência.”
->
-> <small>-- <cite>Karl Popper, A Lógica da Pesquisa Científica (1934)</cite> </small>
+<!-- .slide: data-background="img/FIG15.png" data-background-size="45%" data-background-position="right" -->
+
+<div style="width:100%; text-align: right;">
+    <div style="width: 70%;">
+        <blockquote style="padding-right: 1em">
+            <p><i>“[...] ocorrências particulares não suscetíveis de reprodução carecem de significado para a ciência.”</i></p>
+            <p>Karl Popper, <b>A Lógica da Pesquisa Científica</b> (1934)</p>
+        </blockquote>
+    </div>
+</div>
 
 ====
 

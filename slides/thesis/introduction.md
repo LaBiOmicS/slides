@@ -186,7 +186,7 @@ Tentativa de solucionar o problema:
     <div style="width: 70%;">
         <blockquote style="padding-right: 1em">
             <p><b>DOCKER:</b></p>
-            <p><i>"[...] uma plataforma aberta para a construção, execução e distribuição de ambientes baseados na promissora tecnologia de virtualização por contêineres."</i></p>
+            <p><i>"[...] uma plataforma aberta para a construção, execução e distribuição de ambientes baseados na tecnologia de virtualização por contêineres."</i></p>
         </blockquote>
     </div>
 </div>

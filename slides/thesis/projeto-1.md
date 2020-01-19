@@ -20,7 +20,18 @@ doi: https://doi.org/10.1093/bioinformatics/btx554
 
 ====
 
-## XFCE4
+<!-- .slide: data-background="img/FIG19.jpg" data-background-size="70%" data-background-position="right" -->
+
+<div style="width:100%; text-align: right;">
+    <div style="width: 30%;">
+        <blockquote style="padding-right: 1em">
+            <p>XFCE4</p>
+        </blockquote>
+    </div>
+</div>
+
+
+## 
 
 <img src="img/FIG20.png" width="80%" height="80%" style="background:none; border:none; box-shadow:none;">
 

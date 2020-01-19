@@ -180,10 +180,10 @@ Tentativa de solucionar o problema:
 
 ====
 
-<!-- .slide: data-background="img/FIG15.png" data-background-size="50%" data-background-position="right" -->
+<!-- .slide: data-background="img/FIG15.png" data-background-size="30%" data-background-position="right" -->
 
 <div style="width:100%; text-align: right;">
-    <div style="width: 50%;">
+    <div style="width: 70%;">
         <blockquote style="padding-right: 1em">
             <p><b>Docker:</b></p>
             <p><i>"[...] plataforma open source usada para construir, executar e distribuir ambientes através da tecnologia de virtualização por software."</i></p>

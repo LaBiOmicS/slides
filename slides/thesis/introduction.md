@@ -25,11 +25,13 @@ Diretamente associados as:
 
 ====
 
-Mas afinal,
+Dois problemas de 
 
-## O que é Reprodutibilidade?
+# Nomenclatura
 
-## O que significa Replicabilidade?
+====
+
+## Terminologia para esse trabalho
 
 ====
 
@@ -49,9 +51,7 @@ Mas afinal,
 
 ====
 
-Dois problemas de 
 
-# Nomenclatura
 
 ====
 
@@ -92,7 +92,7 @@ Dois problemas de
 
 ====
 
-## Terminologia para esse trabalho
+
 <br>
 <p class="fragment" data-fragment-index="1">
 
@@ -123,7 +123,7 @@ Em 2016...
 
 ====
 
-<img src="img/FIG4.png" width="70%" height="70%" style="background:none; border:none; box-shadow:none;">
+<section data-background="img/FIG4.png">
 
 ====
 

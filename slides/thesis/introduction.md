@@ -25,27 +25,11 @@ Diretamente associados as:
 
 ====
 
-> “[...] podemos dizer que um fenômeno é experimentalmente demonstrável quando sabemos como conduzir um experimento que raramente não nos dará um resultado estatisticamente significativo.”
->
-> <small>-- <cite>Ronald A. Fisher, The Design of Experiments (1935)</cite> </small>
-
-====
-
 Mas afinal,
 
-## O que é Repetibilidade?
+## O que é Reprodutibilidade?
 
-## O que significa Reprodutibilidade?
-
-## E Replicabilidade?
-
-====
-
-## Repetibilidade
-
-> *“[...] a capacidade de um mesmo pesquisador obter **o mesmo resultado gerado após novas análises utilizando os mesmos dados e procedimentos adotados anteriormente**”*
->
-> <small>-- <cite>Plesser (2018) e McArthur (2019)</cite></small>
+## O que significa Replicabilidade?
 
 ====
 

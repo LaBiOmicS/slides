@@ -230,11 +230,11 @@ Benefício dos
 
 ## Principais modelos de serviço
 
-<!-- .slide: data-background="img/FIG59.jpg" data-background-size="50%" data-background-position="left" -->
+<!-- .slide: data-background="img/FIG59.jpg" data-background-size="50%" data-background-position="right" -->
 
 <div style="width:100%; text-align: left;">
     <div style="width: 50%;">
-        <blockquote style="padding-left: 1em">
+        <blockquote style="padding-right: 1em">
             <p><small>- Infraestrutura como serviço</small></p>
             <p><small>- Plataforma como serviço</small></p>
             <p><small>- Software como serviço</small></p>

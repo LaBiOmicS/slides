@@ -51,16 +51,25 @@ doi: https://doi.org/10.1093/gigascience/giz041
 
 ====
 
-<img src="img/FIG40.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
+<div style="width:100%; text-align: center;">
+    <div style="width: 30%;">
+        <blockquote style="padding-left: 1em">
+            <p><b><center>Camada de</center></b></p>
+            <p><b><center>Aplicação</center></b></p><br>
+            <p><b><center><small>68 plataformas em 11 categorias.</small></center></b></p><br>
+        </blockquote>
+    </div>
+</div>
 
-====
-
-<img src="img/FIG41.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
-
-====
-
-# Camada
-# de Aplicação
+<div style="width:100%; text-align: center;">
+    <div style="width: 70%;">
+        <blockquote style="padding-right: 1em">
+            <p><b><center>- BioPortainer Console</center></b></p>
+            <p><b><center>Plataforma</center></b></p><br>
+            <p><b><center><small>68 plataformas em 11 categorias.</small></center></b></p><br>
+        </blockquote>
+    </div>
+</div>
 
 ====
 

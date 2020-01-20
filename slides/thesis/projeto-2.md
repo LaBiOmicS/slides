@@ -32,7 +32,7 @@ doi: https://doi.org/10.1093/gigascience/giz041
 <!-- .slide: data-background="img/bioportainer2.gif" data-background-size="65%" data-background-position="right" -->
 
 <div style="width:100%; text-align: center;">
-    <div style="width: 35%;">
+    <div style="width: 30%;">
         <blockquote style="padding-right: 1em">
             <p><b><center>Camada de</center></b></p>
             <p><b><center>Infraestrutura</center></b></p>

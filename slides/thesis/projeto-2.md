@@ -16,7 +16,7 @@ doi: https://doi.org/10.1093/gigascience/giz041
 
 ====
 
-<!-- .slide: data-background="img/FIG31.png"  data-background-size="1287px 823px"  -->
+<!-- .slide: data-background="img/FIG31.png"  data-background-size="1287px 923px"  -->
 
 ====
 

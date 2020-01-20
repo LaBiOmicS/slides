@@ -121,14 +121,6 @@ doi: https://doi.org/10.1093/bioinformatics/btx554
 
 ====
 
-<!-- .slide: data-background="img/dugong.gif"  data-background-size="1204px 680px"  -->
-
-====
-
-<!-- .slide: data-background="img/dugong1.gif"  data-background-size="1204px 680px"  -->
-
-====
-
 # Conclusão
 <br>
 <p class="fragment" align="justify" data-fragment-index="1">- Esforço pioneiro na implementação de um *DaaS*.</p>

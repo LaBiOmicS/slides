@@ -89,7 +89,7 @@ doi: https://doi.org/10.1093/gigascience/giz041
             <p><b><center>Camada de</center></b></p>
             <p><b><center>Aplicação</center></b></p>
             <p><b><center><small>BioPortainer GUI Runner</small></center></b></p>
-            <p><center><small><small>Mais de .</small></small></center></p>
+            <p><center><small><small>Mais de 100 ferramentas portadas.</small></small></center></p>
         </blockquote>
     </div>
 </div>

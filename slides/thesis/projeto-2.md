@@ -112,7 +112,7 @@ doi: https://doi.org/10.1093/gigascience/giz041
 
 ====
 
-<!-- .slide: data-background="img/bioportainer2.gif" data-background-size="65%" data-background-position="right" -->
+<!-- .slide: data-background="img/bioportainer8.gif" data-background-size="65%" data-background-position="right" -->
 
 <div style="width:100%; text-align: center;">
     <div style="width: 30%;">

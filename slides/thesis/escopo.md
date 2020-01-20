@@ -7,8 +7,7 @@ Objeto Primário de Estudo:
 
 Objeto Secundário de Estudo:
 
-## Utilização de contêineres Docker 
-## na Bioinformática para garantir
-## Reprodutibilidade e Replicabilidade
+## Contêineres Docker na Bioinformática 
+## para garantir Reprodutibilidade e Replicabilidade
 
 ====

@@ -103,7 +103,7 @@ doi: https://doi.org/10.1093/gigascience/giz041
         <blockquote style="padding-right: 1em">
             <p><b><center>Camada de</center></b></p>
             <p><b><center>Aplicação</center></b></p>
-            <p><b><center><small><p><center><small><small>Mais de 80 pipelines disponíveis.</small></small></center></p>
+             <p><center><small><small>Mais de 80 pipelines disponíveis.</small></small></center></p>
         </blockquote>
     </div>
 </div>

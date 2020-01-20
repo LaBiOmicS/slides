@@ -73,13 +73,6 @@ Definição do:
 
 ====
 
-Um problema científico:
-
-# Crise de 
-# Reprodutibilidade
-
-====
-
 Em 2016...
 
 > *"Mais de 70% dos pesquisadores tentaram e não conseguiram reproduzir os experimentos de outros cientistas, e mais da metade não conseguiu reproduzir seus próprios experimentos."*

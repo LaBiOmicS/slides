@@ -9,5 +9,3 @@ Objeto Secundário de Estudo:
 
 ## Utilização de contêineres Docker
 ## na Bioinformática
-
-====

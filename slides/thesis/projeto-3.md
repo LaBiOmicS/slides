@@ -22,15 +22,15 @@ Desenvolvimento do trabalho:
 
 ====
 
-<!-- .slide: data-background="img/FIG52.png"  data-background-size="1058px 794px"  -->
-
-====
-
 Contribuição:
 
 # Database-as-a-Service
 
 baseado em contêineres Docker
+
+====
+
+<!-- .slide: data-background="img/FIG52.png"  data-background-size="1058px 794px"  -->
 
 ====
 

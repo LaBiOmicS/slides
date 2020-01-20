@@ -16,38 +16,6 @@ doi: https://doi.org/10.1371/journal.pntd.0007576
 
 ====
 
-## Plano de Fundo:
-
-<p class="fragment" align="justify" data-fragment-index="1"> - *Paracoccidioides spp* - fungo patogênico humano. </p>
-<p class="fragment" align="justify" data-fragment-index="2"> - Paracoccidioidomicose, doença tropical negligenciada. </p>
-<p class="fragment" align="justify" data-fragment-index="3"> - Apresenta 5 isolados sequenciados atualmente. </p>
-<p class="fragment" align="justify" data-fragment-index="5"> - Primeiras versões dos genomas de 3 isolados (Pb01, Pb03 e Pb18) foram anotados e disponibilizados no banco de dados JGI do Broad Institute.</p>
-<p class="fragment" align="justify" data-fragment-index="6"> - Resequenciamento e Reanotação dos 3 isolados iniciais geraram inconsistências entre os bancos de dados. </p>
-
-====
-
-## Plano de Fundo (continuação):
-
-<p class="fragment" align="justify" data-fragment-index="1"> - Em 2015, o banco de dados do Broad Institute foi descontinuado.</p>
-<p class="fragment" align="justify" data-fragment-index="2"> - Sequenciamento dos genomas de 2 novos isolados (PbCNH e Pb300).</p>
-<p class="fragment" align="justify" data-fragment-index="3"> - Dados funcionais foram distribuídos entre os bancos de dados genéricos Genbank/RefSeq e Ensembl, além dos bancos de dados especializados em fungos FungiDB e MycoCosm. </p>
-<p class="fragment" align="justify" data-fragment-index="4"> - Bancos de Dados exibem versões diferentes dos genomas. </p>
-
-====
-
-## Plano de Fundo (continuação):
-
-<p class="fragment" align="justify" data-fragment-index="1"> - Anotações exibem até ~88% de proteínas descritas como hipotéticas.</p>
-<p class="fragment" align="justify" data-fragment-index="2"> - Esses dados inviabilizam a utilização das anotações para estudos funcionais.</p>
-
-====
-
-Típico exemplo de:
-
-# Irreprodutibilidade
-
-====
-
 <img src="img/FIG49.png" style="background:none; border:none; box-shadow:none;">
 
 ====

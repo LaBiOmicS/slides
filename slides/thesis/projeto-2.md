@@ -16,6 +16,10 @@ doi: https://doi.org/10.1093/gigascience/giz041
 
 ====
 
+<img src="img/FIG31.png" style="background:none; border:none; box-shadow:none;">
+
+====
+
 <!-- .slide: data-background="img/bioportainer1.gif" data-background-size="1004px 480px" -->
 
 ====

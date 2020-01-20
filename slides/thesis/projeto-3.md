@@ -14,13 +14,13 @@ doi: https://doi.org/10.1371/journal.pntd.0007576
 
 ## Plano de Fundo
 
-- Pb01, Pb03, Pb18 - genoma V1
-- Genomas disponíveis no Broad Institute
-- Resequenciamento Pb01, Pb03, Pb18 - genoma V2
-- Broad Institute descontinuado
-- Pb300 e PbCHN
-- Migração dos dados para outros bancos de dados
-- Anotação funcional conflitante nos novos bancos de dados
+<p class="fragment" align="justify" data-fragment-index="1"> - Pb01, Pb03, Pb18 - genoma V1 </p>
+<p class="fragment" align="justify" data-fragment-index="2"> - Genomas disponíveis no Broad Institute </p>
+<p class="fragment" align="justify" data-fragment-index="3"> - Resequenciamento Pb01, Pb03, Pb18 - genoma V2 </p>
+<p class="fragment" align="justify" data-fragment-index="4"> - Broad Institute descontinuado </p>
+<p class="fragment" align="justify" data-fragment-index="5"> - Pb300 e PbCHN </p>
+<p class="fragment" align="justify" data-fragment-index="6"> - Migração dos dados para outros bancos de dados </p>
+<p class="fragment" align="justify" data-fragment-index="7"> - Anotação funcional conflitante nos novos bancos de dados </p>
 
 ====
 

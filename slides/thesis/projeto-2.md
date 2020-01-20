@@ -53,21 +53,57 @@ doi: https://doi.org/10.1093/gigascience/giz041
 
 ====
 
-<div style="width:50%; text-align: center;">
+<!-- .slide: data-background="img/bioportainer2.gif" data-background-size="65%" data-background-position="right" -->
+
+<div style="width:100%; text-align: center;">
     <div style="width: 30%;">
-        <blockquote style="padding-left: 1em">
+        <blockquote style="padding-right: 1em">
             <p><b><center>Camada de</center></b></p>
-            <p><b><center>Aplicação</center></b></p><br>
+            <p><b><center>Aplicação</center></b></p>
+            <p><b><center><small>BioPortainer Console</small></center></b></p>
         </blockquote>
     </div>
 </div>
 
-<div style="width:50%; text-align: center;">
-    <div style="width: 70%;">
+====
+
+<!-- .slide: data-background="img/bioportainer2.gif" data-background-size="65%" data-background-position="right" -->
+
+<div style="width:100%; text-align: center;">
+    <div style="width: 30%;">
         <blockquote style="padding-right: 1em">
-            <p><b><center>- BioPortainer Console</center></b></p>
-            <p><b><center>Plataforma</center></b></p><br>
-            <p><b><center><small>68 plataformas em 11 categorias.</small></center></b></p><br>
+            <p><b><center>Camada de</center></b></p>
+            <p><b><center>Aplicação</center></b></p>
+            <p><b><center><small>BioPortainer Job Runner</small></center></b></p>
+        </blockquote>
+    </div>
+</div>
+
+====
+
+<!-- .slide: data-background="img/bioportainer2.gif" data-background-size="65%" data-background-position="right" -->
+
+<div style="width:100%; text-align: center;">
+    <div style="width: 30%;">
+        <blockquote style="padding-right: 1em">
+            <p><b><center>Camada de</center></b></p>
+            <p><b><center>Aplicação</center></b></p>
+            <p><b><center><small>BioPortainer GUI Runner</small></center></b></p>
+            <p><center><small><small>Mais de .</small></small></center></p>
+        </blockquote>
+    </div>
+</div>
+
+====
+
+<!-- .slide: data-background="img/bioportainer2.gif" data-background-size="65%" data-background-position="right" -->
+
+<div style="width:100%; text-align: center;">
+    <div style="width: 30%;">
+        <blockquote style="padding-right: 1em">
+            <p><b><center>Camada de</center></b></p>
+            <p><b><center>Aplicação</center></b></p>
+            <p><b><center><small><p><center><small><small>Mais de 80 pipelines no repositório do Nextflow e Nf-Core.</small></small></center></p></small></center></b></p>
         </blockquote>
     </div>
 </div>

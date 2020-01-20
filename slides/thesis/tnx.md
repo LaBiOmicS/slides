@@ -1,14 +1,14 @@
 ## Agradecimentos
 
-- Orgãos de Fomento (CAPES, FAPESP e CNPQ)
-- Universidade de Mogi das Cruzes
-- Pós-Graduação (Coordenação e Corpo Docente)
-- Orientador (Luiz Nunes)
-- Colegas de Laboratório
-- Amigos
-- Familiares
-- Esposa e Filha
-- Mãe
+<p class="fragment fade-in-then-out">- Orgãos de Fomento (CAPES, FAPESP e CNPQ)</p>
+<p class="fragment fade-in-then-out">- Universidade de Mogi das Cruzes</p>
+<p class="fragment fade-in-then-out">- Pós-Graduação (Coordenação e Corpo Docente)</p>
+<p class="fragment fade-in-then-out">- Orientador (Luiz Nunes)</p>
+<p class="fragment fade-in-then-out">- Colegas de Laboratório</p>
+<p class="fragment fade-in-then-out">- Amigos</p>
+<p class="fragment fade-in-then-out">- Familiares</p>
+<p class="fragment fade-in-then-out">- Esposa e Filha</p>
+<p class="fragment fade-in-then-out">- Mãe</p>
 
 ====
 

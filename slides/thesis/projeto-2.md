@@ -149,12 +149,6 @@ doi: https://doi.org/10.1093/gigascience/giz041
 
 ====
 
-# Estudos de Caso
-
-> Diversos exemplos de aplicabilidade do BioPortainer Workbench são fornecidos em um amplo Manual do Usuário na página do projeto.
-
-====
-
 # Conclusão
 
 <p class="fragment" align="justify" data-fragment-index="1"> - Único em sua categoria. </p>

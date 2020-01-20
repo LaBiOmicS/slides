@@ -24,11 +24,6 @@ doi: https://doi.org/10.1093/gigascience/giz041
 
 ====
 
-# Camada 
-# de Infraestrutura
-
-====
-
 <!-- .slide: data-background="img/bioportainer2.gif" data-background-size="65%" data-background-position="right" -->
 
 <div style="width:100%; text-align: center;">
@@ -42,35 +37,17 @@ doi: https://doi.org/10.1093/gigascience/giz041
 
 ====
 
-<!-- .slide: data-background="img/bioportainer2.gif" data-background-size="1004px 480px" -->
+<!-- .slide: data-background="img/bioportainer2.gif" data-background-size="65%" data-background-position="right" -->
 
-====
-
-# Camada
-# de Plataforma
-
-====
-
-## Plataformas:
-
-<p class="fragment" align="justify" data-fragment-index="1"> 1. BioPortainer CPU Platform; </p>
-<p class="fragment" align="justify" data-fragment-index="2"> 2. BioPortainer GPU Platform; </p> 
-<p class="fragment" align="justify" data-fragment-index="3"> 3. BioPortainer GUI Runner Platform; </p>
-<p class="fragment" align="justify" data-fragment-index="4"> 4. Galaxy Platform; </p>
-<p class="fragment" align="justify" data-fragment-index="5"> 5. Galaxy Tools Platform; </p>
-<p class="fragment" align="justify" data-fragment-index="6"> 6. BioContainers Platform; </p>
-
-====
-
-## Plataformas (continuação):
-
-<p class="fragment" align="justify" data-fragment-index="1"> 7. Dugong Platform; </p>
-<p class="fragment" align="justify" data-fragment-index="2"> 8. GUIdock Platform; </p> 
-<p class="fragment" align="justify" data-fragment-index="3"> 9. Bioconductor Platform; </p> 
-<p class="fragment" align="justify" data-fragment-index="4"> 10. R and RStudio Platform; </p>
-<p class="fragment" align="justify" data-fragment-index="5"> 11. Jupyter Notebook Platform. </p>
-<br>
-<p class="fragment" align="justify" data-fragment-index="6">  <small> Total: 86 plataformas disponíveis </small> </p>
+<div style="width:100%; text-align: center;">
+    <div style="width: 30%;">
+        <blockquote style="padding-right: 1em">
+            <p><b><center>Camada de</center></b></p>
+            <p><b><center>Plataforma</center></b></p><br>
+            <p><b><center><small>68 plataformas em 11 categorias.</small></center></b></p><br>
+        </blockquote>
+    </div>
+</div>
 
 ====
 

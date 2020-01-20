@@ -6,7 +6,7 @@
 
 ## Objetivo Específicos
 
-<p class="fragment fade-in-then-out"><b>1.</b> Desenvolver uma área de trabalho virtual que possibilite a execução de uma grande variedade de análises de bioinformática, de maneira reprodutível (<b>Dungong</b>).</p>
+<p class="fragment fade-in-then-out"><b>1.</b> Desenvolver uma área de trabalho virtual que possibilite a execução de uma grande variedade de análises de bioinformática, de maneira reprodutível (<b>Dugong</b>).</p>
 
 <p class="fragment fade-in-then-out"><b>2.</b> Desenvolver uma plataforma virtual capaz de aprimorar o desempenho de ambientes de virtualização Docker em diferentes níveis e camadas computacionais (<b>Bioportainer</b>).</p>
 

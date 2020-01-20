@@ -38,27 +38,29 @@ baseado em contêineres Docker
 
 ====
 
-<img src="img/FIG53.png" style="background:none; border:3; box-shadow:none;">
+<!-- .slide: data-background="img/paradb1.gif" data-background-size="65%" data-background-position="right" -->
+
+<div style="width:100%; text-align: center;">
+    <div style="width: 30%;">
+        <blockquote style="padding-right: 1em">
+            <p><b><center>Instalação local</center></b></p>
+            <p><b><center>ParaDB</center></b></p>
+        </blockquote>
+    </div>
+</div>
 
 ====
 
-<img src="img/FIG54.png" style="background:none; border:3; box-shadow:none;">
+<!-- .slide: data-background="img/paradb1.gif" data-background-size="65%" data-background-position="right" -->
 
-====
-
-<img src="img/FIG55.png" style="background:none; border:3; box-shadow:none;">
-
-====
-
-<img src="img/FIG56.png" style="background:none; border:3; box-shadow:none;">
-
-====
-
-<img src="img/FIG57.png" style="background:none; border:3; box-shadow:none;">
-
-====
-
-<img src="img/FIG58.png" style="background:none; border:3; box-shadow:none;">
+<div style="width:100%; text-align: center;">
+    <div style="width: 30%;">
+        <blockquote style="padding-right: 1em">
+            <p><b><center>Acesso local</center></b></p>
+            <p><b><center>ParaDB</center></b></p>
+        </blockquote>
+    </div>
+</div>
 
 ====
 

@@ -47,7 +47,7 @@ baseado em contêineres Docker
 
 ====
 
-<!-- .slide: data-background="img/paradb1.gif" data-background-size="65%" data-background-position="right" -->
+<!-- .slide: data-background="img/paradb2.gif" data-background-size="65%" data-background-position="right" -->
 
 <div style="width:100%; text-align: center;">
     <div style="width: 30%;">

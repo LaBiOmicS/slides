@@ -121,7 +121,7 @@ doi: https://doi.org/10.1093/bioinformatics/btx554
 
 ====
 
-<!-- .slide: data-background="img/dugong.gif"  data-background-size="1204px 680px"  -->
+<!-- .slide: data-background="img/circompara.gif"  data-background-size="1204px 680px"  -->
 
 ====
 

@@ -12,9 +12,7 @@ doi: https://doi.org/10.1371/journal.pntd.0007576
 
 ====
 
-Desenvolvimento do trabalho:
-
-# Plano de Fundo
+## Plano de Fundo
 
 - Pb01, Pb03, Pb18 - genoma V1
 - Genomas disponíveis no Broad Institute

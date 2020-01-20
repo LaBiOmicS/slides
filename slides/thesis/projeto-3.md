@@ -18,6 +18,12 @@ Desenvolvimento do trabalho:
 
 ====
 
+<img src="img/FIG52.png" style="background:none; border:none; box-shadow:none;">
+
+====
+
+<!-- .slide: data-background="img/FIG52.png"  data-background-size="1058px 794px"  -->
+
 Contribuição:
 
 # Database-as-a-Service

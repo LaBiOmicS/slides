@@ -17,11 +17,11 @@ doi: https://doi.org/10.1093/gigascience/giz041
 ====
 
 
-<!-- .slide: data-background="img/bioportainer1.gif" -->
+<!-- .slide: data-background="img/bioportainer1.gif" data-background-size="1204px 680px" -->
 
 ====
 
-<!-- .slide: data-background="img/bioportainer2.gif"  data-background-size="1204px 680px"  -->
+<!-- .slide: data-background="img/bioportainer2.gif" data-background-size="1204px 680px" -->
 
 ====
 

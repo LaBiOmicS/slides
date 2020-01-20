@@ -64,7 +64,7 @@ baseado em contêineres Docker
 
 <p class="fragment" align="justify" data-fragment-index="1"> - Primeiro DbaaS focado em Bioinformática. </p>
 
-<p class="fragment" align="justify" data-fragment-index="2"> - Infraestrutura de alta disponibilidade </p>
+<p class="fragment" align="justify" data-fragment-index="2"> - Infraestrutura de alta disponibilidade. </p>
 
 <p class="fragment" align="justify" data-fragment-index="3"> - Instalação de espelhos locais. </p>
 

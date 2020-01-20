@@ -40,6 +40,10 @@ Problemas de
 
 ====
 
+<!-- .slide: data-background="img/FIG60.png" data-background-size="1819px 979px" -->
+
+====
+
 Definindo
 
 # Terminologias

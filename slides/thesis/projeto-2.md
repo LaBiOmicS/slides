@@ -45,8 +45,8 @@ doi: https://doi.org/10.1093/gigascience/giz041
         <blockquote style="padding-right: 1em">
             <p><b><center>Camada de</center></b></p>
             <p><b><center>Plataforma</center></b></p><br>
-            <p><b><center><small>BioPortainer Bioinformatics Plataforms.</small></center></b></p><br>
-            <p><center><small>68 plataformas em 11 categorias.</small></center></p><br>
+            <p><b><center><small>BioPortainer Bioinformatics Plataforms</small></center></b></p>
+            <p><center><small><small>68 plataformas em 11 categorias.</small></small></center></p>
         </blockquote>
     </div>
 </div>

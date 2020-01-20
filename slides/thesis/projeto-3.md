@@ -18,7 +18,7 @@ Desenvolvimento do trabalho:
 
 ====
 
-<img src="img/FIG52.png" style="background:none; border:none; box-shadow:none;">
+<img src="img/FIG32.png" style="background:none; border:none; box-shadow:none;">
 
 ====
 

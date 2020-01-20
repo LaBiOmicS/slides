@@ -6,7 +6,7 @@
 - Contextualização e Fundamentação Teórica.
 - Objetivos.
 - Ferramentas Desenvolvidas:
-  - Dugong.
-  - BioPortainer.
-  - ParaDB.
+  - Projeto 1: Dugong.
+  - Projeto 2: BioPortainer.
+  - Projeto 3: ParaDB.
 - Considerações Finais.

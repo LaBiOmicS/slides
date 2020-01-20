@@ -29,7 +29,7 @@ doi: https://doi.org/10.1093/gigascience/giz041
 <div style="width:100%; text-align: center;">
     <div style="width: 30%;">
         <blockquote style="padding-right: 1em">
-            <p><b><center>Camada de</center></b><br>
+            <p><b><center>Camada de</center></b>
             <b><center>Infraestrutura</center></b></p>
             <p><b><center><small>BioPortainer Panel</small></center></b></p><br>
         </blockquote>

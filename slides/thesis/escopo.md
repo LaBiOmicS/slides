@@ -7,8 +7,7 @@ Objeto Primário de Estudo:
 
 Objeto Secundário de Estudo:
 
-## Utilização de contêineres Docker e
-## modelos de serviço de Computação em Nuvem
+## Utilização de contêineres Docker
 ## na Bioinformática
 
 ====

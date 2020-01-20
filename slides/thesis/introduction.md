@@ -73,6 +73,14 @@ Definição do:
 
 ====
 
+Um problema cientifico:
+
+# Crise de
+
+# Reprodutibilidade
+
+====
+
 Em 2016...
 
 > *"Mais de 70% dos pesquisadores tentaram e não conseguiram reproduzir os experimentos de outros cientistas, e mais da metade não conseguiu reproduzir seus próprios experimentos."*
@@ -90,12 +98,6 @@ Em 2016...
 ====
 
 <!-- .slide: data-background="img/FIG8.png" data-background-size="1819px 979px" -->
-
-====
-
-Crise de
-
-# Reprodutibilidade Computacional
 
 ====
 

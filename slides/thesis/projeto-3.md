@@ -16,6 +16,14 @@ Desenvolvimento do trabalho:
 
 # Plano de Fundo
 
+- Pb01, Pb03, Pb18 - genoma V1
+- Genomas disponíveis no Broad Institute
+- Resequenciamento Pb01, Pb03, Pb18 - genoma V2
+- Broad Institute descontinuado
+- Pb300 e PbCHN
+- Migração dos dados para outros bancos de dados
+- Anotação funcional conflitante nos novos bancos de dados
+
 ====
 
 <img src="img/FIG32.png" style="background:none; border:none; box-shadow:none;">

@@ -58,7 +58,8 @@ Sem qualquer curadoria manual e real validação
 
 Problema:
 
-# BDs com versões conflitantes
+# Versões e Dados
+# Conflitantes
 
 ====
 

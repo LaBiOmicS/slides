@@ -106,7 +106,7 @@ utilizando PHP + MYSQL
 
 ====
 
-<img src="img/FIG53.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
+<!-- .slide: data-background="img/FIG53.png" data-background-size="1519px 565px"  -->
 
 ====
 

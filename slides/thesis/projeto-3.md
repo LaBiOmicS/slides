@@ -110,16 +110,15 @@ utilizando PHP + MYSQL
 
 ====
 
-<img src="img/FIG54.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
+<!-- .slide: data-background="img/FIG54.png" data-background-size="1519px 565px"  -->
 
 ====
 
-<img src="img/FIG55.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
+<!-- .slide: data-background="img/FIG55.png" data-background-size="1519px 565px"  -->
 
 ====
 
-<img src="img/FIG56.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
-
+<!-- .slide: data-background="img/FIG56.png" data-background-size="1519px 565px"  -->
 
 ====
 

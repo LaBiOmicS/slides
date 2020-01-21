@@ -24,11 +24,18 @@ doi: https://doi.org/10.1371/journal.pntd.0007576
 
 ====
 
-### Sequenciamento dos isolados:
+## Sequenciamento dos isolados:
+
+<!-- .slide: data-background="img/FIG61.png"  data-background-size="1262px 590px"  -->
+
 
 ====
 
-### Banco de Dados Broad Institute (Iniciativa de Genomas Fúngicos)
+## Banco de Dados Broad Institute
+
+<!-- .slide: data-background="img/FIG62.png"  data-background-size="1058px 794px"  -->
+
+### Iniciativa de Genomas Fúngicos
 
 ====
 

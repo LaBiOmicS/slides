@@ -51,22 +51,13 @@ Tentativa de solução:
 
 Sem qualquer curadoria manual e real validação
 
-====
-
-Dados disponibilizados em:
-
-# Bancos de Dados 
-# genéricos ou especializados
-
-RefSeq/Genbank, Ensembl, MycoCosm e FungiDB
+<small>RefSeq/Genbank, Ensembl, MycoCosm e FungiDB</small>
 
 ====
 
 Problema:
 
-# Confusão nos Dados
-
-BDs com versões conflitantes
+# BDs com versões conflitantes
 
 ====
 

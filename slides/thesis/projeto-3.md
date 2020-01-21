@@ -14,13 +14,13 @@ doi: https://doi.org/10.1371/journal.pntd.0007576
 
 ## Histórico
 
-<p class="fragment" align="justify" data-fragment-index="1">- Fungos dimórficos patogênicos</p>
-<p class="fragment" align="justify" data-fragment-index="2">- Gênero: Paracoccidioides</p>
+<p class="fragment" align="justify" data-fragment-index="1">- Gênero: Paracoccidioides</p>
+<p class="fragment" align="justify" data-fragment-index="2">- Fungos dimórficos patogênicos</p>
 <p class="fragment" align="justify" data-fragment-index="3">- Doença tropical negligenciada</p>
 <p class="fragment" align="justify" data-fragment-index="4">- Paracoccidioidomicose (PCM) </p>
 <p class="fragment" align="justify" data-fragment-index="5">- Responsável por +- 2 milhões de óbitos / ano</p>
-<p class="fragment" align="justify" data-fragment-index="6"> - Cinco grupos filogenéticos distintos:</p>
-<p class="fragment" align="justify" data-fragment-index="7"> - Pb01, Pb03, Pb18, Pb300 e PbCNH</p>
+<p class="fragment" align="justify" data-fragment-index="6">- Cinco grupos filogenéticos distintos:</p>
+<p class="fragment" align="justify" data-fragment-index="7">- Pb01, Pb03, Pb18, Pb300 e PbCNH</p>
 
 ====
 

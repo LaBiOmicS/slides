@@ -28,6 +28,10 @@ doi: https://doi.org/10.1371/journal.pntd.0007576
 
 ====
 
+<!-- .slide: data-background="img/FIG51.png"  data-background-size="1058px 794px"  -->
+
+====
+
 Contribuição:
 
 # Database-as-a-Service

@@ -106,6 +106,14 @@ utilizando PHP + MYSQL
 
 ====
 
+<img src="img/FIG53.png" width="80%" height="80%" style="background:none; border:none; box-shadow:none;">
+
+====
+
+<img src="img/FIG54.png" width="80%" height="80%" style="background:none; border:none; box-shadow:none;">
+
+====
+
 <img src="img/FIG32.png" style="background:none; border:none; box-shadow:none;">
 
 ====

@@ -12,15 +12,80 @@ doi: https://doi.org/10.1371/journal.pntd.0007576
 
 ====
 
-## Plano de Fundo
+<p class="fragment" align="justify" data-fragment-index="1">- Fungos dimórficos patogênicos</p>
+<p class="fragment" align="justify" data-fragment-index="2">- Gênero: Paracoccidioides</p>
+<p class="fragment" align="justify" data-fragment-index="3">- Doença tropical negligenciada</p>
+<p class="fragment" align="justify" data-fragment-index="4">- Paracoccidioidomicose (PCM) </p>
+<p class="fragment" align="justify" data-fragment-index="5">- Responsável por +- 2 milhões de óbitos / ano</p>
+<p class="fragment" align="justify" data-fragment-index="6"> - Cinco grupos filogenéticos distintos:</p>
+<p class="fragment" align="justify" data-fragment-index="7"> - Pb01, Pb03, Pb18, Pb300 e PbCNH</p>
 
-<p class="fragment" align="justify" data-fragment-index="1"> - Pb01, Pb03, Pb18 - genoma V1 </p>
-<p class="fragment" align="justify" data-fragment-index="2"> - Genomas disponíveis no Broad Institute </p>
-<p class="fragment" align="justify" data-fragment-index="3"> - Resequenciamento Pb01, Pb03, Pb18 - genoma V2 </p>
-<p class="fragment" align="justify" data-fragment-index="4"> - Broad Institute descontinuado </p>
-<p class="fragment" align="justify" data-fragment-index="5"> - Pb300 e PbCHN </p>
-<p class="fragment" align="justify" data-fragment-index="6"> - Migração dos dados para outros bancos de dados </p>
-<p class="fragment" align="justify" data-fragment-index="7"> - Anotação funcional conflitante nos novos bancos de dados </p>
+====
+
+### Sequenciamento dos isolados:
+
+====
+
+### Banco de Dados Broad Institute (Iniciativa de Genomas Fúngicos)
+
+====
+
+Em 2015 o BD foi
+
+# Descontinuado
+
+====
+
+Tentativa de solução:
+
+# Dados Migrados
+
+Sem qualquer curadoria manual e real validação
+
+====
+
+Dados disponibilizados em:
+
+# Bancos de Dados 
+# genéricos ou especializados
+
+RefSeq/Genbank, Ensembl, MycoCosm e FungiDB
+
+====
+
+Problema:
+
+# Confusão nos Dados
+
+BDs com versões conflitantes
+
+====
+
+Mais de 80% dos genes:
+
+# Proteínas Hipotéticas
+
+Sem valor funcional para análises biológicas
+
+====
+
+Decisão:
+
+# Reanotação Funcional
+
+dos cinco isolados disponíveis
+
+====
+
+### Dissertação David Aciole
+
+====
+
+Processo de:
+
+# Curadoria Manual
+
+Mais de 3 meses e diversos envolvidos
 
 ====
 

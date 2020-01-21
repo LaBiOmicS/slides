@@ -106,19 +106,19 @@ utilizando PHP + MYSQL
 
 ====
 
-<!-- .slide: data-background="img/FIG53.png" data-background-size="1519px 565px"  -->
+<!-- .slide: data-background="img/FIG53.png" data-background-size="1219px 265px"  -->
 
 ====
 
-<!-- .slide: data-background="img/FIG54.png" data-background-size="1519px 565px"  -->
+<!-- .slide: data-background="img/FIG54.png" data-background-size="1219px 265px"  -->
 
 ====
 
-<!-- .slide: data-background="img/FIG55.png" data-background-size="1519px 565px"  -->
+<!-- .slide: data-background="img/FIG55.png" data-background-size="1219px 265px"  -->
 
 ====
 
-<!-- .slide: data-background="img/FIG56.png" data-background-size="1519px 565px"  -->
+<!-- .slide: data-background="img/FIG56.png" data-background-size="1219px 265px"  -->
 
 ====
 

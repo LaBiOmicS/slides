@@ -94,6 +94,11 @@ Mais de 3 meses e diversos envolvidos
 
 ====
 
+<img src="img/FIG51.png" style="background:none; border:none; box-shadow:none;">
+
+
+====
+
 <img src="img/FIG32.png" style="background:none; border:none; box-shadow:none;">
 
 ====

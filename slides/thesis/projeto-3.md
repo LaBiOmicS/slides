@@ -33,7 +33,7 @@ doi: https://doi.org/10.1371/journal.pntd.0007576
 
 ## BD Broad Institute
 
-<img src="img/FIG62.png" style="background:none; border:none; box-shadow:none;">
+<img src="img/FIG62.png" width="80%" height="80%" style="background:none; border:none; box-shadow:none;">
 
 ### Iniciativa de Genomas Fúngicos
 

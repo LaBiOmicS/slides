@@ -12,7 +12,7 @@ doi: https://doi.org/10.1371/journal.pntd.0007576
 
 ====
 
-# Histórico
+## Histórico
 
 <p class="fragment" align="justify" data-fragment-index="1">- Fungos dimórficos patogênicos</p>
 <p class="fragment" align="justify" data-fragment-index="2">- Gênero: Paracoccidioides</p>

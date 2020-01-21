@@ -136,7 +136,7 @@ Tentativa de solucionar o problema:
 
 ## Problemas:
 <br>
-<p class="fragment" align="justify" data-fragment-index="1">- Difícil manutenção do Sistema Operacional (SO).</p>
+<p class="fragment" align="justify" data-fragment-index="1">- Difícil manutenção do Sistema Operacional.</p>
 <p class="fragment" align="justify" data-fragment-index="2">- Conhecimento avançado para o desenvolvimento.</p>
 <p class="fragment" align="justify" data-fragment-index="3">- Necessidade de uma comunidade de apoio.</p>
 <p class="fragment" align="justify" data-fragment-index="4">- Falta de compatibilidade com diferentes hardwares.</p>

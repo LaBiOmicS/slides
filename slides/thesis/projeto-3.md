@@ -122,10 +122,6 @@ utilizando PHP + MYSQL
 
 ====
 
-<img src="img/FIG32.png" style="background:none; border:none; box-shadow:none;">
-
-====
-
 2ª Contribuição:
 
 # Infraestrutura para
@@ -146,7 +142,6 @@ Instalação local via Contêineres Docker
 <small> Banco de Dados como Serviço</small>
 
 ====
-
 
 <!-- .slide: data-background="img/paradb1.gif" data-background-size="65%" data-background-position="right" -->
 
@@ -171,6 +166,10 @@ Instalação local via Contêineres Docker
         </blockquote>
     </div>
 </div>
+
+====
+
+<img src="img/FIG32.png" style="background:none; border:none; box-shadow:none;">
 
 ====
 

@@ -81,6 +81,9 @@ dos cinco isolados disponíveis
 
 ### Dissertação David Aciole
 
+<img src="img/FIG49.png" style="background:none; border:none; box-shadow:none;">
+
+
 ====
 
 Processo de:

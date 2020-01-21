@@ -42,6 +42,7 @@ doi: https://doi.org/10.1371/journal.pntd.0007576
 Em 2015 o BD foi
 
 # Descontinuado
+tornando indisponível as anotações para a comunidade
 
 ====
 

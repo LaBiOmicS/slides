@@ -126,21 +126,27 @@ utilizando PHP + MYSQL
 
 ====
 
-<!-- .slide: data-background="img/FIG51.png"  data-background-size="1058px 794px"  -->
+2ª Contribuição:
 
-====
-
-Contribuição:
-
-# Database-as-a-Service
-
-baseado em contêineres Docker
+# Infraestrutura para
+# Alta Disponibilidade
 
 ====
 
 <!-- .slide: data-background="img/FIG52.png"  data-background-size="1058px 794px"  -->
 
 ====
+
+3ª Contribuição:
+
+# Espelhos Locais
+
+Instalação local via Contêineres Docker
+
+<small> Banco de Dados como Serviço</small>
+
+====
+
 
 <!-- .slide: data-background="img/paradb1.gif" data-background-size="65%" data-background-position="right" -->
 

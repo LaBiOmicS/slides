@@ -191,8 +191,6 @@ Tentativa de solucionar o problema:
 
 ====
 
-<!-- .slide: data-background="img/FIG36.png" data-background-size="1819px 979px" -->
-
 <img src="img/FIG16.png" width="100%" height="100%" style="background:none; border:none; box-shadow:none;">
 
 ====

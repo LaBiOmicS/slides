@@ -1,12 +1,4 @@
 </br>
-</br>
 # Bioinformática no Núcleo Integrado de Biotecnologia da UMC
 </br>
-## O que é? O que fazemos?
-</br>
-Fabiano Bezerra Menegidio
-</br>
-<small> ***Orientador:*** Prof. Dr. Luiz R. Nunes</small>
-</br>
-<small> ***Tese de Doutorado - 2020***</small>
-</br>
+## Aplicabilidade da Bioinformática em diferentes áreas da Biotecnologia e Biologia Molecular.

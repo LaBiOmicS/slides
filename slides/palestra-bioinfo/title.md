@@ -1,6 +1,6 @@
 </br>
 </br>
-# Bioinformática no Núcleo Integrado de Biotecnologia (NIB) da UMC
+# Bioinformática no Núcleo Integrado de Biotecnologia da UMC
 </br>
 ## O que é? O que fazemos?
 </br>

@@ -1,4 +1,4 @@
 </br>
-# Bioinformática no Núcleo Integrado de Biotecnologia da UMC
+## Bioinformática no Núcleo Integrado de Biotecnologia da UMC
 </br>
-## Aplicabilidade da Bioinformática em diferentes áreas da Biotecnologia e Biologia Molecular.
+### Aplicabilidade da Bioinformática em diferentes áreas da Biotecnologia e Biologia Molecular.

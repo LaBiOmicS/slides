@@ -2,7 +2,8 @@
 
 Pausa dramática...
 
-## AFINAL, O QUE É BIOINFORMÁTICA?
+# AFINAL, 
+# O QUE É BIOINFORMÁTICA?
 
 ====
 

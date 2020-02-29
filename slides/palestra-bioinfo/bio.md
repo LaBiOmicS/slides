@@ -1,11 +1,11 @@
 <!-- .slide: class="author" -->
 
-## Prof. Dr. Fabiano B. Menegidio
+## Prof. Dr. Fabiano Menegidio
 
 - ![avatar][avatar] <!-- .element: class="pull-right" -->
 - Computeiro e Biólogo
 - Bioinformata e Biólogo Computacional
-- Doutor em Biotecnologia pela UMC
+- Doutor e Mestre em Biotecnologia pela UMC
 - Atuando com diferentes áreas das Ômicas
 - Interesse em reprodutibilidade, replicabilidade
     e Ciência Livre com Software Livre

@@ -10,7 +10,7 @@
 - Interesse em reprodutibilidade, replicabilidade
     e Ciência Livre com Software Livre
 
-[fabiano.menegidio@biology.bio.br][blog]
+[fabiano.menegidio@biology.bio.br][e-mail]
 
 [fabianomenegidio.github.io/slides][slides]
 

@@ -14,4 +14,4 @@
 
 [fabianomenegidio.github.io/slides][slides]
 
-[avatar]: ../shared/img/menegidio.jpg
+[avatar]: ../shared/img/foto.jpg

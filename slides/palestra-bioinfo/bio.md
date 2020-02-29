@@ -14,4 +14,4 @@
 
 [fabianomenegidio.github.io/slides][slides]
 
-[avatar]: ../shared/img/foto.jpg
+[avatar]: ../shared/img/foto.png

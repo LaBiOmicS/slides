@@ -1,5 +1,5 @@
-## Análise de Bioinformática utilizando o Projeto Galaxy para a Genômica da Conservação
+## INTRODUÇÃO À BIOINFORMÁTICA
 
-### IX SACBIO UFV-CRP
+### Programa de Pós-Graduação em Biotecnologia
 
 <small>Versão 0.0.1</small>

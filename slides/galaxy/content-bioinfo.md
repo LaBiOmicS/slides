@@ -1,4 +1,4 @@
-### Por que falar de Bioinformática nas Ciências da Conservação?
+### Por que falar de Bioinformática na Biotecnologia?
 
 ====
 
@@ -6,7 +6,7 @@
 
 ====
 
-## Onde a Bioinformática pode ser utilizada nas Ciências da Conservação?
+## Onde a Bioinformática pode ser utilizada na Biotecnologia?
 
 ====
 

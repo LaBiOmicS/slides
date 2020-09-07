@@ -1,4 +1,4 @@
-### Por que falar de Bioinformática na Biotecnologia?
+### Por que precisamos falar de Bioinformática?
 
 ====
 

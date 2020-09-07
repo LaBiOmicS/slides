@@ -1,17 +1,14 @@
 <!-- .slide: data-background="img/motivation.jpg" -->
 
-### O que é Bioinformática?
-### Qual a correlação com o Elefante?
+Pausa dramática...
 
-<img src="img/logos/elefante.png" style="background:none; border:none; box-shadow:none;">
+## AFINAL, O QUE É BIOINFORMÁTICA?
 
 ====
 
-<!-- .slide: data-background="img/motivation.jpg" -->
-
-> ### Bioinformática
+> ### Bioinformática:
 >
-> "Pesquisa, desenvolvimento e aplicação de ferramentas e abordagens computacionais que permitem o **uso de dados** biológicos, comportamentais ou da área de saúde, incluindo sua aquisição, organização, visualização, análise e **armazenamento**."
+> "Pesquisa, desenvolvimento e aplicação de ferramentas e abordagens computacionais que permitem o uso de de dados biológicos, comportamentais ou da área de saúde, incluindo sua aquisição, organização, visualização, análise e armazenamento."
 
 -- <cite>National Center for Biotechnology Information</cite>
 
@@ -36,17 +33,17 @@
 
 ====
 
-<!-- .slide: data-background="img/motivation.jpg" -->
+![avatar][avatar]
 
+[avatar]: ../shared/img/bioinformatics.png
+
+====
 
 ### Origem da Bioinformática
 
 1960 - Origens da Bioinformática e da Biologia Computacional
 
 ====
-
-<!-- .slide: data-background="img/motivation.jpg" -->
-
 
 Fatores motivadores:
 
@@ -55,8 +52,6 @@ Fatores motivadores:
 - (iii) disponibilidade de computadores mais velozes nas principais universidades e centros de pesquisa. 
 
 ====
-
-<!-- .slide: data-background="img/motivation.jpg" -->
 
 <!-- .slide: class="author" -->
 
@@ -77,9 +72,6 @@ Fatores motivadores:
 
 ====
 
-<!-- .slide: data-background="img/motivation.jpg" -->
-
-
 <!-- .slide: class="author" -->
 
 ##  Margaret Dayhoff
@@ -96,3 +88,19 @@ Fatores motivadores:
     aminoácidos.
     
 [avatar]: ../shared/img/Dayhoff.jpeg
+    
+====
+
+## Quem são os bioinformatas?
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/bioinformata.png
+
+====
+
+## O que é preciso para ser um?
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/preciso.png

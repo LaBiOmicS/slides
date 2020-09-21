@@ -106,8 +106,6 @@ Fatores motivadores:
 
 ## Onde a Bioinformática pode ser utilizada?
 
-====
-
 - Todas as áreas da **Ômicas** na Biologia Molecular
 - Na produção de novos fármacos e vacinas
 - Nas análises genéticas e comportamentais
@@ -132,3 +130,12 @@ Fatores motivadores:
 [avatar]: ../shared/img/preciso.png
 
 ====
+
+## Com o que trabalha um bioinformata?
+
+- Dados de sequenciamento de genomas, transcriptomas, proteomas, etc.
+- Dados de sequência disponíveis em **bancos de dados biológicos**.
+- Alinhamento de sequências para identificar similaridade.
+- Análises de expressão diferencial de genes.
+- Montagem de genomas de organismos
+- entre outros.

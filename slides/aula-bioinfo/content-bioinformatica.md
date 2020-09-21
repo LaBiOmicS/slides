@@ -124,11 +124,9 @@ Fatores motivadores:
 
 ====
 
-- Genômica = análise de genomas completos (funcional e estrutural)
-- Transcriptômica = análise de transcriptomas (análise de todos os mRNA expressos em um momento)
-- Proteômica = análise de proteomas (análise de todas as proteínas produzidas em um momento)
-- Microbioma e Metagenômica - análise do conjunto de organismos que habitam um determinado hospedeiro
-- Produção de Fármacos
-- entre outros.
+- Todas as áreas da **Ômicas** na Biologia Molecular
+- Na produção de novos fármacos e vacinas
+- Nas análises genéticas e comportamentais
+- Na Biotecnologia como um todo
 
 ====

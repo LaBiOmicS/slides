@@ -112,6 +112,8 @@ Fatores motivadores:
 - Na produção de novos fármacos e vacinas
 - Nas análises genéticas e comportamentais
 - Na Biotecnologia como um todo
+- Como auxiliar no tratamento e diagnóstico de doenças.
+- **Praticamente em tudo que tenha Biologia Molecular e Genética**
 
 ====
 

@@ -131,10 +131,10 @@ Fatores motivadores:
 
 ====
 
-## Com o que trabalha um bioinformata?
+## Com o que trabalham?
 
-- Dados de sequenciamento de genomas, transcriptomas, proteomas, etc.
-- Dados de sequência disponíveis em **bancos de dados biológicos**.
+- Dados de sequenciamento.
+- Sequências disponíveis em **bancos de dados biológicos**.
 - Alinhamento de sequências para identificar similaridade.
 - Análises de expressão diferencial de genes.
 - Montagem de genomas de organismos

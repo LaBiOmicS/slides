@@ -96,22 +96,6 @@ Fatores motivadores:
     
 ====
 
-## Quem são os bioinformatas?
-
-![avatar][avatar]
-
-[avatar]: ../shared/img/bioinformata.png
-
-====
-
-## O que é preciso para ser um?
-
-![avatar][avatar]
-
-[avatar]: ../shared/img/preciso.png
-
-====
-
 ### Por que precisamos falar de Bioinformática?
 
 ====
@@ -128,5 +112,21 @@ Fatores motivadores:
 - Na produção de novos fármacos e vacinas
 - Nas análises genéticas e comportamentais
 - Na Biotecnologia como um todo
+
+====
+
+## Quem são os bioinformatas?
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/bioinformata.png
+
+====
+
+## O que é preciso para ser um?
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/preciso.png
 
 ====

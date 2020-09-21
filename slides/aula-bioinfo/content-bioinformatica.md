@@ -1,9 +1,7 @@
 <!-- .slide: data-background="img/motivation.jpg" -->
 
-====
-
-# Introdução à Bioinformática
-### Parte 1
+## Introdução à Bioinformática
+#### Parte 1
 
 ====
 

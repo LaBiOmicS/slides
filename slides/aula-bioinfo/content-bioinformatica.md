@@ -109,3 +109,26 @@ Fatores motivadores:
 ![avatar][avatar]
 
 [avatar]: ../shared/img/preciso.png
+
+====
+
+### Por que precisamos falar de Bioinformática?
+
+====
+
+> "O crescente uso de métodos computacionais para análise de dados biológicos e a constante expansão nos campos da bioinformática e biologia computacional revolucionaram o estudo da biologia nas últimas décadas."
+
+====
+
+## Onde a Bioinformática pode ser utilizada?
+
+====
+
+- Genômica = análise de genomas completos (funcional e estrutural)
+- Transcriptômica = análise de transcriptomas (análise de todos os mRNA expressos em um momento)
+- Proteômica = análise de proteomas (análise de todas as proteínas produzidas em um momento)
+- Microbioma e Metagenômica - análise do conjunto de organismos que habitam um determinado hospedeiro
+- Produção de Fármacos
+- entre outros.
+
+====

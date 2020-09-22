@@ -31,3 +31,12 @@ Pausa dramática...
 - **Especializados:** armazena informações de determinadas espécies, organismos ou tipo de estrutura. 
 
 ====
+
+## TIPOS DE ARQUIVOS ARMAZENADOS
+
+- Arquivo de sequência FASTA
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/Fig6.jpg
+

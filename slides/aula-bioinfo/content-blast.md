@@ -217,13 +217,15 @@ Estudo Dirigido - Laboratório 2
 
 ====
 
-14- Mais informações sobre os parâmetros existentes na ferramenta estão disponíveis no arquivo PDF do ESTUDO DIRIGIDO: MÉTODOS BIOINFORMÁTICOS II.
+## OBSERVAÇÃO
+
+Mais informações sobre os parâmetros existentes na ferramenta estão disponíveis no arquivo PDF do ESTUDO DIRIGIDO: MÉTODOS BIOINFORMÁTICOS II.
 
 Para esse tutorial vamos utilizar os parâmetros padrões.
 
 ====
 
-15- Depois de colar a sequência, habilite a opção Show results in a new window e clique em BLAST:
+14- Depois de colar a sequência, habilite a opção Show results in a new window e clique em BLAST:
 
 ![avatar][avatar]
 
@@ -231,7 +233,7 @@ Para esse tutorial vamos utilizar os parâmetros padrões.
 
 ====
 
-16- O BLAST iniciará sua pesquisa de similaridade comparando sua sequência de nucleotídeos com o seu banco de dados com milhares de sequência. Isso pode demorar um pouco. Aproveite e relembre no PDF o que é um Alinhamento Local:
+15- O BLAST iniciará sua pesquisa de similaridade comparando sua sequência de nucleotídeos com o seu banco de dados com milhares de sequência. Isso pode demorar um pouco. Aproveite e relembre no PDF o que é um Alinhamento Local:
 
 ![avatar][avatar]
 

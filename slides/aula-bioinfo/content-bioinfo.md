@@ -76,3 +76,33 @@ https://www.ncbi.nlm.nih.gov/
 ![avatar][avatar]
 
 [avatar]: ../shared/img/2.png
+
+====
+
+Pausa dramática...
+
+## PARA QUE APRENDER?
+
+====
+
+> Sendo o principal banco de dados de informações biomoleculares, genéticas, médicas e biotecnológicas, o BD do NCBI é essencial para qualquer pessoa que pretenda trabalhar com pesquisa ou em áreas relacionadas à saúde.
+
+====
+
+Mão na massa...
+
+## MÉTODOS BIOINFORMÁTICOS I
+
+Estudo Dirigido - Laboratório 1
+
+====
+
+## OJETIVOS:
+
+- Acessar o site do NCBI
+- Conhecer sua interface
+- Conhecer os principais bancos de dados
+- Realizar uma pesquisa
+- Encontrar dados biológicos relevantes.
+
+====

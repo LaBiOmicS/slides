@@ -255,9 +255,26 @@ A primeira parte, apresentará detalhes da pesquisa realizada e opções para fi
 
 17- Logo abaixo, um menu composto por 4 abas também exibido.
 
-A primeira aba Description, apresenta detalhes das sequências do BD que alinharam com significância estatística contra a sequência de teste.
+A Descriptions apresenta detalhes das sequências do BD que alinharam contra a sequência de teste.
 
 ![avatar][avatar]
 
 [avatar]: ../shared/img/25.png
 
+====
+
+## OBSERVAÇÃO
+
+Mais detalhes de como interpretar as colunas da aba Descriptions estão disponíveis no arquivo PDF do ESTUDO DIRIGIDO: MÉTODOS BIOINFORMÁTICOS II.
+
+====
+
+18- Na aba Graphic Summary temos uma exibição gráfica dos alinhamentos demonstrando o nível de cobertura dos alinhamentos.
+
+Ao clicar nas linhas coloridas é possível verificar qual a sequência do BD se refere
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/26.png
+
+====

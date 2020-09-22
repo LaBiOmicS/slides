@@ -48,8 +48,6 @@ Pausa dramática...
 
 [avatar]: ../shared/img/1.png
 
-https://www.ncbi.nlm.nih.gov/
-
 ====
 
 ## CARACTERÍSTICAS

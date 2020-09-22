@@ -121,7 +121,7 @@ Estudo Dirigido - Laboratório 2
 
 ====
 
-1- Primeiro vamos obter nossa sequẽncia de pesquisa. Acesse: https://www.ncbi.nlm.nih.gov/
+1- Primeiro vamos obter nossa sequência de pesquisa. Acesse: https://www.ncbi.nlm.nih.gov/
 
 ![avatar][avatar]
 

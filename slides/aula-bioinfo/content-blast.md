@@ -311,6 +311,8 @@ O BLAST fornece muitas outras opções e uma alta complexidade de análises. Ess
 
 ====
 
-## CONCLUSÃO
+Mão na massa...
 
-O BLAST fornece muitas outras opções e uma alta complexidade de análises. Essa é uma simples apresentação da ferramenta e do que ela pode fazer.
+## EXERCÍCIO PROPOSTO
+
+Estudo Dirigido - Laboratório 2

@@ -15,6 +15,10 @@ Pausa dramática...
 
 ====
 
+### O NCBI é a ferramenta de Bioinformática mais famosa e mais utilizada no Mundo!
+
+====
+
 ## SITE DO NCBI BLAST
 
 ![avatar][avatar]
@@ -35,3 +39,10 @@ Pausa dramática...
 > O BLAST permite a pesquisa de sequências no formato FASTA de nucleotídeos e aminoácidos.
 
 ====
+
+## QUATRO PASSOS PARA A PESQUISA:
+
+(1) Escolha a sequência ('query')
+(2) Selecione o tipo de BLAST
+(3) Escolha o banco de dados para pesquisar
+(4) Escolha os parâmetros opcionais

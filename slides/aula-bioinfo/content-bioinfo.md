@@ -139,7 +139,7 @@ Estudo Dirigido - Laboratório 1
 
 ====
 
-5. Observe quantas informações podem ser obtidas com esse termo:
+5. Observe quantas informações podem ser obtidas:
 
 ![avatar][avatar]
 

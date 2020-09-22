@@ -9,7 +9,7 @@
 
 ====
 
-1. Você pode, por exemplo, testar novas ferramentas, como o PHYRE2
+1. Testar novas ferramentas como o PHYRE2
 
 ### http://www.sbg.bio.ic.ac.uk/~phyre2
 

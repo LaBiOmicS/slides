@@ -107,13 +107,13 @@ Estudo Dirigido - Laboratório 1
 
 ====
 
-### 1. Acesse o site do NCBI
+### 1. Acesse: https://www.ncbi.nlm.nih.gov/
 
 ![avatar][avatar]
 
 [avatar]: ../shared/img/1.png
 
-https://www.ncbi.nlm.nih.gov/
+
 
 ====
 

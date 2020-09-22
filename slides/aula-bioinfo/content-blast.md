@@ -177,7 +177,7 @@ Estudo Dirigido - Laboratório 2
 
 ====
 
-9- Agora temos acesso a sequência de nucleotídeos desse gene. Copie toda essa sequência para um arquivo do bloco de notas, pois utilizaremos ele em breve (copie apenas a parte selecionada na imagem):
+9- Agora temos acesso a sequência de nucleotídeos desse gene. Copie toda a parte selecionada na imagem da sequência para um arquivo do bloco de notas:
 
 ![avatar][avatar]
 
@@ -185,7 +185,7 @@ Estudo Dirigido - Laboratório 2
 
 ====
 
-1- Acesse: https://blast.ncbi.nlm.nih.gov/
+10- Agora, acesse em outra aba: https://blast.ncbi.nlm.nih.gov/
 
 ![avatar][avatar]
 
@@ -193,7 +193,7 @@ Estudo Dirigido - Laboratório 2
 
 ====
 
-2- Nessa tela podemos ver o site do NCBI BLAST e suas principais versões:
+11- Nessa tela podemos ver o site do NCBI BLAST e suas principais versões:
 
 ![avatar][avatar]
 

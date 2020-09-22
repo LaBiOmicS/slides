@@ -84,3 +84,31 @@ Informações básicas sobre o funcionamento do BLAST estão disponíveis no PDF
 Como o BLAST é uma ferramenta complexa, a ideia dessa aula é que os alunos possam interagir com essa ferramenta e realizar análises básicas para conhecê-la.
 
 ====
+
+Pausa dramática...
+
+## PARA QUE APRENDER?
+
+====
+
+> O BLAST é a ferramenta mais utilizada na Bioinformática e com certeza qualquer um que venha trabalhar com biologia molecular, independente do local, necesssitará utilizar esse ferramenta pelo menos uma vez.
+
+====
+
+Mão na massa...
+
+## MÉTODOS BIOINFORMÁTICOS II
+
+Estudo Dirigido - Laboratório 2
+
+====
+
+## OBJETIVOS:
+
+- Acessar o site do NCBI BLAST
+- Conhecer sua interface
+- Conhecer o Blastn e Blastp
+- Realizar uma busca de similaridade
+- Conhecer os seus principais resultados e como interpretá-los
+
+====

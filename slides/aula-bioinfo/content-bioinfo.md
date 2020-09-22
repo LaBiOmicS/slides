@@ -113,14 +113,20 @@ Estudo Dirigido - Laboratório 1
 
 [avatar]: ../shared/img/1.png
 
-
-
 ====
 
-Nessa tela podemos ver o site do NCBI e os bancos de dados que podem ser utilizados para pesquisas:
+### 2. Nessa tela podemos ver o site do NCBI e os bancos de dados que podem ser utilizados para pesquisas:
 
 ![avatar][avatar]
 
-[avatar]: ../shared/img/1.png
+[avatar]: ../shared/img/2.png
 
-Navegue pelo site do NCBI para conhecê-lo. Infelizmente ele é todo em inglês.
+====
+
+### 3. Na barra superior deixe em "ALL DATABASES" ou "Todos os bancos de dados":
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/3.png
+
+====

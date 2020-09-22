@@ -69,3 +69,10 @@ https://www.ncbi.nlm.nih.gov/
 - SNP: BD de mutações / variações de sequências associadas a doenças
 - Entre outros.
 
+====
+
+## DIFERENTES BDs
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/2.png

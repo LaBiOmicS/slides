@@ -206,3 +206,11 @@ Estudo Dirigido - Laboratório 2
 ![avatar][avatar]
 
 [avatar]: ../shared/img/20.png
+
+====
+
+12- No campo Enter Query Sequence cole a sequência de nucleotídeos que você copiou para o bloco de notas:
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/21.png

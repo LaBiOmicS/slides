@@ -240,3 +240,24 @@ Aproveite e relembre no PDF o que é um Alinhamento Local:
 ![avatar][avatar]
 
 [avatar]: ../shared/img/23.png
+
+====
+
+16- Ao término da pesquisa, uma janela dividida em diferentes seções será exibida.
+
+A primeira parte, apresentará detalhes da pesquisa realizada e opções para filtrar o resultado:
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/24.png
+
+====
+
+17- Logo abaixo, um menu composto por 4 abas também exibido.
+
+A primeira aba Description, apresenta detalhes das sequências do BD que alinharam com significância estatística contra a sequência de teste.
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/25.png
+

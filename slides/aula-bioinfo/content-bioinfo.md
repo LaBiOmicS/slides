@@ -227,3 +227,16 @@ Pausa dramática...
 
 ====
 
+Pausa dramática...
+
+## RESPONDA O QUESTIONÁRIO DISPONÍVEL NO PDF
+
+====
+
+15- Clique no link CDS e verifique a nova janela referente ao novo banco de dados acessado. Retorne ao banco anterior:
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/11.png
+
+====

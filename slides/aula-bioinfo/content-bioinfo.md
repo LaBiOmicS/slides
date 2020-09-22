@@ -199,7 +199,22 @@ Estudo Dirigido - Laboratório 1
 
 Pausa dramática...
 
-## RESPONDA O QUESTIONÁRIO DISPONÍVEL
+## RESPONDA O QUESTIONÁRIO DISPONÍVEL NO PDF
 
 ====
 
+12- Verifique que ao utilizar o ID NP_001318308 limitamos nossa pesquisa:
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/8.png
+
+====
+
+13- Clique na opção PROTEIN na sequência encontrada para o ID NP_001318308:
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/9.png
+
+====

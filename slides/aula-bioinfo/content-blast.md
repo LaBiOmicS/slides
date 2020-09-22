@@ -79,6 +79,7 @@ Pausa dramática...
 
 > Informações básicas sobre o funcionamento do BLAST estão disponíveis no PDF do ESTUDO DIRIGIDO: MÉTODOS BIOINFORMÁTICOS II.
 
+====
 
 ## OBSERVAÇÃO
 

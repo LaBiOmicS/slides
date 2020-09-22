@@ -57,3 +57,16 @@ Ao término, você poderá ver a possível estrutura 3D de sua proteína baseado
 
 ====
 
+2. Jogar enquanto aprende Bioinformática e Biologia Molecular:
+
+Alguns grupos de bioinformática desenvolveram jogos para ensinar detalhes da Biologia Molecular ou para gerar dados reais de pesquisa com o auxílio dos jogadores.
+
+====
+
+### FoldIT: https://fold.it/
+
+Nesse jogo, o participante brinca de quebra-cabeça com estruturas 3D de proteínas. Os dados gerados auxiliam na pesquisa de predição de estruturas 3D de proteínas.
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/33.png

@@ -233,7 +233,9 @@ Para esse tutorial vamos utilizar os parâmetros padrões.
 
 ====
 
-15- O BLAST iniciará sua pesquisa de similaridade comparando sua sequência de nucleotídeos com o seu banco de dados com milhares de sequência. Isso pode demorar um pouco. Aproveite e relembre no PDF o que é um Alinhamento Local:
+15- O BLAST iniciará sua pesquisa de similaridade comparando sua sequência com o BD do NCBI com milhares de sequência. Isso pode demorar um pouco. 
+
+Aproveite e relembre no PDF o que é um Alinhamento Local:
 
 ![avatar][avatar]
 

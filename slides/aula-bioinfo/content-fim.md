@@ -33,7 +33,7 @@ MAS isso não é um problema. Você pode utilizar a sequência de aminoácidos d
 
 Insira a sequência no campo Amino Acid Sequence, coloque seu email e um titulo, conforme exemplo:
 
-Clique Phyre Search.
+Clique em Phyre Search.
 
 ![avatar][avatar]
 

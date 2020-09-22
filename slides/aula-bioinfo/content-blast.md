@@ -198,3 +198,11 @@ Estudo Dirigido - Laboratório 2
 ![avatar][avatar]
 
 [avatar]: ../shared/img/13.png
+
+====
+
+12- Selecione a versão Nucleotide BLAST através do icone. O Blastn estará disponível para utilização:
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/20.png

@@ -153,11 +153,35 @@ Estudo Dirigido - Laboratório 2
 
 ====
 
-15- Procure do lado direito o menu Related Information e clique na opção Nucleotide:
+6- Procure do lado direito o menu Related Information e clique na opção Nucleotide:
 
 ![avatar][avatar]
 
 [avatar]: ../shared/img/12.png
+
+====
+
+7- Selecione a primeira opção da lista para acessar o banco de dados de nucleotídeos dessa mesma sequência:
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/17.png
+
+====
+
+8- Mesmo o banco de dados sendo muito semelhante, antes estavamos em um banco de dados de proteínas e agora de nucleotídeos. Clique no link FASTA:
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/18.png
+
+====
+
+9- Agora temos acesso a sequência de nucleotídeos desse gene. Copie toda essa sequência para um arquivo do bloco de notas, pois utilizaremos ele em breve (copie apenas a parte selecionada na imagem):
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/19.png
 
 ====
 

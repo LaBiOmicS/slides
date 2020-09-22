@@ -70,3 +70,24 @@ Nesse jogo, o participante brinca de quebra-cabeça com estruturas 3D de proteí
 ![avatar][avatar]
 
 [avatar]: ../shared/img/33.png
+
+====
+
+### EteRNA: https://eternagame.org/
+
+Nesse jogo, o participante também brinca de quebra-cabeça, mas agora com estruturas 3D de RNAs. Os dados gerados auxiliam na pesquisa de predição de estruturas 3D de RNAs.
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/34.png
+
+====
+
+3. Realizando cursos no COURSERA:
+
+## https://www.coursera.org/
+## https://www.edx.org/
+
+====
+
+4. Conhecendo nosso laboratório para uma Iniciação Científica, Trabalho de Conclusão de Curso ou Pós-graduação.

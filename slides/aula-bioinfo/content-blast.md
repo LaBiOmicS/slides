@@ -121,6 +121,30 @@ Estudo Dirigido - Laboratório 2
 
 ====
 
+1- Primeiro vamos obter nossa sequẽncia de pesquisa. Acesse: https://www.ncbi.nlm.nih.gov/
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/1.png
+
+====
+
+2- Na barra superior deixe em "ALL DATABASES" ou "Todos os bancos de dados":
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/3.png
+
+====
+
+4- Digite no campo de busca "NP_001318308.1", mesma proteína que pesquisamos antes, e clique em Search:
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/16.png
+
+====
+
 1- Acesse: https://blast.ncbi.nlm.nih.gov/Blast.cgi
 
 ![avatar][avatar]
@@ -129,7 +153,7 @@ Estudo Dirigido - Laboratório 2
 
 ====
 
-2- Nessa tela podemos ver o site do NCBI e os bancos de dados que podem ser utilizados para pesquisas:
+2- Nessa tela podemos ver o site do NCBI BLAST e suas principais versões:
 
 ![avatar][avatar]
 

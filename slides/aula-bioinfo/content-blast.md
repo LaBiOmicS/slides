@@ -27,10 +27,17 @@ Pausa dramática...
 
 ====
 
-## QUAL O OBJETIVO?
+## QUAL O OBJETIVO DO BLAST?
 
 1. Comparar uma sequência com um banco de dados
 2. Verificar a similaridade de uma sequência alvo com sequências disponíveis em um banco de dados.
+
+====
+
+## COMO ASSIM?
+
+> Imagine o seguinte cenário: "Um paciente está infectado com uma bactéria e essa não é identificada através de PCR ou qualquer outro método disponível. O hospital decide sequenciar um gene característico de bactérias (gene 16S) para descobrir se essa bactéria já foi identificada no banco de dados do NCBI. Após obter esse gene por métodos de bioinformática, os pesquisadores desse hospital podem realizar um BLAST para verificar qual bactéria do banco de dados do NCBI tem maior similaridade com a que infecta o paciente. Como resultado, eles descobrem que essa bactéria tem similiaridade do gene 16S de 99% com cepas de _Helicobacter pylori_, enquanto tem 95% de similaridade com cepas de _Escherichia coli_. Com isso os pesquisadores percebem que estão tratando de uma cepa de _Helicobacter pylori_." 
+
 
 ====
 

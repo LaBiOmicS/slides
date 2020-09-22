@@ -113,7 +113,7 @@ Estudo Dirigido - Laboratório 1
 
 ====
 
-1. Acesse: https://www.ncbi.nlm.nih.gov/
+1- Acesse: https://www.ncbi.nlm.nih.gov/
 
 ![avatar][avatar]
 
@@ -121,7 +121,7 @@ Estudo Dirigido - Laboratório 1
 
 ====
 
-2. Nessa tela podemos ver o site do NCBI e os bancos de dados que podem ser utilizados para pesquisas:
+2- Nessa tela podemos ver o site do NCBI e os bancos de dados que podem ser utilizados para pesquisas:
 
 ![avatar][avatar]
 
@@ -129,7 +129,7 @@ Estudo Dirigido - Laboratório 1
 
 ====
 
-3. Na barra superior deixe em "ALL DATABASES" ou "Todos os bancos de dados":
+3- Na barra superior deixe em "ALL DATABASES" ou "Todos os bancos de dados":
 
 ![avatar][avatar]
 
@@ -137,7 +137,7 @@ Estudo Dirigido - Laboratório 1
 
 ====
 
-4. Digite na barra lateral "bacterias" e clique em Search:
+4- Digite na barra lateral "bacterias" e clique em Search:
 
 ![avatar][avatar]
 
@@ -145,7 +145,7 @@ Estudo Dirigido - Laboratório 1
 
 ====
 
-5. Observe quantas informações podem ser obtidas:
+5- Observe quantas informações podem ser obtidas:
 
 ![avatar][avatar]
 
@@ -153,7 +153,7 @@ Estudo Dirigido - Laboratório 1
 
 ====
 
-6. Retorne para a tela anterior e selecione novamente "ALL DATABASES":
+6- Retorne para a tela anterior e selecione novamente "ALL DATABASES":
 
 ![avatar][avatar]
 
@@ -161,7 +161,7 @@ Estudo Dirigido - Laboratório 1
 
 ====
 
-7. Digite agora no campo de busca: **ubiquitin-protein ligase**
+7- Digite agora no campo de busca: **ubiquitin-protein ligase**
 
 ![avatar][avatar]
 
@@ -169,7 +169,7 @@ Estudo Dirigido - Laboratório 1
 
 ====
 
-8. Observe as informações para esse termo de busca:
+8- Observe as informações para esse termo de busca:
 
 ![avatar][avatar]
 
@@ -177,7 +177,7 @@ Estudo Dirigido - Laboratório 1
 
 ====
 
-9. Retorne para a tela anterior e selecione novamente "ALL DATABASES":
+9- Retorne para a tela anterior e selecione novamente "ALL DATABASES":
 
 ![avatar][avatar]
 
@@ -185,11 +185,11 @@ Estudo Dirigido - Laboratório 1
 
 ====
 
-10. Refaça as pesquisas com os termos disponíveis no item 4 do arquivo PDF do ESTUDO DIRIGIDO: MÉTODOS BIOINFORMÁTICOS I.
+10- Refaça as pesquisas com os termos disponíveis no item 4 do arquivo PDF do ESTUDO DIRIGIDO: MÉTODOS BIOINFORMÁTICOS I.
 
 ====
 
-11. Verifique que ao utilizar o ID NP_001318308 limitamos nossa pesquisa:
+11- Verifique que ao utilizar o ID NP_001318308 limitamos nossa pesquisa:
 
 ![avatar][avatar]
 
@@ -202,3 +202,4 @@ Pausa dramática...
 ## RESPONDA O QUESTIONÁRIO DISPONÍVEL
 
 ====
+

@@ -107,6 +107,12 @@ Estudo Dirigido - Laboratório 1
 
 ====
 
+## OBSERVAÇÃO:
+
+> É interessante que o aluno tenha o arquivo PDF do ESTUDO DIRIGIDO: MÉTODOS BIOINFORMÁTICOS I e o tenha lido.
+
+====
+
 1. Acesse: https://www.ncbi.nlm.nih.gov/
 
 ![avatar][avatar]
@@ -160,5 +166,29 @@ Estudo Dirigido - Laboratório 1
 ![avatar][avatar]
 
 [avatar]: ../shared/img/6.png
+
+====
+
+8. Observe as informações para esse termo de busca:
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/7.png
+
+====
+
+9. Retorne para a tela anterior e selecione novamente "ALL DATABASES":
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/3.png
+
+====
+
+10. Refaça as pesquisas com os termos: 
+
+- ubiquitin-protein ligase AND Arabidopsis thaliana
+- ubiquitin-protein ligase [PROT] AND Arabidopsis thaliana [ORGN]
+- NP_001318308
 
 ====

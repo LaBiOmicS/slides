@@ -253,9 +253,9 @@ A primeira parte, apresentará detalhes da pesquisa realizada e opções para fi
 
 ====
 
-17- Logo abaixo, um menu composto por 4 abas também exibido.
+17- Bbaixo, um menu composto por 4 abas também exibido.
 
-A Descriptions apresenta detalhes das sequências do BD que alinharam contra a sequência de teste.
+A aba Descriptions apresenta detalhes das sequências do BD que alinharam contra a sequência de teste.
 
 ![avatar][avatar]
 
@@ -278,3 +278,39 @@ Ao clicar nas linhas coloridas é possível verificar qual a sequência do BD se
 [avatar]: ../shared/img/26.png
 
 ====
+
+19- Na aba Aligments podemos ver realmente o alinhaento das sequências. Cada bloco corresponde a um alinhamento.
+
+A linha Query corresponde a sequência pesquisada, a linha Sbjct à sequência identificada no BD
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/27.png
+
+====
+
+20- O alinhamento é feito nucleotídeo por nucleotídeo. 
+
+Podemos ver que quando eles são iguais, estão ligados pelo símbolo "|", se diferentes é exibido um espaço em branco.
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/28.png
+
+====
+
+## OBSERVAÇÃO
+
+Mais detalhes de como interpretar a aba Aligments estão disponíveis no arquivo PDF do ESTUDO DIRIGIDO: MÉTODOS BIOINFORMÁTICOS II.
+
+====
+
+## CONCLUSÃO
+
+O BLAST fornece muitas outras opções e uma alta complexidade de análises. Essa é uma simples apresentação da ferramenta e do que ela pode fazer.
+
+====
+
+## CONCLUSÃO
+
+O BLAST fornece muitas outras opções e uma alta complexidade de análises. Essa é uma simples apresentação da ferramenta e do que ela pode fazer.

@@ -250,11 +250,3 @@ Pausa dramática...
 ## CONCLUSÃO
 
 > Agora você sabe o básico de como funciona uma base de dados biológica, como pesquisar informações e navegar nela. Mas, o que afinal podemos fazer com esses dados obtidos?
-
-====
-
-Mão na massa...
-
-## EXERCÍCIO PROPOSTO
-
-Estudo Dirigido - Laboratório 2

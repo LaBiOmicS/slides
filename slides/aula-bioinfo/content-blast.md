@@ -68,20 +68,21 @@ Pausa dramática...
 
 ====
 
-## TIPOS DE BLAST
+## PRINCIPAIS VERSÕES DO BLAST
 
-
-![avatar][avatar]
-
-[avatar]: ../shared/img/15.png
+- BLASTn - Pesquisa de sequência de nucleotídeos contra BD de nucleotídeos
+- BLASTp - Pesquisa de sequência de proteínas contra BD de proteínas.
 
 ====
 
 ## FUNCIONAMENTO DO BLAST
 
-Informações básicas sobre o funcionamento do BLAST estão disponíveis no PDF do ESTUDO DIRIGIDO: MÉTODOS BIOINFORMÁTICOS II.
+> Informações básicas sobre o funcionamento do BLAST estão disponíveis no PDF do ESTUDO DIRIGIDO: MÉTODOS BIOINFORMÁTICOS II.
 
-Como o BLAST é uma ferramenta complexa, a ideia dessa aula é que os alunos possam interagir com essa ferramenta e realizar análises básicas para conhecê-la.
+
+## OBSERVAÇÃO
+
+> Como o BLAST é uma ferramenta complexa, a ideia dessa aula é que os alunos possam interagir com essa ferramenta e realizar análises básicas para conhecê-la.
 
 ====
 
@@ -112,3 +113,23 @@ Estudo Dirigido - Laboratório 2
 - Conhecer os seus principais resultados e como interpretá-los
 
 ====
+
+## OBSERVAÇÃO:
+
+> É interessante que o aluno tenha o arquivo PDF do ESTUDO DIRIGIDO: MÉTODOS BIOINFORMÁTICOS II e o tenha lido.
+
+====
+
+1- Acesse: https://blast.ncbi.nlm.nih.gov/Blast.cgi
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/13.png
+
+====
+
+2- Nessa tela podemos ver o site do NCBI e os bancos de dados que podem ser utilizados para pesquisas:
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/13.png

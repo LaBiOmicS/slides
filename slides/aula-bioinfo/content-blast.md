@@ -79,4 +79,8 @@ Pausa dramática...
 
 ## FUNCIONAMENTO DO BLAST
 
-Informações básicas sobre o funcionamento do BLAST estão disponíveis no PDF do ESTUDO DIRIGIDO: MÉTODOS BIOINFORMÁTICOS II
+Informações básicas sobre o funcionamento do BLAST estão disponíveis no PDF do ESTUDO DIRIGIDO: MÉTODOS BIOINFORMÁTICOS II.
+
+Como o BLAST é uma ferramenta complexa, a ideia dessa aula é que os alunos possam interagir com essa ferramenta e realizar análises básicas para conhecê-la.
+
+====

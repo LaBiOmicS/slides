@@ -20,5 +20,4 @@ Pausa dramática...
 
 ![avatar][avatar]
 
-[avatar]: ../shared/img/bioinformatics.png
-
+[avatar]: ../shared/img/bd.png

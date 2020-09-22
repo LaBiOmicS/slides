@@ -145,7 +145,7 @@ Estudo Dirigido - Laboratório 2
 
 ====
 
-1- Acesse: https://blast.ncbi.nlm.nih.gov/Blast.cgi
+1- Acesse: https://blast.ncbi.nlm.nih.gov/
 
 ![avatar][avatar]
 

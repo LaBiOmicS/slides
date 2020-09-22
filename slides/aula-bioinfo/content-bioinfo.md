@@ -52,3 +52,20 @@ https://www.ncbi.nlm.nih.gov/
 
 ====
 
+## CARACTERÍSTICAS
+
+- BD primário, secundário e especializado
+- É um multi-sistema com mais de 30 bancos de dados
+- É o principal BD biológico do mundo
+- É o banco de dados mais utilizado em pesquisas científicas
+
+====
+
+## BD secundários internos
+
+- RefSeq: BD de genomas de referência
+- PUBMED: BD de literatura (artigos) médicos e de saúde
+- Taxonomy: BD de classificação taxonomica de organismo
+- SNP: BD de mutações / variações de sequências associadas a doenças
+- Entre outros.
+

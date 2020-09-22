@@ -130,3 +130,35 @@ Estudo Dirigido - Laboratório 1
 [avatar]: ../shared/img/3.png
 
 ====
+
+### 4. Digite na barra lateral "bacterias" e clique em Search:
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/4.png
+
+====
+
+### 5. Observe quantas informações podem ser obtidas com esse termo:
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/5.png
+
+====
+
+### 6. Retorne para a tela anterior e selecione novamente "ALL DATABASES":
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/3.png
+
+====
+
+### 7. Digite agora no campo de busca: **ubiquitin-protein ligase**
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/6.png
+
+====

@@ -187,9 +187,9 @@ Estudo Dirigido - Laboratório 1
 
 10. Refaça as pesquisas com os termos: 
 
-- ubiquitin-protein ligase AND Arabidopsis thaliana
-- ubiquitin-protein ligase [PROT] AND Arabidopsis thaliana [ORGN]
-- NP_001318308
+ubiquitin-protein ligase AND Arabidopsis thaliana
+ubiquitin-protein ligase [PROT] AND Arabidopsis thaliana [ORGN]
+NP_001318308
 
 ====
 

@@ -9,7 +9,7 @@
 
 ====
 
-1. Testar novas ferramentas como o PHYRE2
+### Testar novas ferramentas como o PHYRE2
 
 ### http://www.sbg.bio.ic.ac.uk/~phyre2
 
@@ -57,7 +57,7 @@ Ao término, você poderá ver a possível estrutura 3D de sua proteína baseado
 
 ====
 
-2. Jogar enquanto aprende Bioinformática e Biologia Molecular:
+### Jogar enquanto aprende Bioinformática e Biologia Molecular:
 
 Alguns grupos de bioinformática desenvolveram jogos para ensinar detalhes da Biologia Molecular ou para gerar dados reais de pesquisa com o auxílio dos jogadores.
 
@@ -83,11 +83,11 @@ Nesse jogo, o participante também brinca de quebra-cabeça, mas agora com estru
 
 ====
 
-3. Realizando cursos no COURSERA:
+### Realizando cursos no COURSERA ou no EDx:
 
 ## https://www.coursera.org/
 ## https://www.edx.org/
 
 ====
 
-4. Conhecendo nosso laboratório para uma Iniciação Científica, Trabalho de Conclusão de Curso ou Pós-graduação.
+### Conhecendo nosso laboratório para uma Iniciação Científica, Trabalho de Conclusão de Curso ou Pós-graduação.

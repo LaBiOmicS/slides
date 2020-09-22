@@ -11,7 +11,7 @@ Pausa dramática...
 
 ====
 
->**Bancos de Dados Biológicos:** são bancos de dados responsáveis por armazenar dados biológicos provenientes de medidas coletadas à partir de fontes biológicas.
+>**Bancos de Dados Biológicos (BDB):** são bancos de dados responsáveis por armazenar dados biológicos provenientes de medidas coletadas à partir de fontes biológicas.
 
 ====
 
@@ -21,3 +21,15 @@ Pausa dramática...
 ![avatar][avatar]
 
 [avatar]: ../shared/img/bd.png
+
+====
+
+## TIPOS DE BDB
+
+Existem três tipos:
+
+- **Primários:** armazenam informações biológicas originais
+- **Secundários:** Dados são armazenados utilizando sistema de gerenciamento de bancos de dados (SGDB)
+- **Especializados:** armazena informações de determinadas espécies, organismos ou tipo de estrutura. 
+
+====

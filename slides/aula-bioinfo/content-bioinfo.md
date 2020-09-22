@@ -26,8 +26,6 @@ Pausa dramática...
 
 ## TIPOS DE BDB
 
-Existem três tipos:
-
 - **Primários:** armazenam informações biológicas originais
 - **Secundários:** Dados são armazenados utilizando sistema de gerenciamento de bancos de dados (SGDB)
 - **Especializados:** armazena informações de determinadas espécies, organismos ou tipo de estrutura. 

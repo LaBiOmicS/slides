@@ -15,7 +15,7 @@ Pausa dramática...
 
 ====
 
-### O NCBI é a ferramenta de Bioinformática mais famosa e mais utilizada no Mundo!
+### O NCBI BLAST é a ferramenta de Bioinformática mais famosa e mais utilizada no Mundo!
 
 ====
 

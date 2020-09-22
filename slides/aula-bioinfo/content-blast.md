@@ -145,6 +145,22 @@ Estudo Dirigido - Laboratório 2
 
 ====
 
+5- Clique na opção PROTEIN na sequência encontrada para o ID NP_001318308:
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/9.png
+
+====
+
+15- Procure do lado direito o menu Related Information e clique na opção Nucleotide:
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/12.png
+
+====
+
 1- Acesse: https://blast.ncbi.nlm.nih.gov/
 
 ![avatar][avatar]

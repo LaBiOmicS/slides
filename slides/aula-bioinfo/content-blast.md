@@ -49,7 +49,9 @@ Pausa dramática...
 
 ## QUATRO PASSOS PARA A PESQUISA:
 
-(1) Escolha a sequência ('query')
-(2) Selecione o tipo de BLAST
-(3) Escolha o banco de dados para pesquisar
-(4) Escolha os parâmetros opcionais
+1. Escolha a sequência ('query')
+2. Selecione o tipo de BLAST
+3. Escolha o banco de dados para pesquisar
+4. Escolha os parâmetros opcionais
+
+====

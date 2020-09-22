@@ -209,8 +209,30 @@ Estudo Dirigido - Laboratório 2
 
 ====
 
-12- No campo Enter Query Sequence cole a sequência de nucleotídeos que você copiou para o bloco de notas:
+13- No campo Enter Query Sequence cole a sequência de nucleotídeos que você copiou para o bloco de notas:
 
 ![avatar][avatar]
 
 [avatar]: ../shared/img/21.png
+
+====
+
+14- Mais informações sobre os parâmetros existentes na ferramenta estão disponíveis no arquivo PDF do ESTUDO DIRIGIDO: MÉTODOS BIOINFORMÁTICOS II.
+
+Para esse tutorial vamos utilizar os parâmetros padrões.
+
+====
+
+15- Depois de colar a sequência, habilite a opção Show results in a new window e clique em BLAST:
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/22.png
+
+====
+
+16- O BLAST iniciará sua pesquisa de similaridade comparando sua sequência de nucleotídeos com o seu banco de dados com milhares de sequência. Isso pode demorar um pouco. Aproveite e relembre no PDF o que é um Alinhamento Local:
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/23.png

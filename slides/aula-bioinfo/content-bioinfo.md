@@ -13,3 +13,12 @@ Pausa dramática...
 
 >**Bancos de Dados Biológicos:** são bancos de dados responsáveis por armazenar dados biológicos provenientes de medidas coletadas à partir de fontes biológicas.
 
+====
+
+## QUE TIPOS DE DADOS?
+
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/bioinformatics.png
+

@@ -197,6 +197,8 @@ Estudo Dirigido - Laboratório 1
 
 ====
 
-12. Faça as outras pesquisas sugeridas no arquivo PDF do ESTUDO DIRIGIDO: MÉTODOS BIOINFORMÁTICOS I.
+Pausa dramática...
+
+## RESPONDA O QUESTIONÁRIO DISPONÍVEL
 
 ====

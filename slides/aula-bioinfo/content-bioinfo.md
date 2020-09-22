@@ -97,7 +97,7 @@ Estudo Dirigido - Laboratório 1
 
 ====
 
-## OJETIVOS:
+## OBJETIVOS:
 
 - Acessar o site do NCBI
 - Conhecer sua interface

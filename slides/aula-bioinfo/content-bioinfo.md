@@ -233,10 +233,23 @@ Pausa dramática...
 
 ====
 
-15- Clique no link CDS e verifique a nova janela referente ao novo banco de dados acessado. Retorne ao banco anterior:
+15- Clique no link CDS e verifique o que acontece. Suba a página até seu início:
 
 ![avatar][avatar]
 
 [avatar]: ../shared/img/11.png
 
 ====
+
+15- Procure do lado direito o menu Related Information, ele possibilita navegar em outras bases de dados que tem informações sobre esse nosso elemento biológico. Acesse algumas, principalmente a Gene que utilizaremos no próximo exercício:
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/12.png
+
+====
+
+## CONCLUSÃO
+
+> Agora você sabe o básico de como funciona uma base de dados biológica, como pesquisar informações e navegar nela. Mas, o que afinal podemos fazer com esses dados obtidos?
+

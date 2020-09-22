@@ -42,5 +42,13 @@ Pausa dramática...
 
 ====
 
+## BANCO DE DADOS DO NCBI
 
+![avatar][avatar]
+
+[avatar]: ../shared/img/1.png
+
+https://www.ncbi.nlm.nih.gov/
+
+====
 

@@ -93,7 +93,7 @@ Pausa dramática...
 
 ====
 
-> O BLAST é a ferramenta mais utilizada na Bioinformática e com certeza qualquer um que venha trabalhar com biologia molecular, independente do local, necesssitará utilizar esse ferramenta pelo menos uma vez.
+> O BLAST é a ferramenta mais utilizada na Bioinformática e com certeza qualquer um que venha trabalhar com biologia molecular, independente do local, necessitará utilizar esse ferramenta pelo menos uma vez.
 
 ====
 

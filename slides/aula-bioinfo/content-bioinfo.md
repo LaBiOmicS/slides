@@ -106,3 +106,21 @@ Estudo Dirigido - Laboratório 1
 - Encontrar dados biológicos relevantes.
 
 ====
+
+### 1. Acesse o site do NCBI
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/1.png
+
+https://www.ncbi.nlm.nih.gov/
+
+====
+
+Nessa tela podemos ver o site do NCBI e os bancos de dados que podem ser utilizados para pesquisas:
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/1.png
+
+Navegue pelo site do NCBI para conhecê-lo. Infelizmente ele é todo em inglês.

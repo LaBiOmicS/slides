@@ -73,4 +73,10 @@ Pausa dramática...
 
 ![avatar][avatar]
 
-[avatar]: ../shared/img/14.png
+[avatar]: ../shared/img/15.png
+
+====
+
+## FUNCIONAMENTO DO BLAST
+
+Informações básicas sobre o funcionamento do BLAST estão disponíveis no PDF do ESTUDO DIRIGIDO: MÉTODOS BIOINFORMÁTICOS II

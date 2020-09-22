@@ -218,3 +218,12 @@ Pausa dramática...
 [avatar]: ../shared/img/9.png
 
 ====
+
+14- Aqui podemos verificar todas as informações sobre essa proteína, incluindo o organismo que ela pertence em vermelho:
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/10.png
+
+====
+

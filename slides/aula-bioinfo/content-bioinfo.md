@@ -192,3 +192,15 @@ Estudo Dirigido - Laboratório 1
 - NP_001318308
 
 ====
+
+11. Verifique que ao utilizar o ID NP_001318308 limitamos nossa pesquisa:
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/8.png
+
+====
+
+12. Faça as outras pesquisas sugeridas no arquivo PDF do ESTUDO DIRIGIDO: MÉTODOS BIOINFORMÁTICOS I.
+
+====

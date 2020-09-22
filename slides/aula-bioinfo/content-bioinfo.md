@@ -24,6 +24,16 @@ Pausa dramática...
 
 ====
 
+## TIPOS DE ARQUIVOS ARMAZENADOS
+
+- Arquivo de sequência FASTA
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/Fig6.jpg
+
+====
+
 ## TIPOS DE BDB
 
 - **Primários:** armazenam informações biológicas originais
@@ -32,11 +42,5 @@ Pausa dramática...
 
 ====
 
-## TIPOS DE ARQUIVOS ARMAZENADOS
 
-- Arquivo de sequência FASTA
-
-![avatar][avatar]
-
-[avatar]: ../shared/img/Fig6.jpg
 

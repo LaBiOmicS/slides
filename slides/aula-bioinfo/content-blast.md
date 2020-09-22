@@ -111,7 +111,7 @@ Estudo Dirigido - Laboratório 2
 - Conhecer sua interface
 - Conhecer o Blastn e Blastp
 - Realizar uma busca de similaridade
-- Conhecer os seus principais resultados e como interpretá-los
+- Conhecer os principais resultados e como interpretá-los
 
 ====
 

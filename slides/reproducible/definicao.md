@@ -39,3 +39,13 @@ Um dos pilares metodológicos das boas práticas científicas
 > “[...] se refere a capacidade de um mesmo pesquisador obter **o mesmo resultado gerado após novas análises utilizando os mesmos dados e procedimentos adotados anteriormente**”
 
 -- <cite>Plesser (2018) e McArthur (2019)</cite>
+
+====
+
+#### Repetibilidade (Mesma equipe, mesma configuração experimental) 
+
+A medição pode ser obtida com a mesma precisão usando o mesmo procedimento de medição, o mesmo sistema de medição, sob as mesmas condições de operação, no mesmo local em várias tentativas. 
+
+Para experimentos computacionais, isso significa que **um pesquisador pode repetir com confiança seu próprio cálculo**.
+
+====

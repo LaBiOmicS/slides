@@ -4,6 +4,12 @@ Um dos pilares metodológicos das boas práticas científicas.
 
 ====
 
+![avatar][avatar] <!-- .element: class="pull-center" -->
+
+[avatar]: ../shared/img/popper.png
+
+====
+
 # Problemas Terminológicos
 
 ![avatar][avatar] <!-- .element: class="pull-center" -->

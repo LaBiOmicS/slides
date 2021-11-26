@@ -1,11 +1,11 @@
 ## Sumário
 
-- Crise de Reprodutibilidade
 - Definições:
   - Repetibilidade
   - Reprodutibilidade
   - Replicabilidade
 - Reprodutibilidade Computacional
+- Crise de Reprodutibilidade
 - Problemas relacionados
 - Soluções propostas
 - Nossa colaboração

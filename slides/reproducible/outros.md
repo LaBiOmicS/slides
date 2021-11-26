@@ -25,3 +25,7 @@ Mais informações sobre
 ![avatar][avatar]{width=30%}
 
 [avatar]: ../shared/img/qrcode.png
+
+
+
+<img src="../shared/img/qrcode.png" width="50">

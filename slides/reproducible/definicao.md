@@ -54,6 +54,6 @@ Três termos...
 
 A medição pode ser obtida com a mesma precisão usando o mesmo procedimento de medição, o mesmo sistema de medição, sob as mesmas condições de operação, no mesmo local em várias tentativas. 
 
-Para experimentos computacionais, isso significa que **um pesquisador pode repetir com confiança seu próprio cálculo**.
+Para experimentos computacionais, isso significa que **um pesquisador pode repetir com confiança seu próprio experimento**.
 
 ====

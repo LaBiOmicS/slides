@@ -62,3 +62,17 @@ Tentativas de solucionar o problema:
 - Imagens / Contêineres menores que VM, não impactando compartilhamento
 
 ====
+
+### Biocontainer
+
+![avatar][avatar] <!-- .element: class="pull-center" -->
+
+[avatar]: ../shared/img/biocontainer1.png
+
+====
+
+Outros projetos importantes focados em
+
+## Reprodutibilidade Computacional...
+
+====

@@ -36,4 +36,10 @@ vem colaborando com a Reprodutibilidade Computacional?
 
 ![avatar][avatar] <!-- .element: class="pull-center" -->
 
-[avatar]: ../shared/img/paradb-view.png
+[avatar]: ../shared/img/paradb-view.tif
+
+====
+
+![avatar][avatar] <!-- .element: class="pull-center" -->
+
+[avatar]: ../shared/img/paradb-inter.tif

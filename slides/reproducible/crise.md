@@ -17,9 +17,8 @@ Ciclo de uma
 
 ====
 
-Caminho tortuoso de uma
-## Pesquisa Reprodutível
-## Computacional
+Caminho tortuoso para a
+## Reprodutividade Computacional
 
 ====
 
@@ -34,5 +33,13 @@ Caminho tortuoso de uma
 ![avatar][avatar]
 
 [avatar]: ../shared/img/111.png
+
+====
+
+### Problemas relacionados
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/dep.jpeg
 
 ====

@@ -1,6 +1,7 @@
-Dois problemas científicos:
+Problema científico:
 
 ## Reprodutibilidade & Replicabilidade
+## Computacional
 
 ====
 

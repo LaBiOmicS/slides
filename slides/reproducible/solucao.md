@@ -115,3 +115,19 @@ Outros projetos importantes focados em
 ![avatar][avatar] <!-- .element: class="pull-center" -->
 
 [avatar]: ../shared/img/galaxy1.png
+
+====
+
+### Snakemake
+
+![avatar][avatar] <!-- .element: class="pull-center" -->
+
+[avatar]: ../shared/img/snakemake.png
+
+====
+
+### Nextflow
+
+![avatar][avatar] <!-- .element: class="pull-center" -->
+
+[avatar]: ../shared/img/nextflow.png

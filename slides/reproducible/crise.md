@@ -13,6 +13,8 @@ Ciclo de uma
 
 [avatar]: ../shared/img/research-cycle.png
 
+<small>DOI: 10.5281/zenodo.3332807</small>
+
 ====
 
 Caminho tortuoso de uma
@@ -24,6 +26,8 @@ Caminho tortuoso de uma
 ![avatar][avatar]
 
 [avatar]: ../shared/img/reproducibility.png
+
+<small>DOI: 10.5281/zenodo.3332807</small>
 
 ====
 

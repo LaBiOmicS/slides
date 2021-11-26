@@ -44,7 +44,7 @@ Problemas inerentes para a
 
 Além disso, ainda temos uma possível
 ## CRISE DE REPRODUTIBILIDADE
-em diferentes áreas do conhecimento, 
+em diferentes áreas do conhecimento, <br> 
 incluindo computacional e biológica.
 
 ====

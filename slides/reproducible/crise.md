@@ -62,3 +62,9 @@ incluindo computacional e biológica.
 [avatar]: ../shared/img/1.jpeg
 
 ====
+
+![avatar][avatar] <!-- .element: class="pull-center" -->
+
+[avatar]: ../shared/img/artigos.png
+
+====

@@ -70,6 +70,6 @@ Dois problemas de definição:
 
 ====
 
-Inúmeros artigos buscam
-#Definir esses termos
-de uma forma concordante entre a literatura científica
+Inúmeros autores buscam
+#PADRONIZAR
+esses termos na literatura científica

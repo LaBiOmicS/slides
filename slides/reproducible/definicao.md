@@ -26,12 +26,6 @@ Um dos pilares metodológicos das boas práticas científicas
 
 ====
 
-![avatar][avatar] <!-- .element: class="pull-center" -->
-
-[avatar]: ../shared/img/Barba.png
-
-====
-
 Três termos...
 
 ## Repetibilidade
@@ -42,7 +36,7 @@ Três termos...
 
 <!-- .slide: data-background="img/motivation.jpg" -->
 
-### Repetibilidade:
+## Repetibilidade:
 
 > “[...] se refere a capacidade de um mesmo pesquisador obter **o mesmo resultado gerado após novas análises utilizando os mesmos dados e procedimentos adotados anteriormente**”
 
@@ -50,10 +44,20 @@ Três termos...
 
 ====
 
-#### Repetibilidade
+## Repetibilidade
 
 Mesmo indivíduo, mesma configuração experimental.
 
 Para experimentos computacionais, isso significa que **um pesquisador pode repetir com confiança seu próprio experimento**.
 
 ====
+
+Dois problemas de definição:
+
+## Reprodutibilidade & Replicabilidade
+
+====
+
+![avatar][avatar] <!-- .element: class="pull-center" -->
+
+[avatar]: ../shared/img/Barba.png

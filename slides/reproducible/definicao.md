@@ -96,5 +96,5 @@ esses termos na literatura científica
 
 =====
 
-Afinal,
-## Qual a importância?
+Mas afinal,
+# Qual a importância disso?

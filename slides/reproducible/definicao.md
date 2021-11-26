@@ -50,9 +50,9 @@ Três termos...
 
 ====
 
-#### Repetibilidade (Mesma equipe, mesma configuração experimental) 
+#### Repetibilidade
 
-A medição pode ser obtida com a mesma precisão usando o mesmo procedimento de medição, o mesmo sistema de medição, sob as mesmas condições de operação, no mesmo local em várias tentativas. 
+Mesma equipe, mesma configuração experimental.
 
 Para experimentos computacionais, isso significa que **um pesquisador pode repetir com confiança seu próprio experimento**.
 

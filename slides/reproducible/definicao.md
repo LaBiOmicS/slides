@@ -10,6 +10,12 @@ Um dos pilares metodológicos das boas práticas científicas
 
 ====
 
+> “[...] ocorrências particulares não suscetíveis de reprodução carecem de significado para a ciência”
+
+-- <cite>Karl Popper, A Lógica da Pesquisa Científica</cite>
+
+====
+
 ## Problemas Terminológicos
 
 ![avatar][avatar] <!-- .element: class="pull-center" -->

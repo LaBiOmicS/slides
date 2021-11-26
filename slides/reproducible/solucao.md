@@ -15,3 +15,42 @@ Tentativas de solucionar o problema:
 - Utilização de virtualizadores para criar ambientes computacionais reprodutíveis
 - Permitia compartilhar toda a infraestrutura computacional e os artefatos de análise
 - A máquina virtual poderia ser compartilhada livremente
+- Ex: VirtualBox, Vmware, KVM, entre outros.
+
+====
+
+Alguns
+## Projetos em Bioinformática
+buscaram utilizar a virtualização por hardware para resolver RC
+
+====
+
+### BioLinux (Descontinuado)
+
+![avatar][avatar] <!-- .element: class="pull-center" -->
+
+[avatar]: ../shared/img/biolinux.jpg
+
+====
+
+### CloudBioLinux (Descontinuado)
+
+![avatar][avatar] <!-- .element: class="pull-center" -->
+
+[avatar]: ../shared/img/cloudbiolinux.jpg
+
+====
+
+## Problemas:
+
+- Alto consumo de recursos computacionais
+- Máquinas virtuais com tamanhos grandes
+- Necessidade de virtualizar o hardware e um SO completo
+
+====
+
+Tentativas de solucionar o problema:
+
+## Presente...
+
+====

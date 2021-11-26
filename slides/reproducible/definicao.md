@@ -69,6 +69,7 @@ Dois problemas de definição:
 [avatar]: ../shared/img/reprorepli.png
 
 ====
+
 Inúmeros artigos buscam
 #Definir esses termos
 de uma forma concordante entre a literatura científica

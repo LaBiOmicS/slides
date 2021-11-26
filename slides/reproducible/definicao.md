@@ -6,3 +6,6 @@ Um dos pilares metodológicos das boas práticas científicas.
 
 # Problemas Terminológicos
 
+![avatar][avatar] <!-- .element: class="pull-center" -->
+
+[avatar]: ../shared/img/fig.png

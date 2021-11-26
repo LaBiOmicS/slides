@@ -4,6 +4,11 @@ Dois problemas científicos:
 
 ====
 
+Ciclo de uma
+#Pesquisa Reprodutível
+
+====
+
 ![avatar][avatar]
 
 [avatar]: ../shared/img/research-cycle.png

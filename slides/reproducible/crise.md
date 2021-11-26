@@ -34,7 +34,7 @@ Inúmeros desafios
 
 ![avatar][avatar]
 
-[avatar]: ../shared/img/rep.png
+[avatar]: ../shared/img/dep.png
 
 ====
 

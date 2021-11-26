@@ -14,3 +14,4 @@ Tentativas de solucionar o problema:
 
 - Utilização de virtualizadores para criar ambientes computacionais reprodutíveis
 - Permitia compartilhar toda a infraestrutura computacional e os artefatos de análise
+- A máquina virtual poderia ser compartilhada livremente

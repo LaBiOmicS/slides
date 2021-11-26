@@ -19,9 +19,8 @@ Tentativas de solucionar o problema:
 
 ====
 
-Alguns
 ## Projetos em Bioinformática
-buscaram utilizar a virtualização por hardware para resolver RC
+focados em virtualização por hardware
 
 ====
 

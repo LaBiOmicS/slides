@@ -1,7 +1,7 @@
 <small>X SIBBAS - USP - 2021</small>
 
-## Palestra
-### Reprodutibilidade na Bioinformática
+# Reprodutibilidade 
+## na Bioinformática
 <br><br>
 
 <small>Prof. Dr. Fabiano B. Menegidio</small> <br>

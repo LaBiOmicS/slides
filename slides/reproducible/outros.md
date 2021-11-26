@@ -22,6 +22,6 @@ Mais informações sobre
 
 **SLIDES:**
 
-![avatar][avatar]
+![avatar][avatar]{width=30%}
 
 [avatar]: ../shared/img/qrcode.png

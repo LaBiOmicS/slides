@@ -4,10 +4,10 @@
   - Repetibilidade
   - Reprodutibilidade
   - Replicabilidade
-- Reprodutibilidade Computacional
+- Reprodutibilidade Computacional (RC)
+- Problemas relacionados com a RC
 - Crise de Reprodutibilidade
-- Problemas relacionados
-- Soluções propostas
-- Nossa colaboração
-- 10 Regras para garantir Reprodutibilidade
+- Soluções propostas para a RC
+- Nossa colaboração para a RC
+- 10 Regras para garantir a RC
 - Conclusão

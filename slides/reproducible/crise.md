@@ -31,7 +31,7 @@ Inúmeros desafios
 
 ====
 
-Problemas inerentes para a Reprodutibilidade Computacional
+Problemas inerentes
 ### Artefatos computacionais
 
 ====

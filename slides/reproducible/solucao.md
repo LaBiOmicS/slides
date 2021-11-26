@@ -56,10 +56,11 @@ Tentativas de solucionar o problema:
 
 ### Virtualização por Contêineres
 
-- Não precisa virtualizar todo o ambiente computacional (hardware)
-- Não necessita de uma nova instalação de SO por contêineres
+- Não precisa virtualizar o hardware
+- Não necessita de uma nova instalação de SO
 - Menor consumo de CPU, memória e disco
-- Imagens / Contêineres menores que VM, não impactando compartilhamento
+- Menor tamanho, não impactando compartilhamento
+- Ex: Docker, Singularity, rkt, entre outros.
 
 ====
 
@@ -70,6 +71,15 @@ Tentativas de solucionar o problema:
 [avatar]: ../shared/img/biocontainer1.png
 
 ====
+
+### Singularity
+
+![avatar][avatar] <!-- .element: class="pull-center" -->
+
+[avatar]: ../shared/img/singularity.png
+
+====
+
 
 Outros projetos importantes focados em
 

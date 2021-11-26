@@ -1,4 +1,5 @@
-<small>X Simpósio de Inovações Biológicas e Biotecnológicas - USP - 2021</small>
+<small>X Simpósio de Inovações Biológicas e Biotecnológicas <br>
+  X SIBBAS - USP - 2021</small>
 
 # Reprodutibilidade 
 ## na Bioinformática

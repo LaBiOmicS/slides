@@ -42,8 +42,8 @@ focados em virtualização por hardware
 
 ## Problemas:
 
-- Alto consumo de recursos computacionais (CPU, memória e disco)
-- VM com tamanhos grandes, inviabilizando o compartilhamento
+- Alto consumo de recursos (CPU, memória e disco)
+- VM grandes, inviabilizando o compartilhamento
 - Necessidade de virtualizar o hardware e um SO completo
 
 ====

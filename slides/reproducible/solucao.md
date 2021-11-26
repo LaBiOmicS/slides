@@ -53,3 +53,12 @@ Tentativas de solucionar o problema:
 ## Presente...
 
 ====
+
+### Virtualização por Contêineres
+
+- Não precisa virtualizar todo o ambiente computacional (hardware)
+- Não necessita de uma nova instalação de SO por contêineres
+- Menor consumo de CPU, memória e disco
+- Imagens / Contêineres menores que VM, não impactando compartilhamento
+
+====

@@ -64,6 +64,8 @@ Dois problemas de definição:
 
 ====
 
+### Problemas de definição segundo Barba:
+
 ![avatar][avatar] <!-- .element: class="pull-center" -->
 
 [avatar]: ../shared/img/reprorepli.png

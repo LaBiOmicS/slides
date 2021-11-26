@@ -61,3 +61,9 @@ Dois problemas de definição:
 ![avatar][avatar] <!-- .element: class="pull-center" -->
 
 [avatar]: ../shared/img/Barba.png
+
+====
+
+![avatar][avatar] <!-- .element: class="pull-center" -->
+
+[avatar]: ../shared/img/reprorepli.png

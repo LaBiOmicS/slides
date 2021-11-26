@@ -78,7 +78,7 @@ esses termos na literatura científica
 
 ====
 
-#### Nessa Palestra...
+### Nessa Palestra...
 
 ![avatar][avatar] <!-- .element: class="pull-center" -->
 
@@ -86,9 +86,9 @@ esses termos na literatura científica
 
 <small>DOI: 10.5281/zenodo.3332807</small>
 
-=====
+====
 
-## Reprodutibilidade Computacional
+### Reprodutibilidade Computacional
 
 > “[...] quando informações detalhadas são fornecidas sobre o código, software, hardware e detalhes de implementação de um experimento computacional.”
 

@@ -68,3 +68,7 @@ incluindo computacional e biológica.
 [avatar]: ../shared/img/artigos.png
 
 ====
+
+Quais as propostas para resolver a 
+## Crise de Reprodutibilidade
+nas pesquisas computacionais?

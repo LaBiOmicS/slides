@@ -82,4 +82,4 @@ esses termos na literatura científica
 
 ![avatar][avatar] <!-- .element: class="pull-center" -->
 
-[avatar]: ../shared/img/definicao.png
+[avatar]: ../shared/img/repro.png

@@ -8,7 +8,7 @@ vem colaborando com a Reprodutibilidade Computacional?
 
 [avatar]: ../shared/img/dugong-paper.png
 
-=====
+====
 
 ![avatar][avatar] <!-- .element: class="pull-center" -->
 

@@ -84,6 +84,8 @@ esses termos na literatura científica
 
 [avatar]: ../shared/img/repro.png
 
+<small>DOI: 10.5281/zenodo.3332807</small>
+
 =====
 
 ## Reprodutibilidade Computacional

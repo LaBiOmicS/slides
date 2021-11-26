@@ -10,7 +10,7 @@ Um dos pilares metodológicos das boas práticas científicas.
 
 ====
 
-# Problemas Terminológicos
+## Problemas Terminológicos
 
 ![avatar][avatar] <!-- .element: class="pull-center" -->
 

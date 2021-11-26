@@ -4,4 +4,8 @@ Dois problemas científicos:
 
 ====
 
+![avatar][avatar]
 
+[avatar]: ../shared/img/111.png
+
+====

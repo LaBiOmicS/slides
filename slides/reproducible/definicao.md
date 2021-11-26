@@ -29,3 +29,13 @@ Um dos pilares metodológicos das boas práticas científicas
 ![avatar][avatar] <!-- .element: class="pull-center" -->
 
 [avatar]: ../shared/img/Barba.png
+
+====
+
+<!-- .slide: data-background="img/motivation.jpg" -->
+
+### Repetibilidade:
+
+> “[...] se refere a capacidade de um mesmo pesquisador obter **o mesmo resultado gerado após novas análises utilizando os mesmos dados e procedimentos adotados anteriormente**”
+
+-- <cite>Plesser (2018) e McArthur (2019)</cite>

@@ -22,10 +22,4 @@ Mais informações sobre
 
 **SLIDES:**
 
-![avatar][avatar]{width=30%}
-
-[avatar]: ../shared/img/qrcode.png
-
-
-
-<img src="../shared/img/qrcode.png" width="50">
+<img src="../shared/img/qrcode.png" width="100">

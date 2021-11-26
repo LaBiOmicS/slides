@@ -1,3 +1,3 @@
-> “[...] ocorrências particulares não suscetíveis de reprodução carecem de significado para a ciência”
+> “Somente quando certos eventos se repetem de acordo com regrasou regularidades, como é o caso de experimentos repetíveis, nossasobservações podem ser testadas - em princípio - por qualquerpessoa. Não levamos nem mesmo nossas próprias observações asério, nem as aceitamos como observações científicas, até que astenhamos   repetido   e   testado.   Somente   com   essas   repetiçõespodemos nos convencer de que não estamos lidando com uma mera'coincidência'   isolada,   mas   com   eventos   que,   devido   à   suaregularidade   e   reprodutibilidade,   são   em   princípio   testáveisintersubjetivamente.”
 
--- <cite>Karl Popper, 1934</cite>
+-- <cite>― Karl Popper, A Lógica da Pesquisa Científica.</cite>

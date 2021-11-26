@@ -6,7 +6,8 @@
   - Reprodutibilidade
   - Replicabilidade
 - Reprodutibilidade Computacional
-- Problemas Relacionados
-- Soluções Propostas
-- Nossa Colaboração
+- Problemas relacionados
+- Soluções propostas
+- Nossa colaboração
+- 10 Regras para garantir Reprodutibilidade
 - Conclusão

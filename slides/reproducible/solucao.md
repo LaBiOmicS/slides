@@ -14,7 +14,7 @@ Tentativas de solucionar o problema:
 
 - Utilização de virtualizadores para criar ambientes computacionais reprodutíveis
 - Permitia compartilhar toda a infraestrutura computacional e os artefatos de análise
-- A máquina virtual poderia ser compartilhada livremente
+- A máquina virtual (VM) poderia ser compartilhada livremente
 - Ex: VirtualBox, Vmware, KVM, entre outros.
 
 ====
@@ -43,7 +43,7 @@ focados em virtualização por hardware
 ## Problemas:
 
 - Alto consumo de recursos computacionais (CPU, memória e disco)
-- Máquinas virtuais com tamanhos grandes
+- VM com tamanhos grandes, inviabilizando o compartilhamento
 - Necessidade de virtualizar o hardware e um SO completo
 
 ====

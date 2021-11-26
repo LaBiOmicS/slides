@@ -80,9 +80,46 @@ Tentativas de solucionar o problema:
 
 ====
 
-
 Outros projetos importantes focados em
 
-## Reprodutibilidade Computacional...
+## Reprodutibilidade Computacional
 
 ====
+
+### BioConda
+
+![avatar][avatar] <!-- .element: class="pull-center" -->
+
+[avatar]: ../shared/img/bioconda.png
+
+====
+
+### Jupyter Notebook
+
+![avatar][avatar] <!-- .element: class="pull-center" -->
+
+[avatar]: ../shared/img/jupyter.png
+
+====
+
+### Open Science Framework
+
+![avatar][avatar] <!-- .element: class="pull-center" -->
+
+[avatar]: ../shared/img/OSF.png
+
+====
+
+### Galaxy
+
+![avatar][avatar] <!-- .element: class="pull-center" -->
+
+[avatar]: ../shared/img/galaxy.png
+
+====
+
+### Galaxy
+
+![avatar][avatar] <!-- .element: class="pull-center" -->
+
+[avatar]: ../shared/img/galaxy1.png

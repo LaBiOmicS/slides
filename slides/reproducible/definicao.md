@@ -52,7 +52,7 @@ Três termos...
 
 #### Repetibilidade
 
-Mesma equipe, mesma configuração experimental.
+Mesmo indivíduo, mesma configuração experimental.
 
 Para experimentos computacionais, isso significa que **um pesquisador pode repetir com confiança seu próprio experimento**.
 

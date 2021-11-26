@@ -64,7 +64,7 @@ Dois problemas de definição:
 
 ====
 
-### Problemas de definição segundo Barba:
+### Problemas segundo Barba (2018):
 
 ![avatar][avatar] <!-- .element: class="pull-center" -->
 

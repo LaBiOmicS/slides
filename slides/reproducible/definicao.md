@@ -76,6 +76,8 @@ Inúmeros autores buscam
 #PADRONIZAR
 esses termos na literatura científica
 
+====
+
 #### Nessa Palestra...
 
 ![avatar][avatar] <!-- .element: class="pull-center" -->

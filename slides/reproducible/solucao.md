@@ -42,7 +42,7 @@ focados em virtualização por hardware
 
 ## Problemas:
 
-- Alto consumo de recursos computacionais
+- Alto consumo de recursos computacionais (CPU, memória e disco)
 - Máquinas virtuais com tamanhos grandes
 - Necessidade de virtualizar o hardware e um SO completo
 

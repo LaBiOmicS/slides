@@ -4,6 +4,8 @@
 ### Reprodutibilidade na Bioinformática
 
 <small>Prof. Dr. Fabiano B. Menegidio</small>
+
 <small>Laboratório de Bioinformática e Biologia Computacional</small>
+
 <small>Núcleo Integrado de Biotecnologia (NIB) - UMC</small>
 

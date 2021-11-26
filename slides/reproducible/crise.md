@@ -19,7 +19,8 @@ Ciclo de uma
 ====
 
 Caminho tortuoso para a
-## Reprodutividade Computacional
+### Reprodutibilidade Computacional
+Inúmeros desafios
 
 ====
 
@@ -28,6 +29,12 @@ Caminho tortuoso para a
 [avatar]: ../shared/img/reproducibility.png
 
 <small>DOI: 10.5281/zenodo.3332807</small>
+
+====
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/rep.png
 
 ====
 

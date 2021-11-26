@@ -42,10 +42,7 @@ Problemas inerentes para a
 
 ====
 
-> ## CRISE DE REPRODUTIBILIDADE CIENTÍFICA
-
-![avatar][avatar]
-
-[avatar]: ../shared/img/111.png
+Além disso, ainda temos uma possível:
+## CRISE DE REPRODUTIBILIDADE CIENTÍFICA
 
 ====

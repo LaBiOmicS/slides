@@ -13,9 +13,15 @@ Mais informações sobre
 
 [avatar]: ../shared/img/cursos.png
 
-=====
+====
 
 # OBRIGADO!
 
-<small> fabianomenegidio@umc.br </small>
+<small> fabianomenegidio@umc.br </small> <br>
 <small> fabiano.menegidio@bioinformatica.com.br </small>
+
+**SLIDES:**
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/qrcode.png

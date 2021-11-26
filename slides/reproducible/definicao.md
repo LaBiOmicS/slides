@@ -26,7 +26,7 @@ Um dos pilares metodológicos das boas práticas científicas
 
 ====
 
-Três termos...
+Três principais termos...
 
 ## Repetibilidade
 ## Reprodutibilidade

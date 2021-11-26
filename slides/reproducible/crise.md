@@ -1,7 +1,6 @@
 Problema científico:
 
-## Reprodutibilidade & Replicabilidade
-## Computacional
+## Reprodutibilidade & Replicabilidade Computacional
 
 ====
 
@@ -19,7 +18,7 @@ Ciclo de uma
 ====
 
 Caminho tortuoso para a
-### Reprodutibilidade Computacional
+## Reprodutibilidade Computacional
 Inúmeros desafios
 
 ====
@@ -32,9 +31,14 @@ Inúmeros desafios
 
 ====
 
+Problemas inerentes para a Reprodutibilidade Computacional
+### Artefatos computacionais
+
+====
+
 ![avatar][avatar]
 
-[avatar]: ../shared/img/dep.png
+[avatar]: ../shared/img/dep.jpeg
 
 ====
 
@@ -44,10 +48,5 @@ Inúmeros desafios
 
 ====
 
-### Problemas relacionados
-
-![avatar][avatar]
-
-[avatar]: ../shared/img/dep.jpeg
 
 ====

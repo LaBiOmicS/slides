@@ -5,7 +5,7 @@ Dois problemas científicos:
 ====
 
 Ciclo de uma
-##Pesquisa Reprodutível
+## Pesquisa Reprodutível
 
 ====
 
@@ -16,8 +16,8 @@ Ciclo de uma
 ====
 
 Caminho tortuoso de uma
-##Pesquisa Reprodutível
-Computacional
+## Pesquisa Reprodutível
+## Computacional
 
 ====
 

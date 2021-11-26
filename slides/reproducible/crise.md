@@ -4,6 +4,15 @@ Dois problemas científicos:
 
 ====
 
+### Ciclo de uma pesquisa reprodutível
+
+
+![avatar][avatar]
+
+[avatar]: ../shared/img/research-cycle.png
+
+====
+
 ![avatar][avatar]
 
 [avatar]: ../shared/img/111.png

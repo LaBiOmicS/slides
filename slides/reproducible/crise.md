@@ -1,5 +1,7 @@
-![avatar][avatar]
+Dois problemas científicos:
 
-[avatar]: ../shared/img/111.jpg
+## Reprodutibilidade & Replicabilidade
 
 ====
+
+

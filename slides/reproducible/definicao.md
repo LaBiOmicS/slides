@@ -91,3 +91,8 @@ esses termos na literatura científica
 > “[...] quando informações detalhadas são fornecidas sobre o código, software, hardware e detalhes de implementação de um experimento computacional.”
 
 -- <cite>Stodden, Victoria (2014)</cite>
+
+=====
+
+Afinal,
+## Qual a importância?

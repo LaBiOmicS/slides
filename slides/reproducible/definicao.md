@@ -94,7 +94,7 @@ esses termos na literatura científica
 
 -- <cite>Stodden, Victoria (2014)</cite>
 
-=====
+====
 
 Mas afinal,
 # Qual a importância disso?

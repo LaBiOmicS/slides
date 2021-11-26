@@ -23,7 +23,7 @@ Caminho tortuoso de uma
 
 ![avatar][avatar]
 
-[avatar]: ../shared/img/reproducibility.png.png
+[avatar]: ../shared/img/reproducibility.png
 
 ====
 
